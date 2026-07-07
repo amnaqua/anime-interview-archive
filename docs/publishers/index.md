@@ -7,6 +7,7 @@ title: Publishers
 - [anan](./anan)
 - [Animate Times](./animate-times)
 - [AnimeLand](./animeland)
+- [CJ Insights](./cj-insights)
 - [Kaoru Hana Official Site](./kaoru-hana)
 - [MANTANWEB](./mantanweb)
 - [Real Sound](./real-sound)

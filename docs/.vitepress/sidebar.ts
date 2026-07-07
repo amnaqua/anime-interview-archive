@@ -23,6 +23,10 @@ export default {
                 link: "/people/kouhei-sakita"
             },
 {
+                text: "Makoto Kimura",
+                link: "/people/makoto-kimura"
+            },
+{
                 text: "Moko-chan",
                 link: "/people/moko-chan"
             },
@@ -112,6 +116,10 @@ export default {
 {
                 text: "AnimeLand",
                 link: "/publishers/animeland"
+            },
+{
+                text: "CJ Insights",
+                link: "/publishers/cj-insights"
             },
 {
                 text: "Kaoru Hana Official Site",

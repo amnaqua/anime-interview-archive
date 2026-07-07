@@ -8,6 +8,7 @@ title: People
 - [Atsushi Nishigori](./atsushi-nishigori)
 - [Hiroi Hasegawa](./hiroi-hasegawa)
 - [Kouhei Sakita](./kouhei-sakita)
+- [Makoto Kimura](./makoto-kimura)
 - [Moko-chan](./moko-chan)
 - [Naoko Yamada](./naoko-yamada)
 - [Shouko Hori](./shouko-hori)

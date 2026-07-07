@@ -51,6 +51,10 @@ export default {
                 link: "/people/shunichi-tsuji"
             },
 {
+                text: "Vincent Chansard",
+                link: "/people/vincent-chansard"
+            },
+{
                 text: "Yūdai Hiraoka",
                 link: "/people/yudai-hiraoka"
             }
@@ -70,6 +74,10 @@ export default {
 {
                 text: "Kaoru Hana wa Rin to Saku",
                 link: "/works/kaoru-hana"
+            },
+{
+                text: "One Piece",
+                link: "/works/one-piece"
             },
 {
                 text: "Tenmaku no Jaadugar",
@@ -103,6 +111,10 @@ export default {
 {
                 text: "Science SARU",
                 link: "/companies/science-saru"
+            },
+{
+                text: "Toei Animation",
+                link: "/companies/toei"
             }
         ]
     }
@@ -156,6 +168,10 @@ export default {
 {
                 text: "Wired Japan",
                 link: "/publishers/wired-japan"
+            },
+{
+                text: "X (twitter)",
+                link: "/publishers/twitter"
             }
         ]
     }

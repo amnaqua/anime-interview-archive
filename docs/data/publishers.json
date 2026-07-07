@@ -41,5 +41,9 @@
 
   "fusetter": {
     "name": "fusetter"
+  },
+
+  "twitter": {
+    "name": "X (twitter)"
   }
 }

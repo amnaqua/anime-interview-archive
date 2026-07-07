@@ -15,4 +15,5 @@ title: People
 - [Ryo-Timo](./ryo-timo)
 - [Shouko Hori](./shouko-hori)
 - [Shunichi Tsuji](./shunichi-tsuji)
+- [Vincent Chansard](./vincent-chansard)
 - [Yūdai Hiraoka](./yudai-hiraoka)

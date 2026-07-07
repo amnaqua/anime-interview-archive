@@ -9,3 +9,4 @@ title: Companies
 - [Kodansha](./kodansha)
 - [MAPPA](./mappa)
 - [Science SARU](./science-saru)
+- [Toei Animation](./toei)

@@ -17,5 +17,9 @@
 
   "aniplex": {
     "name": "Aniplex"
+  },
+
+  "toei": {
+    "name": "Toei Animation"
   }
 }

@@ -15,3 +15,4 @@ title: Publishers
 - [Real Sound](./real-sound)
 - [The Non-Stop Road](./non-stop-road)
 - [Wired Japan](./wired-japan)
+- [X (twitter)](./twitter)

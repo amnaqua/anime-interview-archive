@@ -2,6 +2,8 @@ import { defineConfig } from "vitepress";
 import sidebar from "./sidebar";
 
 export default defineConfig({
+    base: "/anime-interview-archive/",
+
     lang: "en-US",
 
     title: "Anime Interview Archive",

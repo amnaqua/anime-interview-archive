@@ -1,7 +1,7 @@
 ---
 title: About Anime Industry
 
-date: 2023-012-15
+date: 2023-12-15
 
 people:
   - ryo-timo

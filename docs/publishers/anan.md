@@ -11,7 +11,7 @@ title: anan
 - **Date:** 2026-07-04
 - **Publisher:** anan
 - **Language:** Japanese
-- **Studio:** Science SARU
+- **Company:** Science SARU
 - **Source:** https://ananweb.jp/categories/entertainment/101006
 
 ---

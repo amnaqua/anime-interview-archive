@@ -9,3 +9,6 @@ title: People
 - [Kouhei Sakita](./kouhei-sakita)
 - [Moko-chan](./moko-chan)
 - [Naoko Yamada](./naoko-yamada)
+- [Shouko Hori](./shouko-hori)
+- [Shunichi Tsuji](./shunichi-tsuji)
+- [Yūdai Hiraoka](./yudai-hiraoka)

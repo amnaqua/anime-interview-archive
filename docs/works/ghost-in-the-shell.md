@@ -11,7 +11,7 @@ title: Ghost in the Shell
 - **Date:** 2026-07-07
 - **Publisher:** Wired Japan
 - **Language:** Japanese
-- **Studio:** Science SARU
+- **Company:** Science SARU
 - **Source:** https://wired.jp/article/science-saru-interview-3-the-ghost-in-the-shell-mokochan/
 
 ---

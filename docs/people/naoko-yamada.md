@@ -11,7 +11,7 @@ title: Naoko Yamada
 - **Date:** 2026-07-05
 - **Publisher:** Wired Japan
 - **Language:** Japanese
-- **Studio:** Science SARU
+- **Company:** Science SARU
 - **Source:** https://wired.jp/article/science-saru-interview-2-a-witch-in-mongolia-naoko-yamada-abel-gongora/
 
 ---
@@ -21,7 +21,7 @@ title: Naoko Yamada
 - **Date:** 2026-07-04
 - **Publisher:** anan
 - **Language:** Japanese
-- **Studio:** Science SARU
+- **Company:** Science SARU
 - **Source:** https://ananweb.jp/categories/entertainment/101006
 
 ---
@@ -31,7 +31,7 @@ title: Naoko Yamada
 - **Date:** 2026-07-04
 - **Publisher:** MANTANWEB
 - **Language:** Japanese
-- **Studio:** Science SARU
+- **Company:** Science SARU
 - **Source:** https://mantan-web.jp/article/20260618dog00m200122000a.html
 
 ---

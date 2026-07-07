@@ -25,6 +25,18 @@ export default {
 {
                 text: "Naoko Yamada",
                 link: "/people/naoko-yamada"
+            },
+{
+                text: "Shouko Hori",
+                link: "/people/shouko-hori"
+            },
+{
+                text: "Shunichi Tsuji",
+                link: "/people/shunichi-tsuji"
+            },
+{
+                text: "Yūdai Hiraoka",
+                link: "/people/yudai-hiraoka"
             }
         ]
     }
@@ -40,6 +52,10 @@ export default {
                 link: "/works/ghost-in-the-shell"
             },
 {
+                text: "Kaoru Hana wa Rin to Saku",
+                link: "/works/kaoru-hana"
+            },
+{
                 text: "Tenmaku no Jaadugar",
                 link: "/works/tenmaku-no-jaadugar"
             }
@@ -53,6 +69,18 @@ export default {
         collapsed: false,
         items: [
             {
+                text: "Aniplex",
+                link: "/studios/aniplex"
+            },
+{
+                text: "CloverWorks",
+                link: "/studios/clover-works"
+            },
+{
+                text: "Kodansha",
+                link: "/studios/kodansha"
+            },
+{
                 text: "MAPPA",
                 link: "/studios/mappa"
             },
@@ -80,6 +108,10 @@ export default {
 {
                 text: "AnimeLand",
                 link: "/publishers/animeland"
+            },
+{
+                text: "Kaoru Hana Official Site",
+                link: "/publishers/kaoru-hana"
             },
 {
                 text: "MANTANWEB",

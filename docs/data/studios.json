@@ -4,5 +4,14 @@
   },
   "mappa": {
     "name": "MAPPA"
+  },
+  "kodansha": {
+    "name": "Kodansha"
+  },
+  "clover-works": {
+    "name": "CloverWorks"
+  },
+  "aniplex": {
+    "name": "Aniplex"
   }
 }

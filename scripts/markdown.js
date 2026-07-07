@@ -30,7 +30,7 @@ title: ${title}
             md += `- **Language:** ${interview.language}\n`;
 
         if (interview.studio.length)
-            md += `- **Studio:** ${interview.studio.join(", ")}\n`;
+            md += `- **Company:** ${interview.studio.join(", ")}\n`;
 
         if (interview.url)
             md += `- **Source:** ${interview.url}\n`;

@@ -11,7 +11,7 @@ title: Wired Japan
 - **Date:** 2026-07-07
 - **Publisher:** Wired Japan
 - **Language:** Japanese
-- **Studio:** Science SARU
+- **Company:** Science SARU
 - **Source:** https://wired.jp/article/science-saru-interview-3-the-ghost-in-the-shell-mokochan/
 
 ---
@@ -21,7 +21,7 @@ title: Wired Japan
 - **Date:** 2026-07-05
 - **Publisher:** Wired Japan
 - **Language:** Japanese
-- **Studio:** Science SARU
+- **Company:** Science SARU
 - **Source:** https://wired.jp/article/science-saru-interview-2-a-witch-in-mongolia-naoko-yamada-abel-gongora/
 
 ---
@@ -31,7 +31,7 @@ title: Wired Japan
 - **Date:** 2026-07-03
 - **Publisher:** Wired Japan
 - **Language:** Japanese
-- **Studio:** Science SARU
+- **Company:** Science SARU
 - **Source:** https://wired.jp/article/science-saru-interview-1-kohei-sakita/
 
 ---

@@ -39,5 +39,35 @@
     "roles": [
       "Producer"
     ]
+  },
+
+  "yudai-hiraoka": {
+    "name": "Yūdai Hiraoka",
+    "aliases": [
+      "平岡 雄大"
+    ],
+    "roles": [
+      "Producer"
+    ]
+  },
+
+  "shouko-hori": {
+    "name": "Shouko Hori",
+    "aliases": [
+      "堀 祥子"
+    ],
+    "roles": [
+      "Producer"
+    ]
+  },
+
+  "shunichi-tsuji": {
+    "name": "Shunichi Tsuji",
+    "aliases": [
+      "辻 俊一"
+    ],
+    "roles": [
+      "Producer"
+    ]
   }
 }

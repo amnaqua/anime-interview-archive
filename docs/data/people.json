@@ -1,0 +1,35 @@
+{
+  "naoko-yamada": {
+    "name": "Naoko Yamada",
+    "aliases": [
+      "山田尚子"
+    ],
+    "roles": [
+      "Director"
+    ]
+  },
+
+  "abel-gongora": {
+    "name": "Abel Góngora",
+    "aliases": [],
+    "roles": [
+      "Director"
+    ]
+  },
+
+  "moko-chan": {
+    "name": "Moko-chan",
+    "aliases": [],
+    "roles": [
+      "Director"
+    ]
+  },
+
+  "kouhei-sakita": {
+    "name": "Kouhei Sakita",
+    "aliases": [],
+    "roles": [
+      "Producer"
+    ]
+  }
+}

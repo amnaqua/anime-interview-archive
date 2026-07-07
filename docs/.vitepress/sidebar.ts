@@ -172,6 +172,10 @@ export default {
 {
                 text: "X (twitter)",
                 link: "/publishers/twitter"
+            },
+{
+                text: "YouTube",
+                link: "/publishers/youtube"
             }
         ]
     }

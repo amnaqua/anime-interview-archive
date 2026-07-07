@@ -16,3 +16,4 @@ title: Publishers
 - [The Non-Stop Road](./non-stop-road)
 - [Wired Japan](./wired-japan)
 - [X (twitter)](./twitter)
+- [YouTube](./youtube)

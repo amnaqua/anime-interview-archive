@@ -11,6 +11,10 @@ export default {
                 link: "/people/abel-gongora"
             },
 {
+                text: "Hiroi Hasegawa",
+                link: "/people/hiroi-hasegawa"
+            },
+{
                 text: "Kouhei Sakita",
                 link: "/people/kouhei-sakita"
             },
@@ -49,6 +53,10 @@ export default {
         collapsed: false,
         items: [
             {
+                text: "MAPPA",
+                link: "/studios/mappa"
+            },
+{
                 text: "Science SARU",
                 link: "/studios/science-saru"
             }
@@ -76,6 +84,10 @@ export default {
 {
                 text: "MANTANWEB",
                 link: "/publishers/mantanweb"
+            },
+{
+                text: "Real Sound",
+                link: "/publishers/real-sound"
             },
 {
                 text: "Wired Japan",

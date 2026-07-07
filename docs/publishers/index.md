@@ -8,4 +8,5 @@ title: Publishers
 - [Animate Times](./animate-times)
 - [AnimeLand](./animeland)
 - [MANTANWEB](./mantanweb)
+- [Real Sound](./real-sound)
 - [Wired Japan](./wired-japan)

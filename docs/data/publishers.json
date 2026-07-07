@@ -17,5 +17,9 @@
 
   "animeland": {
     "name": "AnimeLand"
+  },
+
+  "real-sound": {
+    "name": "Real Sound"
   }
 }

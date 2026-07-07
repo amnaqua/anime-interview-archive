@@ -3,7 +3,7 @@
 ### Tenmaku no Jaadugar (2026)
 
 Source: https://www.animatetimes.com/news/details.php?id=1782376177&p=1 <br>
-Date: 2026-07-06
+Date: 2026.07.06
 <hr>
 
 ### Tenmaku no Jaadugar (2026)

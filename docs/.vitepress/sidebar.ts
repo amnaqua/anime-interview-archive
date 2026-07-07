@@ -11,6 +11,10 @@ export default {
                 link: "/people/abel-gongora"
             },
 {
+                text: "Atsushi Nishigori",
+                link: "/people/atsushi-nishigori"
+            },
+{
                 text: "Hiroi Hasegawa",
                 link: "/people/hiroi-hasegawa"
             },
@@ -120,6 +124,10 @@ export default {
 {
                 text: "Real Sound",
                 link: "/publishers/real-sound"
+            },
+{
+                text: "The Non-Stop Road",
+                link: "/publishers/non-stop-road"
             },
 {
                 text: "Wired Japan",

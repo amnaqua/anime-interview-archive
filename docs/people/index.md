@@ -5,6 +5,7 @@ title: People
 # People
 
 - [Abel Góngora](./abel-gongora)
+- [Atsushi Nishigori](./atsushi-nishigori)
 - [Hiroi Hasegawa](./hiroi-hasegawa)
 - [Kouhei Sakita](./kouhei-sakita)
 - [Moko-chan](./moko-chan)

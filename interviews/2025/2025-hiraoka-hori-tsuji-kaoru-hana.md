@@ -8,7 +8,7 @@ people:
   - shouko-hori
   - shunichi-tsuji
 
-studio:
+companies:
   - clover-works
   - kodansha
   - aniplex

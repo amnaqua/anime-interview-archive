@@ -6,7 +6,7 @@ date: 2026-07-03
 people:
   - kouhei-sakita
 
-studio:
+companies:
   - science-saru
 
 publisher:

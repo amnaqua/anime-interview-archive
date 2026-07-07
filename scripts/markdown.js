@@ -29,8 +29,8 @@ title: ${title}
         if (interview.language)
             md += `- **Language:** ${interview.language}\n`;
 
-        if (interview.studio.length)
-            md += `- **Company:** ${interview.studio.join(", ")}\n`;
+        if (interview.companies.length)
+            md += `- **Company:** ${interview.companies.join(", ")}\n`;
 
         if (interview.url)
             md += `- **Source:** ${interview.url}\n`;

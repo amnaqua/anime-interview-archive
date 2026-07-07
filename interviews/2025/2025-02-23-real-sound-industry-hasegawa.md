@@ -6,7 +6,7 @@ date: 2025-02-23
 people:
   - hiroi-hasegawa
 
-studio:
+companies:
   - mappa
 
 publisher:

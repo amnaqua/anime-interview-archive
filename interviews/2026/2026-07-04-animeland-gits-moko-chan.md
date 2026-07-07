@@ -6,7 +6,7 @@ date: 2026-07-04
 people:
   - moko-chan
 
-studio:
+companies:
   - science-saru
 
 publisher:

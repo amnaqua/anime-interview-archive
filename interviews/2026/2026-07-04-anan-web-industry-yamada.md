@@ -6,7 +6,7 @@ date: 2026-07-04
 people:
   - naoko-yamada
 
-studio:
+companies:
   - science-saru
 
 publisher:

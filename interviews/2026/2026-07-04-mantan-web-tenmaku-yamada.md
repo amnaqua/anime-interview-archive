@@ -9,7 +9,7 @@ people:
 work:
   - tenmaku-no-jaadugar
 
-studio:
+companies:
   - science-saru
 
 publisher:

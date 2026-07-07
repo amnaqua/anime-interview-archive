@@ -22,7 +22,7 @@ export default defineConfig({
                 items: [
                     { text: "People", link: "/people/" },
                     { text: "Works", link: "/works/" },
-                    { text: "Studios", link: "/studios/" },
+                    { text: "Companies", link: "/companies/" },
                     { text: "Publishers", link: "/publishers/" }
                 ]
             }

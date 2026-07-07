@@ -1,8 +1,8 @@
 ---
-title: Studios
+title: Companies
 ---
 
-# Studios
+# Companies
 
 - [Aniplex](./aniplex)
 - [CloverWorks](./clover-works)

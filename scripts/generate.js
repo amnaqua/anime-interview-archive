@@ -6,7 +6,7 @@ import matter from "gray-matter";
 
 import peopleData from "../docs/data/people.json" with { type: "json" };
 import worksData from "../docs/data/works.json" with { type: "json" };
-import studiosData from "../docs/data/studios.json" with { type: "json" };
+import companiesData from "../docs/data/companies.json" with { type: "json" };
 import publishersData from "../docs/data/publishers.json" with { type: "json" };
 import languagesData from "../docs/data/languages.json" with { type: "json" };
 
@@ -20,7 +20,7 @@ const INTERVIEW_DIR = "interviews";
 
 const PEOPLE_DIR = `${ROOT}/people`;
 const WORKS_DIR = `${ROOT}/works`;
-const STUDIOS_DIR = `${ROOT}/studios`;
+const COMPANIES_DIR = `${ROOT}/companies`;
 const PUBLISHERS_DIR = `${ROOT}/publishers`;
 
 const SIDEBAR_FILE = `${ROOT}/.vitepress/sidebar.ts`;
@@ -53,7 +53,7 @@ async function main() {
 
     const people = new Map();
     const works = new Map();
-    const studios = new Map();
+    const companies = new Map();
     const publishers = new Map();
 
     const files = await fg(`${INTERVIEW_DIR}/**/*.md`);
@@ -78,8 +78,8 @@ async function main() {
             people: data.people ?? [],
             work: data.work ?? [],
 
-            studio: (data.studio ?? []).map(
-                slug => lookup(studiosData, slug)
+            companies: (data.companies ?? []).map(
+                slug => lookup(companiesData, slug)
             ),
 
             publisher: (data.publisher ?? []).map(
@@ -93,8 +93,8 @@ async function main() {
         for (const slug of interview.work)
             addToMap(works, slug, interview);
 
-        for (const slug of data.studio ?? [])
-            addToMap(studios, slug, interview);
+        for (const slug of data.companies ?? [])
+            addToMap(companies, slug, interview);
 
         for (const slug of data.publisher ?? [])
             addToMap(publishers, slug, interview);
@@ -116,10 +116,10 @@ async function main() {
     );
 
     await generateSection(
-        STUDIOS_DIR,
-        studios,
-        studiosData,
-        "Studios"
+        COMPANIES_DIR,
+        companies,
+        companiesData,
+        "Companies"
     );
 
     await generateSection(
@@ -143,9 +143,9 @@ async function main() {
                 dictionary: worksData
             },
             {
-                title: "Studios",
-                base: "studios",
-                dictionary: studiosData
+                title: "Companies",
+                base: "companies",
+                dictionary: companiesData
             },
             {
                 title: "Publishers",

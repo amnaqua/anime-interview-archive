@@ -71,30 +71,30 @@ export default {
     }
 ],
 
-"/studios/": [
+"/companies/": [
     {
-        text: "Studios",
+        text: "Companies",
         collapsed: false,
         items: [
             {
                 text: "Aniplex",
-                link: "/studios/aniplex"
+                link: "/companies/aniplex"
             },
 {
                 text: "CloverWorks",
-                link: "/studios/clover-works"
+                link: "/companies/clover-works"
             },
 {
                 text: "Kodansha",
-                link: "/studios/kodansha"
+                link: "/companies/kodansha"
             },
 {
                 text: "MAPPA",
-                link: "/studios/mappa"
+                link: "/companies/mappa"
             },
 {
                 text: "Science SARU",
-                link: "/studios/science-saru"
+                link: "/companies/science-saru"
             }
         ]
     }

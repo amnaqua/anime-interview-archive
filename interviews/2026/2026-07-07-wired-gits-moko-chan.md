@@ -9,7 +9,7 @@ people:
 work:
   - ghost-in-the-shell
 
-studio:
+companies:
   - science-saru
 
 publisher:

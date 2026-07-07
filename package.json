@@ -1,0 +1,16 @@
+{
+  "devDependencies": {
+    "vitepress": "^1.6.4",
+    "vitepress-sidebar": "^1.36.1"
+  },
+  "scripts": {
+    "generate": "node scripts/generate.js",
+    "docs:dev": "npm run generate && vitepress dev docs",
+    "docs:build": "npm run generate && vitepress build docs",
+    "docs:preview": "vitepress preview docs"
+  },
+  "dependencies": {
+    "fast-glob": "^3.3.3",
+    "gray-matter": "^4.0.3"
+  }
+}

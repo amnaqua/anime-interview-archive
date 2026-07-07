@@ -11,6 +11,7 @@ title: People
 - [Makoto Kimura](./makoto-kimura)
 - [Moko-chan](./moko-chan)
 - [Naoko Yamada](./naoko-yamada)
+- [Ryo-Timo](./ryo-timo)
 - [Shouko Hori](./shouko-hori)
 - [Shunichi Tsuji](./shunichi-tsuji)
 - [Yūdai Hiraoka](./yudai-hiraoka)

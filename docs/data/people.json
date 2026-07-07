@@ -89,5 +89,15 @@
     "roles": [
       "Producer"
     ]
+  },
+
+  "ryo-timo": {
+    "name": "Ryo-Timo",
+    "aliases": [
+      "りょーちも"
+    ],
+    "roles": [
+      "Animator"
+    ]
   }
 }

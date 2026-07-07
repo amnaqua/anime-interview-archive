@@ -35,6 +35,10 @@ export default {
                 link: "/people/naoko-yamada"
             },
 {
+                text: "Ryo-Timo",
+                link: "/people/ryo-timo"
+            },
+{
                 text: "Shouko Hori",
                 link: "/people/shouko-hori"
             },
@@ -120,6 +124,10 @@ export default {
 {
                 text: "CJ Insights",
                 link: "/publishers/cj-insights"
+            },
+{
+                text: "Full Frontal",
+                link: "/publishers/full-frontal"
             },
 {
                 text: "Kaoru Hana Official Site",

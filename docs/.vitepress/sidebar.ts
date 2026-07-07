@@ -19,6 +19,10 @@ export default {
                 link: "/people/hiroi-hasegawa"
             },
 {
+                text: "Kazuto Arai",
+                link: "/people/kazuto-arai"
+            },
+{
                 text: "Kouhei Sakita",
                 link: "/people/kouhei-sakita"
             },
@@ -128,6 +132,10 @@ export default {
 {
                 text: "Full Frontal",
                 link: "/publishers/full-frontal"
+            },
+{
+                text: "fusetter",
+                link: "/publishers/fusetter"
             },
 {
                 text: "Kaoru Hana Official Site",

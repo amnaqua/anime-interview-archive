@@ -9,6 +9,7 @@ title: Publishers
 - [AnimeLand](./animeland)
 - [CJ Insights](./cj-insights)
 - [Full Frontal](./full-frontal)
+- [fusetter](./fusetter)
 - [Kaoru Hana Official Site](./kaoru-hana)
 - [MANTANWEB](./mantanweb)
 - [Real Sound](./real-sound)

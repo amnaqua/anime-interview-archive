@@ -8,7 +8,7 @@ title: Full Frontal
 
 ### About Anime Industry
 
-- **Date:** 2023-012-15
+- **Date:** 2023-12-15
 - **Publisher:** Full Frontal
 - **Language:** English
 - **Source:** https://fullfrontal.moe/webgen-ryo-timo/

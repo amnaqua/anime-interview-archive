@@ -13,7 +13,7 @@ title: Science SARU
 - **Language:** Japanese
 - **Company:** Science SARU
 - **Source:**
-  https://wired.jp/article/science-saru-interview-3-the-ghost-in-the-shell-mokochan/
+ https://wired.jp/article/science-saru-interview-3-the-ghost-in-the-shell-mokochan/
 
 ---
 
@@ -24,7 +24,7 @@ title: Science SARU
 - **Language:** Japanese
 - **Company:** Science SARU
 - **Source:**
-  https://www.animatetimes.com/news/details.php?id=1782376177&p=1
+ https://www.animatetimes.com/news/details.php?id=1782376177&p=1
 
 ---
 
@@ -35,7 +35,7 @@ title: Science SARU
 - **Language:** Japanese
 - **Company:** Science SARU
 - **Source:**
-  https://wired.jp/article/science-saru-interview-2-a-witch-in-mongolia-naoko-yamada-abel-gongora/
+ https://wired.jp/article/science-saru-interview-2-a-witch-in-mongolia-naoko-yamada-abel-gongora/
 
 ---
 
@@ -46,7 +46,7 @@ title: Science SARU
 - **Language:** Japanese
 - **Company:** Science SARU
 - **Source:**
-  https://ananweb.jp/categories/entertainment/101006
+ https://ananweb.jp/categories/entertainment/101006
 
 ---
 
@@ -57,7 +57,7 @@ title: Science SARU
 - **Language:** French
 - **Company:** Science SARU
 - **Source:**
-  https://animeland.fr/2026/07/04/entretien-mokochan-ghost-in-the-shell-annecy/
+ https://animeland.fr/2026/07/04/entretien-mokochan-ghost-in-the-shell-annecy/
 
 ---
 
@@ -68,7 +68,7 @@ title: Science SARU
 - **Language:** Japanese
 - **Company:** Science SARU
 - **Source:**
-  https://mantan-web.jp/article/20260618dog00m200121000a.html
+ https://mantan-web.jp/article/20260618dog00m200121000a.html
 
 ---
 
@@ -79,7 +79,7 @@ title: Science SARU
 - **Language:** Japanese
 - **Company:** Science SARU
 - **Source:**
-  https://mantan-web.jp/article/20260618dog00m200122000a.html
+ https://mantan-web.jp/article/20260618dog00m200122000a.html
 
 ---
 
@@ -90,7 +90,7 @@ title: Science SARU
 - **Language:** Japanese
 - **Company:** Science SARU
 - **Source:**
-  https://wired.jp/article/science-saru-interview-1-kohei-sakita/
+ https://wired.jp/article/science-saru-interview-1-kohei-sakita/
 
 ---
 

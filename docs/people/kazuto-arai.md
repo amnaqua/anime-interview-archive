@@ -12,7 +12,7 @@ title: Kazuto Arai
 - **Publisher:** fusetter
 - **Language:** Japanese
 - **Source:**
-  https://fusetter.com/tw/T840GZXY#all
+ https://fusetter.com/tw/T840GZXY#all
 
 ---
 

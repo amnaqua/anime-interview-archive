@@ -13,7 +13,7 @@ title: Ghost in the Shell
 - **Language:** Japanese
 - **Company:** Science SARU
 - **Source:**
-  https://wired.jp/article/science-saru-interview-3-the-ghost-in-the-shell-mokochan/
+ https://wired.jp/article/science-saru-interview-3-the-ghost-in-the-shell-mokochan/
 
 ---
 

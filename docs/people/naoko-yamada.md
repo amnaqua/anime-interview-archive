@@ -13,7 +13,7 @@ title: Naoko Yamada
 - **Language:** Japanese
 - **Company:** Science SARU
 - **Source:**
-  https://wired.jp/article/science-saru-interview-2-a-witch-in-mongolia-naoko-yamada-abel-gongora/
+ https://wired.jp/article/science-saru-interview-2-a-witch-in-mongolia-naoko-yamada-abel-gongora/
 
 ---
 
@@ -24,7 +24,7 @@ title: Naoko Yamada
 - **Language:** Japanese
 - **Company:** Science SARU
 - **Source:**
-  https://ananweb.jp/categories/entertainment/101006
+ https://ananweb.jp/categories/entertainment/101006
 
 ---
 
@@ -35,7 +35,7 @@ title: Naoko Yamada
 - **Language:** Japanese
 - **Company:** Science SARU
 - **Source:**
-  https://mantan-web.jp/article/20260618dog00m200122000a.html
+ https://mantan-web.jp/article/20260618dog00m200122000a.html
 
 ---
 

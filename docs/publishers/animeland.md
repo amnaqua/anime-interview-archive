@@ -13,7 +13,7 @@ title: AnimeLand
 - **Language:** French
 - **Company:** Science SARU
 - **Source:**
-  https://animeland.fr/2026/07/04/entretien-mokochan-ghost-in-the-shell-annecy/
+ https://animeland.fr/2026/07/04/entretien-mokochan-ghost-in-the-shell-annecy/
 
 ---
 

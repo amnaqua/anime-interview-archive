@@ -12,7 +12,7 @@ title: Makoto Kimura
 - **Publisher:** CJ Insights
 - **Language:** Japanese
 - **Source:**
-  https://www.cjinsights.cj-fund.co.jp/trends/812/
+ https://www.cjinsights.cj-fund.co.jp/trends/812/
 
 ---
 

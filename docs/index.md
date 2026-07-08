@@ -14,7 +14,7 @@ features:
     details: Interviews grouped by anime, films and franchises.
     link: /works/
 
-  - title: Studios
+  - title: Companies
     details: Browse interviews by animation studio.
     link: /companies/
 

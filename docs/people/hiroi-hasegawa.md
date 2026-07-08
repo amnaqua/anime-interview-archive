@@ -13,7 +13,7 @@ title: Hiroi Hasegawa
 - **Language:** Japanese
 - **Company:** MAPPA
 - **Source:**
-  https://realsound.jp/movie/2025/02/post-1934703.html
+ https://realsound.jp/movie/2025/02/post-1934703.html
 
 ---
 

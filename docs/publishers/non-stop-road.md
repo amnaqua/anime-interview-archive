@@ -12,7 +12,7 @@ title: The Non-Stop Road
 - **Publisher:** The Non-Stop Road
 - **Language:** English
 - **Source:**
-  https://nonstoproad.wordpress.com/2013/12/25/christmas-present-nishigori-atsushi-interview/
+ https://nonstoproad.wordpress.com/2013/12/25/christmas-present-nishigori-atsushi-interview/
 
 ---
 

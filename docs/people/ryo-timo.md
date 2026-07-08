@@ -12,7 +12,7 @@ title: Ryo-Timo
 - **Publisher:** Full Frontal
 - **Language:** English
 - **Source:**
-  https://fullfrontal.moe/webgen-ryo-timo/
+ https://fullfrontal.moe/webgen-ryo-timo/
 
 ---
 

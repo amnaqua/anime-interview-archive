@@ -12,7 +12,7 @@ title: Vincent Chansard
 - **Publisher:** YouTube
 - **Language:** French
 - **Source:**
-  https://www.youtube.com/watch?v=aAA1QikIuJ0
+ https://www.youtube.com/watch?v=aAA1QikIuJ0
 
 ---
 
@@ -23,7 +23,7 @@ title: Vincent Chansard
 - **Language:** Arabic
 - **Company:** Toei Animation
 - **Source:**
-  https://x.com/1jilj1il/status/1982779896213492212
+ https://x.com/1jilj1il/status/1982779896213492212
 
 ---
 

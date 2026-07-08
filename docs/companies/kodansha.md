@@ -13,7 +13,7 @@ title: Kodansha
 - **Language:** Japanese
 - **Company:** CloverWorks, Kodansha, Aniplex
 - **Source:**
-  https://kaoruhana-anime.com/special/interview/01.html
+ https://kaoruhana-anime.com/special/interview/01.html
 
 ---
 

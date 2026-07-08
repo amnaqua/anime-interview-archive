@@ -11,6 +11,7 @@ title: People
 - [Kazuto Arai](./kazuto-arai)
 - [Kinoko Nasu](./kinoko-nasu)
 - [Kiyotaka Oshiyama](./kiyotaka-oshiyama)
+- [Koichiro Ito](./koichiro-ito)
 - [Kouhei Sakita](./kouhei-sakita)
 - [Makoto Kimura](./makoto-kimura)
 - [Mamoru Oshii](./mamoru-oshii)

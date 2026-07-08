@@ -35,6 +35,10 @@ export default {
                 link: "/people/kiyotaka-oshiyama"
             },
 {
+                text: "Koichiro Ito",
+                link: "/people/koichiro-ito"
+            },
+{
                 text: "Kouhei Sakita",
                 link: "/people/kouhei-sakita"
             },
@@ -151,6 +155,10 @@ export default {
 {
                 text: "CloverWorks",
                 link: "/companies/clover-works"
+            },
+{
+                text: "CoMix Wave Films",
+                link: "/companies/comix-wave"
             },
 {
                 text: "Kodansha",

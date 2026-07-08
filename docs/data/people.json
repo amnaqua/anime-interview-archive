@@ -194,5 +194,15 @@
       "Director",
       "Animator"
     ]
+  },
+
+  "koichiro-ito": {
+    "name": "Koichiro Ito",
+    "aliases": [
+      "伊藤 耕一郎"
+    ],
+    "roles": [
+      "Producer"
+    ]
   }
 }

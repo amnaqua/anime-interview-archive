@@ -7,6 +7,7 @@ title: Companies
 - [Aniplex](./aniplex)
 - [Bones](./bones)
 - [CloverWorks](./clover-works)
+- [CoMix Wave Films](./comix-wave)
 - [Kodansha](./kodansha)
 - [MAPPA](./mappa)
 - [OLM](./olm)

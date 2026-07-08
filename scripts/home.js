@@ -13,15 +13,6 @@ hero:
   text: Archive of anime staff interviews and production materials.
   tagline: ${stats.interviews} interviews indexed
 
-  actions:
-    - theme: brand
-      text: Browse People
-      link: /people/
-
-    - theme: alt
-      text: Browse Works
-      link: /works/
-
 features:
   - title: 👥 People
     details: ${stats.people} people

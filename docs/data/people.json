@@ -235,5 +235,25 @@
       "Director",
       "Animator"
     ]
+  },
+
+  "yoshitoshi-abe": {
+    "name": "Yoshitoshi Abe",
+    "aliases": [
+      "安倍 吉俊"
+    ],
+    "roles": [
+      "Mangaka"
+    ]
+  },
+
+  "yasuyuki-ueda": {
+    "name": "Yasuyuki Ueda",
+    "aliases": [
+      "上田 耕行"
+    ],
+    "roles": [
+      "Producer"
+    ]
   }
 }

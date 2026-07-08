@@ -95,6 +95,14 @@ export default {
                 link: "/people/vincent-chansard"
             },
 {
+                text: "Yasuyuki Ueda",
+                link: "/people/yasuyuki-ueda"
+            },
+{
+                text: "Yoshitoshi Abe",
+                link: "/people/yoshitoshi-abe"
+            },
+{
                 text: "You Yoshinari",
                 link: "/people/you-yoshinari"
             },
@@ -150,6 +158,10 @@ export default {
 {
                 text: "Tenmaku no Jaadugar",
                 link: "/works/tenmaku-no-jaadugar"
+            },
+{
+                text: "Texhnolyze",
+                link: "/works/texhnolyze"
             }
         ]
     }
@@ -179,6 +191,10 @@ export default {
 {
                 text: "Kodansha",
                 link: "/companies/kodansha"
+            },
+{
+                text: "Madhouse",
+                link: "/companies/madhouse"
             },
 {
                 text: "MAPPA",
@@ -244,6 +260,10 @@ export default {
 {
                 text: "CJ Insights",
                 link: "/publishers/cj-insights"
+            },
+{
+                text: "Eye Resist",
+                link: "/publishers/eye-resist"
             },
 {
                 text: "FAR From Animation",

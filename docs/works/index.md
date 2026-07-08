@@ -13,3 +13,4 @@ title: Works
 - [One Piece](./one-piece)
 - [Space☆Dandy](./space-dandy)
 - [Tenmaku no Jaadugar](./tenmaku-no-jaadugar)
+- [Texhnolyze](./texhnolyze)

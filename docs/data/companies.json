@@ -49,5 +49,9 @@
 
   "trigger": {
     "name": "Trigger"
+  },
+
+  "madhouse": {
+    "name": "Madhouse"
   }
 }

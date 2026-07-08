@@ -9,6 +9,7 @@ title: Companies
 - [CloverWorks](./clover-works)
 - [CoMix Wave Films](./comix-wave)
 - [Kodansha](./kodansha)
+- [Madhouse](./madhouse)
 - [MAPPA](./mappa)
 - [OLM](./olm)
 - [Production I.G](./production-ig)

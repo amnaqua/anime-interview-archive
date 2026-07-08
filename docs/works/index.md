@@ -5,6 +5,7 @@ title: Works
 # Works
 
 - [Atom: The Beginning](./atom-the-beginning)
+- [Cyberpunk: Edgerunners 2](./cyberpunk-edgerunners-2)
 - [Flip Flappers](./flip-flappers)
 - [Ghost in the Shell](./ghost-in-the-shell)
 - [In This Corner of the World](./in-this-corner-of-the-world)

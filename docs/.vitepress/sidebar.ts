@@ -27,6 +27,10 @@ export default {
                 link: "/people/hiroi-hasegawa"
             },
 {
+                text: "Kai Ikarashi",
+                link: "/people/kai-ikarashi"
+            },
+{
                 text: "Kazuto Arai",
                 link: "/people/kazuto-arai"
             },
@@ -130,6 +134,10 @@ export default {
             {
                 text: "Atom: The Beginning",
                 link: "/works/atom-the-beginning"
+            },
+{
+                text: "Cyberpunk: Edgerunners 2",
+                link: "/works/cyberpunk-edgerunners-2"
             },
 {
                 text: "Flip Flappers",
@@ -272,6 +280,10 @@ export default {
 {
                 text: "Eye Resist",
                 link: "/publishers/eye-resist"
+            },
+{
+                text: "Famitsu",
+                link: "/publishers/famitsu"
             },
 {
                 text: "FAR From Animation",

@@ -11,6 +11,7 @@ title: Publishers
 - [Animestyle Magazine](./anime-style-magazine)
 - [CJ Insights](./cj-insights)
 - [Eye Resist](./eye-resist)
+- [Famitsu](./famitsu)
 - [FAR From Animation](./far-from-animation)
 - [Fighting for Nippon](./fighting-for-nippon)
 - [Full Frontal](./full-frontal)

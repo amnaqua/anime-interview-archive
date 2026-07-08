@@ -9,6 +9,7 @@ title: People
 - [Bahi JD](./bahi-jd)
 - [Gorou Miyazaki](./gorou-miyazaki)
 - [Hiroi Hasegawa](./hiroi-hasegawa)
+- [Kai Ikarashi](./kai-ikarashi)
 - [Kazuto Arai](./kazuto-arai)
 - [Kenichi Sonoda](./kenichi-sonoda)
 - [Kinoko Nasu](./kinoko-nasu)

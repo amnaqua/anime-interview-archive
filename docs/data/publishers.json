@@ -113,5 +113,9 @@
 
   "oricon": {
     "name": "Oricon"
+  },
+
+  "famitsu": {
+    "name": "Famitsu"
   }
 }

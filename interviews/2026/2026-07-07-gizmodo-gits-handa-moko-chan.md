@@ -5,6 +5,7 @@ date: 2026-07-07
 
 people:
   - moko-chan
+  - shuuhei-handa
 
 work:
   - ghost-in-the-shell

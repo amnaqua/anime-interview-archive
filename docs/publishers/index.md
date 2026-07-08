@@ -14,6 +14,7 @@ title: Publishers
 - [MANTANWEB](./mantanweb)
 - [Real Sound](./real-sound)
 - [The Non-Stop Road](./non-stop-road)
+- [WEB Anime Style](./web-anime-style)
 - [Wired Japan](./wired-japan)
 - [X (twitter)](./twitter)
 - [YouTube](./youtube)

@@ -11,5 +11,7 @@ publisher:
 
 language: fr
 
-url: https://www.youtube.com/watch?v=aAA1QikIuJ0
+links:
+  - type: source
+    url: https://www.youtube.com/watch?v=aAA1QikIuJ0
 ---

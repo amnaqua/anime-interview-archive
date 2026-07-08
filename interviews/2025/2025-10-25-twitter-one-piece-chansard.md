@@ -17,5 +17,7 @@ publisher:
 
 language: ar
 
-url: https://x.com/1jilj1il/status/1982779896213492212
+links:
+  - type: source
+    url: https://x.com/1jilj1il/status/1982779896213492212
 ---

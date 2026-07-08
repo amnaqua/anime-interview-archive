@@ -16,7 +16,7 @@ features:
 
   - title: Studios
     details: Browse interviews by animation studio.
-    link: /studios/
+    link: /companies/
 
   - title: Publishers
     details: Magazine and website archives.

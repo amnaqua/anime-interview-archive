@@ -18,5 +18,7 @@ publisher:
 
 language: ja
 
-url: https://kaoruhana-anime.com/special/interview/01.html
+links:
+  - type: source
+    url: https://kaoruhana-anime.com/special/interview/01.html
 ---

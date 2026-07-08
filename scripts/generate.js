@@ -71,7 +71,22 @@ async function main() {
                     ? data.date.toISOString().slice(0, 10)
                     : data.date,
 
-            url: data.url,
+            links: (data.links ?? []).map(link => ({
+                type: link.type,
+
+                label: link.label,
+
+                language: link.language
+                    ? lookup(languagesData, link.language)
+                    : null,
+
+                url: link.url
+            })),
+
+            translations: (data.translations ?? []).map(item => ({
+                language: lookup(languagesData, item.language),
+                url: item.url
+            })),
 
             language: lookup(languagesData, data.language),
 

@@ -14,5 +14,7 @@ publisher:
 
 language: ja
 
-url: https://ananweb.jp/categories/entertainment/101006
+links:
+  - type: source
+    url: https://ananweb.jp/categories/entertainment/101006
 ---

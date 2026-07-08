@@ -11,5 +11,7 @@ publisher:
 
 language: en
 
-url: https://fullfrontal.moe/webgen-ryo-timo/
+links:
+  - type: source
+    url: https://fullfrontal.moe/webgen-ryo-timo/
 ---

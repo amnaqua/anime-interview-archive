@@ -11,5 +11,7 @@ publisher:
 
 language: ja
 
-url: https://www.cjinsights.cj-fund.co.jp/trends/812/
+links:
+  - type: source
+    url: https://www.cjinsights.cj-fund.co.jp/trends/812/
 ---

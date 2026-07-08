@@ -11,5 +11,7 @@ publisher:
 
 language: en
 
-url: https://nonstoproad.wordpress.com/2013/12/25/christmas-present-nishigori-atsushi-interview/
+links:
+  - type: source
+    url: https://nonstoproad.wordpress.com/2013/12/25/christmas-present-nishigori-atsushi-interview/
 ---

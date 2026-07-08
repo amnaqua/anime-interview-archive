@@ -11,5 +11,7 @@ publisher:
 
 language: ja
 
-url: https://fusetter.com/tw/T840GZXY#all
+links:
+  - type: source
+    url: https://fusetter.com/tw/T840GZXY#all
 ---

@@ -17,5 +17,7 @@ publisher:
 
 language: ja
 
-url: https://www.animatetimes.com/news/details.php?id=1782376177&p=1
+links:
+  - type: source
+    url: https://www.animatetimes.com/news/details.php?id=1782376177&p=1
 ---

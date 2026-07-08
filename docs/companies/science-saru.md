@@ -12,7 +12,8 @@ title: Science SARU
 - **Publisher:** Wired Japan
 - **Language:** Japanese
 - **Company:** Science SARU
-- **Source:** https://wired.jp/article/science-saru-interview-3-the-ghost-in-the-shell-mokochan/
+- **Source:**
+  https://wired.jp/article/science-saru-interview-3-the-ghost-in-the-shell-mokochan/
 
 ---
 
@@ -22,7 +23,8 @@ title: Science SARU
 - **Publisher:** Animate Times
 - **Language:** Japanese
 - **Company:** Science SARU
-- **Source:** https://www.animatetimes.com/news/details.php?id=1782376177&p=1
+- **Source:**
+  https://www.animatetimes.com/news/details.php?id=1782376177&p=1
 
 ---
 
@@ -32,7 +34,8 @@ title: Science SARU
 - **Publisher:** Wired Japan
 - **Language:** Japanese
 - **Company:** Science SARU
-- **Source:** https://wired.jp/article/science-saru-interview-2-a-witch-in-mongolia-naoko-yamada-abel-gongora/
+- **Source:**
+  https://wired.jp/article/science-saru-interview-2-a-witch-in-mongolia-naoko-yamada-abel-gongora/
 
 ---
 
@@ -42,7 +45,8 @@ title: Science SARU
 - **Publisher:** anan
 - **Language:** Japanese
 - **Company:** Science SARU
-- **Source:** https://ananweb.jp/categories/entertainment/101006
+- **Source:**
+  https://ananweb.jp/categories/entertainment/101006
 
 ---
 
@@ -52,7 +56,8 @@ title: Science SARU
 - **Publisher:** AnimeLand
 - **Language:** French
 - **Company:** Science SARU
-- **Source:** https://animeland.fr/2026/07/04/entretien-mokochan-ghost-in-the-shell-annecy/
+- **Source:**
+  https://animeland.fr/2026/07/04/entretien-mokochan-ghost-in-the-shell-annecy/
 
 ---
 
@@ -62,7 +67,8 @@ title: Science SARU
 - **Publisher:** MANTANWEB
 - **Language:** Japanese
 - **Company:** Science SARU
-- **Source:** https://mantan-web.jp/article/20260618dog00m200121000a.html
+- **Source:**
+  https://mantan-web.jp/article/20260618dog00m200121000a.html
 
 ---
 
@@ -72,7 +78,8 @@ title: Science SARU
 - **Publisher:** MANTANWEB
 - **Language:** Japanese
 - **Company:** Science SARU
-- **Source:** https://mantan-web.jp/article/20260618dog00m200122000a.html
+- **Source:**
+  https://mantan-web.jp/article/20260618dog00m200122000a.html
 
 ---
 
@@ -82,7 +89,8 @@ title: Science SARU
 - **Publisher:** Wired Japan
 - **Language:** Japanese
 - **Company:** Science SARU
-- **Source:** https://wired.jp/article/science-saru-interview-1-kohei-sakita/
+- **Source:**
+  https://wired.jp/article/science-saru-interview-1-kohei-sakita/
 
 ---
 

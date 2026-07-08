@@ -12,7 +12,8 @@ title: Wired Japan
 - **Publisher:** Wired Japan
 - **Language:** Japanese
 - **Company:** Science SARU
-- **Source:** https://wired.jp/article/science-saru-interview-3-the-ghost-in-the-shell-mokochan/
+- **Source:**
+  https://wired.jp/article/science-saru-interview-3-the-ghost-in-the-shell-mokochan/
 
 ---
 
@@ -22,7 +23,8 @@ title: Wired Japan
 - **Publisher:** Wired Japan
 - **Language:** Japanese
 - **Company:** Science SARU
-- **Source:** https://wired.jp/article/science-saru-interview-2-a-witch-in-mongolia-naoko-yamada-abel-gongora/
+- **Source:**
+  https://wired.jp/article/science-saru-interview-2-a-witch-in-mongolia-naoko-yamada-abel-gongora/
 
 ---
 
@@ -32,7 +34,8 @@ title: Wired Japan
 - **Publisher:** Wired Japan
 - **Language:** Japanese
 - **Company:** Science SARU
-- **Source:** https://wired.jp/article/science-saru-interview-1-kohei-sakita/
+- **Source:**
+  https://wired.jp/article/science-saru-interview-1-kohei-sakita/
 
 ---
 

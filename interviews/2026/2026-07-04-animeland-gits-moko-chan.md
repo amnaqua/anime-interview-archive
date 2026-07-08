@@ -14,5 +14,7 @@ publisher:
 
 language: fr
 
-url: https://animeland.fr/2026/07/04/entretien-mokochan-ghost-in-the-shell-annecy/
+links:
+  - type: source
+    url: https://animeland.fr/2026/07/04/entretien-mokochan-ghost-in-the-shell-annecy/
 ---

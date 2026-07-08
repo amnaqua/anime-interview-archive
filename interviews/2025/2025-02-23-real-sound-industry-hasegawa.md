@@ -14,5 +14,7 @@ publisher:
 
 language: ja
 
-url: https://realsound.jp/movie/2025/02/post-1934703.html
+links:
+  - type: source
+    url: https://realsound.jp/movie/2025/02/post-1934703.html
 ---

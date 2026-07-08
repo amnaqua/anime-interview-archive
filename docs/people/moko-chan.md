@@ -12,7 +12,8 @@ title: Moko-chan
 - **Publisher:** Wired Japan
 - **Language:** Japanese
 - **Company:** Science SARU
-- **Source:** https://wired.jp/article/science-saru-interview-3-the-ghost-in-the-shell-mokochan/
+- **Source:**
+  https://wired.jp/article/science-saru-interview-3-the-ghost-in-the-shell-mokochan/
 
 ---
 
@@ -22,7 +23,8 @@ title: Moko-chan
 - **Publisher:** AnimeLand
 - **Language:** French
 - **Company:** Science SARU
-- **Source:** https://animeland.fr/2026/07/04/entretien-mokochan-ghost-in-the-shell-annecy/
+- **Source:**
+  https://animeland.fr/2026/07/04/entretien-mokochan-ghost-in-the-shell-annecy/
 
 ---
 

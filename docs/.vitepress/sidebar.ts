@@ -57,6 +57,10 @@ export default {
 {
                 text: "Yūdai Hiraoka",
                 link: "/people/yudai-hiraoka"
+            },
+{
+                text: "Yutaka Nakamura",
+                link: "/people/yutaka-nakamura"
             }
         ]
     }
@@ -164,6 +168,10 @@ export default {
 {
                 text: "The Non-Stop Road",
                 link: "/publishers/non-stop-road"
+            },
+{
+                text: "WEB Anime Style",
+                link: "/publishers/web-anime-style"
             },
 {
                 text: "Wired Japan",

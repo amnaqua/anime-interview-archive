@@ -18,5 +18,7 @@ publisher:
 
 language: ja
 
-url: https://wired.jp/article/science-saru-interview-2-a-witch-in-mongolia-naoko-yamada-abel-gongora/
+links:
+  - type: source
+    url: https://wired.jp/article/science-saru-interview-2-a-witch-in-mongolia-naoko-yamada-abel-gongora/
 ---

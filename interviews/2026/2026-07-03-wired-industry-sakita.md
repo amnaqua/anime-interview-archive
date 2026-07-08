@@ -14,5 +14,7 @@ publisher:
 
 language: ja
 
-url: https://wired.jp/article/science-saru-interview-1-kohei-sakita/
+links:
+  - type: source
+    url: https://wired.jp/article/science-saru-interview-1-kohei-sakita/
 ---

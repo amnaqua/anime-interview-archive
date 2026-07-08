@@ -17,5 +17,7 @@ publisher:
 
 language: ja
 
-url: https://wired.jp/article/science-saru-interview-3-the-ghost-in-the-shell-mokochan/
+links:
+  - type: source
+    url: https://wired.jp/article/science-saru-interview-3-the-ghost-in-the-shell-mokochan/
 ---

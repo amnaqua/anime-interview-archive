@@ -17,3 +17,4 @@ title: People
 - [Shunichi Tsuji](./shunichi-tsuji)
 - [Vincent Chansard](./vincent-chansard)
 - [Yūdai Hiraoka](./yudai-hiraoka)
+- [Yutaka Nakamura](./yutaka-nakamura)

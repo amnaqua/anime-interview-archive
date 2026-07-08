@@ -32,8 +32,32 @@ title: ${title}
         if (interview.companies.length)
             md += `- **Company:** ${interview.companies.join(", ")}\n`;
 
-        if (interview.url)
-            md += `- **Source:** ${interview.url}\n`;
+        const sourceLinks = interview.links.filter(
+            link => link.type === "source"
+        );
+
+        if (sourceLinks.length) {
+            md += "- **Source:**\n";
+
+            for (const link of sourceLinks) {
+                if (link.label)
+                    md += ` - ${link.label}: ${link.url}\n`;
+                else
+                    md += ` ${link.url}\n`;
+            }
+        }
+
+        const translations = interview.links.filter(
+            link => link.type === "translation"
+        );
+
+        if (translations.length) {
+            md += "- **Translations:**\n";
+
+            for (const link of translations) {
+                md += ` - ${link.language}: ${link.url}\n`;
+            }
+        }
 
         md += "\n---\n\n";
     }

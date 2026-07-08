@@ -136,6 +136,10 @@ export default {
                 link: "/works/kaoru-hana"
             },
 {
+                text: "Little Witch Academia",
+                link: "/works/little-witch-academia"
+            },
+{
                 text: "One Piece",
                 link: "/works/one-piece"
             },
@@ -203,6 +207,10 @@ export default {
 {
                 text: "Toei Animation",
                 link: "/companies/toei"
+            },
+{
+                text: "Trigger",
+                link: "/companies/trigger"
             }
         ]
     }
@@ -240,6 +248,10 @@ export default {
 {
                 text: "FAR From Animation",
                 link: "/publishers/far-from-animation"
+            },
+{
+                text: "Fighting for Nippon",
+                link: "/publishers/fighting-for-nippon"
             },
 {
                 text: "Full Frontal",

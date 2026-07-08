@@ -9,7 +9,7 @@ people:
 publisher:
   - anime-style-magazine
 
-language: en
+language: ja
 
 links:
   - type: source

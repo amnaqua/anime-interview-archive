@@ -11,6 +11,7 @@ title: Publishers
 - [Animestyle Magazine](./anime-style-magazine)
 - [CJ Insights](./cj-insights)
 - [FAR From Animation](./far-from-animation)
+- [Fighting for Nippon](./fighting-for-nippon)
 - [Full Frontal](./full-frontal)
 - [fusetter](./fusetter)
 - [Gizmodo](./gizmodo)

@@ -45,5 +45,9 @@
 
   "comix-wave": {
     "name": "CoMix Wave Films"
+  },
+
+  "trigger": {
+    "name": "Trigger"
   }
 }

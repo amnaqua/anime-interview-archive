@@ -10,7 +10,7 @@ title: "Animestyle Magazine"
 
 - **Date:** 2013-03-01
 - **Publisher:** Animestyle Magazine
-- **Language:** English
+- **Language:** Japanese
 - **Source:**  Issue 003 of Animestyle Scans
 - **Translations:**
   - English: https://wavemotioncannon.com/2016/12/19/yoh-yoshinari-interview-animestyle-032013-part-13/

@@ -16,3 +16,4 @@ title: Companies
 - [Signal.MD](./signal-md)
 - [Studio 3Hz](./3hz)
 - [Toei Animation](./toei)
+- [Trigger](./trigger)

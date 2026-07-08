@@ -59,6 +59,10 @@ export default {
                 link: "/people/shuuhei-handa"
             },
 {
+                text: "Sunao Katabuchi",
+                link: "/people/sunao-katabuchi"
+            },
+{
                 text: "Vincent Chansard",
                 link: "/people/vincent-chansard"
             },
@@ -86,6 +90,10 @@ export default {
 {
                 text: "Ghost in the Shell",
                 link: "/works/ghost-in-the-shell"
+            },
+{
+                text: "In This Corner of the World",
+                link: "/works/in-this-corner-of-the-world"
             },
 {
                 text: "Kaoru Hana wa Rin to Saku",

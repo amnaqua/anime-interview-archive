@@ -1,8 +1,8 @@
 ---
-title: "Anime News Network"
+title: "In This Corner of the World"
 ---
 
-# Anime News Network
+# In This Corner of the World
 
 ## Interviews
 
@@ -25,16 +25,6 @@ title: "Anime News Network"
 - **Source:**
   - Part 1: https://www.animenewsnetwork.com/feature/2017-05-18/interview-in-this-corner-of-the-world-director-sunao-katabuchi/.116257
   - Part 2: https://www.animenewsnetwork.com/feature/2017-05-18/interview-in-this-corner-of-the-world-director-sunao-katabuchi/.116258
-
----
-
-### Space Dandy
-
-- **Date:** 2014-04-16
-- **Publisher:** Anime News Network
-- **Language:** English
-- **Company:** Bones
-- **Source:**  https://www.animenewsnetwork.com/interview/2014-04-16/the-space-dandy/part-ii-bahi-jd
 
 ---
 

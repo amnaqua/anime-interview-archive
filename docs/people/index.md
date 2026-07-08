@@ -17,6 +17,7 @@ title: People
 - [Shouko Hori](./shouko-hori)
 - [Shunichi Tsuji](./shunichi-tsuji)
 - [Shuuhei Handa](./shuuhei-handa)
+- [Sunao Katabuchi](./sunao-katabuchi)
 - [Vincent Chansard](./vincent-chansard)
 - [Yūdai Hiraoka](./yudai-hiraoka)
 - [Yutaka Nakamura](./yutaka-nakamura)

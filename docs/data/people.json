@@ -145,5 +145,15 @@
     "roles": [
       "Animator"
     ]
+  },
+
+  "sunao-katabuchi" : {
+    "name": "Sunao Katabuchi",
+    "aliases": [
+      "片渕 須直"
+    ],
+    "roles": [
+      "Director"
+    ]
   }
 }

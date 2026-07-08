@@ -166,6 +166,10 @@ export default {
                 link: "/publishers/gizmodo"
             },
 {
+                text: "Halcyon Realms",
+                link: "/publishers/halcyon-realms"
+            },
+{
                 text: "Kaoru Hana Official Site",
                 link: "/publishers/kaoru-hana"
             },

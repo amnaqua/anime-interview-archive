@@ -11,6 +11,7 @@ title: Publishers
 - [Full Frontal](./full-frontal)
 - [fusetter](./fusetter)
 - [Gizmodo](./gizmodo)
+- [Halcyon Realms](./halcyon-realms)
 - [Kaoru Hana Official Site](./kaoru-hana)
 - [MANTANWEB](./mantanweb)
 - [Medium](./medium)

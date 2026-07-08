@@ -65,5 +65,9 @@
 
   "medium": {
     "name": "Medium"
+  },
+
+  "halcyon-realms": {
+    "name": "Halcyon Realms"
   }
 }

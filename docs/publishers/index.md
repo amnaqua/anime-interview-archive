@@ -13,6 +13,7 @@ title: Publishers
 - [Gizmodo](./gizmodo)
 - [Kaoru Hana Official Site](./kaoru-hana)
 - [MANTANWEB](./mantanweb)
+- [Medium](./medium)
 - [Real Sound](./real-sound)
 - [SHINSEIKI](./shinseiki)
 - [The Non-Stop Road](./non-stop-road)

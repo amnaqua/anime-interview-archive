@@ -137,5 +137,13 @@
     "roles": [
       "Character Design"
     ]
+  },
+
+  "bahi-jd": {
+    "name": "Bahi JD",
+    "aliases": [],
+    "roles": [
+      "Animator"
+    ]
   }
 }

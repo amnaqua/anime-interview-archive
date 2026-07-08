@@ -15,6 +15,10 @@ export default {
                 link: "/people/atsushi-nishigori"
             },
 {
+                text: "Bahi JD",
+                link: "/people/bahi-jd"
+            },
+{
                 text: "Hiroi Hasegawa",
                 link: "/people/hiroi-hasegawa"
             },
@@ -168,6 +172,10 @@ export default {
 {
                 text: "MANTANWEB",
                 link: "/publishers/mantanweb"
+            },
+{
+                text: "Medium",
+                link: "/publishers/medium"
             },
 {
                 text: "Real Sound",

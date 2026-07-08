@@ -6,6 +6,7 @@ title: People
 
 - [Abel Góngora](./abel-gongora)
 - [Atsushi Nishigori](./atsushi-nishigori)
+- [Bahi JD](./bahi-jd)
 - [Hiroi Hasegawa](./hiroi-hasegawa)
 - [Kazuto Arai](./kazuto-arai)
 - [Kouhei Sakita](./kouhei-sakita)

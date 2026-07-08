@@ -1,5 +1,5 @@
 ---
-title: Kouhei Sakita
+title: "Kouhei Sakita"
 ---
 
 # Kouhei Sakita

@@ -1,5 +1,5 @@
 ---
-title: Gizmodo
+title: "Gizmodo"
 ---
 
 # Gizmodo

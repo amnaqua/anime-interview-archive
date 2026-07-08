@@ -1,5 +1,5 @@
 ---
-title: Shunichi Tsuji
+title: "Shunichi Tsuji"
 ---
 
 # Shunichi Tsuji

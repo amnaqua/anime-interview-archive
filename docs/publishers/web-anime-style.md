@@ -1,5 +1,5 @@
 ---
-title: WEB Anime Style
+title: "WEB Anime Style"
 ---
 
 # WEB Anime Style

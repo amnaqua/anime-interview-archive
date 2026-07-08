@@ -1,5 +1,5 @@
 ---
-title: Toei Animation
+title: "Toei Animation"
 ---
 
 # Toei Animation

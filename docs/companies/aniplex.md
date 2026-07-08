@@ -1,5 +1,5 @@
 ---
-title: Aniplex
+title: "Aniplex"
 ---
 
 # Aniplex

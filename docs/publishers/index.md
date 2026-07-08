@@ -18,6 +18,7 @@ title: Publishers
 - [Medium](./medium)
 - [Pelleas](./pelleas)
 - [Real Sound](./real-sound)
+- [Sakuga Blog](./sakuga-blog)
 - [SHINSEIKI](./shinseiki)
 - [The Non-Stop Road](./non-stop-road)
 - [WEB Anime Style](./web-anime-style)

@@ -77,5 +77,9 @@
 
   "ann": {
     "name": "Anime News Network"
+  },
+
+  "sakuga-blog": {
+    "name": "Sakuga Blog"
   }
 }

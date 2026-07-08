@@ -1,5 +1,5 @@
 ---
-title: Shuuhei Handa
+title: "Shuuhei Handa"
 ---
 
 # Shuuhei Handa

@@ -1,5 +1,5 @@
 ---
-title: Tenmaku no Jaadugar
+title: "Tenmaku no Jaadugar"
 ---
 
 # Tenmaku no Jaadugar

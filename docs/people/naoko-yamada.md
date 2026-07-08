@@ -1,5 +1,5 @@
 ---
-title: Naoko Yamada
+title: "Naoko Yamada"
 ---
 
 # Naoko Yamada

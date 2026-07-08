@@ -1,5 +1,5 @@
 ---
-title: Vincent Chansard
+title: "Vincent Chansard"
 ---
 
 # Vincent Chansard

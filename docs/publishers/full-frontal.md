@@ -1,5 +1,5 @@
 ---
-title: Full Frontal
+title: "Full Frontal"
 ---
 
 # Full Frontal

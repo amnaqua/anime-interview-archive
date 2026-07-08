@@ -1,5 +1,5 @@
 ---
-title: Wired Japan
+title: "Wired Japan"
 ---
 
 # Wired Japan

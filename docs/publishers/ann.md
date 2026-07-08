@@ -1,5 +1,5 @@
 ---
-title: Anime News Network
+title: "Anime News Network"
 ---
 
 # Anime News Network

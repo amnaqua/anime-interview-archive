@@ -1,5 +1,5 @@
 ---
-title: Yutaka Nakamura
+title: "Yutaka Nakamura"
 ---
 
 # Yutaka Nakamura

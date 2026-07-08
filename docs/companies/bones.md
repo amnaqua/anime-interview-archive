@@ -1,5 +1,5 @@
 ---
-title: Bones
+title: "Bones"
 ---
 
 # Bones

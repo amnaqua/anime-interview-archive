@@ -1,5 +1,5 @@
 ---
-title: Kazuto Arai
+title: "Kazuto Arai"
 ---
 
 # Kazuto Arai

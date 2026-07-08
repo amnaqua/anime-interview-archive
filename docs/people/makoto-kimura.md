@@ -1,5 +1,5 @@
 ---
-title: Makoto Kimura
+title: "Makoto Kimura"
 ---
 
 # Makoto Kimura

@@ -1,5 +1,5 @@
 ---
-title: Pelleas
+title: "Pelleas"
 ---
 
 # Pelleas

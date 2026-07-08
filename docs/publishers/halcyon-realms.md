@@ -1,5 +1,5 @@
 ---
-title: Halcyon Realms
+title: "Halcyon Realms"
 ---
 
 # Halcyon Realms

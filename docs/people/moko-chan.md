@@ -1,5 +1,5 @@
 ---
-title: Moko-chan
+title: "Moko-chan"
 ---
 
 # Moko-chan

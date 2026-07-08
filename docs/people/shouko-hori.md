@@ -1,5 +1,5 @@
 ---
-title: Shouko Hori
+title: "Shouko Hori"
 ---
 
 # Shouko Hori

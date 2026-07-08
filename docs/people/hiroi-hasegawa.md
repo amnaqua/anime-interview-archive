@@ -1,5 +1,5 @@
 ---
-title: Hiroi Hasegawa
+title: "Hiroi Hasegawa"
 ---
 
 # Hiroi Hasegawa

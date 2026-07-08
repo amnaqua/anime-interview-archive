@@ -1,5 +1,5 @@
 ---
-title: Space☆Dandy
+title: "Space☆Dandy"
 ---
 
 # Space☆Dandy

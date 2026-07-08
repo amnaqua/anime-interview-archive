@@ -1,5 +1,5 @@
 ---
-title: Ghost in the Shell
+title: "Ghost in the Shell"
 ---
 
 # Ghost in the Shell

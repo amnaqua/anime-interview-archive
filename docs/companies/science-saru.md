@@ -1,5 +1,5 @@
 ---
-title: Science SARU
+title: "Science SARU"
 ---
 
 # Science SARU

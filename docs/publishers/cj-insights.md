@@ -1,5 +1,5 @@
 ---
-title: CJ Insights
+title: "CJ Insights"
 ---
 
 # CJ Insights

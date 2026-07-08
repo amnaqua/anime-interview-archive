@@ -1,5 +1,5 @@
 ---
-title: X (twitter)
+title: "X (twitter)"
 ---
 
 # X (twitter)

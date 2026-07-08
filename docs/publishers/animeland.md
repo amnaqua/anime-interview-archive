@@ -1,5 +1,5 @@
 ---
-title: AnimeLand
+title: "AnimeLand"
 ---
 
 # AnimeLand

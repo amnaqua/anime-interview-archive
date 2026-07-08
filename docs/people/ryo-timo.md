@@ -1,5 +1,5 @@
 ---
-title: Ryo-Timo
+title: "Ryo-Timo"
 ---
 
 # Ryo-Timo

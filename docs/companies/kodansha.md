@@ -1,5 +1,5 @@
 ---
-title: Kodansha
+title: "Kodansha"
 ---
 
 # Kodansha

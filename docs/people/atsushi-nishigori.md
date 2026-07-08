@@ -1,5 +1,5 @@
 ---
-title: Atsushi Nishigori
+title: "Atsushi Nishigori"
 ---
 
 # Atsushi Nishigori

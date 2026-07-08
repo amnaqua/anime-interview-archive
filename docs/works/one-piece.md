@@ -1,5 +1,5 @@
 ---
-title: One Piece
+title: "One Piece"
 ---
 
 # One Piece

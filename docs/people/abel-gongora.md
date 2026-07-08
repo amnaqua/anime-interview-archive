@@ -1,5 +1,5 @@
 ---
-title: Abel Góngora
+title: "Abel Góngora"
 ---
 
 # Abel Góngora

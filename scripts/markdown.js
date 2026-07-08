@@ -3,7 +3,7 @@ export function buildMarkdown(title, interviews) {
     interviews.sort((a, b) => b.date.localeCompare(a.date));
 
     let md = `---
-title: ${title}
+title: ${JSON.stringify(title)}
 ---
 
 # ${title}

@@ -1,5 +1,5 @@
 ---
-title: Kaoru Hana Official Site
+title: "Kaoru Hana Official Site"
 ---
 
 # Kaoru Hana Official Site

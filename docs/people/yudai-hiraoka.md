@@ -1,5 +1,5 @@
 ---
-title: Yūdai Hiraoka
+title: "Yūdai Hiraoka"
 ---
 
 # Yūdai Hiraoka

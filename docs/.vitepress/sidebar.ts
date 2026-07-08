@@ -80,6 +80,10 @@ export default {
         collapsed: false,
         items: [
             {
+                text: "Atom: The Beginning",
+                link: "/works/atom-the-beginning"
+            },
+{
                 text: "Ghost in the Shell",
                 link: "/works/ghost-in-the-shell"
             },
@@ -129,8 +133,20 @@ export default {
                 link: "/companies/mappa"
             },
 {
+                text: "OLM",
+                link: "/companies/olm"
+            },
+{
+                text: "Production I.G",
+                link: "/companies/production-ig"
+            },
+{
                 text: "Science SARU",
                 link: "/companies/science-saru"
+            },
+{
+                text: "Signal.MD",
+                link: "/companies/signal-md"
             },
 {
                 text: "Toei Animation",
@@ -200,6 +216,10 @@ export default {
 {
                 text: "Real Sound",
                 link: "/publishers/real-sound"
+            },
+{
+                text: "Sakuga Blog",
+                link: "/publishers/sakuga-blog"
             },
 {
                 text: "SHINSEIKI",

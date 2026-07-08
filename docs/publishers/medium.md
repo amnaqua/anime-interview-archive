@@ -1,5 +1,5 @@
 ---
-title: Medium
+title: "Medium"
 ---
 
 # Medium

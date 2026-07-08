@@ -25,5 +25,17 @@
 
   "bones": {
     "name": "Bones"
+  },
+
+  "production-ig": {
+    "name": "Production I.G"
+  },
+
+  "olm": {
+    "name": "OLM"
+  },
+
+  "signal-md": {
+    "name": "Signal.MD"
   }
 }

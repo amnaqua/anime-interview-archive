@@ -1,5 +1,5 @@
 ---
-title: Kaoru Hana wa Rin to Saku
+title: "Kaoru Hana wa Rin to Saku"
 ---
 
 # Kaoru Hana wa Rin to Saku

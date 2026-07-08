@@ -1,5 +1,5 @@
 ---
-title: SHINSEIKI
+title: "SHINSEIKI"
 ---
 
 # SHINSEIKI

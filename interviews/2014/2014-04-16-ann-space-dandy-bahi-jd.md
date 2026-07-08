@@ -11,6 +11,9 @@ publisher:
   
 work:
   - space-dandy
+  
+companies:
+  - bones
 
 language: en
 

@@ -18,17 +18,6 @@ title: "MAPPA"
 
 ### In This Corner of the World
 
-- **Date:** 2017-08-15
-- **Publisher:** OtaCrew
-- **Language:** Japanese
-- **Company:** MAPPA
-- **Translations:**
-  - English: https://wavemotioncannon.com/2017/08/15/in-this-corner-of-the-world-an-exclusive-interview-with-director-sunao-katabuchi/
-
----
-
-### In This Corner of the World
-
 - **Date:** 2017-08-11
 - **Publisher:** Anime News Network
 - **Language:** English
@@ -46,6 +35,17 @@ title: "MAPPA"
 - **Source:**
   - Part 1: https://www.animenewsnetwork.com/feature/2017-05-18/interview-in-this-corner-of-the-world-director-sunao-katabuchi/.116257
   - Part 2: https://www.animenewsnetwork.com/feature/2017-05-18/interview-in-this-corner-of-the-world-director-sunao-katabuchi/.116258
+
+---
+
+### In This Corner of the World
+
+- **Date:** 2017
+- **Publisher:** OtaCrew
+- **Language:** Japanese
+- **Company:** MAPPA
+- **Translations:**
+  - English: https://wavemotioncannon.com/2017/08/15/in-this-corner-of-the-world-an-exclusive-interview-with-director-sunao-katabuchi/
 
 ---
 

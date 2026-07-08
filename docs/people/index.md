@@ -19,6 +19,7 @@ title: People
 - [Moko-chan](./moko-chan)
 - [Naoko Yamada](./naoko-yamada)
 - [Ryo-Timo](./ryo-timo)
+- [Shouji Murahama](./shouji-murahama)
 - [Shouko Hori](./shouko-hori)
 - [Shunichi Tsuji](./shunichi-tsuji)
 - [Shuuhei Handa](./shuuhei-handa)

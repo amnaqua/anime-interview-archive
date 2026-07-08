@@ -67,6 +67,10 @@ export default {
                 link: "/people/ryo-timo"
             },
 {
+                text: "Shouji Murahama",
+                link: "/people/shouji-murahama"
+            },
+{
                 text: "Shouko Hori",
                 link: "/people/shouko-hori"
             },

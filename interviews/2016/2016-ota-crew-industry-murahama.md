@@ -1,19 +1,13 @@
 ---
-title: In This Corner of the World
+title: From DAICON to GONZO to EMON
 
-date: 2017-08-15
+date: "2016"
 
 people:
-  - sunao-katabuchi
+  - shouji-murahama
 
 publisher:
   - ota-crew
-  
-work:
-  - in-this-corner-of-the-world
-  
-companies:
-  - mappa
 
 language: ja
 

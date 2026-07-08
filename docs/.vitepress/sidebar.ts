@@ -43,6 +43,10 @@ export default {
                 link: "/people/mamoru-oshii"
             },
 {
+                text: "Masahiko Minami",
+                link: "/people/masahiko-minami"
+            },
+{
                 text: "Moko-chan",
                 link: "/people/moko-chan"
             },

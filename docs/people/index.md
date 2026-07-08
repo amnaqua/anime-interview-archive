@@ -13,6 +13,7 @@ title: People
 - [Kouhei Sakita](./kouhei-sakita)
 - [Makoto Kimura](./makoto-kimura)
 - [Mamoru Oshii](./mamoru-oshii)
+- [Masahiko Minami](./masahiko-minami)
 - [Moko-chan](./moko-chan)
 - [Naoko Yamada](./naoko-yamada)
 - [Ryo-Timo](./ryo-timo)

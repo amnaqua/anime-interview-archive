@@ -173,5 +173,15 @@
       "奈須 きのこ"
     ],
     "roles": []
+  },
+
+  "masahiko-minami": {
+    "name": "Masahiko Minami",
+    "aliases": [
+      "南 雅彦"
+    ],
+    "roles": [
+      "Producer"
+    ]
   }
 }

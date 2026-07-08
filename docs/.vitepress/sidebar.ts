@@ -31,6 +31,10 @@ export default {
                 link: "/people/kinoko-nasu"
             },
 {
+                text: "Kiyotaka Oshiyama",
+                link: "/people/kiyotaka-oshiyama"
+            },
+{
                 text: "Kouhei Sakita",
                 link: "/people/kouhei-sakita"
             },
@@ -98,6 +102,10 @@ export default {
             {
                 text: "Atom: The Beginning",
                 link: "/works/atom-the-beginning"
+            },
+{
+                text: "Flip Flappers",
+                link: "/works/flip-flappers"
             },
 {
                 text: "Ghost in the Shell",
@@ -169,6 +177,10 @@ export default {
                 link: "/companies/signal-md"
             },
 {
+                text: "Studio 3Hz",
+                link: "/companies/3hz"
+            },
+{
                 text: "Toei Animation",
                 link: "/companies/toei"
             }
@@ -200,6 +212,10 @@ export default {
 {
                 text: "CJ Insights",
                 link: "/publishers/cj-insights"
+            },
+{
+                text: "FAR From Animation",
+                link: "/publishers/far-from-animation"
             },
 {
                 text: "Full Frontal",

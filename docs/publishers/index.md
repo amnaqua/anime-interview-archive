@@ -9,6 +9,7 @@ title: Publishers
 - [Anime News Network](./ann)
 - [AnimeLand](./animeland)
 - [CJ Insights](./cj-insights)
+- [FAR From Animation](./far-from-animation)
 - [Full Frontal](./full-frontal)
 - [fusetter](./fusetter)
 - [Gizmodo](./gizmodo)

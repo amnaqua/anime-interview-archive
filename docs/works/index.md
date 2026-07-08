@@ -5,6 +5,7 @@ title: Works
 # Works
 
 - [Atom: The Beginning](./atom-the-beginning)
+- [Flip Flappers](./flip-flappers)
 - [Ghost in the Shell](./ghost-in-the-shell)
 - [In This Corner of the World](./in-this-corner-of-the-world)
 - [Kaoru Hana wa Rin to Saku](./kaoru-hana)

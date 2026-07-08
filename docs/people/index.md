@@ -10,6 +10,7 @@ title: People
 - [Hiroi Hasegawa](./hiroi-hasegawa)
 - [Kazuto Arai](./kazuto-arai)
 - [Kinoko Nasu](./kinoko-nasu)
+- [Kiyotaka Oshiyama](./kiyotaka-oshiyama)
 - [Kouhei Sakita](./kouhei-sakita)
 - [Makoto Kimura](./makoto-kimura)
 - [Mamoru Oshii](./mamoru-oshii)

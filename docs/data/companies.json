@@ -37,5 +37,9 @@
 
   "signal-md": {
     "name": "Signal.MD"
+  },
+
+  "3hz": {
+    "name": "Studio 3Hz"
   }
 }

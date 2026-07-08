@@ -183,5 +183,16 @@
     "roles": [
       "Producer"
     ]
+  },
+
+  "kiyotaka-oshiyama": {
+    "name": "Kiyotaka Oshiyama",
+    "aliases": [
+      "押山 清高"
+    ],
+    "roles": [
+      "Director",
+      "Animator"
+    ]
   }
 }

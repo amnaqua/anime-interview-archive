@@ -21,6 +21,7 @@ title: Publishers
 - [Kinema Junpo Sha](./kinema-junpo-sha)
 - [MANTANWEB](./mantanweb)
 - [Medium](./medium)
+- [Oricon](./oricon)
 - [OtaCrew](./ota-crew)
 - [Pelleas](./pelleas)
 - [Real Sound](./real-sound)

@@ -16,5 +16,6 @@ title: Companies
 - [Science SARU](./science-saru)
 - [Signal.MD](./signal-md)
 - [Studio 3Hz](./3hz)
+- [Studio Ghibli](./ghibli)
 - [Toei Animation](./toei)
 - [Trigger](./trigger)

@@ -19,6 +19,10 @@ export default {
                 link: "/people/bahi-jd"
             },
 {
+                text: "Gorou Miyazaki",
+                link: "/people/gorou-miyazaki"
+            },
+{
                 text: "Hiroi Hasegawa",
                 link: "/people/hiroi-hasegawa"
             },
@@ -221,6 +225,10 @@ export default {
                 link: "/companies/3hz"
             },
 {
+                text: "Studio Ghibli",
+                link: "/companies/ghibli"
+            },
+{
                 text: "Toei Animation",
                 link: "/companies/toei"
             },
@@ -304,6 +312,10 @@ export default {
 {
                 text: "Medium",
                 link: "/publishers/medium"
+            },
+{
+                text: "Oricon",
+                link: "/publishers/oricon"
             },
 {
                 text: "OtaCrew",

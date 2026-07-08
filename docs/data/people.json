@@ -255,5 +255,15 @@
     "roles": [
       "Producer"
     ]
+  },
+
+  "gorou-miyazaki": {
+    "name": "Gorou Miyazaki",
+    "aliases": [
+      "宮崎 吾朗"
+    ],
+    "roles": [
+      "Director"
+    ]
   }
 }

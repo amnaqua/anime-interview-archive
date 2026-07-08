@@ -7,6 +7,7 @@ title: People
 - [Abel Góngora](./abel-gongora)
 - [Atsushi Nishigori](./atsushi-nishigori)
 - [Bahi JD](./bahi-jd)
+- [Gorou Miyazaki](./gorou-miyazaki)
 - [Hiroi Hasegawa](./hiroi-hasegawa)
 - [Kazuto Arai](./kazuto-arai)
 - [Kenichi Sonoda](./kenichi-sonoda)

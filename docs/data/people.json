@@ -214,5 +214,15 @@
     "roles": [
       "Producer"
     ]
+  },
+
+  "kenichi-sonoda": {
+    "name": "Kenichi Sonoda",
+    "aliases": [
+      "園田 健一"
+    ],
+    "roles": [
+      "Mangaka"
+    ]
   }
 }

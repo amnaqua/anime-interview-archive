@@ -27,6 +27,10 @@ export default {
                 link: "/people/kazuto-arai"
             },
 {
+                text: "Kenichi Sonoda",
+                link: "/people/kenichi-sonoda"
+            },
+{
                 text: "Kinoko Nasu",
                 link: "/people/kinoko-nasu"
             },

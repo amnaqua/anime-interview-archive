@@ -1,0 +1,17 @@
+---
+title: What Shapes My Soul (Nasu Kinoko, on Ikuhara Kunihiko)
+
+date: 2017-08-20
+
+people:
+  - kinoko-nasu
+
+publisher:
+  - wakame-paradise
+
+language: en
+
+links:
+  - type: source
+    url: https://wakameparadise.wordpress.com/2017/08/20/nasu-ikuhara/
+---

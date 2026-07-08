@@ -9,6 +9,7 @@ title: People
 - [Bahi JD](./bahi-jd)
 - [Hiroi Hasegawa](./hiroi-hasegawa)
 - [Kazuto Arai](./kazuto-arai)
+- [Kinoko Nasu](./kinoko-nasu)
 - [Kouhei Sakita](./kouhei-sakita)
 - [Makoto Kimura](./makoto-kimura)
 - [Mamoru Oshii](./mamoru-oshii)

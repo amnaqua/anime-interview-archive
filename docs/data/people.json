@@ -165,5 +165,13 @@
     "roles": [
       "Director"
     ]
+  },
+
+  "kinoko-nasu": {
+    "name": "Kinoko Nasu",
+    "aliases": [
+      "奈須 きのこ"
+    ],
+    "roles": []
   }
 }

@@ -27,6 +27,10 @@ export default {
                 link: "/people/kazuto-arai"
             },
 {
+                text: "Kinoko Nasu",
+                link: "/people/kinoko-nasu"
+            },
+{
                 text: "Kouhei Sakita",
                 link: "/people/kouhei-sakita"
             },
@@ -244,6 +248,10 @@ export default {
 {
                 text: "The Non-Stop Road",
                 link: "/publishers/non-stop-road"
+            },
+{
+                text: "Wakame Paradise",
+                link: "/publishers/wakame-paradise"
             },
 {
                 text: "Wave Motion Cannon",

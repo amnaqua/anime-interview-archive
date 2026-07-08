@@ -95,6 +95,10 @@ export default {
                 link: "/people/vincent-chansard"
             },
 {
+                text: "You Yoshinari",
+                link: "/people/you-yoshinari"
+            },
+{
                 text: "Yūdai Hiraoka",
                 link: "/people/yudai-hiraoka"
             },
@@ -224,6 +228,10 @@ export default {
 {
                 text: "AnimeLand",
                 link: "/publishers/animeland"
+            },
+{
+                text: "Animestyle Magazine",
+                link: "/publishers/anime-style-magazine"
             },
 {
                 text: "CJ Insights",

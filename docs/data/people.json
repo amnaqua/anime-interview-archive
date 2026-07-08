@@ -224,5 +224,16 @@
     "roles": [
       "Mangaka"
     ]
+  },
+
+  "you-yoshinari": {
+    "name": "You Yoshinari",
+    "aliases": [
+      "吉成 曜"
+    ],
+    "roles": [
+      "Director",
+      "Animator"
+    ]
   }
 }

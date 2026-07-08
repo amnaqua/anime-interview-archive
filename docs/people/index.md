@@ -26,5 +26,6 @@ title: People
 - [Shuuhei Handa](./shuuhei-handa)
 - [Sunao Katabuchi](./sunao-katabuchi)
 - [Vincent Chansard](./vincent-chansard)
+- [You Yoshinari](./you-yoshinari)
 - [Yūdai Hiraoka](./yudai-hiraoka)
 - [Yutaka Nakamura](./yutaka-nakamura)

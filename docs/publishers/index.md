@@ -8,6 +8,7 @@ title: Publishers
 - [Animate Times](./animate-times)
 - [Anime News Network](./ann)
 - [AnimeLand](./animeland)
+- [Animestyle Magazine](./anime-style-magazine)
 - [CJ Insights](./cj-insights)
 - [FAR From Animation](./far-from-animation)
 - [Full Frontal](./full-frontal)

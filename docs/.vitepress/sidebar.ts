@@ -222,6 +222,10 @@ export default {
                 link: "/publishers/kaoru-hana"
             },
 {
+                text: "Kinema Junpo Sha",
+                link: "/publishers/kinema-junpo-sha"
+            },
+{
                 text: "MANTANWEB",
                 link: "/publishers/mantanweb"
             },
@@ -230,8 +234,8 @@ export default {
                 link: "/publishers/medium"
             },
 {
-                text: "Nausicaa",
-                link: "/publishers/nausicaa"
+                text: "OtaCrew",
+                link: "/publishers/ota-crew"
             },
 {
                 text: "Pelleas",
@@ -256,10 +260,6 @@ export default {
 {
                 text: "Wakame Paradise",
                 link: "/publishers/wakame-paradise"
-            },
-{
-                text: "Wave Motion Cannon",
-                link: "/publishers/wave-motion"
             },
 {
                 text: "WEB Anime Style",

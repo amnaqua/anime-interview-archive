@@ -1,8 +1,8 @@
 ---
-title: "Mamoru Oshii"
+title: "Kinema Junpo Sha"
 ---
 
-# Mamoru Oshii
+# Kinema Junpo Sha
 
 ## Interviews
 

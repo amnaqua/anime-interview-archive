@@ -7,7 +7,7 @@ people:
   - sunao-katabuchi
 
 publisher:
-  - wave-motion
+  - ota-crew
   
 work:
   - in-this-corner-of-the-world
@@ -15,9 +15,10 @@ work:
 companies:
   - mappa
 
-language: en
+language: ja
 
 links:
-  - type: source
+  - type: translation
+    language: en
     url: https://wavemotioncannon.com/2017/08/15/in-this-corner-of-the-world-an-exclusive-interview-with-director-sunao-katabuchi/
 ---

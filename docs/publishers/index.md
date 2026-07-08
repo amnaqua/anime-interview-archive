@@ -21,6 +21,7 @@ title: Publishers
 - [Sakuga Blog](./sakuga-blog)
 - [SHINSEIKI](./shinseiki)
 - [The Non-Stop Road](./non-stop-road)
+- [Wave Motion Cannon](./wave-motion)
 - [WEB Anime Style](./web-anime-style)
 - [Wired Japan](./wired-japan)
 - [X (twitter)](./twitter)

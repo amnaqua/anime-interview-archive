@@ -238,6 +238,10 @@ export default {
                 link: "/publishers/non-stop-road"
             },
 {
+                text: "Wave Motion Cannon",
+                link: "/publishers/wave-motion"
+            },
+{
                 text: "WEB Anime Style",
                 link: "/publishers/web-anime-style"
             },

@@ -17,4 +17,6 @@ language: en
 links:
   - type: source
     url: https://www.animenewsnetwork.com/feature/2017-04-28/interview-comix-wave-koichiro-ito/.115324
+
+archived_at: 2026-07-09 00:02
 ---

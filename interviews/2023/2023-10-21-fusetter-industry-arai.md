@@ -14,4 +14,6 @@ language: ja
 links:
   - type: source
     url: https://fusetter.com/tw/T840GZXY#all
+
+archived_at: 2026-07-07 18:28
 ---

@@ -21,4 +21,6 @@ language: ja
 links:
   - type: source
     url: https://kaoruhana-anime.com/special/interview/01.html
+
+archived_at: 2026-07-07 17:38
 ---

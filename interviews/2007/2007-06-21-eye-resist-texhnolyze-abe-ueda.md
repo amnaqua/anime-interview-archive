@@ -25,4 +25,6 @@ links:
   - type: translation
     language: en
     url: https://eyeresist.wordpress.com/2007/06/21/texhnolyze-interview/
+
+archived_at: 2026-07-09 1:34
 ---

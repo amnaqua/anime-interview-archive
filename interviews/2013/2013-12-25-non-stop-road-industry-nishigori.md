@@ -14,4 +14,6 @@ language: en
 links:
   - type: source
     url: https://nonstoproad.wordpress.com/2013/12/25/christmas-present-nishigori-atsushi-interview/
+
+archived_at: 2026-07-07 17:44
 ---

@@ -31,4 +31,6 @@ links:
   - type: translation
     language: en
     url: https://wavemotioncannon.com/2016/11/02/interview-yutaka-nakamura-web-anime-style-7192003-part-2/
+
+archived_at: 2026-07-08 21:32
 ---

@@ -26,4 +26,6 @@ links:
   - type: translation
     language: en
     url: https://wavemotioncannon.com/2017/01/03/yoh-yoshinari-interview-animestyle-032013-part-33/
+
+archived_at: 2026-07-09 00:22
 ---

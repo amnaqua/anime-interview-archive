@@ -53,5 +53,13 @@
 
   "web-anime-style": {
     "name": "WEB Anime Style"
+  },
+
+  "gizmodo": {
+    "name": "Gizmodo"
+  },
+
+  "shinseiki": {
+    "name": "SHINSEIKI"
   }
 }

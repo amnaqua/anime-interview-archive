@@ -51,6 +51,10 @@ export default {
                 link: "/people/shunichi-tsuji"
             },
 {
+                text: "Shuuhei Handa",
+                link: "/people/shuuhei-handa"
+            },
+{
                 text: "Vincent Chansard",
                 link: "/people/vincent-chansard"
             },
@@ -154,6 +158,10 @@ export default {
                 link: "/publishers/fusetter"
             },
 {
+                text: "Gizmodo",
+                link: "/publishers/gizmodo"
+            },
+{
                 text: "Kaoru Hana Official Site",
                 link: "/publishers/kaoru-hana"
             },
@@ -164,6 +172,10 @@ export default {
 {
                 text: "Real Sound",
                 link: "/publishers/real-sound"
+            },
+{
+                text: "SHINSEIKI",
+                link: "/publishers/shinseiki"
             },
 {
                 text: "The Non-Stop Road",

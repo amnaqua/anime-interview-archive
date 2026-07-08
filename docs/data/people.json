@@ -127,5 +127,15 @@
     "roles": [
       "Animator"
     ]
+  },
+
+  "shuuhei-handa": {
+    "name": "Shuuhei Handa",
+    "aliases": [
+      "半田 修平"
+    ],
+    "roles": [
+      "Character Design"
+    ]
   }
 }

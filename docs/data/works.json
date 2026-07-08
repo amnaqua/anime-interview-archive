@@ -17,5 +17,10 @@
   "one-piece": {
     "name": "One Piece",
     "year": 1999
+  },
+
+  "space-dandy": {
+    "name": "Space☆Dandy",
+    "year": 2014
   }
 }

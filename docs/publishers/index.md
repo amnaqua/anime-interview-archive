@@ -6,6 +6,7 @@ title: Publishers
 
 - [anan](./anan)
 - [Animate Times](./animate-times)
+- [Anime News Network](./ann)
 - [AnimeLand](./animeland)
 - [CJ Insights](./cj-insights)
 - [Full Frontal](./full-frontal)

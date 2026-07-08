@@ -15,6 +15,15 @@ title: Bahi JD
 
 ---
 
+### Space Dandy
+
+- **Date:** 2014-04-16
+- **Publisher:** Anime News Network
+- **Language:** English
+- **Source:**  https://www.animenewsnetwork.com/interview/2014-04-16/the-space-dandy/part-ii-bahi-jd
+
+---
+
 ### About Anime Industry
 
 - **Date:** 2013-01-18

@@ -92,6 +92,10 @@ export default {
                 link: "/works/one-piece"
             },
 {
+                text: "Space☆Dandy",
+                link: "/works/space-dandy"
+            },
+{
                 text: "Tenmaku no Jaadugar",
                 link: "/works/tenmaku-no-jaadugar"
             }
@@ -107,6 +111,10 @@ export default {
             {
                 text: "Aniplex",
                 link: "/companies/aniplex"
+            },
+{
+                text: "Bones",
+                link: "/companies/bones"
             },
 {
                 text: "CloverWorks",
@@ -144,6 +152,10 @@ export default {
 {
                 text: "Animate Times",
                 link: "/publishers/animate-times"
+            },
+{
+                text: "Anime News Network",
+                link: "/publishers/ann"
             },
 {
                 text: "AnimeLand",

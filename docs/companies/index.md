@@ -5,6 +5,7 @@ title: Companies
 # Companies
 
 - [Aniplex](./aniplex)
+- [Bones](./bones)
 - [CloverWorks](./clover-works)
 - [Kodansha](./kodansha)
 - [MAPPA](./mappa)

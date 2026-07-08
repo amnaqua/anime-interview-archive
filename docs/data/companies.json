@@ -21,5 +21,9 @@
 
   "toei": {
     "name": "Toei Animation"
+  },
+
+  "bones": {
+    "name": "Bones"
   }
 }

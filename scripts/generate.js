@@ -79,7 +79,7 @@ async function main() {
 
             archived_at:
                 data.archived_at instanceof Date
-                    ? data.archived_at.toISOString().slice(0, 10)
+                    ? data.archived_at.toISOString().slice(0, 16).replace("T", " ")
                     : data.archived_at,
 
             links: (data.links ?? []).map(link => ({
@@ -184,7 +184,9 @@ async function main() {
 
     const latestInterviews = interviews
         .filter(i => i.archived_at)
-        .sort((a, b) => b.archived_at.localeCompare(a.archived_at))
+        .sort((a, b) => {
+            return b.archived_at.localeCompare(a.archived_at);
+        })
         .slice(0, 10);
 
     await generateHome({

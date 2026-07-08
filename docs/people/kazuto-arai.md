@@ -11,8 +11,7 @@ title: Kazuto Arai
 - **Date:** 2023-10-21
 - **Publisher:** fusetter
 - **Language:** Japanese
-- **Source:**
- https://fusetter.com/tw/T840GZXY#all
+- **Source:**  https://fusetter.com/tw/T840GZXY#all
 
 ---
 

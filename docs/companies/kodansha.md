@@ -12,8 +12,7 @@ title: Kodansha
 - **Publisher:** Kaoru Hana Official Site
 - **Language:** Japanese
 - **Company:** CloverWorks, Kodansha, Aniplex
-- **Source:**
- https://kaoruhana-anime.com/special/interview/01.html
+- **Source:**  https://kaoruhana-anime.com/special/interview/01.html
 
 ---
 

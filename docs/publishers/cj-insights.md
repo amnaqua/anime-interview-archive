@@ -11,8 +11,7 @@ title: CJ Insights
 - **Date:** 2024-04-25
 - **Publisher:** CJ Insights
 - **Language:** Japanese
-- **Source:**
- https://www.cjinsights.cj-fund.co.jp/trends/812/
+- **Source:**  https://www.cjinsights.cj-fund.co.jp/trends/812/
 
 ---
 

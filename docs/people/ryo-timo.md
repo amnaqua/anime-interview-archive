@@ -11,8 +11,7 @@ title: Ryo-Timo
 - **Date:** 2023-12-15
 - **Publisher:** Full Frontal
 - **Language:** English
-- **Source:**
- https://fullfrontal.moe/webgen-ryo-timo/
+- **Source:**  https://fullfrontal.moe/webgen-ryo-timo/
 
 ---
 

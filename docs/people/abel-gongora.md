@@ -12,8 +12,7 @@ title: Abel Góngora
 - **Publisher:** Animate Times
 - **Language:** Japanese
 - **Company:** Science SARU
-- **Source:**
- https://www.animatetimes.com/news/details.php?id=1782376177&p=1
+- **Source:**  https://www.animatetimes.com/news/details.php?id=1782376177&p=1
 
 ---
 
@@ -23,8 +22,7 @@ title: Abel Góngora
 - **Publisher:** Wired Japan
 - **Language:** Japanese
 - **Company:** Science SARU
-- **Source:**
- https://wired.jp/article/science-saru-interview-2-a-witch-in-mongolia-naoko-yamada-abel-gongora/
+- **Source:**  https://wired.jp/article/science-saru-interview-2-a-witch-in-mongolia-naoko-yamada-abel-gongora/
 
 ---
 
@@ -34,8 +32,7 @@ title: Abel Góngora
 - **Publisher:** MANTANWEB
 - **Language:** Japanese
 - **Company:** Science SARU
-- **Source:**
- https://mantan-web.jp/article/20260618dog00m200121000a.html
+- **Source:**  https://mantan-web.jp/article/20260618dog00m200121000a.html
 
 ---
 

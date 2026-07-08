@@ -12,8 +12,7 @@ title: anan
 - **Publisher:** anan
 - **Language:** Japanese
 - **Company:** Science SARU
-- **Source:**
- https://ananweb.jp/categories/entertainment/101006
+- **Source:**  https://ananweb.jp/categories/entertainment/101006
 
 ---
 

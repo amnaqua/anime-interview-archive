@@ -37,13 +37,20 @@ title: ${title}
         );
 
         if (sourceLinks.length) {
-            md += "- **Source:**\n";
+            md += "- **Source:**";
 
+            let i = 0;
             for (const link of sourceLinks) {
-                if (link.label)
-                    md += ` - ${link.label}: ${link.url}\n`;
+                if (link.label) {
+                    if (i === 0) {
+                        md += '\n'
+                    }
+
+                    md += `  - ${link.label}: ${link.url}\n`;
+                }
                 else
-                    md += ` ${link.url}\n`;
+                    md += `  ${link.url}\n`;
+                ++i;
             }
         }
 
@@ -55,7 +62,7 @@ title: ${title}
             md += "- **Translations:**\n";
 
             for (const link of translations) {
-                md += ` - ${link.language}: ${link.url}\n`;
+                md += `  - ${link.language}: ${link.url}\n`;
             }
         }
 

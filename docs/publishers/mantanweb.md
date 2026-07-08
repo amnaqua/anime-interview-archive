@@ -12,8 +12,7 @@ title: MANTANWEB
 - **Publisher:** MANTANWEB
 - **Language:** Japanese
 - **Company:** Science SARU
-- **Source:**
- https://mantan-web.jp/article/20260618dog00m200121000a.html
+- **Source:**  https://mantan-web.jp/article/20260618dog00m200121000a.html
 
 ---
 
@@ -23,8 +22,7 @@ title: MANTANWEB
 - **Publisher:** MANTANWEB
 - **Language:** Japanese
 - **Company:** Science SARU
-- **Source:**
- https://mantan-web.jp/article/20260618dog00m200122000a.html
+- **Source:**  https://mantan-web.jp/article/20260618dog00m200122000a.html
 
 ---
 

@@ -12,8 +12,7 @@ title: Kouhei Sakita
 - **Publisher:** Wired Japan
 - **Language:** Japanese
 - **Company:** Science SARU
-- **Source:**
- https://wired.jp/article/science-saru-interview-1-kohei-sakita/
+- **Source:**  https://wired.jp/article/science-saru-interview-1-kohei-sakita/
 
 ---
 

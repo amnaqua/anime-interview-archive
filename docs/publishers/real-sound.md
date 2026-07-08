@@ -12,8 +12,7 @@ title: Real Sound
 - **Publisher:** Real Sound
 - **Language:** Japanese
 - **Company:** MAPPA
-- **Source:**
- https://realsound.jp/movie/2025/02/post-1934703.html
+- **Source:**  https://realsound.jp/movie/2025/02/post-1934703.html
 
 ---
 

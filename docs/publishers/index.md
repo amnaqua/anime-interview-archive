@@ -16,6 +16,7 @@ title: Publishers
 - [Kaoru Hana Official Site](./kaoru-hana)
 - [MANTANWEB](./mantanweb)
 - [Medium](./medium)
+- [Nausicaa](./nausicaa)
 - [Pelleas](./pelleas)
 - [Real Sound](./real-sound)
 - [Sakuga Blog](./sakuga-blog)

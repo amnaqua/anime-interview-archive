@@ -35,6 +35,10 @@ export default {
                 link: "/people/makoto-kimura"
             },
 {
+                text: "Mamoru Oshii",
+                link: "/people/mamoru-oshii"
+            },
+{
                 text: "Moko-chan",
                 link: "/people/moko-chan"
             },
@@ -216,6 +220,10 @@ export default {
 {
                 text: "Medium",
                 link: "/publishers/medium"
+            },
+{
+                text: "Nausicaa",
+                link: "/publishers/nausicaa"
             },
 {
                 text: "Pelleas",

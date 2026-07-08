@@ -155,5 +155,15 @@
     "roles": [
       "Director"
     ]
+  },
+
+  "mamoru-oshii": {
+    "name": "Mamoru Oshii",
+    "aliases": [
+      "押井 守"
+    ],
+    "roles": [
+      "Director"
+    ]
   }
 }

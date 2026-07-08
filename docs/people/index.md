@@ -11,6 +11,7 @@ title: People
 - [Kazuto Arai](./kazuto-arai)
 - [Kouhei Sakita](./kouhei-sakita)
 - [Makoto Kimura](./makoto-kimura)
+- [Mamoru Oshii](./mamoru-oshii)
 - [Moko-chan](./moko-chan)
 - [Naoko Yamada](./naoko-yamada)
 - [Ryo-Timo](./ryo-timo)

@@ -182,6 +182,10 @@ export default {
                 link: "/publishers/medium"
             },
 {
+                text: "Pelleas",
+                link: "/publishers/pelleas"
+            },
+{
                 text: "Real Sound",
                 link: "/publishers/real-sound"
             },

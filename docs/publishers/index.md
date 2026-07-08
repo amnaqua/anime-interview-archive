@@ -15,6 +15,7 @@ title: Publishers
 - [Kaoru Hana Official Site](./kaoru-hana)
 - [MANTANWEB](./mantanweb)
 - [Medium](./medium)
+- [Pelleas](./pelleas)
 - [Real Sound](./real-sound)
 - [SHINSEIKI](./shinseiki)
 - [The Non-Stop Road](./non-stop-road)

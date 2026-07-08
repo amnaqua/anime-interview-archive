@@ -69,5 +69,9 @@
 
   "halcyon-realms": {
     "name": "Halcyon Realms"
+  },
+
+  "pelleas": {
+    "name": "Pelleas"
   }
 }

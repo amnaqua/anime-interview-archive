@@ -20,4 +20,6 @@ language: ja
 links:
   - type: source
     url: https://www.famitsu.com/article/202607/80491
+
+archived_at: 2026-07-09 01:42
 ---

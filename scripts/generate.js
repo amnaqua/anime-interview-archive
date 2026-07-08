@@ -3,6 +3,9 @@ import path from "path";
 
 import fg from "fast-glob";
 import matter from "gray-matter";
+import GithubSlugger from "github-slugger";
+
+const slugger = new GithubSlugger();
 
 import peopleData from "../docs/data/people.json" with { type: "json" };
 import worksData from "../docs/data/works.json" with { type: "json" };
@@ -14,6 +17,7 @@ import { lookup, resetDirectory, addToMap } from "./utils.js";
 import { buildMarkdown } from "./markdown.js";
 import { generateSidebar } from "./sidebar.js";
 import { generateIndex } from "./index.js";
+import { generateHome } from "./home.js";
 
 const ROOT = "docs";
 const INTERVIEW_DIR = "interviews";
@@ -58,6 +62,8 @@ async function main() {
 
     const files = await fg(`${INTERVIEW_DIR}/**/*.md`);
 
+    const interviews = [];
+
     for (const file of files) {
 
         const raw = await fs.readFile(file, "utf8");
@@ -71,26 +77,30 @@ async function main() {
                     ? data.date.toISOString().slice(0, 10)
                     : data.date,
 
+            archived_at:
+                data.archived_at instanceof Date
+                    ? data.archived_at.toISOString().slice(0, 10)
+                    : data.archived_at,
+
             links: (data.links ?? []).map(link => ({
                 type: link.type,
-
                 label: link.label,
-
                 language: link.language
                     ? lookup(languagesData, link.language)
                     : null,
-
                 url: link.url
-            })),
-
-            translations: (data.translations ?? []).map(item => ({
-                language: lookup(languagesData, item.language),
-                url: item.url
             })),
 
             language: lookup(languagesData, data.language),
 
             people: data.people ?? [],
+
+            peopleNames: (data.people ?? []).map(
+                slug => lookup(peopleData, slug)
+            ),
+
+            anchor: slugger.slug(data.title),
+
             work: data.work ?? [],
 
             companies: (data.companies ?? []).map(
@@ -101,6 +111,8 @@ async function main() {
                 slug => lookup(publishersData, slug)
             )
         };
+
+        interviews.push(interview);
 
         for (const slug of interview.people)
             addToMap(people, slug, interview);
@@ -169,6 +181,27 @@ async function main() {
             }
         ]
     );
+
+    const latestInterviews = interviews
+        .filter(i => i.archived_at)
+        .sort((a, b) => b.archived_at.localeCompare(a.archived_at))
+        .slice(0, 10);
+
+    await generateHome({
+
+        interviews: files.length,
+
+        people: Object.keys(peopleData).length,
+
+        works: Object.keys(worksData).length,
+
+        companies: Object.keys(companiesData).length,
+
+        publishers: Object.keys(publishersData).length,
+
+        latestInterviews
+
+    });
 
     console.log("Archive generated.");
 }

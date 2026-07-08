@@ -17,4 +17,6 @@ language: ja
 links:
   - type: source
     url: https://ananweb.jp/categories/entertainment/101006
+
+archived_at: 2026-07-07 13:38
 ---

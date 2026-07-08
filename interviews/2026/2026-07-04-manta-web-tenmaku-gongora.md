@@ -20,4 +20,6 @@ language: ja
 links:
   - type: source
     url: https://mantan-web.jp/article/20260618dog00m200121000a.html
+
+archived_at: 2026-07-07 13:38
 ---

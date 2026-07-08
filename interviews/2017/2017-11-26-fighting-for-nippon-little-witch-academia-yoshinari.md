@@ -21,5 +21,5 @@ links:
   - type: source
     url: https://web.archive.org/web/20180312085525/http://fightingfornippon.com/sprinkle-magic-little-witch-academia-interview-w-yoh-yoshinari-naoko-tsutsumi-yosuke-futami/
 
-archived_at: 2026-07-09 1:27
+archived_at: 2026-07-09 01:27
 ---

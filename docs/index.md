@@ -20,7 +20,7 @@ features:
     link: /companies/
 
   - title: 📰 Publishers
-    details: 33 publishers
+    details: 32 publishers
     link: /publishers/
 ---
 
@@ -37,4 +37,4 @@ features:
 - **2026-07-09 12:07** — **Sayo Yamamoto** — [Rawness of Women](/people/sayo-yamamoto#rawness-of-women)
 - **2026-07-09 07:24** — **Manabu Ootsuka, Noritaka Kawaguchi, Mitsuhisa Ishikawa, Atsuo Nakayama** — [What Tokyo Needs to Become the "Hollywood of the Animation Industry"](/people/manabu-ootsuka#what-tokyo-needs-to-become-the-hollywood-of-the-animation-industry)
 - **2026-07-09 01:42** — **Kai Ikarashi** — [Cyberpunk: Edgerunners 2](/people/kai-ikarashi#cyberpunk-edgerunners-2)
-- **2026-07-09 01:38** — **Gorou Miyazaki** — [About Anime Industry](/people/gorou-miyazaki#about-anime-industry-14)
+- **2026-07-09 01:38** — **Gorou Miyazaki** — [About Anime Industry](/people/gorou-miyazaki#about-anime-industry-15)

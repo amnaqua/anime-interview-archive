@@ -9,7 +9,6 @@ title: "Yasuyuki Ueda"
 ### Texhnolyze
 
 - **Date:** 2007-06-21
-- **Publisher:** Eye Resist
 - **Language:** Japanese
 - **Company:** Madhouse
 - **Source:**  DVD

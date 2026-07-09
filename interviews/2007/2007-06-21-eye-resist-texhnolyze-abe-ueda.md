@@ -6,9 +6,6 @@ date: 2007-06-21
 people:
   - yoshitoshi-abe
   - yasuyuki-ueda
-
-publisher:
-  - eye-resist
   
 work:
   - texhnolyze

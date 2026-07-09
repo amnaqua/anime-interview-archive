@@ -362,10 +362,6 @@ export default {
                 link: "/publishers/cj-insights"
             },
 {
-                text: "Eye Resist",
-                link: "/publishers/eye-resist"
-            },
-{
                 text: "Famitsu",
                 link: "/publishers/famitsu"
             },

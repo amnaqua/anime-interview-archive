@@ -351,5 +351,15 @@
     "roles": [
       "Mangaka"
     ]
+  },
+
+  "hiroshi-nagahama": {
+    "name": "Hiroshi Nagahama",
+    "aliases": [
+      "長濱 博史"
+    ],
+    "roles": [
+      "Director"
+    ]
   }
 }

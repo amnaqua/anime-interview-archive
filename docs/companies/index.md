@@ -17,6 +17,7 @@ title: Companies
 - [Science SARU](./science-saru)
 - [Signal.MD](./signal-md)
 - [Studio 3Hz](./3hz)
+- [Studio Deen](./deen)
 - [Studio Ghibli](./ghibli)
 - [TMS Entertainment](./tms)
 - [Toei Animation](./toei)

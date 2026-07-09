@@ -31,6 +31,10 @@ export default {
                 link: "/people/hiroi-hasegawa"
             },
 {
+                text: "Hiroshi Nagahama",
+                link: "/people/hiroshi-nagahama"
+            },
+{
                 text: "Kai Ikarashi",
                 link: "/people/kai-ikarashi"
             },
@@ -216,6 +220,10 @@ export default {
                 link: "/works/texhnolyze"
             },
 {
+                text: "The Reflection",
+                link: "/works/the-reflection"
+            },
+{
                 text: "Yuri!!! on Ice",
                 link: "/works/yuri-on-ice"
             }
@@ -279,6 +287,10 @@ export default {
 {
                 text: "Studio 3Hz",
                 link: "/companies/3hz"
+            },
+{
+                text: "Studio Deen",
+                link: "/companies/deen"
             },
 {
                 text: "Studio Ghibli",

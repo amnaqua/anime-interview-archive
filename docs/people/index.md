@@ -8,6 +8,7 @@ title: People
 - [Atsuo Nakayama](./atsuo-nakayama)
 - [Atsushi Nishigori](./atsushi-nishigori)
 - [Bahi JD](./bahi-jd)
+- [Gen Urobuchi](./gen-urobuchi)
 - [Gorou Miyazaki](./gorou-miyazaki)
 - [Hiroi Hasegawa](./hiroi-hasegawa)
 - [Hiroshi Nagahama](./hiroshi-nagahama)

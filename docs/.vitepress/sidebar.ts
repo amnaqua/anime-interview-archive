@@ -23,6 +23,10 @@ export default {
                 link: "/people/bahi-jd"
             },
 {
+                text: "Gen Urobuchi",
+                link: "/people/gen-urobuchi"
+            },
+{
                 text: "Gorou Miyazaki",
                 link: "/people/gorou-miyazaki"
             },
@@ -228,6 +232,10 @@ export default {
                 link: "/works/the-reflection"
             },
 {
+                text: "Thunderbolt Fantasy",
+                link: "/works/thunderbolt-fantasy"
+            },
+{
                 text: "Yuri!!! on Ice",
                 link: "/works/yuri-on-ice"
             }
@@ -257,6 +265,10 @@ export default {
                 link: "/companies/comix-wave"
             },
 {
+                text: "Good Smile Company",
+                link: "/companies/good-smile"
+            },
+{
                 text: "Kodansha",
                 link: "/companies/kodansha"
             },
@@ -271,6 +283,10 @@ export default {
 {
                 text: "MAPPA",
                 link: "/companies/mappa"
+            },
+{
+                text: "Nitroplus",
+                link: "/companies/nitro-plus"
             },
 {
                 text: "OLM",

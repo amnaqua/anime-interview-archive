@@ -371,5 +371,13 @@
     "roles": [
       "Animator"
     ]
+  },
+
+  "gen-urobuchi": {
+    "name": "Gen Urobuchi",
+    "aliases": [
+      "虚淵 玄"
+    ],
+    "roles": []
   }
 }

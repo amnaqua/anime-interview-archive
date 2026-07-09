@@ -133,5 +133,9 @@
 
   "guardian": {
     "name": "The Guardian"
+  },
+
+  "cinra": {
+    "name": "Cinra"
   }
 }

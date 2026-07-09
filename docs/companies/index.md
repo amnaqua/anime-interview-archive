@@ -4,6 +4,7 @@ title: Companies
 
 # Companies
 
+- [A-1 Pictures](./a-1)
 - [Aniplex](./aniplex)
 - [Bones](./bones)
 - [CloverWorks](./clover-works)

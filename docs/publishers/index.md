@@ -10,6 +10,7 @@ title: Publishers
 - [Anime News Network](./ann)
 - [AnimeLand](./animeland)
 - [Animestyle Magazine](./anime-style-magazine)
+- [Cinra](./cinra)
 - [CJ Insights](./cj-insights)
 - [Famitsu](./famitsu)
 - [FAR From Animation](./far-from-animation)

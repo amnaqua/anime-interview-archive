@@ -529,5 +529,25 @@
     "roles": [
       "Director"
     ]
+  },
+
+  "mari-okada": {
+    "name": "Mari Okada",
+    "aliases": [
+      "岡田 麿里"
+    ],
+    "roles": [
+      "Director"
+    ]
+  },
+
+  "tatsuyuki-nagai": {
+    "name": "Tatsuyuki Nagai",
+    "aliases": [
+      "長井 龍雪"
+    ],
+    "roles": [
+      "Director"
+    ]
   }
 }

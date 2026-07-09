@@ -111,6 +111,10 @@ export default {
                 link: "/people/manabu-ootsuka"
             },
 {
+                text: "Mari Okada",
+                link: "/people/mari-okada"
+            },
+{
                 text: "Masahiko Minami",
                 link: "/people/masahiko-minami"
             },
@@ -195,6 +199,10 @@ export default {
                 link: "/people/tadashi-hiramatsu"
             },
 {
+                text: "Tatsuyuki Nagai",
+                link: "/people/tatsuyuki-nagai"
+            },
+{
                 text: "Vincent Chansard",
                 link: "/people/vincent-chansard"
             },
@@ -264,6 +272,10 @@ export default {
                 link: "/works/koe-no-katachi"
             },
 {
+                text: "Kokoro ga Sakebitagatterunda.",
+                link: "/works/kokoro-ga-sakebitagatterunda"
+            },
+{
                 text: "Little Witch Academia",
                 link: "/works/little-witch-academia"
             },
@@ -325,6 +337,10 @@ export default {
         collapsed: false,
         items: [
             {
+                text: "A-1 Pictures",
+                link: "/companies/a-1"
+            },
+{
                 text: "Aniplex",
                 link: "/companies/aniplex"
             },
@@ -448,6 +464,10 @@ export default {
 {
                 text: "Animestyle Magazine",
                 link: "/publishers/anime-style-magazine"
+            },
+{
+                text: "Cinra",
+                link: "/publishers/cinra"
             },
 {
                 text: "CJ Insights",

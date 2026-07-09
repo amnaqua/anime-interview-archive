@@ -449,5 +449,25 @@
     "roles": [
       "Animator"
     ]
+  },
+
+  "kana-miyata": {
+    "name": "Kana Miyata",
+    "aliases": [
+      "宮田 佳奈"
+    ],
+    "roles": [
+      "Coloring"
+    ]
+  },
+
+  "rina-miura": {
+    "name": "Rina Miura",
+    "aliases": [
+      " 三浦 理奈"
+    ],
+    "roles": [
+      "Special Effects"
+    ]
   }
 }

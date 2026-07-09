@@ -47,6 +47,10 @@ export default {
                 link: "/people/kai-ikarashi"
             },
 {
+                text: "Kana Miyata",
+                link: "/people/kana-miyata"
+            },
+{
                 text: "Kazuto Arai",
                 link: "/people/kazuto-arai"
             },
@@ -129,6 +133,10 @@ export default {
 {
                 text: "Noritaka Kawaguchi",
                 link: "/people/noritaka-kawaguchi"
+            },
+{
+                text: "Rina Miura",
+                link: "/people/rina-miura"
             },
 {
                 text: "Ryo-Timo",

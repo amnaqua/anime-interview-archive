@@ -111,6 +111,10 @@ export default {
                 link: "/people/moko-chan"
             },
 {
+                text: "Naoko Fujita",
+                link: "/people/naoko-fujita"
+            },
+{
                 text: "Naoko Yamada",
                 link: "/people/naoko-yamada"
             },

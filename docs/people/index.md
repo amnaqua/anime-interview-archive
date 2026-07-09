@@ -30,6 +30,7 @@ title: People
 - [Mitsuhisa Ishikawa](./mitsuhisa-ishikawa)
 - [Mitsurou Kubo](./mitsurou-kubo)
 - [Moko-chan](./moko-chan)
+- [Naoko Fujita](./naoko-fujita)
 - [Naoko Yamada](./naoko-yamada)
 - [Naruyoshi Kikuchi](./naruyoshi-kikuchi)
 - [Nobuaki Maruki](./nobuaki-maruki)

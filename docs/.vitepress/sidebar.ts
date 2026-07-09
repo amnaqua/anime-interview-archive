@@ -526,6 +526,10 @@ export default {
                 link: "/publishers/nlab"
             },
 {
+                text: "noitaminA",
+                link: "/publishers/noitamina"
+            },
+{
                 text: "Oricon",
                 link: "/publishers/oricon"
             },

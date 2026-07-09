@@ -24,6 +24,7 @@ title: Publishers
 - [MANTANWEB](./mantanweb)
 - [Medium](./medium)
 - [NetLab](./nlab)
+- [noitaminA](./noitamina)
 - [Oricon](./oricon)
 - [OtaCrew](./ota-crew)
 - [Pelleas](./pelleas)

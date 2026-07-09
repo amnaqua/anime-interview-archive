@@ -4,7 +4,7 @@ layout: home
 hero:
   name: Anime Interview Archive
   text: Archive of anime staff interviews and production materials.
-  tagline: 60 interviews indexed
+  tagline: 61 interviews indexed
 
 features:
   - title: 👥 People
@@ -20,7 +20,7 @@ features:
     link: /companies/
 
   - title: 📰 Publishers
-    details: 35 publishers
+    details: 36 publishers
     link: /publishers/
 ---
 
@@ -28,6 +28,7 @@ features:
 
 # Recently Added
 
+- **2026-07-09 18:28** — **Mari Okada** — [About Anime Industry](/people/mari-okada#about-anime-industry-5)
 - **2026-07-09 18:16** — **Mari Okada** — [Kiznaiver](/people/mari-okada#kiznaiver)
 - **2026-07-09 18:00** — **Mari Okada, Tatsuyuki Nagai** — [Kokoro ga Sakebitagatterunda.](/people/mari-okada#kokoro-ga-sakebitagatterunda)
 - **2026-07-09 16:17** — **Kazuki Akane** — [Tenkuu no Escaflowne](/people/kazuki-akane#tenkuu-no-escaflowne)
@@ -37,4 +38,3 @@ features:
 - **2026-07-09 16:01** — **Futoshi Nishiya** — [Koe no Katachi](/people/futoshi-nishiya#koe-no-katachi-6)
 - **2026-07-09 15:58** — **Naoko Yamada** — [Koe no Katachi](/people/naoko-yamada#koe-no-katachi-5)
 - **2026-07-09 15:56** — **Jouji Unoguchi, Norihiro Tomiita** — [Koe no Katachi](/people/jouji-unoguchi#koe-no-katachi-4)
-- **2026-07-09 15:52** — **Kana Miyata, Rina Miura** — [Koe no Katachi](/people/kana-miyata#koe-no-katachi-3)

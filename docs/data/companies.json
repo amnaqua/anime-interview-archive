@@ -105,5 +105,9 @@
 
   "kinema-citrus": {
     "name": "Kinema Citrus"
+  },
+
+  "bug-films": {
+    "name": "BUG FILMS"
   }
 }

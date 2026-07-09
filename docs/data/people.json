@@ -653,5 +653,25 @@
     "roles": [
       "Designer"
     ]
+  },
+
+  "rena-motomura": {
+    "name": "Rena Motomura",
+    "aliases": [
+      "本村 玲奈"
+    ],
+    "roles": [
+      "VA"
+    ]
+  },
+
+  "ayumu-watanabe": {
+    "name": "Ayumu Watanabe",
+    "aliases": [
+      "渡辺 歩"
+    ],
+    "roles": [
+      "Director"
+    ]
   }
 }

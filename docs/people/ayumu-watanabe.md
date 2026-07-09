@@ -1,8 +1,8 @@
 ---
-title: "X (twitter)"
+title: "Ayumu Watanabe"
 ---
 
-# X (twitter)
+# Ayumu Watanabe
 
 ## Interviews
 
@@ -14,17 +14,6 @@ title: "X (twitter)"
 - **Company:** BUG FILMS
 - **People:** Ayumu Watanabe, Rena Motomura
 - **Source:**  https://x.com/tongari_anime/status/2066174058954461234
-
----
-
-### One Piece
-
-- **Date:** 2025-10-25
-- **Publisher:** X (twitter)
-- **Language:** Arabic
-- **Company:** Toei Animation
-- **People:** Vincent Chansard
-- **Source:**  https://x.com/1jilj1il/status/1982779896213492212
 
 ---
 

@@ -19,6 +19,10 @@ export default {
                 link: "/people/atsushi-nishigori"
             },
 {
+                text: "Ayumu Watanabe",
+                link: "/people/ayumu-watanabe"
+            },
+{
                 text: "Bahi JD",
                 link: "/people/bahi-jd"
             },
@@ -189,6 +193,10 @@ export default {
 {
                 text: "Noritaka Kawaguchi",
                 link: "/people/noritaka-kawaguchi"
+            },
+{
+                text: "Rena Motomura",
+                link: "/people/rena-motomura"
             },
 {
                 text: "Rina Miura",
@@ -380,6 +388,10 @@ export default {
                 link: "/works/thunderbolt-fantasy"
             },
 {
+                text: "Tongari Boushi no Atelier",
+                link: "/works/tongari-boushi-no-atelier"
+            },
+{
                 text: "Uchouten Kazoku",
                 link: "/works/uchouten-kazoku"
             },
@@ -411,6 +423,10 @@ export default {
 {
                 text: "Bones",
                 link: "/companies/bones"
+            },
+{
+                text: "BUG FILMS",
+                link: "/companies/bug-films"
             },
 {
                 text: "CloverWorks",

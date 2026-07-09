@@ -6,7 +6,7 @@ title: "Shouji Kawamori"
 
 ## Interviews
 
-### About Anime Industry
+### Shoji Kawamori and Hidetaka Tenjin Talk Macross in the US, AI, and More
 
 - **Date:** 2023-08
 - **Publisher:** Otakon

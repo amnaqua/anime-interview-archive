@@ -27,5 +27,6 @@ title: Works
 - [Texhnolyze](./texhnolyze)
 - [The Reflection](./the-reflection)
 - [Thunderbolt Fantasy](./thunderbolt-fantasy)
+- [Tongari Boushi no Atelier](./tongari-boushi-no-atelier)
 - [Uchouten Kazoku](./uchouten-kazoku)
 - [Yuri!!! on Ice](./yuri-on-ice)

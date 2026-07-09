@@ -4,19 +4,19 @@ layout: home
 hero:
   name: Anime Interview Archive
   text: Archive of anime staff interviews and production materials.
-  tagline: 69 interviews indexed
+  tagline: 70 interviews indexed
 
 features:
   - title: 👥 People
-    details: 68 people
+    details: 70 people
     link: /people/
 
   - title: 🎬 Works
-    details: 25 works
+    details: 26 works
     link: /works/
 
   - title: 🏢 Companies
-    details: 27 companies
+    details: 28 companies
     link: /companies/
 
   - title: 📰 Publishers
@@ -28,7 +28,8 @@ features:
 
 # Recently Added
 
-- **2026-07-09 22:16** — **Shouji Kawamori, Hidetaka Tenjin** — [About Anime Industry](/people/shouji-kawamori#about-anime-industry-12)
+- **2026-07-09 22:42** — **Ayumu Watanabe, Rena Motomura** — [Tongari Boushi no Atelier](/people/ayumu-watanabe#tongari-boushi-no-atelier)
+- **2026-07-09 22:16** — **Shouji Kawamori, Hidetaka Tenjin** — [Shoji Kawamori and Hidetaka Tenjin Talk Macross in the US, AI, and More](/people/shouji-kawamori#shoji-kawamori-and-hidetaka-tenjin-talk-macross-in-the-us-ai-and-more)
 - **2026-07-09 22:08** — **Muneki Ogasawara** — [Giving 120%: Kinema Citrus President Talks Under the Dog, Kickstarter, and Anime Budgets](/people/muneki-ogasawara#giving-120-kinema-citrus-president-talks-under-the-dog-kickstarter-and-anime-budgets)
 - **2026-07-09 20:29** — **Kana Ueda** — [About Anime Industry](/people/kana-ueda#about-anime-industry-8)
 - **2026-07-09 20:23** — **Tsutomu Mizushima** — [Girls & Panzer Movie](/people/tsutomu-mizushima#girls--panzer-movie)
@@ -37,4 +38,3 @@ features:
 - **2026-07-09 18:57** — **Mari Okada, Tatsuya Ishiguro, Makoto Kohara, Ryoutarou Nagayama** — [About Anime Industry](/people/mari-okada#about-anime-industry-10)
 - **2026-07-09 18:41** — **Mari Okada** — [Mobile Suit Gundam: Iron-Blooded Orphans](/people/mari-okada#mobile-suit-gundam-iron-blooded-orphans)
 - **2026-07-09 18:28** — **Mari Okada** — [About Anime Industry](/people/mari-okada#about-anime-industry-6)
-- **2026-07-09 18:16** — **Mari Okada** — [Kiznaiver](/people/mari-okada#kiznaiver)

@@ -8,6 +8,7 @@ title: Companies
 - [Actas](./actas)
 - [Aniplex](./aniplex)
 - [Bones](./bones)
+- [BUG FILMS](./bug-films)
 - [CloverWorks](./clover-works)
 - [CoMix Wave Films](./comix-wave)
 - [Good Smile Company](./good-smile)

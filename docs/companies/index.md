@@ -28,3 +28,4 @@ title: Companies
 - [TMS Entertainment](./tms)
 - [Toei Animation](./toei)
 - [Trigger](./trigger)
+- [Wit Studio](./wit)

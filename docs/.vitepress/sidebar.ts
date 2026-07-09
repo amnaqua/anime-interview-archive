@@ -35,6 +35,10 @@ export default {
                 link: "/people/gen-urobuchi"
             },
 {
+                text: "George Wada",
+                link: "/people/george-wada"
+            },
+{
                 text: "Gorou Miyazaki",
                 link: "/people/gorou-miyazaki"
             },
@@ -161,6 +165,10 @@ export default {
 {
                 text: "Nobuaki Maruki",
                 link: "/people/nobuaki-maruki"
+            },
+{
+                text: "Norihiro Naganuma",
+                link: "/people/norihiro-naganuma"
             },
 {
                 text: "Norihiro Tomiita",
@@ -302,6 +310,10 @@ export default {
 {
                 text: "Lupin the Third: The Woman Called Fujiko Mine",
                 link: "/works/lupin-the-third-mine-fujiko-to-iu-onna"
+            },
+{
+                text: "Mahoutsukai no Yome",
+                link: "/works/mahoutsukai-no-yome"
             },
 {
                 text: "Michiko to Hatchin",
@@ -455,6 +467,10 @@ export default {
 {
                 text: "Trigger",
                 link: "/companies/trigger"
+            },
+{
+                text: "Wit Studio",
+                link: "/companies/wit"
             }
         ]
     }

@@ -585,5 +585,25 @@
     "roles": [
       "Director"
     ]
+  },
+
+  "george-wada": {
+    "name": "George Wada",
+    "aliases": [
+      "和田 丈嗣"
+    ],
+    "roles": [
+      "Producer"
+    ]
+  },
+
+  "norihiro-naganuma": {
+    "name": "Norihiro Naganuma",
+    "aliases": [
+      "長沼 範裕"
+    ],
+    "roles": [
+      "Animator"
+    ]
   }
 }

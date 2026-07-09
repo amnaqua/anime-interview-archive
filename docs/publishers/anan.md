@@ -12,6 +12,7 @@ title: "anan"
 - **Publisher:** anan
 - **Language:** Japanese
 - **Company:** Science SARU
+- **People:** Naoko Yamada
 - **Source:**  https://ananweb.jp/categories/entertainment/101006
 
 ---

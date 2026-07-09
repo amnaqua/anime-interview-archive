@@ -12,6 +12,7 @@ title: "Studio Ghibli"
 - **Publisher:** Oricon
 - **Language:** Japanese
 - **Company:** Studio Ghibli
+- **People:** Gorou Miyazaki
 - **Source:**  https://www.oricon.co.jp/news/2466303/full/
 
 ---

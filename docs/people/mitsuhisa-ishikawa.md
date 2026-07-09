@@ -12,6 +12,7 @@ title: "Mitsuhisa Ishikawa"
 - **Publisher:** YouTube
 - **Language:** Japanese
 - **Company:** Production I.G, CoMix Wave Films, MAPPA
+- **People:** Manabu Ootsuka, Noritaka Kawaguchi, Mitsuhisa Ishikawa, Atsuo Nakayama
 - **Source:**  https://www.youtube.com/watch?v=DK1Fnp6qLAA
 
 ---

@@ -11,6 +11,7 @@ title: "Pelleas"
 - **Date:** 2012-07-16
 - **Publisher:** Pelleas
 - **Language:** English
+- **People:** Bahi JD
 - **Source:**  http://www.pelleas.net/aniTOP/index.php/interview-with-bahi-jd
 
 ---

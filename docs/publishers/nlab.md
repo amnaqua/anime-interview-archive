@@ -11,6 +11,7 @@ title: "NetLab"
 - **Date:** 2017-03-30
 - **Publisher:** NetLab
 - **Language:** Japanese
+- **People:** Kyouko Kotani
 - **Source:**
   - Part 1: https://nlab.itmedia.co.jp/cont/articles/3265738/
   - Part 2: https://nlab.itmedia.co.jp/cont/articles/3265738/2/

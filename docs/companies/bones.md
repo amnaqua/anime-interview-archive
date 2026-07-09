@@ -12,6 +12,7 @@ title: "Bones"
 - **Publisher:** Anime News Network
 - **Language:** English
 - **Company:** Bones
+- **People:** Masahiko Minami
 - **Source:**  https://www.animenewsnetwork.com/feature/2016-07-19/interview-studio-bones-president-masahiko-minami/.104467
 
 ---
@@ -22,6 +23,7 @@ title: "Bones"
 - **Publisher:** Anime News Network
 - **Language:** English
 - **Company:** Bones
+- **People:** Bahi JD
 - **Source:**  https://www.animenewsnetwork.com/interview/2014-04-16/the-space-dandy/part-ii-bahi-jd
 
 ---

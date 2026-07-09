@@ -12,6 +12,7 @@ title: "Sayo Yamamoto"
 - **Publisher:** Anime News Network
 - **Language:** English
 - **Company:** MAPPA
+- **People:** Sayo Yamamoto, Tadashi Hiramatsu, Mitsurou Kubo
 - **Source:**  https://www.animenewsnetwork.com/feature/2017-09-27/interview-the-staff-behind-yuri-on-ice/.120717
 
 ---
@@ -22,6 +23,7 @@ title: "Sayo Yamamoto"
 - **Publisher:** Tower Records
 - **Language:** Japanese
 - **Company:** TMS Entertainment
+- **People:** Sayo Yamamoto, Naruyoshi Kikuchi
 - **Source:**  https://tower.jp/article/interview/2012/12/19/yamamoto_kikuchi
 - **Translations:**
   - English: https://wavemotioncannon.com/2017/08/01/lupin-iii-the-woman-called-fujiko-mine/
@@ -34,6 +36,7 @@ title: "Sayo Yamamoto"
 - **Publisher:** Seibundo Shinkosha
 - **Language:** Japanese
 - **Company:** Manglobe
+- **People:** Sayo Yamamoto
 - **Source:**  Animation Note no. 11
 - **Translations:**
   - English: https://wavemotioncannon.com/2017/05/09/rawness-of-women-an-interview-with-sayo-yamamoto/

@@ -12,6 +12,7 @@ title: "Gizmodo"
 - **Publisher:** Gizmodo
 - **Language:** English
 - **Company:** Science SARU
+- **People:** Moko-chan, Shuuhei Handa
 - **Source:**  https://gizmodo.com/ghost-in-the-shell-science-saru-mokochan-shuhei-handa-interview-2000782410
 
 ---

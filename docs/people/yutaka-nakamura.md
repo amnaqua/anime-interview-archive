@@ -11,6 +11,7 @@ title: "Yutaka Nakamura"
 - **Date:** 2003-04-23
 - **Publisher:** WEB Anime Style
 - **Language:** Japanese
+- **People:** Yutaka Nakamura
 - **Source:**
   - Part 1: http://www.style.fm/as/01_talk/n_yutaka01.shtml
   - Part 2: http://www.style.fm/as/01_talk/n_yutaka02.shtml

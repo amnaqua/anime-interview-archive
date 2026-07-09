@@ -12,6 +12,7 @@ title: "Trigger"
 - **Publisher:** Famitsu
 - **Language:** Japanese
 - **Company:** Trigger
+- **People:** Kai Ikarashi
 - **Source:**  https://www.famitsu.com/article/202607/80491
 
 ---
@@ -22,6 +23,7 @@ title: "Trigger"
 - **Publisher:** Fighting for Nippon
 - **Language:** English
 - **Company:** Trigger
+- **People:** You Yoshinari
 - **Source:**  https://web.archive.org/web/20180312085525/http://fightingfornippon.com/sprinkle-magic-little-witch-academia-interview-w-yoh-yoshinari-naoko-tsutsumi-yosuke-futami/
 
 ---

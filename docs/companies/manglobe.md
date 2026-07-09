@@ -12,6 +12,7 @@ title: "Manglobe"
 - **Publisher:** Seibundo Shinkosha
 - **Language:** Japanese
 - **Company:** Manglobe
+- **People:** Sayo Yamamoto
 - **Source:**  Animation Note no. 11
 - **Translations:**
   - English: https://wavemotioncannon.com/2017/05/09/rawness-of-women-an-interview-with-sayo-yamamoto/

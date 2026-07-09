@@ -12,6 +12,7 @@ title: "Fighting for Nippon"
 - **Publisher:** Fighting for Nippon
 - **Language:** English
 - **Company:** Trigger
+- **People:** You Yoshinari
 - **Source:**  https://web.archive.org/web/20180312085525/http://fightingfornippon.com/sprinkle-magic-little-witch-academia-interview-w-yoh-yoshinari-naoko-tsutsumi-yosuke-futami/
 
 ---

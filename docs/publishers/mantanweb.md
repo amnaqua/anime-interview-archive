@@ -12,6 +12,7 @@ title: "MANTANWEB"
 - **Publisher:** MANTANWEB
 - **Language:** Japanese
 - **Company:** Science SARU
+- **People:** Abel Góngora
 - **Source:**  https://mantan-web.jp/article/20260618dog00m200121000a.html
 
 ---
@@ -22,6 +23,7 @@ title: "MANTANWEB"
 - **Publisher:** MANTANWEB
 - **Language:** Japanese
 - **Company:** Science SARU
+- **People:** Naoko Yamada
 - **Source:**  https://mantan-web.jp/article/20260618dog00m200122000a.html
 
 ---
@@ -32,6 +34,7 @@ title: "MANTANWEB"
 - **Publisher:** MANTANWEB
 - **Language:** Japanese
 - **Company:** MAPPA
+- **People:** Manabu Ootsuka
 - **Source:**  https://mantan-web.jp/2016/11/02/20161102dog00m200018000c.html
 - **Translations:**
   - English: https://karice.wordpress.com/2017/05/10/p566/

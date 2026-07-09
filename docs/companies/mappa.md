@@ -12,6 +12,7 @@ title: "MAPPA"
 - **Publisher:** YouTube
 - **Language:** Japanese
 - **Company:** Production I.G, CoMix Wave Films, MAPPA
+- **People:** Manabu Ootsuka, Noritaka Kawaguchi, Mitsuhisa Ishikawa, Atsuo Nakayama
 - **Source:**  https://www.youtube.com/watch?v=DK1Fnp6qLAA
 
 ---
@@ -22,6 +23,7 @@ title: "MAPPA"
 - **Publisher:** Real Sound
 - **Language:** Japanese
 - **Company:** MAPPA
+- **People:** Hiroi Hasegawa
 - **Source:**  https://realsound.jp/movie/2025/02/post-1934703.html
 
 ---
@@ -32,6 +34,7 @@ title: "MAPPA"
 - **Publisher:** Anime News Network
 - **Language:** English
 - **Company:** MAPPA
+- **People:** Sayo Yamamoto, Tadashi Hiramatsu, Mitsurou Kubo
 - **Source:**  https://www.animenewsnetwork.com/feature/2017-09-27/interview-the-staff-behind-yuri-on-ice/.120717
 
 ---
@@ -42,6 +45,7 @@ title: "MAPPA"
 - **Publisher:** Anime News Network
 - **Language:** English
 - **Company:** MAPPA
+- **People:** Sunao Katabuchi
 - **Source:**  https://www.animenewsnetwork.com/feature/2017-08-11/interview-sunao-katabuchi/.120026
 
 ---
@@ -52,6 +56,7 @@ title: "MAPPA"
 - **Publisher:** Anime News Network
 - **Language:** English
 - **Company:** MAPPA
+- **People:** Sunao Katabuchi
 - **Source:**
   - Part 1: https://www.animenewsnetwork.com/feature/2017-05-18/interview-in-this-corner-of-the-world-director-sunao-katabuchi/.116257
   - Part 2: https://www.animenewsnetwork.com/feature/2017-05-18/interview-in-this-corner-of-the-world-director-sunao-katabuchi/.116258
@@ -64,6 +69,7 @@ title: "MAPPA"
 - **Publisher:** MANTANWEB
 - **Language:** Japanese
 - **Company:** MAPPA
+- **People:** Manabu Ootsuka
 - **Source:**  https://mantan-web.jp/2016/11/02/20161102dog00m200018000c.html
 - **Translations:**
   - English: https://karice.wordpress.com/2017/05/10/p566/
@@ -76,6 +82,7 @@ title: "MAPPA"
 - **Publisher:** OtaCrew
 - **Language:** Japanese
 - **Company:** MAPPA
+- **People:** Sunao Katabuchi
 - **Translations:**
   - English: https://wavemotioncannon.com/2017/08/15/in-this-corner-of-the-world-an-exclusive-interview-with-director-sunao-katabuchi/
 

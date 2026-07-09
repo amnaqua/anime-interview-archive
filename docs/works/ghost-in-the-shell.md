@@ -12,6 +12,7 @@ title: "Ghost in the Shell"
 - **Publisher:** SHINSEIKI
 - **Language:** English
 - **Company:** Science SARU
+- **People:** Moko-chan
 - **Source:**  https://shinseiki.blog/2026/07/08/moko-chan-gits2026/
 
 ---
@@ -22,6 +23,7 @@ title: "Ghost in the Shell"
 - **Publisher:** Gizmodo
 - **Language:** English
 - **Company:** Science SARU
+- **People:** Moko-chan, Shuuhei Handa
 - **Source:**  https://gizmodo.com/ghost-in-the-shell-science-saru-mokochan-shuhei-handa-interview-2000782410
 
 ---
@@ -32,6 +34,7 @@ title: "Ghost in the Shell"
 - **Publisher:** Wired Japan
 - **Language:** Japanese
 - **Company:** Science SARU
+- **People:** Moko-chan
 - **Source:**  https://wired.jp/article/science-saru-interview-3-the-ghost-in-the-shell-mokochan/
 
 ---

@@ -12,6 +12,7 @@ title: "Manabu Ootsuka"
 - **Publisher:** YouTube
 - **Language:** Japanese
 - **Company:** Production I.G, CoMix Wave Films, MAPPA
+- **People:** Manabu Ootsuka, Noritaka Kawaguchi, Mitsuhisa Ishikawa, Atsuo Nakayama
 - **Source:**  https://www.youtube.com/watch?v=DK1Fnp6qLAA
 
 ---
@@ -22,6 +23,7 @@ title: "Manabu Ootsuka"
 - **Publisher:** MANTANWEB
 - **Language:** Japanese
 - **Company:** MAPPA
+- **People:** Manabu Ootsuka
 - **Source:**  https://mantan-web.jp/2016/11/02/20161102dog00m200018000c.html
 - **Translations:**
   - English: https://karice.wordpress.com/2017/05/10/p566/

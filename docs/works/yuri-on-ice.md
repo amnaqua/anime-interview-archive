@@ -12,6 +12,7 @@ title: "Yuri!!! on Ice"
 - **Publisher:** Anime News Network
 - **Language:** English
 - **Company:** MAPPA
+- **People:** Sayo Yamamoto, Tadashi Hiramatsu, Mitsurou Kubo
 - **Source:**  https://www.animenewsnetwork.com/feature/2017-09-27/interview-the-staff-behind-yuri-on-ice/.120717
 
 ---
@@ -22,6 +23,7 @@ title: "Yuri!!! on Ice"
 - **Publisher:** MANTANWEB
 - **Language:** Japanese
 - **Company:** MAPPA
+- **People:** Manabu Ootsuka
 - **Source:**  https://mantan-web.jp/2016/11/02/20161102dog00m200018000c.html
 - **Translations:**
   - English: https://karice.wordpress.com/2017/05/10/p566/

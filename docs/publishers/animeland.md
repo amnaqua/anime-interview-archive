@@ -12,6 +12,7 @@ title: "AnimeLand"
 - **Publisher:** AnimeLand
 - **Language:** French
 - **Company:** Science SARU
+- **People:** Moko-chan
 - **Source:**  https://animeland.fr/2026/07/04/entretien-mokochan-ghost-in-the-shell-annecy/
 
 ---

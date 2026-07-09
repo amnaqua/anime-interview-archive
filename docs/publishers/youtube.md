@@ -12,6 +12,7 @@ title: "YouTube"
 - **Publisher:** YouTube
 - **Language:** Japanese
 - **Company:** Production I.G, CoMix Wave Films, MAPPA
+- **People:** Manabu Ootsuka, Noritaka Kawaguchi, Mitsuhisa Ishikawa, Atsuo Nakayama
 - **Source:**  https://www.youtube.com/watch?v=DK1Fnp6qLAA
 
 ---
@@ -21,6 +22,7 @@ title: "YouTube"
 - **Date:** 2026-07-04
 - **Publisher:** YouTube
 - **Language:** French
+- **People:** Vincent Chansard
 - **Source:**  https://www.youtube.com/watch?v=aAA1QikIuJ0
 
 ---

@@ -12,6 +12,7 @@ title: "Anime News Network"
 - **Publisher:** Anime News Network
 - **Language:** English
 - **Company:** MAPPA
+- **People:** Sayo Yamamoto, Tadashi Hiramatsu, Mitsurou Kubo
 - **Source:**  https://www.animenewsnetwork.com/feature/2017-09-27/interview-the-staff-behind-yuri-on-ice/.120717
 
 ---
@@ -22,6 +23,7 @@ title: "Anime News Network"
 - **Publisher:** Anime News Network
 - **Language:** English
 - **Company:** MAPPA
+- **People:** Sunao Katabuchi
 - **Source:**  https://www.animenewsnetwork.com/feature/2017-08-11/interview-sunao-katabuchi/.120026
 
 ---
@@ -32,6 +34,7 @@ title: "Anime News Network"
 - **Publisher:** Anime News Network
 - **Language:** English
 - **Company:** Nitroplus, Good Smile Company
+- **People:** Gen Urobuchi
 - **Source:**  https://www.animenewsnetwork.com/feature/2017-05-20/thunderbolt-fantasy-panels-and-interviews/.116254
 
 ---
@@ -42,6 +45,7 @@ title: "Anime News Network"
 - **Publisher:** Anime News Network
 - **Language:** English
 - **Company:** MAPPA
+- **People:** Sunao Katabuchi
 - **Source:**
   - Part 1: https://www.animenewsnetwork.com/feature/2017-05-18/interview-in-this-corner-of-the-world-director-sunao-katabuchi/.116257
   - Part 2: https://www.animenewsnetwork.com/feature/2017-05-18/interview-in-this-corner-of-the-world-director-sunao-katabuchi/.116258
@@ -54,6 +58,7 @@ title: "Anime News Network"
 - **Publisher:** Anime News Network
 - **Language:** English
 - **Company:** Studio Deen
+- **People:** Hiroshi Nagahama
 - **Source:**  https://www.animenewsnetwork.com/feature/2017-05-18/interview-in-this-corner-of-the-world-director-sunao-katabuchi/.116257
 
 ---
@@ -63,6 +68,7 @@ title: "Anime News Network"
 - **Date:** 2017-05-03
 - **Publisher:** Anime News Network
 - **Language:** English
+- **People:** Kenichi Sonoda
 - **Source:**  https://www.animenewsnetwork.com/interview/2017-05-03/q-a-legendary-mangaka-kenichi-sonoda/.115304
 
 ---
@@ -73,6 +79,7 @@ title: "Anime News Network"
 - **Publisher:** Anime News Network
 - **Language:** English
 - **Company:** CoMix Wave Films
+- **People:** Koichiro Ito
 - **Source:**  https://www.animenewsnetwork.com/feature/2017-04-28/interview-comix-wave-koichiro-ito/.115324
 
 ---
@@ -83,6 +90,7 @@ title: "Anime News Network"
 - **Publisher:** Anime News Network
 - **Language:** English
 - **Company:** Bones
+- **People:** Masahiko Minami
 - **Source:**  https://www.animenewsnetwork.com/feature/2016-07-19/interview-studio-bones-president-masahiko-minami/.104467
 
 ---
@@ -93,6 +101,7 @@ title: "Anime News Network"
 - **Publisher:** Anime News Network
 - **Language:** English
 - **Company:** Bones
+- **People:** Bahi JD
 - **Source:**  https://www.animenewsnetwork.com/interview/2014-04-16/the-space-dandy/part-ii-bahi-jd
 
 ---

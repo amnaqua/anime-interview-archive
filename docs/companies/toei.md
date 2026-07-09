@@ -12,6 +12,7 @@ title: "Toei Animation"
 - **Publisher:** X (twitter)
 - **Language:** Arabic
 - **Company:** Toei Animation
+- **People:** Vincent Chansard
 - **Source:**  https://x.com/1jilj1il/status/1982779896213492212
 
 ---

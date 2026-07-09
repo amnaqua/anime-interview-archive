@@ -11,6 +11,7 @@ title: "Kinoko Nasu"
 - **Date:** 2017-08-20
 - **Publisher:** Wakame Paradise
 - **Language:** English
+- **People:** Kinoko Nasu
 - **Source:**  https://wakameparadise.wordpress.com/2017/08/20/nasu-ikuhara/
 
 ---

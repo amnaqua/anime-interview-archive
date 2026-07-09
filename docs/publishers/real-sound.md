@@ -12,6 +12,7 @@ title: "Real Sound"
 - **Publisher:** Real Sound
 - **Language:** Japanese
 - **Company:** MAPPA
+- **People:** Hiroi Hasegawa
 - **Source:**  https://realsound.jp/movie/2025/02/post-1934703.html
 
 ---

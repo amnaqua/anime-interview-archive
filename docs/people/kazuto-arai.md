@@ -11,6 +11,7 @@ title: "Kazuto Arai"
 - **Date:** 2023-10-21
 - **Publisher:** fusetter
 - **Language:** Japanese
+- **People:** Kazuto Arai
 - **Source:**  https://fusetter.com/tw/T840GZXY#all
 
 ---

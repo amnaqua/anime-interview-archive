@@ -11,6 +11,7 @@ title: "Vincent Chansard"
 - **Date:** 2026-07-04
 - **Publisher:** YouTube
 - **Language:** French
+- **People:** Vincent Chansard
 - **Source:**  https://www.youtube.com/watch?v=aAA1QikIuJ0
 
 ---
@@ -21,6 +22,7 @@ title: "Vincent Chansard"
 - **Publisher:** X (twitter)
 - **Language:** Arabic
 - **Company:** Toei Animation
+- **People:** Vincent Chansard
 - **Source:**  https://x.com/1jilj1il/status/1982779896213492212
 
 ---

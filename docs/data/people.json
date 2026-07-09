@@ -509,5 +509,15 @@
     "roles": [
       "Animator"
     ]
+  },
+
+  "hayao-miyazaki": {
+    "name": "Hayao Miyazaki",
+    "aliases": [
+      "宮崎 駿"
+    ],
+    "roles": [
+      "Director"
+    ]
   }
 }

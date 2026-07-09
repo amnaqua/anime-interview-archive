@@ -12,6 +12,7 @@ title: People
 - [Futoshi Nishiya](./futoshi-nishiya)
 - [Gen Urobuchi](./gen-urobuchi)
 - [Gorou Miyazaki](./gorou-miyazaki)
+- [Hayao Miyazaki](./hayao-miyazaki)
 - [Hiroi Hasegawa](./hiroi-hasegawa)
 - [Hiroshi Nagahama](./hiroshi-nagahama)
 - [Jouji Unoguchi](./jouji-unoguchi)

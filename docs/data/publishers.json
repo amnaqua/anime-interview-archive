@@ -125,5 +125,9 @@
 
   "nlab": {
     "name": "NetLab"
+  },
+
+  "animage": {
+    "name": "Animage"
   }
 }

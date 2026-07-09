@@ -5,6 +5,7 @@ title: Publishers
 # Publishers
 
 - [anan](./anan)
+- [Animage](./animage)
 - [Animate Times](./animate-times)
 - [Anime News Network](./ann)
 - [AnimeLand](./animeland)

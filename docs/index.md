@@ -4,15 +4,15 @@ layout: home
 hero:
   name: Anime Interview Archive
   text: Archive of anime staff interviews and production materials.
-  tagline: 55 interviews indexed
+  tagline: 56 interviews indexed
 
 features:
   - title: 👥 People
-    details: 53 people
+    details: 54 people
     link: /people/
 
   - title: 🎬 Works
-    details: 18 works
+    details: 19 works
     link: /works/
 
   - title: 🏢 Companies
@@ -20,7 +20,7 @@ features:
     link: /companies/
 
   - title: 📰 Publishers
-    details: 32 publishers
+    details: 33 publishers
     link: /publishers/
 ---
 
@@ -28,6 +28,7 @@ features:
 
 # Recently Added
 
+- **2026-07-09 16:09** — **Hayao Miyazaki** — [On Your Mark](/people/hayao-miyazaki#on-your-mark)
 - **2026-07-09 16:05** — **Masayuki Yoshihara** — [Uchouten Kazoku](/people/masayuki-yoshihara#uchouten-kazoku)
 - **2026-07-09 16:01** — **Futoshi Nishiya** — [Koe no Katachi](/people/futoshi-nishiya#koe-no-katachi-6)
 - **2026-07-09 15:58** — **Naoko Yamada** — [Koe no Katachi](/people/naoko-yamada#koe-no-katachi-5)
@@ -37,4 +38,3 @@ features:
 - **2026-07-09 15:46** — **Chiyoko Ueno, Yuki Tsunoda, Kouhei Okamura** — [Koe no Katachi](/people/chiyoko-ueno#koe-no-katachi-1)
 - **2026-07-09 15:41** — **Miku Kadowaki, Nobuaki Maruki, Yuuko Myouken** — [Koe no Katachi](/people/miku-kadowaki#koe-no-katachi)
 - **2026-07-09 14:39** — **Gen Urobuchi** — [Thunderbolt Fantasy](/people/gen-urobuchi#thunderbolt-fantasy)
-- **2026-07-09 14:30** — **Kyouko Kotani** — [A Female Animator’s Take On The Current Anime Industry](/people/kyouko-kotani#a-female-animators-take-on-the-current-anime-industry)

@@ -39,6 +39,10 @@ export default {
                 link: "/people/gorou-miyazaki"
             },
 {
+                text: "Hayao Miyazaki",
+                link: "/people/hayao-miyazaki"
+            },
+{
                 text: "Hiroi Hasegawa",
                 link: "/people/hiroi-hasegawa"
             },
@@ -268,6 +272,10 @@ export default {
                 link: "/works/michiko-to-hatchin"
             },
 {
+                text: "On Your Mark",
+                link: "/works/on-your-mark"
+            },
+{
                 text: "One Piece",
                 link: "/works/one-piece"
             },
@@ -408,6 +416,10 @@ export default {
             {
                 text: "anan",
                 link: "/publishers/anan"
+            },
+{
+                text: "Animage",
+                link: "/publishers/animage"
             },
 {
                 text: "Animate Times",

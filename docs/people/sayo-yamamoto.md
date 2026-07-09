@@ -6,6 +6,16 @@ title: "Sayo Yamamoto"
 
 ## Interviews
 
+### Yuri!!! on Ice
+
+- **Date:** 2017-09-27
+- **Publisher:** Anime News Network
+- **Language:** English
+- **Company:** MAPPA
+- **Source:**  https://www.animenewsnetwork.com/feature/2017-09-27/interview-the-staff-behind-yuri-on-ice/.120717
+
+---
+
 ### Sound Design of Woman Called Fujiko Mine
 
 - **Date:** 2012-12-19

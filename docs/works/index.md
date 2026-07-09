@@ -17,3 +17,4 @@ title: Works
 - [Space☆Dandy](./space-dandy)
 - [Tenmaku no Jaadugar](./tenmaku-no-jaadugar)
 - [Texhnolyze](./texhnolyze)
+- [Yuri!!! on Ice](./yuri-on-ice)

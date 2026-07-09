@@ -79,6 +79,10 @@ export default {
                 link: "/people/mitsuhisa-ishikawa"
             },
 {
+                text: "Mitsurou Kubo",
+                link: "/people/mitsurou-kubo"
+            },
+{
                 text: "Moko-chan",
                 link: "/people/moko-chan"
             },
@@ -121,6 +125,10 @@ export default {
 {
                 text: "Sunao Katabuchi",
                 link: "/people/sunao-katabuchi"
+            },
+{
+                text: "Tadashi Hiramatsu",
+                link: "/people/tadashi-hiramatsu"
             },
 {
                 text: "Vincent Chansard",
@@ -206,6 +214,10 @@ export default {
 {
                 text: "Texhnolyze",
                 link: "/works/texhnolyze"
+            },
+{
+                text: "Yuri!!! on Ice",
+                link: "/works/yuri-on-ice"
             }
         ]
     }

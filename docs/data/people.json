@@ -331,5 +331,25 @@
     "roles": [
       "Composer"
     ]
+  },
+
+  "tadashi-hiramatsu": {
+    "name": "Tadashi Hiramatsu",
+    "aliases": [
+      "平松 禎史"
+    ],
+    "roles": [
+      "Animator"
+    ]
+  },
+
+  "mitsurou-kubo": {
+    "name": "Mitsurou Kubo",
+    "aliases": [
+      "久保 ミツロウ"
+    ],
+    "roles": [
+      "Mangaka"
+    ]
   }
 }

@@ -12,7 +12,7 @@ publisher:
   - sakuga-blog
   
 companies:
-  - kyoto
+  - kyo-ani
 
 work:
   - koe-no-katachi

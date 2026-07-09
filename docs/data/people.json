@@ -752,5 +752,15 @@
     "roles": [
       "Composer"
     ]
+  },
+
+  "eve": {
+    "name": "Eve",
+    "aliases": [
+      "いぶ"
+    ],
+    "roles": [
+      "Musician"
+    ]
   }
 }

@@ -31,6 +31,10 @@ export default {
                 link: "/people/chiyoko-ueno"
             },
 {
+                text: "Eve",
+                link: "/people/eve"
+            },
+{
                 text: "Futoshi Nishiya",
                 link: "/people/futoshi-nishiya"
             },

@@ -10,6 +10,7 @@ title: People
 - [Ayumu Watanabe](./ayumu-watanabe)
 - [Bahi JD](./bahi-jd)
 - [Chiyoko Ueno](./chiyoko-ueno)
+- [Eve](./eve)
 - [Futoshi Nishiya](./futoshi-nishiya)
 - [Gen Urobuchi](./gen-urobuchi)
 - [George Wada](./george-wada)

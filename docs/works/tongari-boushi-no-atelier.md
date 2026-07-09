@@ -8,6 +8,17 @@ title: "Tongari Boushi no Atelier"
 
 ### Tongari Boushi no Atelier
 
+- **Date:** 2026-06-27
+- **Publisher:** X (twitter)
+- **Language:** Japanese
+- **Company:** BUG FILMS
+- **People:** Eve
+- **Source:**  https://x.com/tongari_anime/status/2070756610457379313
+
+---
+
+### Tongari Boushi no Atelier
+
 - **Date:** 2026-06-25
 - **Publisher:** X (twitter)
 - **Language:** Japanese

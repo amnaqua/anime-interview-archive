@@ -78,6 +78,7 @@ title: People
 - [Yoshitoshi Abe](./yoshitoshi-abe)
 - [You Yoshinari](./you-yoshinari)
 - [Yūdai Hiraoka](./yudai-hiraoka)
+- [Yuka Kitamura](./yuka-kitamura)
 - [Yuki Tsunoda](./yuki-tsunoda)
 - [Yutaka Nakamura](./yutaka-nakamura)
 - [Yuuko Myouken](./yuuko-myouken)

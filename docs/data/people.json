@@ -742,5 +742,15 @@
     "roles": [
       "Background Art"
     ]
+  },
+
+  "yuka-kitamura": {
+    "name": "Yuka Kitamura",
+    "aliases": [
+      "北村 友香"
+    ],
+    "roles": [
+      "Composer"
+    ]
   }
 }

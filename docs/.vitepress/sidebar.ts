@@ -303,6 +303,10 @@ export default {
                 link: "/people/yudai-hiraoka"
             },
 {
+                text: "Yuka Kitamura",
+                link: "/people/yuka-kitamura"
+            },
+{
                 text: "Yuki Tsunoda",
                 link: "/people/yuki-tsunoda"
             },

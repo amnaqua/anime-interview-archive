@@ -4,11 +4,11 @@ layout: home
 hero:
   name: Anime Interview Archive
   text: Archive of anime staff interviews and production materials.
-  tagline: 45 interviews indexed
+  tagline: 46 interviews indexed
 
 features:
   - title: 👥 People
-    details: 38 people
+    details: 39 people
     link: /people/
 
   - title: 🎬 Works
@@ -20,7 +20,7 @@ features:
     link: /companies/
 
   - title: 📰 Publishers
-    details: 32 publishers
+    details: 33 publishers
     link: /publishers/
 ---
 
@@ -28,6 +28,7 @@ features:
 
 # Recently Added
 
+- **2026-07-09 14:30** — **Kyouko Kotani** — [A Female Animator’s Take On The Current Anime Industry](/people/kyouko-kotani#a-female-animators-take-on-the-current-anime-industry)
 - **2026-07-09 13:37** — **Manabu Ootsuka** — [Charm of Yuri!!! on ICE](/people/manabu-ootsuka#charm-of-yuri-on-ice)
 - **2026-07-09 13:33** — **Hiroshi Nagahama** — [The Reflection](/people/hiroshi-nagahama#the-reflection)
 - **2026-07-09 13:28** — **Sayo Yamamoto, Tadashi Hiramatsu, Mitsurou Kubo** — [Yuri!!! on Ice](/people/sayo-yamamoto#yuri-on-ice)
@@ -37,4 +38,3 @@ features:
 - **2026-07-09 01:42** — **Kai Ikarashi** — [Cyberpunk: Edgerunners 2](/people/kai-ikarashi#cyberpunk-edgerunners-2)
 - **2026-07-09 01:38** — **Gorou Miyazaki** — [About Anime Industry](/people/gorou-miyazaki#about-anime-industry-16)
 - **2026-07-09 01:34** — **Yoshitoshi Abe, Yasuyuki Ueda** — [Texhnolyze](/people/yoshitoshi-abe#texhnolyze)
-- **2026-07-09 01:27** — **You Yoshinari** — [Little Witch Academia](/people/you-yoshinari#little-witch-academia)

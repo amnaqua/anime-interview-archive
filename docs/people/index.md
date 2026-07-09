@@ -18,6 +18,7 @@ title: People
 - [Kiyotaka Oshiyama](./kiyotaka-oshiyama)
 - [Koichiro Ito](./koichiro-ito)
 - [Kouhei Sakita](./kouhei-sakita)
+- [Kyouko Kotani](./kyouko-kotani)
 - [Makoto Kimura](./makoto-kimura)
 - [Mamoru Oshii](./mamoru-oshii)
 - [Manabu Ootsuka](./manabu-ootsuka)

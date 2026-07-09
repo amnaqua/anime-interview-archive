@@ -125,5 +125,9 @@
 
   "tower": {
     "name": "Tower Records"
+  },
+
+  "nlab": {
+    "name": "NetLab"
   }
 }

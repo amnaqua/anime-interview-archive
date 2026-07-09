@@ -361,5 +361,15 @@
     "roles": [
       "Director"
     ]
+  },
+
+  "kyouko-kotani": {
+    "name": "Kyouko Kotani",
+    "aliases": [
+      "小谷 杏子"
+    ],
+    "roles": [
+      "Animator"
+    ]
   }
 }

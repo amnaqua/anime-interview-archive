@@ -63,6 +63,10 @@ export default {
                 link: "/people/kouhei-sakita"
             },
 {
+                text: "Kyouko Kotani",
+                link: "/people/kyouko-kotani"
+            },
+{
                 text: "Makoto Kimura",
                 link: "/people/makoto-kimura"
             },
@@ -388,6 +392,10 @@ export default {
 {
                 text: "Medium",
                 link: "/publishers/medium"
+            },
+{
+                text: "NetLab",
+                link: "/publishers/nlab"
             },
 {
                 text: "Oricon",

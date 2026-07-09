@@ -22,6 +22,7 @@ title: Publishers
 - [Kinema Junpo Sha](./kinema-junpo-sha)
 - [MANTANWEB](./mantanweb)
 - [Medium](./medium)
+- [NetLab](./nlab)
 - [Oricon](./oricon)
 - [OtaCrew](./ota-crew)
 - [Pelleas](./pelleas)

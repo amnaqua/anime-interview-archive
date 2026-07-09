@@ -129,5 +129,9 @@
 
   "animage": {
     "name": "Animage"
+  },
+
+  "guardian": {
+    "name": "The Guardian"
   }
 }

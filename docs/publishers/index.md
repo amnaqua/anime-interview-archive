@@ -30,6 +30,7 @@ title: Publishers
 - [Sakuga Blog](./sakuga-blog)
 - [Seibundo Shinkosha](./seibundo-shinkosha)
 - [SHINSEIKI](./shinseiki)
+- [The Guardian](./guardian)
 - [The Non-Stop Road](./non-stop-road)
 - [Tower Records](./tower)
 - [Wakame Paradise](./wakame-paradise)

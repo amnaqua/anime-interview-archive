@@ -518,6 +518,10 @@ export default {
                 link: "/publishers/shinseiki"
             },
 {
+                text: "The Guardian",
+                link: "/publishers/guardian"
+            },
+{
                 text: "The Non-Stop Road",
                 link: "/publishers/non-stop-road"
             },

@@ -28,7 +28,7 @@ features:
 
 # Recently Added
 
-- **2026-07-09 23:11** — **Kairi Unabara, Hiroaki Karasu, Yoshihisa Satou** — [Tongari Boushi no Atelier](/people/kairi-unabara#tongari-boushi-no-atelier-8)
+- **2026-07-09 23:12** — **Kairi Unabara, Hiroaki Karasu, Yoshihisa Satou** — [Tongari Boushi no Atelier](/people/kairi-unabara#tongari-boushi-no-atelier-8)
 - **2026-07-09 23:08** — **Kazuki Kawagoe, Satoshi Nakano** — [Tongari Boushi no Atelier](/people/kazuki-kawagoe#tongari-boushi-no-atelier-7)
 - **2026-07-09 23:03** — **Natsuki Hanae, Yuuichi Nakamura** — [Tongari Boushi no Atelier](/people/natsuki-hanae#tongari-boushi-no-atelier-6)
 - **2026-07-09 23:00** — **Eve** — [Tongari Boushi no Atelier](/people/eve#tongari-boushi-no-atelier-5)

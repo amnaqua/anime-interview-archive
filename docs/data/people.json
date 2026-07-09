@@ -464,10 +464,30 @@
   "rina-miura": {
     "name": "Rina Miura",
     "aliases": [
-      " 三浦 理奈"
+      "三浦 理奈"
     ],
     "roles": [
       "Special Effects"
+    ]
+  },
+
+  "jouji-unoguchi": {
+    "name": "Jouji Unoguchi",
+    "aliases": [
+      "鵜ノ口 穣二"
+    ],
+    "roles": [
+      "3DCG"
+    ]
+  },
+
+  "norihiro-tomiita": {
+    "name": "Norihiro Tomiita",
+    "aliases": [
+      "冨板 紀宏"
+    ],
+    "roles": [
+      "3DCG"
     ]
   }
 }

@@ -43,6 +43,10 @@ export default {
                 link: "/people/hiroshi-nagahama"
             },
 {
+                text: "Jouji Unoguchi",
+                link: "/people/jouji-unoguchi"
+            },
+{
                 text: "Kai Ikarashi",
                 link: "/people/kai-ikarashi"
             },
@@ -129,6 +133,10 @@ export default {
 {
                 text: "Nobuaki Maruki",
                 link: "/people/nobuaki-maruki"
+            },
+{
+                text: "Norihiro Tomiita",
+                link: "/people/norihiro-tomiita"
             },
 {
                 text: "Noritaka Kawaguchi",

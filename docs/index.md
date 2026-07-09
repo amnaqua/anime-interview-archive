@@ -4,11 +4,11 @@ layout: home
 hero:
   name: Anime Interview Archive
   text: Archive of anime staff interviews and production materials.
-  tagline: 51 interviews indexed
+  tagline: 52 interviews indexed
 
 features:
   - title: 👥 People
-    details: 49 people
+    details: 51 people
     link: /people/
 
   - title: 🎬 Works
@@ -28,7 +28,8 @@ features:
 
 # Recently Added
 
-- **2026-07-09 15:51** — **Kana Miyata, Rina Miura** — [Koe no Katachi](/people/kana-miyata#koe-no-katachi-3)
+- **2026-07-09 15:56** — **Jouji Unoguchi, Norihiro Tomiita** — [Koe no Katachi](/people/jouji-unoguchi#koe-no-katachi-4)
+- **2026-07-09 15:52** — **Kana Miyata, Rina Miura** — [Koe no Katachi](/people/kana-miyata#koe-no-katachi-3)
 - **2026-07-09 15:48** — **Naoko Fujita** — [Koe no Katachi](/people/naoko-fujita#koe-no-katachi-2)
 - **2026-07-09 15:46** — **Chiyoko Ueno, Yuki Tsunoda, Kouhei Okamura** — [Koe no Katachi](/people/chiyoko-ueno#koe-no-katachi-1)
 - **2026-07-09 15:41** — **Miku Kadowaki, Nobuaki Maruki, Yuuko Myouken** — [Koe no Katachi](/people/miku-kadowaki#koe-no-katachi)
@@ -37,4 +38,3 @@ features:
 - **2026-07-09 13:37** — **Manabu Ootsuka** — [Charm of Yuri!!! on ICE](/people/manabu-ootsuka#charm-of-yuri-on-ice)
 - **2026-07-09 13:33** — **Hiroshi Nagahama** — [The Reflection](/people/hiroshi-nagahama#the-reflection)
 - **2026-07-09 13:28** — **Sayo Yamamoto, Tadashi Hiramatsu, Mitsurou Kubo** — [Yuri!!! on Ice](/people/sayo-yamamoto#yuri-on-ice)
-- **2026-07-09 13:20** — **Sayo Yamamoto, Naruyoshi Kikuchi** — [Sound Design of Woman Called Fujiko Mine](/people/sayo-yamamoto#sound-design-of-woman-called-fujiko-mine)

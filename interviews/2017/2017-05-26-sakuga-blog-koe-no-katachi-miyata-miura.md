@@ -20,7 +20,7 @@ language: en
 
 links:
   - type: source
-    url: https://blog.sakugabooru.com/2017/05/25/koe-no-katachi-in-between-checker-interview/
+    url: https://blog.sakugabooru.com/2017/05/26/koe-no-katachi-color-coordinator-x-special-effects-roundtable/
 
 archived_at: 2026-07-09 15:52
 ---

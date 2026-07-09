@@ -199,6 +199,10 @@ export default {
                 link: "/people/naruyoshi-kikuchi"
             },
 {
+                text: "Natsuki Hanae",
+                link: "/people/natsuki-hanae"
+            },
+{
                 text: "Nobuaki Maruki",
                 link: "/people/nobuaki-maruki"
             },
@@ -317,6 +321,10 @@ export default {
 {
                 text: "Yutaka Nakamura",
                 link: "/people/yutaka-nakamura"
+            },
+{
+                text: "Yuuichi Nakamura",
+                link: "/people/yuuichi-nakamura"
             },
 {
                 text: "Yuuko Myouken",

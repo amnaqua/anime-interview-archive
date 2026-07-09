@@ -762,5 +762,25 @@
     "roles": [
       "Musician"
     ]
+  },
+
+  "natsuki-hanae": {
+    "name": "Natsuki Hanae",
+    "aliases": [
+      "花江 夏樹"
+    ],
+    "roles": [
+      "VA"
+    ]
+  },
+
+  "yuuichi-nakamura": {
+    "name": "Yuuichi Nakamura",
+    "aliases": [
+      "中村 悠一"
+    ],
+    "roles": [
+      "VA"
+    ]
   }
 }

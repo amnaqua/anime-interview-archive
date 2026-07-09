@@ -4,11 +4,11 @@ layout: home
 hero:
   name: Anime Interview Archive
   text: Archive of anime staff interviews and production materials.
-  tagline: 75 interviews indexed
+  tagline: 76 interviews indexed
 
 features:
   - title: 👥 People
-    details: 79 people
+    details: 81 people
     link: /people/
 
   - title: 🎬 Works
@@ -28,6 +28,7 @@ features:
 
 # Recently Added
 
+- **2026-07-09 23:03** — **Natsuki Hanae, Yuuichi Nakamura** — [Tongari Boushi no Atelier](/people/natsuki-hanae#tongari-boushi-no-atelier-6)
 - **2026-07-09 23:00** — **Eve** — [Tongari Boushi no Atelier](/people/eve#tongari-boushi-no-atelier-5)
 - **2026-07-09 22:59** — **Yuka Kitamura** — [Tongari Boushi no Atelier](/people/yuka-kitamura#tongari-boushi-no-atelier-4)
 - **2026-07-09 22:55** — **Shuuhei Tada, Mika Nakajima** — [Tongari Boushi no Atelier](/people/shuuhei-tada#tongari-boushi-no-atelier-3)
@@ -36,5 +37,4 @@ features:
 - **2026-07-09 22:42** — **Ayumu Watanabe, Rena Motomura** — [Tongari Boushi no Atelier](/people/ayumu-watanabe#tongari-boushi-no-atelier)
 - **2026-07-09 22:16** — **Shouji Kawamori, Hidetaka Tenjin** — [Shoji Kawamori and Hidetaka Tenjin Talk Macross in the US, AI, and More](/people/shouji-kawamori#shoji-kawamori-and-hidetaka-tenjin-talk-macross-in-the-us-ai-and-more)
 - **2026-07-09 22:08** — **Muneki Ogasawara** — [Giving 120%: Kinema Citrus President Talks Under the Dog, Kickstarter, and Anime Budgets](/people/muneki-ogasawara#giving-120-kinema-citrus-president-talks-under-the-dog-kickstarter-and-anime-budgets)
-- **2026-07-09 20:29** — **Kana Ueda** — [About Anime Industry](/people/kana-ueda#about-anime-industry-7)
-- **2026-07-09 20:23** — **Tsutomu Mizushima** — [Girls & Panzer Movie](/people/tsutomu-mizushima#girls--panzer-movie)
+- **2026-07-09 20:29** — **Kana Ueda** — [About Anime Industry](/people/kana-ueda#about-anime-industry-8)

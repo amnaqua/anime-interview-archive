@@ -52,6 +52,7 @@ title: People
 - [Naoko Fujita](./naoko-fujita)
 - [Naoko Yamada](./naoko-yamada)
 - [Naruyoshi Kikuchi](./naruyoshi-kikuchi)
+- [Natsuki Hanae](./natsuki-hanae)
 - [Nobuaki Maruki](./nobuaki-maruki)
 - [Norihiro Naganuma](./norihiro-naganuma)
 - [Norihiro Tomiita](./norihiro-tomiita)
@@ -82,4 +83,5 @@ title: People
 - [Yuka Kitamura](./yuka-kitamura)
 - [Yuki Tsunoda](./yuki-tsunoda)
 - [Yutaka Nakamura](./yutaka-nakamura)
+- [Yuuichi Nakamura](./yuuichi-nakamura)
 - [Yuuko Myouken](./yuuko-myouken)

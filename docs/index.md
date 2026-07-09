@@ -28,6 +28,7 @@ features:
 
 # Recently Added
 
+- **2026-07-09 16:17** — **Kazuki Akane** — [Tenkuu no Escaflowne](/people/kazuki-akane#tenkuu-no-escaflowne)
 - **2026-07-09 16:13** — **Hayao Miyazaki** — [A god among animators](/people/hayao-miyazaki#a-god-among-animators)
 - **2026-07-09 16:10** — **Hayao Miyazaki** — [On Your Mark](/people/hayao-miyazaki#on-your-mark)
 - **2026-07-09 16:05** — **Masayuki Yoshihara** — [Uchouten Kazoku](/people/masayuki-yoshihara#uchouten-kazoku)
@@ -37,4 +38,3 @@ features:
 - **2026-07-09 15:52** — **Kana Miyata, Rina Miura** — [Koe no Katachi](/people/kana-miyata#koe-no-katachi-3)
 - **2026-07-09 15:48** — **Naoko Fujita** — [Koe no Katachi](/people/naoko-fujita#koe-no-katachi-2)
 - **2026-07-09 15:46** — **Chiyoko Ueno, Yuki Tsunoda, Kouhei Okamura** — [Koe no Katachi](/people/chiyoko-ueno#koe-no-katachi-1)
-- **2026-07-09 15:41** — **Miku Kadowaki, Nobuaki Maruki, Yuuko Myouken** — [Koe no Katachi](/people/miku-kadowaki#koe-no-katachi)

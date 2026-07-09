@@ -18,5 +18,6 @@ title: Companies
 - [Signal.MD](./signal-md)
 - [Studio 3Hz](./3hz)
 - [Studio Ghibli](./ghibli)
+- [TMS Entertainment](./tms)
 - [Toei Animation](./toei)
 - [Trigger](./trigger)

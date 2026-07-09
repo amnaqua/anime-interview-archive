@@ -11,6 +11,7 @@ title: Works
 - [In This Corner of the World](./in-this-corner-of-the-world)
 - [Kaoru Hana wa Rin to Saku](./kaoru-hana)
 - [Little Witch Academia](./little-witch-academia)
+- [Lupin the Third: The Woman Called Fujiko Mine](./lupin-the-third-mine-fujiko-to-iu-onna)
 - [Michiko to Hatchin](./michiko-to-hatchin)
 - [One Piece](./one-piece)
 - [Space☆Dandy](./space-dandy)

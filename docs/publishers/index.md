@@ -30,6 +30,7 @@ title: Publishers
 - [Seibundo Shinkosha](./seibundo-shinkosha)
 - [SHINSEIKI](./shinseiki)
 - [The Non-Stop Road](./non-stop-road)
+- [Tower Records](./tower)
 - [Wakame Paradise](./wakame-paradise)
 - [WEB Anime Style](./web-anime-style)
 - [Wired Japan](./wired-japan)

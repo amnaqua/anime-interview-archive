@@ -87,6 +87,10 @@ export default {
                 link: "/people/naoko-yamada"
             },
 {
+                text: "Naruyoshi Kikuchi",
+                link: "/people/naruyoshi-kikuchi"
+            },
+{
                 text: "Noritaka Kawaguchi",
                 link: "/people/noritaka-kawaguchi"
             },
@@ -180,6 +184,10 @@ export default {
                 link: "/works/little-witch-academia"
             },
 {
+                text: "Lupin the Third: The Woman Called Fujiko Mine",
+                link: "/works/lupin-the-third-mine-fujiko-to-iu-onna"
+            },
+{
                 text: "Michiko to Hatchin",
                 link: "/works/michiko-to-hatchin"
             },
@@ -263,6 +271,10 @@ export default {
 {
                 text: "Studio Ghibli",
                 link: "/companies/ghibli"
+            },
+{
+                text: "TMS Entertainment",
+                link: "/companies/tms"
             },
 {
                 text: "Toei Animation",
@@ -384,6 +396,10 @@ export default {
 {
                 text: "The Non-Stop Road",
                 link: "/publishers/non-stop-road"
+            },
+{
+                text: "Tower Records",
+                link: "/publishers/tower"
             },
 {
                 text: "Wakame Paradise",

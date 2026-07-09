@@ -6,7 +6,7 @@ title: "Manglobe"
 
 ## Interviews
 
-### Michiko to Hatchin
+### Rawness of Women
 
 - **Date:** 2008-09-01
 - **Publisher:** Seibundo Shinkosha

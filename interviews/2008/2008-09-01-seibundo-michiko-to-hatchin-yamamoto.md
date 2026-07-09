@@ -1,5 +1,5 @@
 ---
-title: Michiko to Hatchin
+title: Rawness of Women
 
 date: 2008-09-01
 

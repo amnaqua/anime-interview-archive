@@ -24,6 +24,7 @@ title: People
 - [Mitsuhisa Ishikawa](./mitsuhisa-ishikawa)
 - [Moko-chan](./moko-chan)
 - [Naoko Yamada](./naoko-yamada)
+- [Naruyoshi Kikuchi](./naruyoshi-kikuchi)
 - [Noritaka Kawaguchi](./noritaka-kawaguchi)
 - [Ryo-Timo](./ryo-timo)
 - [Sayo Yamamoto](./sayo-yamamoto)

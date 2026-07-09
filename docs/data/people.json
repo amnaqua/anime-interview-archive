@@ -321,5 +321,15 @@
     "roles": [
       "Director"
     ]
+  },
+
+  "naruyoshi-kikuchi": {
+    "name": "Naruyoshi Kikuchi",
+    "aliases": [
+      "菊地 成孔"
+    ],
+    "roles": [
+      "Composer"
+    ]
   }
 }

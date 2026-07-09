@@ -159,6 +159,10 @@ export default {
                 link: "/people/masayuki-yoshihara"
             },
 {
+                text: "Mika Nakajima",
+                link: "/people/mika-nakajima"
+            },
+{
                 text: "Miku Kadowaki",
                 link: "/people/miku-kadowaki"
             },
@@ -249,6 +253,10 @@ export default {
 {
                 text: "Shuuhei Handa",
                 link: "/people/shuuhei-handa"
+            },
+{
+                text: "Shuuhei Tada",
+                link: "/people/shuuhei-tada"
             },
 {
                 text: "Sunao Katabuchi",

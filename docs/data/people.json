@@ -722,5 +722,25 @@
     "roles": [
       "Animator"
     ]
+  },
+
+  "shuuhei-tada": {
+    "name": "Shuuhei Tada",
+    "aliases": [
+      "多田 周平"
+    ],
+    "roles": [
+      "Background Art"
+    ]
+  },
+
+  "mika-nakajima": {
+    "name": "Mika Nakajima",
+    "aliases": [
+      "中島 美佳"
+    ],
+    "roles": [
+      "Background Art"
+    ]
   }
 }

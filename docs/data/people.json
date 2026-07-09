@@ -802,5 +802,35 @@
     "roles": [
       "Animator"
     ]
+  },
+
+  "kairi-unabara": {
+    "name": "Kairi Unabara",
+    "aliases": [
+      "うなばら 海里"
+    ],
+    "roles": [
+      "Animator"
+    ]
+  },
+
+  "hiroaki-karasu": {
+    "name": "Hiroaki Karasu",
+    "aliases": [
+      "烏 宏明"
+    ],
+    "roles": [
+      "Animator"
+    ]
+  },
+
+  "yoshihisa-satou": {
+    "name": "Yoshihisa Satou",
+    "aliases": [
+      "佐藤 義久"
+    ],
+    "roles": [
+      "Animator"
+    ]
   }
 }

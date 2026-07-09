@@ -67,6 +67,10 @@ export default {
                 link: "/people/hidetaka-tenjin"
             },
 {
+                text: "Hiroaki Karasu",
+                link: "/people/hiroaki-karasu"
+            },
+{
                 text: "Hiroi Hasegawa",
                 link: "/people/hiroi-hasegawa"
             },
@@ -85,6 +89,10 @@ export default {
 {
                 text: "Kai Ikarashi",
                 link: "/people/kai-ikarashi"
+            },
+{
+                text: "Kairi Unabara",
+                link: "/people/kairi-unabara"
             },
 {
                 text: "Kana Miyata",
@@ -305,6 +313,10 @@ export default {
 {
                 text: "Yasuyuki Ueda",
                 link: "/people/yasuyuki-ueda"
+            },
+{
+                text: "Yoshihisa Satou",
+                link: "/people/yoshihisa-satou"
             },
 {
                 text: "Yoshitoshi Abe",

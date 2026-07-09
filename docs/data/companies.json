@@ -57,5 +57,9 @@
 
   "ghibli": {
     "name": "Studio Ghibli"
+  },
+
+  "manglobe": {
+    "name": "Manglobe"
   }
 }

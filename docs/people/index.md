@@ -26,6 +26,7 @@ title: People
 - [Naoko Yamada](./naoko-yamada)
 - [Noritaka Kawaguchi](./noritaka-kawaguchi)
 - [Ryo-Timo](./ryo-timo)
+- [Sayo Yamamoto](./sayo-yamamoto)
 - [Shouji Murahama](./shouji-murahama)
 - [Shouko Hori](./shouko-hori)
 - [Shunichi Tsuji](./shunichi-tsuji)

@@ -311,5 +311,15 @@
     "name": "Atsuo Nakayama",
     "aliases": [],
     "roles": []
+  },
+
+  "sayo-yamamoto": {
+    "name": "Sayo Yamamoto",
+    "aliases": [
+      "山本 沙代"
+    ],
+    "roles": [
+      "Director"
+    ]
   }
 }

@@ -27,6 +27,7 @@ title: Publishers
 - [Pelleas](./pelleas)
 - [Real Sound](./real-sound)
 - [Sakuga Blog](./sakuga-blog)
+- [Seibundo Shinkosha](./seibundo-shinkosha)
 - [SHINSEIKI](./shinseiki)
 - [The Non-Stop Road](./non-stop-road)
 - [Wakame Paradise](./wakame-paradise)

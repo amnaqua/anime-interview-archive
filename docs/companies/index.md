@@ -10,6 +10,7 @@ title: Companies
 - [CoMix Wave Films](./comix-wave)
 - [Kodansha](./kodansha)
 - [Madhouse](./madhouse)
+- [Manglobe](./manglobe)
 - [MAPPA](./mappa)
 - [OLM](./olm)
 - [Production I.G](./production-ig)

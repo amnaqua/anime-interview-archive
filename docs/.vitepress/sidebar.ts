@@ -95,6 +95,10 @@ export default {
                 link: "/people/ryo-timo"
             },
 {
+                text: "Sayo Yamamoto",
+                link: "/people/sayo-yamamoto"
+            },
+{
                 text: "Shouji Murahama",
                 link: "/people/shouji-murahama"
             },
@@ -176,6 +180,10 @@ export default {
                 link: "/works/little-witch-academia"
             },
 {
+                text: "Michiko to Hatchin",
+                link: "/works/michiko-to-hatchin"
+            },
+{
                 text: "One Piece",
                 link: "/works/one-piece"
             },
@@ -223,6 +231,10 @@ export default {
 {
                 text: "Madhouse",
                 link: "/companies/madhouse"
+            },
+{
+                text: "Manglobe",
+                link: "/companies/manglobe"
             },
 {
                 text: "MAPPA",
@@ -360,6 +372,10 @@ export default {
 {
                 text: "Sakuga Blog",
                 link: "/publishers/sakuga-blog"
+            },
+{
+                text: "Seibundo Shinkosha",
+                link: "/publishers/seibundo-shinkosha"
             },
 {
                 text: "SHINSEIKI",

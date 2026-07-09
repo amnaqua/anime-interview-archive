@@ -16,6 +16,7 @@ title: Companies
 - [MAPPA](./mappa)
 - [Nitroplus](./nitro-plus)
 - [OLM](./olm)
+- [P.A. Works](./pa-works)
 - [Production I.G](./production-ig)
 - [Science SARU](./science-saru)
 - [Signal.MD](./signal-md)

@@ -29,6 +29,7 @@ title: People
 - [Mamoru Oshii](./mamoru-oshii)
 - [Manabu Ootsuka](./manabu-ootsuka)
 - [Masahiko Minami](./masahiko-minami)
+- [Masayuki Yoshihara](./masayuki-yoshihara)
 - [Miku Kadowaki](./miku-kadowaki)
 - [Mitsuhisa Ishikawa](./mitsuhisa-ishikawa)
 - [Mitsurou Kubo](./mitsurou-kubo)

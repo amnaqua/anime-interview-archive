@@ -107,6 +107,10 @@ export default {
                 link: "/people/masahiko-minami"
             },
 {
+                text: "Masayuki Yoshihara",
+                link: "/people/masayuki-yoshihara"
+            },
+{
                 text: "Miku Kadowaki",
                 link: "/people/miku-kadowaki"
             },
@@ -288,6 +292,10 @@ export default {
                 link: "/works/thunderbolt-fantasy"
             },
 {
+                text: "Uchouten Kazoku",
+                link: "/works/uchouten-kazoku"
+            },
+{
                 text: "Yuri!!! on Ice",
                 link: "/works/yuri-on-ice"
             }
@@ -347,6 +355,10 @@ export default {
 {
                 text: "OLM",
                 link: "/companies/olm"
+            },
+{
+                text: "P.A. Works",
+                link: "/companies/pa-works"
             },
 {
                 text: "Production I.G",

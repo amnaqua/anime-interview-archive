@@ -379,5 +379,35 @@
       "虚淵 玄"
     ],
     "roles": []
+  },
+
+  "miku-kadowaki": {
+    "name": "Miku Kadowaki",
+    "aliases": [
+      "門脇 未来"
+    ],
+    "roles": [
+      "Animator"
+    ]
+  },
+
+  "nobuaki-maruki": {
+    "name": "Nobuaki Maruki",
+    "aliases": [
+      "丸木 宣明"
+    ],
+    "roles": [
+      "Animator"
+    ]
+  },
+
+  "yuuko-myouken": {
+    "name": "Yuuko Myouken",
+    "aliases": [
+      "明見 裕子"
+    ],
+    "roles": [
+      "Animator"
+    ]
   }
 }

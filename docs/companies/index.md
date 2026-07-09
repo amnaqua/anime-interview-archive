@@ -10,6 +10,7 @@ title: Companies
 - [CoMix Wave Films](./comix-wave)
 - [Good Smile Company](./good-smile)
 - [Kodansha](./kodansha)
+- [Kyoto Animation](./kyo-ani)
 - [Madhouse](./madhouse)
 - [Manglobe](./manglobe)
 - [MAPPA](./mappa)

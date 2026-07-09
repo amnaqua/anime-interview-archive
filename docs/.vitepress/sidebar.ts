@@ -87,6 +87,10 @@ export default {
                 link: "/people/masahiko-minami"
             },
 {
+                text: "Miku Kadowaki",
+                link: "/people/miku-kadowaki"
+            },
+{
                 text: "Mitsuhisa Ishikawa",
                 link: "/people/mitsuhisa-ishikawa"
             },
@@ -105,6 +109,10 @@ export default {
 {
                 text: "Naruyoshi Kikuchi",
                 link: "/people/naruyoshi-kikuchi"
+            },
+{
+                text: "Nobuaki Maruki",
+                link: "/people/nobuaki-maruki"
             },
 {
                 text: "Noritaka Kawaguchi",
@@ -165,6 +173,10 @@ export default {
 {
                 text: "Yutaka Nakamura",
                 link: "/people/yutaka-nakamura"
+            },
+{
+                text: "Yuuko Myouken",
+                link: "/people/yuuko-myouken"
             }
         ]
     }
@@ -198,6 +210,10 @@ export default {
 {
                 text: "Kaoru Hana wa Rin to Saku",
                 link: "/works/kaoru-hana"
+            },
+{
+                text: "Koe no Katachi",
+                link: "/works/koe-no-katachi"
             },
 {
                 text: "Little Witch Academia",
@@ -271,6 +287,10 @@ export default {
 {
                 text: "Kodansha",
                 link: "/companies/kodansha"
+            },
+{
+                text: "Kyoto Animation",
+                link: "/companies/kyo-ani"
             },
 {
                 text: "Madhouse",

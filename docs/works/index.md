@@ -10,6 +10,7 @@ title: Works
 - [Ghost in the Shell](./ghost-in-the-shell)
 - [In This Corner of the World](./in-this-corner-of-the-world)
 - [Kaoru Hana wa Rin to Saku](./kaoru-hana)
+- [Koe no Katachi](./koe-no-katachi)
 - [Little Witch Academia](./little-witch-academia)
 - [Lupin the Third: The Woman Called Fujiko Mine](./lupin-the-third-mine-fujiko-to-iu-onna)
 - [Michiko to Hatchin](./michiko-to-hatchin)

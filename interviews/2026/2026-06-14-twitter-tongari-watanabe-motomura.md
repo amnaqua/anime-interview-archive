@@ -13,6 +13,9 @@ companies:
 publisher:
   - twitter
 
+work:
+  - tongari-boushi-no-atelier
+
 language: ja
 
 links:

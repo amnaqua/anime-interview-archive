@@ -684,5 +684,43 @@
       "Art Director",
       "Background Art"
     ]
+  },
+
+  "haruyoshi-nomura": {
+    "name": "Haruyoshi Nomura",
+    "aliases": [
+      "野村 治嘉"
+    ],
+    "roles": [
+      "Animator"
+    ]
+  },
+
+  "william-lee": {
+    "name": "William Lee",
+    "aliases": [],
+    "roles": [
+      "Animator"
+    ]
+  },
+
+  "isao-nanba": {
+    "name": "Isao Nanba",
+    "aliases": [
+      "難波 功"
+    ],
+    "roles": [
+      "Animator"
+    ]
+  },
+
+  "hayato-torii": {
+    "name": "Hayato Torii",
+    "aliases": [
+      "鳥井 隼人"
+    ],
+    "roles": [
+      "Animator"
+    ]
   }
 }

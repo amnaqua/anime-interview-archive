@@ -47,8 +47,16 @@ export default {
                 link: "/people/gorou-miyazaki"
             },
 {
+                text: "Haruyoshi Nomura",
+                link: "/people/haruyoshi-nomura"
+            },
+{
                 text: "Hayao Miyazaki",
                 link: "/people/hayao-miyazaki"
+            },
+{
+                text: "Hayato Torii",
+                link: "/people/hayato-torii"
             },
 {
                 text: "Hidetaka Tenjin",
@@ -61,6 +69,10 @@ export default {
 {
                 text: "Hiroshi Nagahama",
                 link: "/people/hiroshi-nagahama"
+            },
+{
+                text: "Isao Nanba",
+                link: "/people/isao-nanba"
             },
 {
                 text: "Jouji Unoguchi",
@@ -261,6 +273,10 @@ export default {
 {
                 text: "Vincent Chansard",
                 link: "/people/vincent-chansard"
+            },
+{
+                text: "William Lee",
+                link: "/people/william-lee"
             },
 {
                 text: "Yasuyuki Ueda",

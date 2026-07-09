@@ -207,6 +207,10 @@ export default {
                 link: "/people/ryo-timo"
             },
 {
+                text: "Ryouta Gotou",
+                link: "/people/ryouta-gotou"
+            },
+{
                 text: "Ryoutarou Nagayama",
                 link: "/people/ryoutarou-nagayama"
             },

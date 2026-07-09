@@ -54,6 +54,7 @@ title: People
 - [Rena Motomura](./rena-motomura)
 - [Rina Miura](./rina-miura)
 - [Ryo-Timo](./ryo-timo)
+- [Ryouta Gotou](./ryouta-gotou)
 - [Ryoutarou Nagayama](./ryoutarou-nagayama)
 - [Sayo Yamamoto](./sayo-yamamoto)
 - [Shouji Kawamori](./shouji-kawamori)

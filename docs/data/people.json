@@ -673,5 +673,16 @@
     "roles": [
       "Director"
     ]
+  },
+
+  "ryouta-gotou": {
+    "name": "Ryouta Gotou",
+    "aliases": [
+      "後藤 亮太"
+    ],
+    "roles": [
+      "Art Director",
+      "Background Art"
+    ]
   }
 }

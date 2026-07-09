@@ -15,6 +15,7 @@ title: Publishers
 - [Famitsu](./famitsu)
 - [FAR From Animation](./far-from-animation)
 - [Fighting for Nippon](./fighting-for-nippon)
+- [Finland in Japan](./finland-or-japan)
 - [Full Frontal](./full-frontal)
 - [fusetter](./fusetter)
 - [Gizmodo](./gizmodo)

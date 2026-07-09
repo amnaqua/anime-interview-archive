@@ -59,6 +59,7 @@ title: People
 - [Tadashi Hiramatsu](./tadashi-hiramatsu)
 - [Tatsuya Ishiguro](./tatsuya-ishiguro)
 - [Tatsuyuki Nagai](./tatsuyuki-nagai)
+- [Tsutomu Mizushima](./tsutomu-mizushima)
 - [Vincent Chansard](./vincent-chansard)
 - [Yasuyuki Ueda](./yasuyuki-ueda)
 - [Yoshitoshi Abe](./yoshitoshi-abe)

@@ -8,6 +8,7 @@ title: Works
 - [Cyberpunk: Edgerunners 2](./cyberpunk-edgerunners-2)
 - [Flip Flappers](./flip-flappers)
 - [Ghost in the Shell](./ghost-in-the-shell)
+- [Girls & Panzer Movie](./girls-panzer-movie)
 - [In This Corner of the World](./in-this-corner-of-the-world)
 - [Kaoru Hana wa Rin to Saku](./kaoru-hana)
 - [Kiznaiver](./kiznaiver)

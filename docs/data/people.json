@@ -605,5 +605,15 @@
     "roles": [
       "Animator"
     ]
+  },
+
+  "tsutomu-mizushima": {
+    "name": "Tsutomu Mizushima",
+    "aliases": [
+      "水島 努"
+    ],
+    "roles": [
+      "Director"
+    ]
   }
 }

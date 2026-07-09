@@ -141,5 +141,9 @@
 
   "noitamina": {
     "name": "noitaminA"
+  },
+
+  "finland-or-japan": {
+    "name": "Finland in Japan"
   }
 }

@@ -227,6 +227,10 @@ export default {
                 link: "/people/tatsuyuki-nagai"
             },
 {
+                text: "Tsutomu Mizushima",
+                link: "/people/tsutomu-mizushima"
+            },
+{
                 text: "Vincent Chansard",
                 link: "/people/vincent-chansard"
             },
@@ -282,6 +286,10 @@ export default {
 {
                 text: "Ghost in the Shell",
                 link: "/works/ghost-in-the-shell"
+            },
+{
+                text: "Girls & Panzer Movie",
+                link: "/works/girls-panzer-movie"
             },
 {
                 text: "In This Corner of the World",
@@ -375,6 +383,10 @@ export default {
             {
                 text: "A-1 Pictures",
                 link: "/companies/a-1"
+            },
+{
+                text: "Actas",
+                link: "/companies/actas"
             },
 {
                 text: "Aniplex",
@@ -524,6 +536,10 @@ export default {
 {
                 text: "Fighting for Nippon",
                 link: "/publishers/fighting-for-nippon"
+            },
+{
+                text: "Finland in Japan",
+                link: "/publishers/finland-or-japan"
             },
 {
                 text: "Full Frontal",

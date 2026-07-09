@@ -6,6 +6,17 @@ title: "Otakon"
 
 ## Interviews
 
+### About Anime Industry
+
+- **Date:** 2023-08
+- **Publisher:** Otakon
+- **Language:** Japanese
+- **People:** Shouji Kawamori, Hidetaka Tenjin
+- **Translations:**
+  - English: https://anigamers.com/interviews/shoji-kawamori-hidetaka-tenjin-macross-us-ai/
+
+---
+
 ### Giving 120%: Kinema Citrus President Talks Under the Dog, Kickstarter, and Anime Budgets
 
 - **Date:** 2016-08

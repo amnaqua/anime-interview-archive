@@ -635,5 +635,23 @@
     "roles": [
       "Producer"
     ]
+  },
+
+  "hidetaka-tenjin": {
+    "name": "Hidetaka Tenjin",
+    "aliases": [
+      "天神 英貴"
+    ],
+    "roles": []
+  },
+
+  "shouji-kawamori": {
+    "name": "Shouji Kawamori",
+    "aliases": [
+      "河森 正治"
+    ],
+    "roles": [
+      "Designer"
+    ]
   }
 }

@@ -47,6 +47,10 @@ export default {
                 link: "/people/hayao-miyazaki"
             },
 {
+                text: "Hidetaka Tenjin",
+                link: "/people/hidetaka-tenjin"
+            },
+{
                 text: "Hiroi Hasegawa",
                 link: "/people/hiroi-hasegawa"
             },
@@ -201,6 +205,10 @@ export default {
 {
                 text: "Sayo Yamamoto",
                 link: "/people/sayo-yamamoto"
+            },
+{
+                text: "Shouji Kawamori",
+                link: "/people/shouji-kawamori"
             },
 {
                 text: "Shouji Murahama",

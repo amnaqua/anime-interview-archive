@@ -275,5 +275,41 @@
     "roles": [
       "Director"
     ]
+  },
+
+  "manabu-ootsuka": {
+    "name": "Manabu Ootsuka",
+    "aliases": [
+      "大塚学"
+    ],
+    "roles": [
+      "Producer"
+    ]
+  },
+
+  "noritaka-kawaguchi": {
+    "name": "Noritaka Kawaguchi",
+    "aliases": [
+      "川口 典孝"
+    ],
+    "roles": [
+      "Producer"
+    ]
+  },
+
+  "mitsuhisa-ishikawa": {
+    "name": "Mitsuhisa Ishikawa",
+    "aliases": [
+      "石川 光久"
+    ],
+    "roles": [
+      "Producer"
+    ]
+  },
+
+  "atsuo-nakayama": {
+    "name": "Atsuo Nakayama",
+    "aliases": [],
+    "roles": []
   }
 }

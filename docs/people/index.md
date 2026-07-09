@@ -5,6 +5,7 @@ title: People
 # People
 
 - [Abel Góngora](./abel-gongora)
+- [Atsuo Nakayama](./atsuo-nakayama)
 - [Atsushi Nishigori](./atsushi-nishigori)
 - [Bahi JD](./bahi-jd)
 - [Gorou Miyazaki](./gorou-miyazaki)
@@ -18,9 +19,12 @@ title: People
 - [Kouhei Sakita](./kouhei-sakita)
 - [Makoto Kimura](./makoto-kimura)
 - [Mamoru Oshii](./mamoru-oshii)
+- [Manabu Ootsuka](./manabu-ootsuka)
 - [Masahiko Minami](./masahiko-minami)
+- [Mitsuhisa Ishikawa](./mitsuhisa-ishikawa)
 - [Moko-chan](./moko-chan)
 - [Naoko Yamada](./naoko-yamada)
+- [Noritaka Kawaguchi](./noritaka-kawaguchi)
 - [Ryo-Timo](./ryo-timo)
 - [Shouji Murahama](./shouji-murahama)
 - [Shouko Hori](./shouko-hori)

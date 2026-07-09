@@ -11,6 +11,10 @@ export default {
                 link: "/people/abel-gongora"
             },
 {
+                text: "Atsuo Nakayama",
+                link: "/people/atsuo-nakayama"
+            },
+{
                 text: "Atsushi Nishigori",
                 link: "/people/atsushi-nishigori"
             },
@@ -63,8 +67,16 @@ export default {
                 link: "/people/mamoru-oshii"
             },
 {
+                text: "Manabu Ootsuka",
+                link: "/people/manabu-ootsuka"
+            },
+{
                 text: "Masahiko Minami",
                 link: "/people/masahiko-minami"
+            },
+{
+                text: "Mitsuhisa Ishikawa",
+                link: "/people/mitsuhisa-ishikawa"
             },
 {
                 text: "Moko-chan",
@@ -73,6 +85,10 @@ export default {
 {
                 text: "Naoko Yamada",
                 link: "/people/naoko-yamada"
+            },
+{
+                text: "Noritaka Kawaguchi",
+                link: "/people/noritaka-kawaguchi"
             },
 {
                 text: "Ryo-Timo",

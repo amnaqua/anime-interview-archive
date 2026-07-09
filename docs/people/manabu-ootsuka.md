@@ -1,8 +1,8 @@
 ---
-title: "YouTube"
+title: "Manabu Ootsuka"
 ---
 
-# YouTube
+# Manabu Ootsuka
 
 ## Interviews
 
@@ -13,15 +13,6 @@ title: "YouTube"
 - **Language:** Japanese
 - **Company:** Production I.G, CoMix Wave Films, MAPPA
 - **Source:**  https://www.youtube.com/watch?v=DK1Fnp6qLAA
-
----
-
-### About Anime Industry
-
-- **Date:** 2026-07-04
-- **Publisher:** YouTube
-- **Language:** French
-- **Source:**  https://www.youtube.com/watch?v=aAA1QikIuJ0
 
 ---
 

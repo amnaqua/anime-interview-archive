@@ -17,6 +17,7 @@ title: Works
 - [On Your Mark](./on-your-mark)
 - [One Piece](./one-piece)
 - [Space☆Dandy](./space-dandy)
+- [Tenkuu no Escaflowne](./tenkuu-no-escaflowne)
 - [Tenmaku no Jaadugar](./tenmaku-no-jaadugar)
 - [Texhnolyze](./texhnolyze)
 - [The Reflection](./the-reflection)

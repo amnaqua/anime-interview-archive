@@ -63,6 +63,10 @@ export default {
                 link: "/people/kana-miyata"
             },
 {
+                text: "Kazuki Akane",
+                link: "/people/kazuki-akane"
+            },
+{
                 text: "Kazuto Arai",
                 link: "/people/kazuto-arai"
             },
@@ -284,6 +288,10 @@ export default {
                 link: "/works/space-dandy"
             },
 {
+                text: "Tenkuu no Escaflowne",
+                link: "/works/tenkuu-no-escaflowne"
+            },
+{
                 text: "Tenmaku no Jaadugar",
                 link: "/works/tenmaku-no-jaadugar"
             },
@@ -391,6 +399,10 @@ export default {
 {
                 text: "Studio Ghibli",
                 link: "/companies/ghibli"
+            },
+{
+                text: "Sunrise",
+                link: "/companies/sunrise"
             },
 {
                 text: "TMS Entertainment",

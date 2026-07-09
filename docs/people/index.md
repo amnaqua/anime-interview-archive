@@ -18,6 +18,7 @@ title: People
 - [Jouji Unoguchi](./jouji-unoguchi)
 - [Kai Ikarashi](./kai-ikarashi)
 - [Kana Miyata](./kana-miyata)
+- [Kazuki Akane](./kazuki-akane)
 - [Kazuto Arai](./kazuto-arai)
 - [Kenichi Sonoda](./kenichi-sonoda)
 - [Kinoko Nasu](./kinoko-nasu)

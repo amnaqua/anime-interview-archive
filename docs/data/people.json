@@ -519,5 +519,15 @@
     "roles": [
       "Director"
     ]
+  },
+
+  "kazuki-akane": {
+    "name": "Kazuki Akane",
+    "aliases": [
+      "赤根 和樹"
+    ],
+    "roles": [
+      "Director"
+    ]
   }
 }

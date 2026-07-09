@@ -4,19 +4,19 @@ layout: home
 hero:
   name: Anime Interview Archive
   text: Archive of anime staff interviews and production materials.
-  tagline: 57 interviews indexed
+  tagline: 58 interviews indexed
 
 features:
   - title: 👥 People
-    details: 54 people
+    details: 55 people
     link: /people/
 
   - title: 🎬 Works
-    details: 19 works
+    details: 20 works
     link: /works/
 
   - title: 🏢 Companies
-    details: 22 companies
+    details: 23 companies
     link: /companies/
 
   - title: 📰 Publishers

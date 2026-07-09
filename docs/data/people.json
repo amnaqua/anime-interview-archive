@@ -615,5 +615,15 @@
     "roles": [
       "Director"
     ]
+  },
+
+  "kana-ueda": {
+    "name": "Kana Ueda",
+    "aliases": [
+      "植田 佳奈"
+    ],
+    "roles": [
+      "VA"
+    ]
   }
 }

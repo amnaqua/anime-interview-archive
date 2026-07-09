@@ -67,6 +67,10 @@ export default {
                 link: "/people/kana-miyata"
             },
 {
+                text: "Kana Ueda",
+                link: "/people/kana-ueda"
+            },
+{
                 text: "Kazuki Akane",
                 link: "/people/kazuki-akane"
             },

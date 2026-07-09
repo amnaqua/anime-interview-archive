@@ -4,7 +4,7 @@ layout: home
 hero:
   name: Anime Interview Archive
   text: Archive of anime staff interviews and production materials.
-  tagline: 52 interviews indexed
+  tagline: 53 interviews indexed
 
 features:
   - title: 👥 People
@@ -29,6 +29,7 @@ features:
 # Recently Added
 
 - **2026-07-09 15:56** — **Jouji Unoguchi, Norihiro Tomiita** — [Koe no Katachi](/people/jouji-unoguchi#koe-no-katachi-4)
+- **2026-07-09 15:56** — **Naoko Yamada** — [Koe no Katachi](/people/naoko-yamada#koe-no-katachi-5)
 - **2026-07-09 15:52** — **Kana Miyata, Rina Miura** — [Koe no Katachi](/people/kana-miyata#koe-no-katachi-3)
 - **2026-07-09 15:48** — **Naoko Fujita** — [Koe no Katachi](/people/naoko-fujita#koe-no-katachi-2)
 - **2026-07-09 15:46** — **Chiyoko Ueno, Yuki Tsunoda, Kouhei Okamura** — [Koe no Katachi](/people/chiyoko-ueno#koe-no-katachi-1)
@@ -37,4 +38,3 @@ features:
 - **2026-07-09 14:30** — **Kyouko Kotani** — [A Female Animator’s Take On The Current Anime Industry](/people/kyouko-kotani#a-female-animators-take-on-the-current-anime-industry)
 - **2026-07-09 13:37** — **Manabu Ootsuka** — [Charm of Yuri!!! on ICE](/people/manabu-ootsuka#charm-of-yuri-on-ice)
 - **2026-07-09 13:33** — **Hiroshi Nagahama** — [The Reflection](/people/hiroshi-nagahama#the-reflection)
-- **2026-07-09 13:28** — **Sayo Yamamoto, Tadashi Hiramatsu, Mitsurou Kubo** — [Yuri!!! on Ice](/people/sayo-yamamoto#yuri-on-ice)

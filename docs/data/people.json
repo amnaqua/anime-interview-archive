@@ -575,5 +575,15 @@
     "name": "Ryoutarou Nagayama",
     "aliases": [],
     "roles": []
+  },
+
+  "masaaki-yuasa": {
+    "name": "Masaaki Yuasa",
+    "aliases": [
+      "湯浅 政明"
+    ],
+    "roles": [
+      "Director"
+    ]
   }
 }

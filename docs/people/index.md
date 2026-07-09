@@ -32,6 +32,7 @@ title: People
 - [Mamoru Oshii](./mamoru-oshii)
 - [Manabu Ootsuka](./manabu-ootsuka)
 - [Mari Okada](./mari-okada)
+- [Masaaki Yuasa](./masaaki-yuasa)
 - [Masahiko Minami](./masahiko-minami)
 - [Masayuki Yoshihara](./masayuki-yoshihara)
 - [Miku Kadowaki](./miku-kadowaki)

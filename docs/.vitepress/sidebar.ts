@@ -119,6 +119,10 @@ export default {
                 link: "/people/mari-okada"
             },
 {
+                text: "Masaaki Yuasa",
+                link: "/people/masaaki-yuasa"
+            },
+{
                 text: "Masahiko Minami",
                 link: "/people/masahiko-minami"
             },

@@ -6,6 +6,16 @@ title: "Mari Okada"
 
 ## Interviews
 
+### Kiznaiver
+
+- **Date:** 2016-10-05
+- **Language:** Japanese
+- **Company:** Trigger
+- **People:** Mari Okada
+- **Source:**  BD 5
+
+---
+
 ### Kokoro ga Sakebitagatterunda.
 
 - **Date:** 2015-09-14

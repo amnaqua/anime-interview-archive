@@ -268,6 +268,10 @@ export default {
                 link: "/works/kaoru-hana"
             },
 {
+                text: "Kiznaiver",
+                link: "/works/kiznaiver"
+            },
+{
                 text: "Koe no Katachi",
                 link: "/works/koe-no-katachi"
             },

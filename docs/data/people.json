@@ -782,5 +782,25 @@
     "roles": [
       "VA"
     ]
+  },
+
+  "kazuki-kawagoe": {
+    "name": "Kazuki Kawagoe",
+    "aliases": [
+      "川越 一生"
+    ],
+    "roles": [
+      "Director"
+    ]
+  },
+
+  "satoshi-nakano": {
+    "name": "Satoshi Nakano",
+    "aliases": [
+      "中野 悟史"
+    ],
+    "roles": [
+      "Animator"
+    ]
   }
 }

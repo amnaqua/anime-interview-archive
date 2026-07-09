@@ -99,6 +99,10 @@ export default {
                 link: "/people/kazuki-akane"
             },
 {
+                text: "Kazuki Kawagoe",
+                link: "/people/kazuki-kawagoe"
+            },
+{
                 text: "Kazuto Arai",
                 link: "/people/kazuto-arai"
             },
@@ -237,6 +241,10 @@ export default {
 {
                 text: "Ryoutarou Nagayama",
                 link: "/people/ryoutarou-nagayama"
+            },
+{
+                text: "Satoshi Nakano",
+                link: "/people/satoshi-nakano"
             },
 {
                 text: "Sayo Yamamoto",

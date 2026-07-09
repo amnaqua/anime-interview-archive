@@ -409,5 +409,35 @@
     "roles": [
       "Animator"
     ]
+  },
+
+  "chiyoko-ueno": {
+    "name": "Chiyoko Ueno",
+    "aliases": [
+      "植野 千世子"
+    ],
+    "roles": [
+      "Animator"
+    ]
+  },
+
+  "yuki-tsunoda": {
+    "name": "Yuki Tsunoda",
+    "aliases": [
+      "角田 有希"
+    ],
+    "roles": [
+      "Animator"
+    ]
+  },
+
+  "kouhei-okamura": {
+    "name": "Kouhei Okamura",
+    "aliases": [
+      "岡村 公平"
+    ],
+    "roles": [
+      "Animator"
+    ]
   }
 }

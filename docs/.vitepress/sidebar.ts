@@ -23,6 +23,10 @@ export default {
                 link: "/people/bahi-jd"
             },
 {
+                text: "Chiyoko Ueno",
+                link: "/people/chiyoko-ueno"
+            },
+{
                 text: "Gen Urobuchi",
                 link: "/people/gen-urobuchi"
             },
@@ -61,6 +65,10 @@ export default {
 {
                 text: "Koichiro Ito",
                 link: "/people/koichiro-ito"
+            },
+{
+                text: "Kouhei Okamura",
+                link: "/people/kouhei-okamura"
             },
 {
                 text: "Kouhei Sakita",
@@ -169,6 +177,10 @@ export default {
 {
                 text: "Yūdai Hiraoka",
                 link: "/people/yudai-hiraoka"
+            },
+{
+                text: "Yuki Tsunoda",
+                link: "/people/yuki-tsunoda"
             },
 {
                 text: "Yutaka Nakamura",

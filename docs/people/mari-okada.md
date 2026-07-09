@@ -13,6 +13,21 @@ title: "Mari Okada"
 - **Company:** Trigger
 - **People:** Mari Okada
 - **Source:**  BD 5
+- **Translations:**
+  - null: https://chilly-territory.tumblr.com/post/153594368290/kiznaiver-interview-with-okada-mari-bd5
+
+---
+
+### Mobile Suit Gundam: Iron-Blooded Orphans
+
+- **Date:** 2016-03-25
+- **Language:** Japanese
+- **Company:** Sunrise
+- **People:** Mari Okada
+- **Source:**  https://www.b-ch.com/contents/feat_creators_selection/backnumber/v30/p03.html
+- **Translations:**
+  - English: https://karice.wordpress.com/2016/05/15/p507/
+  - English: https://karice.wordpress.com/2016/05/22/p508/
 
 ---
 

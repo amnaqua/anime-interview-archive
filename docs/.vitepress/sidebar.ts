@@ -292,6 +292,10 @@ export default {
                 link: "/works/michiko-to-hatchin"
             },
 {
+                text: "Mobile Suit Gundam: Iron-Blooded Orphans",
+                link: "/works/gundam-iron-blooded-orphans"
+            },
+{
                 text: "On Your Mark",
                 link: "/works/on-your-mark"
             },

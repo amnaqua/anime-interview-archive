@@ -16,6 +16,7 @@ title: Works
 - [Little Witch Academia](./little-witch-academia)
 - [Lupin the Third: The Woman Called Fujiko Mine](./lupin-the-third-mine-fujiko-to-iu-onna)
 - [Michiko to Hatchin](./michiko-to-hatchin)
+- [Mobile Suit Gundam: Iron-Blooded Orphans](./gundam-iron-blooded-orphans)
 - [On Your Mark](./on-your-mark)
 - [One Piece](./one-piece)
 - [Space☆Dandy](./space-dandy)

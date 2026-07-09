@@ -6,6 +6,16 @@ title: "Mari Okada"
 
 ## Interviews
 
+### About Anime Industry
+
+- **Date:** 2016-10-05
+- **Language:** Japanese
+- **People:** Mari Okada, Tatsuya Ishiguro, Makoto Kohara, Ryoutarou Nagayama
+- **Translations:**
+  - English: https://karice.wordpress.com/2016/04/17/p503/
+
+---
+
 ### Kiznaiver
 
 - **Date:** 2016-10-05

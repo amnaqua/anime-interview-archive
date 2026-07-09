@@ -549,5 +549,31 @@
     "roles": [
       "Director"
     ]
+  },
+
+  "tatsuya-ishiguro": {
+    "name": "Tatsuya Ishiguro",
+    "aliases": [
+      "石黒 達也"
+    ],
+    "roles": [
+      "Producer"
+    ]
+  },
+
+  "makoto-kohara": {
+    "name": "Makoto Kohara",
+    "aliases": [
+      "小原 充"
+    ],
+    "roles": [
+      "Animator"
+    ]
+  },
+
+  "ryoutarou-nagayama": {
+    "name": "Ryoutarou Nagayama",
+    "aliases": [],
+    "roles": []
   }
 }

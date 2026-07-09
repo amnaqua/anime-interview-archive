@@ -103,6 +103,10 @@ export default {
                 link: "/people/makoto-kimura"
             },
 {
+                text: "Makoto Kohara",
+                link: "/people/makoto-kohara"
+            },
+{
                 text: "Mamoru Oshii",
                 link: "/people/mamoru-oshii"
             },
@@ -171,6 +175,10 @@ export default {
                 link: "/people/ryo-timo"
             },
 {
+                text: "Ryoutarou Nagayama",
+                link: "/people/ryoutarou-nagayama"
+            },
+{
                 text: "Sayo Yamamoto",
                 link: "/people/sayo-yamamoto"
             },
@@ -197,6 +205,10 @@ export default {
 {
                 text: "Tadashi Hiramatsu",
                 link: "/people/tadashi-hiramatsu"
+            },
+{
+                text: "Tatsuya Ishiguro",
+                link: "/people/tatsuya-ishiguro"
             },
 {
                 text: "Tatsuyuki Nagai",

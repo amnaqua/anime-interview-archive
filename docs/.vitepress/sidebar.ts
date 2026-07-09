@@ -27,6 +27,10 @@ export default {
                 link: "/people/chiyoko-ueno"
             },
 {
+                text: "Futoshi Nishiya",
+                link: "/people/futoshi-nishiya"
+            },
+{
                 text: "Gen Urobuchi",
                 link: "/people/gen-urobuchi"
             },

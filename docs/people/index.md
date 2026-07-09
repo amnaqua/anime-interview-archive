@@ -9,6 +9,7 @@ title: People
 - [Atsushi Nishigori](./atsushi-nishigori)
 - [Bahi JD](./bahi-jd)
 - [Chiyoko Ueno](./chiyoko-ueno)
+- [Futoshi Nishiya](./futoshi-nishiya)
 - [Gen Urobuchi](./gen-urobuchi)
 - [Gorou Miyazaki](./gorou-miyazaki)
 - [Hiroi Hasegawa](./hiroi-hasegawa)

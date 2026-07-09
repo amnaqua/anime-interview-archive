@@ -489,5 +489,15 @@
     "roles": [
       "3DCG"
     ]
+  },
+
+  "futoshi-nishiya": {
+    "name": "Futoshi Nishiya",
+    "aliases": [
+      "西屋 太志"
+    ],
+    "roles": [
+      "Animator"
+    ]
   }
 }

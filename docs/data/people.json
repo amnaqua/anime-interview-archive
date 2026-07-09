@@ -625,5 +625,15 @@
     "roles": [
       "VA"
     ]
+  },
+
+  "muneki-ogasawara": {
+    "name": "Muneki Ogasawara",
+    "aliases": [
+      "小笠原 宗紀"
+    ],
+    "roles": [
+      "Producer"
+    ]
   }
 }

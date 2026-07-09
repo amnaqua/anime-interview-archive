@@ -28,6 +28,7 @@ title: Publishers
 - [noitaminA](./noitamina)
 - [Oricon](./oricon)
 - [OtaCrew](./ota-crew)
+- [Otakon](./otakon)
 - [Pelleas](./pelleas)
 - [Real Sound](./real-sound)
 - [Sakuga Blog](./sakuga-blog)

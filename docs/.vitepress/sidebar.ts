@@ -155,6 +155,10 @@ export default {
                 link: "/people/moko-chan"
             },
 {
+                text: "Muneki Ogasawara",
+                link: "/people/muneki-ogasawara"
+            },
+{
                 text: "Naoko Fujita",
                 link: "/people/naoko-fujita"
             },
@@ -413,6 +417,10 @@ export default {
                 link: "/companies/good-smile"
             },
 {
+                text: "Kinema Citrus",
+                link: "/companies/kinema-citrus"
+            },
+{
                 text: "Kodansha",
                 link: "/companies/kodansha"
             },
@@ -592,6 +600,10 @@ export default {
 {
                 text: "OtaCrew",
                 link: "/publishers/ota-crew"
+            },
+{
+                text: "Otakon",
+                link: "/publishers/otakon"
             },
 {
                 text: "Pelleas",

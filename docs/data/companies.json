@@ -101,5 +101,9 @@
 
   "actas": {
     "name": "Actas"
+  },
+
+  "kinema-citrus": {
+    "name": "Kinema Citrus"
   }
 }

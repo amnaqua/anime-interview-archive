@@ -41,6 +41,7 @@ title: People
 - [Mitsuhisa Ishikawa](./mitsuhisa-ishikawa)
 - [Mitsurou Kubo](./mitsurou-kubo)
 - [Moko-chan](./moko-chan)
+- [Muneki Ogasawara](./muneki-ogasawara)
 - [Naoko Fujita](./naoko-fujita)
 - [Naoko Yamada](./naoko-yamada)
 - [Naruyoshi Kikuchi](./naruyoshi-kikuchi)

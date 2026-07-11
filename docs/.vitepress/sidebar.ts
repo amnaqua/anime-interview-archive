@@ -66,6 +66,10 @@ export default {
                 "link": "/people/bahi-jd"
             },
             {
+                "text": "Chengxi Huang",
+                "link": "/people/chengxi-huang"
+            },
+            {
                 "text": "Chiharu Tomizawa",
                 "link": "/people/chiharu-tomizawa"
             },
@@ -714,6 +718,14 @@ export default {
                 "link": "/works/gundam-iron-blooded-orphans"
             },
             {
+                "text": "Naruto",
+                "link": "/works/naruto"
+            },
+            {
+                "text": "Naruto: Shippuuden",
+                "link": "/works/naruto-shippuuden"
+            },
+            {
                 "text": "Natsume Yuujinchou",
                 "link": "/works/natsume-yuujinchou"
             },
@@ -892,6 +904,10 @@ export default {
             {
                 "text": "Studio Ghibli",
                 "link": "/companies/ghibli"
+            },
+            {
+                "text": "Studio Pierrot",
+                "link": "/companies/pierrot"
             },
             {
                 "text": "Sunrise",

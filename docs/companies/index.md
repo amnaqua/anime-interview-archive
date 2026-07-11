@@ -32,6 +32,7 @@ title: Companies
 - [Studio 3Hz](./3hz)
 - [Studio Deen](./deen)
 - [Studio Ghibli](./ghibli)
+- [Studio Pierrot](./pierrot)
 - [Sunrise](./sunrise)
 - [TMS Entertainment](./tms)
 - [Toei Animation](./toei)

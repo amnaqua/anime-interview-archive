@@ -162,5 +162,15 @@
   "hyouka": {
     "name": "Hyouka",
     "year": 2012
+  },
+
+  "naruto": {
+    "name": "Naruto",
+    "year": 2002
+  },
+
+  "naruto-shippuuden": {
+    "name": "Naruto: Shippuuden",
+    "year": 2007
   }
 }

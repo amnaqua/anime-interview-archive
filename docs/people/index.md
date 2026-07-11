@@ -19,6 +19,7 @@ title: People
 - [Ayumu Ikegami](./ayumu-ikegami)
 - [Ayumu Watanabe](./ayumu-watanabe)
 - [Bahi JD](./bahi-jd)
+- [Chengxi Huang](./chengxi-huang)
 - [Chiharu Tomizawa](./chiharu-tomizawa)
 - [Chinatsu Saitou](./chinatsu-saitou)
 - [Chiyoko Ueno](./chiyoko-ueno)

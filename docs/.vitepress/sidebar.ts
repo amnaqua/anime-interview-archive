@@ -338,6 +338,10 @@ export default {
                 "link": "/people/sayo-yamamoto"
             },
             {
+                "text": "Shingo Sasaki",
+                "link": "/people/shingo-sasaki"
+            },
+            {
                 "text": "Shouji Kawamori",
                 "link": "/people/shouji-kawamori"
             },

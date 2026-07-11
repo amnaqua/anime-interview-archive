@@ -87,6 +87,7 @@ title: People
 - [Sachio Fujita](./sachio-fujita)
 - [Satoshi Nakano](./satoshi-nakano)
 - [Sayo Yamamoto](./sayo-yamamoto)
+- [Shingo Sasaki](./shingo-sasaki)
 - [Shouji Kawamori](./shouji-kawamori)
 - [Shouji Murahama](./shouji-murahama)
 - [Shouko Hori](./shouko-hori)

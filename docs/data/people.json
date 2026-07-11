@@ -1667,5 +1667,38 @@
     "roles": [
       "In-Betweener"
     ]
+  },
+
+  "shinsei-hidaka": {
+    "name": "Shinsei Hidaka",
+    "aliases": [
+      "日髙鎮世"
+    ],
+    "roles": [
+      "Key Animator",
+      "In-Betweener"
+    ]
+  },
+
+  "nachi-ban": {
+    "name": "Nachi Ban",
+    "aliases": [
+      "伴菜智"
+    ],
+    "roles": [
+      "Key Animator",
+      "In-Betweener"
+    ]
+  },
+
+  "rikuto-shinada": {
+    "name": "Rikuto Shinada",
+    "aliases": [
+      "品田陸登"
+    ],
+    "roles": [
+      "In-Betweener",
+      "Key Animator"
+    ]
   }
 }

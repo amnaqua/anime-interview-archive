@@ -318,6 +318,10 @@ export default {
                 "link": "/people/muneki-ogasawara"
             },
             {
+                "text": "Nachi Ban",
+                "link": "/people/nachi-ban"
+            },
+            {
                 "text": "Nao Kudou",
                 "link": "/people/nao-kudou"
             },
@@ -366,6 +370,10 @@ export default {
                 "link": "/people/rena-motomura"
             },
             {
+                "text": "Rikuto Shinada",
+                "link": "/people/rikuto-shinada"
+            },
+            {
                 "text": "Rina Miura",
                 "link": "/people/rina-miura"
             },
@@ -408,6 +416,10 @@ export default {
             {
                 "text": "Shingo Sasaki",
                 "link": "/people/shingo-sasaki"
+            },
+            {
+                "text": "Shinsei Hidaka",
+                "link": "/people/shinsei-hidaka"
             },
             {
                 "text": "Shouji Kawamori",

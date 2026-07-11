@@ -234,6 +234,10 @@ export default {
                 "link": "/people/muneki-ogasawara"
             },
             {
+                "text": "Nao Kudou",
+                "link": "/people/nao-kudou"
+            },
+            {
                 "text": "Naoko Fujita",
                 "link": "/people/naoko-fujita"
             },

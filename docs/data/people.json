@@ -973,5 +973,15 @@
     "roles": [
       "In-Betweener"
     ]
+  },
+
+  "nao-kudou": {
+    "name": "Nao Kudou",
+    "aliases": [
+      "工藤 菜央"
+    ],
+    "roles": [
+      "3DCG"
+    ]
   }
 }

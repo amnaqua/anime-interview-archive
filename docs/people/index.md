@@ -5,6 +5,7 @@ title: People
 # People
 
 - [Abel Góngora](./abel-gongora)
+- [Airi Ookubo](./airi-ookubo)
 - [Akane Takeda](./akane-takeda)
 - [Akihisa Shibuya](./akihisa-shibuya)
 - [Akihito Suzuki](./akihito-suzuki)
@@ -89,6 +90,7 @@ title: People
 - [Sunao Katabuchi](./sunao-katabuchi)
 - [Tadahiro Shibata](./tadahiro-shibata)
 - [Tadashi Hiramatsu](./tadashi-hiramatsu)
+- [Takurou Mori](./takurou-mori)
 - [Takushi Koide](./takushi-koide)
 - [Tatsuya Ishiguro](./tatsuya-ishiguro)
 - [Tatsuyuki Nagai](./tatsuyuki-nagai)
@@ -102,8 +104,10 @@ title: People
 - [You Yoshinari](./you-yoshinari)
 - [Yūdai Hiraoka](./yudai-hiraoka)
 - [Yui Tomita](./yui-tomita)
+- [Yuito Watanabe](./yuito-watanabe)
 - [Yuka Kitamura](./yuka-kitamura)
 - [Yuki Tsunoda](./yuki-tsunoda)
 - [Yutaka Nakamura](./yutaka-nakamura)
 - [Yuuichi Nakamura](./yuuichi-nakamura)
+- [Yuuki Kurokawa](./yuuki-kurokawa)
 - [Yuuko Myouken](./yuuko-myouken)

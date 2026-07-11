@@ -1003,5 +1003,45 @@
     "roles": [
       "Composite"
     ]
+  },
+
+  "airi-ookubo": {
+    "name": "Airi Ookubo",
+    "aliases": [
+      "大久保 愛理"
+    ],
+    "roles": [
+      "Production Manager"
+    ]
+  },
+
+  "yuuki-kurokawa": {
+    "name": "Yuuki Kurokawa",
+    "aliases": [
+      "黒河 友貴"
+    ],
+    "roles": [
+      "Production Manager"
+    ]
+  },
+
+  "takurou-mori": {
+    "name": "Takurou Mori",
+    "aliases": [
+      "森 拓郎"
+    ],
+    "roles": [
+      "Production Manager"
+    ]
+  },
+
+  "yuito-watanabe": {
+    "name": "Yuito Watanabe",
+    "aliases": [
+      "渡邉 唯人"
+    ],
+    "roles": [
+      "Production Manager"
+    ]
   }
 }

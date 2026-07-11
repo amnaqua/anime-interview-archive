@@ -10,6 +10,10 @@ export default {
                 "link": "/people/abel-gongora"
             },
             {
+                "text": "Airi Ookubo",
+                "link": "/people/airi-ookubo"
+            },
+            {
                 "text": "Akane Takeda",
                 "link": "/people/akane-takeda"
             },
@@ -346,6 +350,10 @@ export default {
                 "link": "/people/tadashi-hiramatsu"
             },
             {
+                "text": "Takurou Mori",
+                "link": "/people/takurou-mori"
+            },
+            {
                 "text": "Takushi Koide",
                 "link": "/people/takushi-koide"
             },
@@ -398,6 +406,10 @@ export default {
                 "link": "/people/yui-tomita"
             },
             {
+                "text": "Yuito Watanabe",
+                "link": "/people/yuito-watanabe"
+            },
+            {
                 "text": "Yuka Kitamura",
                 "link": "/people/yuka-kitamura"
             },
@@ -412,6 +424,10 @@ export default {
             {
                 "text": "Yuuichi Nakamura",
                 "link": "/people/yuuichi-nakamura"
+            },
+            {
+                "text": "Yuuki Kurokawa",
+                "link": "/people/yuuki-kurokawa"
             },
             {
                 "text": "Yuuko Myouken",

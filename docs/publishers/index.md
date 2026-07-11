@@ -4,6 +4,7 @@ title: Publishers
 
 # Publishers
 
+- [A-1 Official Site](./a-1)
 - [anan](./anan)
 - [Animage](./animage)
 - [Animate Times](./animate-times)

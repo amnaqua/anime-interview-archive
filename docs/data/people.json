@@ -843,5 +843,45 @@
       "Director",
       "Animator"
     ]
+  },
+
+  "akinori-aoyama": {
+    "name": "Akinori Ooyama",
+    "aliases": [
+      "大山 晃典"
+    ],
+    "roles": [
+      "Producer"
+    ]
+  },
+
+  "shunsuke-sugimoto": {
+    "name": "Shunsuke Sugimoto",
+    "aliases": [
+      "杉本 俊輔"
+    ],
+    "roles": [
+      "Producer"
+    ]
+  },
+
+  "kaoru-miyabara": {
+    "name": "Kaoru Miyabara",
+    "aliases": [
+      "宮原 郁"
+    ],
+    "roles": [
+      "Producer"
+    ]
+  },
+
+  "tadahiro-shibata": {
+    "name": "Tadahiro Shibata",
+    "aliases": [
+      "柴田 匡寛"
+    ],
+    "roles": [
+      "Producer"
+    ]
   }
 }

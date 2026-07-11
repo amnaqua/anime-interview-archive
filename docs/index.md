@@ -4,11 +4,11 @@ layout: home
 hero:
   name: Anime Interview Archive
   text: Archive of anime staff interviews and production materials.
-  tagline: 79 interviews indexed
+  tagline: 80 interviews indexed
 
 features:
   - title: 👥 People
-    details: 87 people
+    details: 91 people
     link: /people/
 
   - title: 🎬 Works
@@ -16,11 +16,11 @@ features:
     link: /works/
 
   - title: 🏢 Companies
-    details: 28 companies
+    details: 29 companies
     link: /companies/
 
   - title: 📰 Publishers
-    details: 38 publishers
+    details: 39 publishers
     link: /publishers/
 ---
 
@@ -28,6 +28,7 @@ features:
 
 # Recently Added
 
+- **2026-07-11 08:24** — **Akinori Ooyama, Shunsuke Sugimoto, Kaoru Miyabara, Tadahiro Shibata** — [Psyde Kick Studio](/people/akinori-aoyama#psyde-kick-studio)
 - **2026-07-11 08:14** — **Takushi Koide** — [Sayonara Lara](/people/takushi-koide#sayonara-lara)
 - **2026-07-09 23:12** — **Kairi Unabara, Hiroaki Karasu, Yoshihisa Satou** — [Tongari Boushi no Atelier](/people/kairi-unabara#tongari-boushi-no-atelier-8)
 - **2026-07-09 23:08** — **Kazuki Kawagoe, Satoshi Nakano** — [Tongari Boushi no Atelier](/people/kazuki-kawagoe#tongari-boushi-no-atelier-7)
@@ -37,4 +38,3 @@ features:
 - **2026-07-09 22:55** — **Shuuhei Tada, Mika Nakajima** — [Tongari Boushi no Atelier](/people/shuuhei-tada#tongari-boushi-no-atelier-3)
 - **2026-07-09 22:52** — **Haruyoshi Nomura, William Lee, Isao Nanba, Hayato Torii** — [Tongari Boushi no Atelier](/people/haruyoshi-nomura#tongari-boushi-no-atelier-2)
 - **2026-07-09 22:45** — **Ryouta Gotou** — [Tongari Boushi no Atelier](/people/ryouta-gotou#tongari-boushi-no-atelier-1)
-- **2026-07-09 22:42** — **Ayumu Watanabe, Rena Motomura** — [Tongari Boushi no Atelier](/people/ayumu-watanabe#tongari-boushi-no-atelier)

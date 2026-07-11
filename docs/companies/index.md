@@ -22,6 +22,7 @@ title: Companies
 - [OLM](./olm)
 - [P.A. Works](./pa-works)
 - [Production I.G](./production-ig)
+- [Psyde Kick Studio](./psyde-kick)
 - [Science SARU](./science-saru)
 - [Signal.MD](./signal-md)
 - [Studio 3Hz](./3hz)

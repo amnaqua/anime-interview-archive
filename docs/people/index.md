@@ -5,6 +5,7 @@ title: People
 # People
 
 - [Abel Góngora](./abel-gongora)
+- [Akinori Ooyama](./akinori-aoyama)
 - [Atsuo Nakayama](./atsuo-nakayama)
 - [Atsushi Nishigori](./atsushi-nishigori)
 - [Ayumu Watanabe](./ayumu-watanabe)
@@ -28,6 +29,7 @@ title: People
 - [Kairi Unabara](./kairi-unabara)
 - [Kana Miyata](./kana-miyata)
 - [Kana Ueda](./kana-ueda)
+- [Kaoru Miyabara](./kaoru-miyabara)
 - [Kazuki Akane](./kazuki-akane)
 - [Kazuki Kawagoe](./kazuki-kawagoe)
 - [Kazuto Arai](./kazuto-arai)
@@ -71,9 +73,11 @@ title: People
 - [Shouji Murahama](./shouji-murahama)
 - [Shouko Hori](./shouko-hori)
 - [Shunichi Tsuji](./shunichi-tsuji)
+- [Shunsuke Sugimoto](./shunsuke-sugimoto)
 - [Shuuhei Handa](./shuuhei-handa)
 - [Shuuhei Tada](./shuuhei-tada)
 - [Sunao Katabuchi](./sunao-katabuchi)
+- [Tadahiro Shibata](./tadahiro-shibata)
 - [Tadashi Hiramatsu](./tadashi-hiramatsu)
 - [Takushi Koide](./takushi-koide)
 - [Tatsuya Ishiguro](./tatsuya-ishiguro)

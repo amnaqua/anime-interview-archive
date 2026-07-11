@@ -10,6 +10,10 @@ export default {
                 "link": "/people/abel-gongora"
             },
             {
+                "text": "Akinori Ooyama",
+                "link": "/people/akinori-aoyama"
+            },
+            {
                 "text": "Atsuo Nakayama",
                 "link": "/people/atsuo-nakayama"
             },
@@ -100,6 +104,10 @@ export default {
             {
                 "text": "Kana Ueda",
                 "link": "/people/kana-ueda"
+            },
+            {
+                "text": "Kaoru Miyabara",
+                "link": "/people/kaoru-miyabara"
             },
             {
                 "text": "Kazuki Akane",
@@ -274,6 +282,10 @@ export default {
                 "link": "/people/shunichi-tsuji"
             },
             {
+                "text": "Shunsuke Sugimoto",
+                "link": "/people/shunsuke-sugimoto"
+            },
+            {
                 "text": "Shuuhei Handa",
                 "link": "/people/shuuhei-handa"
             },
@@ -284,6 +296,10 @@ export default {
             {
                 "text": "Sunao Katabuchi",
                 "link": "/people/sunao-katabuchi"
+            },
+            {
+                "text": "Tadahiro Shibata",
+                "link": "/people/tadahiro-shibata"
             },
             {
                 "text": "Tadashi Hiramatsu",
@@ -550,6 +566,10 @@ export default {
                 "link": "/companies/production-ig"
             },
             {
+                "text": "Psyde Kick Studio",
+                "link": "/companies/psyde-kick"
+            },
+            {
                 "text": "Science SARU",
                 "link": "/companies/science-saru"
             },
@@ -597,6 +617,10 @@ export default {
         "text": "Publishers",
         "collapsed": false,
         "items": [
+            {
+                "text": "A-1 Official Site",
+                "link": "/publishers/a-1"
+            },
             {
                 "text": "anan",
                 "link": "/publishers/anan"

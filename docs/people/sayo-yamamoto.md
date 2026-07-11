@@ -6,7 +6,7 @@ title: "Sayo Yamamoto"
 
 山本 沙代
 
-**Roles:** Director
+**Roles:** Storyboarder, Scriptwriter, Director, Production Manager
 
 ## Interviews
 

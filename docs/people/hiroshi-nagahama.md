@@ -6,7 +6,7 @@ title: "Hiroshi Nagahama"
 
 長濱 博史
 
-**Roles:** Director
+**Roles:** Director, Storyboarder, Key Animator, Designer, Scriptwriter, Animation Director, In-Betweener
 
 ## Interviews
 

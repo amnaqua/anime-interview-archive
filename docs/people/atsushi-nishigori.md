@@ -6,7 +6,7 @@ title: "Atsushi Nishigori"
 
 錦織 敦史
 
-**Roles:** Director
+**Roles:** Designer, Director, Key Animator, Animation Director, Storyboarder, Scriptwriter, In-Betweener
 
 ## Interviews
 

@@ -6,7 +6,7 @@ title: "Kenichi Sonoda"
 
 園田 健一
 
-**Roles:** Mangaka
+**Roles:** Designer, Key Animator, Storyboarder, Manga Artist
 
 ## Interviews
 

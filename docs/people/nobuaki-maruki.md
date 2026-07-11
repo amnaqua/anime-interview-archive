@@ -6,7 +6,7 @@ title: "Nobuaki Maruki"
 
 丸木 宣明
 
-**Roles:** Animator
+**Roles:** Animation Director, Key Animator, Producer, Designer
 
 ## Interviews
 

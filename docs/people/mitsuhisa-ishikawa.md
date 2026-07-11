@@ -6,7 +6,7 @@ title: "Mitsuhisa Ishikawa"
 
 石川 光久
 
-**Roles:** Producer
+**Roles:** Producer, Production Manage
 
 ## Interviews
 

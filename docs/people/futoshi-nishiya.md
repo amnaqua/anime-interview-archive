@@ -6,7 +6,7 @@ title: "Futoshi Nishiya"
 
 西屋 太志
 
-**Roles:** Animator
+**Roles:** Animation Director, Designer, Key Animator, Producer
 
 ## Interviews
 

@@ -4,7 +4,9 @@ title: "Moko-chan"
 
 # Moko-chan
 
-**Roles:** Director
+モコちゃん
+
+**Roles:** Director, Storyboarder, Designer, Key Animator, Background Artist, Editor, Animation Director
 
 ## Interviews
 

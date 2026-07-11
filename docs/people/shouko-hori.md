@@ -6,7 +6,7 @@ title: "Shouko Hori"
 
 堀 祥子
 
-**Roles:** Producer
+**Roles:** Producer, Business
 
 ## Interviews
 

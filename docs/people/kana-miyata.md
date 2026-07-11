@@ -6,7 +6,7 @@ title: "Kana Miyata"
 
 宮田 佳奈
 
-**Roles:** Coloring
+**Roles:** Colorist
 
 ## Interviews
 

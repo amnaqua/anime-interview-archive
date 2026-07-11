@@ -6,7 +6,7 @@ title: "Manabu Ootsuka"
 
 大塚学
 
-**Roles:** Producer
+**Roles:** Producer, Production Manager
 
 ## Interviews
 

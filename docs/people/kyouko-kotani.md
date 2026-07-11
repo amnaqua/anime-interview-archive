@@ -6,7 +6,7 @@ title: "Kyouko Kotani"
 
 小谷 杏子
 
-**Roles:** Animator
+**Roles:** Key Animator, Animation Director, Designer, In-Betweener
 
 ## Interviews
 

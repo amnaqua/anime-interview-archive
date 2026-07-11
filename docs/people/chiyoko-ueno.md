@@ -6,7 +6,7 @@ title: "Chiyoko Ueno"
 
 植野 千世子
 
-**Roles:** Animator
+**Roles:** Key Animator, Animation Director, Designer, Producer, In-Betweener
 
 ## Interviews
 

@@ -6,7 +6,7 @@ title: "Jouji Unoguchi"
 
 鵜ノ口 穣二
 
-**Roles:** 3DCG
+**Roles:** Background Artist, 3DCG Artist, Production Manager, Composite Artist, Colorist, In-Betweener
 
 ## Interviews
 

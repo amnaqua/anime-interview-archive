@@ -6,7 +6,7 @@ title: "Kouhei Okamura"
 
 岡村 公平
 
-**Roles:** Animator
+**Roles:** Designer, Animation Director, Director, Key Animator, Storyboarder, Producer
 
 ## Interviews
 

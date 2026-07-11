@@ -6,7 +6,7 @@ title: "Kazuto Arai"
 
 荒井 和人
 
-**Roles:** Animator
+**Roles:** Key Animator, In-Betweener, Colorist, Animation Director, Storyboarder, Director, Scriptwriter
 
 ## Interviews
 

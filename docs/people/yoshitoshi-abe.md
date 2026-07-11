@@ -6,7 +6,7 @@ title: "Yoshitoshi Abe"
 
 安倍 吉俊
 
-**Roles:** Mangaka
+**Roles:** Designer, Scriptwriter, Key Animator, Manga Artist
 
 ## Interviews
 

@@ -6,7 +6,7 @@ title: "Shuuhei Handa"
 
 半田 修平
 
-**Roles:** Character Design
+**Roles:** Designer, Animation Director, Storyboarder, Key Animator, In-Betweener
 
 ## Interviews
 

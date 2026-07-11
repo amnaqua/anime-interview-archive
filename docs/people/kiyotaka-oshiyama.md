@@ -6,7 +6,7 @@ title: "Kiyotaka Oshiyama"
 
 押山 清高
 
-**Roles:** Director, Animator
+**Roles:** Designer, Key Animator, Director, Lyricist, Storyboarder, Animation Director, In-Betweener, Scriptwriter
 
 ## Interviews
 

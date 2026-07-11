@@ -6,7 +6,7 @@ title: "Ryo-Timo"
 
 りょーちも
 
-**Roles:** Animator
+**Roles:** Designer, Director, 3DCG Artist, Editor, Scriptwriter, Storyboarder, Key Animator, In-Betweener, Colorist, Animation Director, Producer
 
 ## Interviews
 

@@ -6,7 +6,7 @@ title: "Yuki Tsunoda"
 
 角田 有希
 
-**Roles:** Animator
+**Roles:** Key Animator, Animation Director, Producer, In-Betweener
 
 ## Interviews
 

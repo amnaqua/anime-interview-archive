@@ -4,7 +4,9 @@ title: "Kouhei Sakita"
 
 # Kouhei Sakita
 
-**Roles:** Producer
+崎田 康平
+
+**Roles:** Producer, Production Manager
 
 ## Interviews
 

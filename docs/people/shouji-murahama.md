@@ -6,7 +6,7 @@ title: "Shouji Murahama"
 
 村濱 章司
 
-**Roles:** Producer
+**Roles:** Producer, Production Manager
 
 ## Interviews
 

@@ -6,7 +6,7 @@ title: "Norihiro Tomiita"
 
 冨板 紀宏
 
-**Roles:** 3DCG
+**Roles:** 3DCG Artist, Producer, Production Manager, Composite Artist
 
 ## Interviews
 

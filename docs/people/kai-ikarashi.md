@@ -6,7 +6,7 @@ title: "Kai Ikarashi"
 
 五十嵐 海
 
-**Roles:** Director
+**Roles:** Director, Storyboarder, Designer, Scriptwriter, Key Animator, Animation Director, Background Artist, In-Betweener
 
 ## Interviews
 

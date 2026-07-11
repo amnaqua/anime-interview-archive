@@ -6,7 +6,7 @@ title: "Naruyoshi Kikuchi"
 
 菊地 成孔
 
-**Roles:** Composer
+**Roles:** Musician, Lyricist, Sound Artist, Singer
 
 ## Interviews
 

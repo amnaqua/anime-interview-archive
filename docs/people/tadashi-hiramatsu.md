@@ -6,7 +6,7 @@ title: "Tadashi Hiramatsu"
 
 平松 禎史
 
-**Roles:** Animator
+**Roles:** Key Animator, Director, Designer, Animation Director, Storyboarder, Sound Artist, In-Betweener
 
 ## Interviews
 

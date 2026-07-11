@@ -6,7 +6,7 @@ title: "Mitsurou Kubo"
 
 久保 ミツロウ
 
-**Roles:** Mangaka
+**Roles:** Designer, Key Animator, Manga Artist
 
 ## Interviews
 

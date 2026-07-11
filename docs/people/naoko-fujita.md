@@ -6,7 +6,7 @@ title: "Naoko Fujita"
 
 藤田 奈緒子
 
-**Roles:** Animator
+**Roles:** In-Betweener, Key Animator
 
 ## Interviews
 

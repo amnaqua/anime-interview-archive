@@ -6,7 +6,7 @@ title: "Noritaka Kawaguchi"
 
 川口 典孝
 
-**Roles:** Producer
+**Roles:** Musician, Producer, Production Manager
 
 ## Interviews
 

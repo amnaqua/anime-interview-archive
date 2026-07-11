@@ -6,7 +6,7 @@ title: "Miku Kadowaki"
 
 門脇 未来
 
-**Roles:** Animator
+**Roles:** Animation Director, Designer, Key Animator, Producer, In-Betweener
 
 ## Interviews
 

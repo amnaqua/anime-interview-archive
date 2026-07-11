@@ -6,7 +6,7 @@ title: "Yasuyuki Ueda"
 
 上田 耕行
 
-**Roles:** Producer
+**Roles:** Producer, Production Manager
 
 ## Interviews
 

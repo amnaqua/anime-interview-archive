@@ -6,6 +6,8 @@ title: "Gen Urobuchi"
 
 虚淵 玄
 
+**Roles:** Scriptwriter, Designer
+
 ## Interviews
 
 ### Thunderbolt Fantasy

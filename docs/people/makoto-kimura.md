@@ -6,7 +6,7 @@ title: "Makoto Kimura"
 
 木村 誠
 
-**Roles:** Producer
+**Roles:** Producer, Production Manager
 
 ## Interviews
 

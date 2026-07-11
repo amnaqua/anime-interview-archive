@@ -6,7 +6,7 @@ title: "Sunao Katabuchi"
 
 片渕 須直
 
-**Roles:** Director
+**Roles:** Director, Sound Artist, Lyricist, Storyboarder, Scriptwriter, Designer
 
 ## Interviews
 

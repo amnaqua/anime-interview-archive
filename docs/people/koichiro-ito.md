@@ -6,7 +6,7 @@ title: "Koichiro Ito"
 
 伊藤 耕一郎
 
-**Roles:** Producer
+**Roles:** Producer, Scriptwriter
 
 ## Interviews
 

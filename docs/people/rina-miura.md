@@ -6,7 +6,7 @@ title: "Rina Miura"
 
 三浦 理奈
 
-**Roles:** Special Effects
+**Roles:** Colorist, Composite Artist
 
 ## Interviews
 

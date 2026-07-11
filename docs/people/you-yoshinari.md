@@ -6,7 +6,7 @@ title: "You Yoshinari"
 
 吉成 曜
 
-**Roles:** Director, Animator
+**Roles:** Key Animator, Designer, Storyboarder, Animation Director, Director, In-Betweener
 
 ## Interviews
 

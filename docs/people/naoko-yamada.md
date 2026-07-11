@@ -6,7 +6,7 @@ title: "Naoko Yamada"
 
 山田尚子
 
-**Roles:** Director
+**Roles:** Director, Storyboarder, Colorist, Lyricist, Key Animator, Producer, In-Betweener
 
 ## Interviews
 

@@ -6,7 +6,7 @@ title: "Yutaka Nakamura"
 
 中村 豊
 
-**Roles:** Animator
+**Roles:** Animation Director, Key Animator, Storyboarder, Designer, Director, In-Betweener
 
 ## Interviews
 

@@ -6,7 +6,7 @@ title: "Yuuko Myouken"
 
 明見 裕子
 
-**Roles:** Animator
+**Roles:** Animation Director, Key Animator, Producer
 
 ## Interviews
 

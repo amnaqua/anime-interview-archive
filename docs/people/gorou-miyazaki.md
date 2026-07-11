@@ -6,7 +6,7 @@ title: "Gorou Miyazaki"
 
 宮崎 吾朗
 
-**Roles:** Director
+**Roles:** Director, Lyricist, Storyboarder, Musician, Scriptwriter
 
 ## Interviews
 

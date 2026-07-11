@@ -6,7 +6,7 @@ title: "Mamoru Oshii"
 
 押井 守
 
-**Roles:** Director
+**Roles:** Director, Scriptwriter, Storyboarder, Producer
 
 ## Interviews
 

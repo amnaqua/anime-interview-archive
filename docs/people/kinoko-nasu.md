@@ -6,6 +6,8 @@ title: "Kinoko Nasu"
 
 奈須 きのこ
 
+**Roles:** Scriptwriter, Designer, Lyricist
+
 ## Interviews
 
 ### What Shapes My Soul (Nasu Kinoko, on Ikuhara Kunihiko)

@@ -6,7 +6,7 @@ title: "Shunichi Tsuji"
 
 辻 俊一
 
-**Roles:** Producer
+**Roles:** Producer, Production Manager
 
 ## Interviews
 

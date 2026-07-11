@@ -98,6 +98,10 @@ export default {
                 "link": "/people/hiroshi-nagahama"
             },
             {
+                "text": "Hiroshi Nakajima",
+                "link": "/people/hiroshi-nakajima"
+            },
+            {
                 "text": "Isao Nanba",
                 "link": "/people/isao-nanba"
             },

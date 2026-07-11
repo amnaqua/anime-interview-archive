@@ -27,6 +27,7 @@ title: People
 - [Hiroaki Karasu](./hiroaki-karasu)
 - [Hiroi Hasegawa](./hiroi-hasegawa)
 - [Hiroshi Nagahama](./hiroshi-nagahama)
+- [Hiroshi Nakajima](./hiroshi-nakajima)
 - [Isao Nanba](./isao-nanba)
 - [Jouji Unoguchi](./jouji-unoguchi)
 - [Kai Ikarashi](./kai-ikarashi)

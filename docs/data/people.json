@@ -953,5 +953,15 @@
     "roles": [
       "Colorist"
     ]
+  },
+
+  "hiroshi-nakajima": {
+    "name": "Hiroshi Nakajima",
+    "aliases": [
+      "中島 宏"
+    ],
+    "roles": [
+      "3DCG"
+    ]
   }
 }

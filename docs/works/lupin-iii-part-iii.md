@@ -6,7 +6,7 @@ title: "Lupin III: Part III"
 
 ## Interviews
 
-### Lupin III Part 3 Character Designs With Yuzo Aoki
+### Lupin III: Part III Character Designs With Yuuzou Aoki
 
 - **Date:** 1984-02
 - **Publisher:** OUT

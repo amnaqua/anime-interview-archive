@@ -28,10 +28,10 @@ features:
 
 # Recently Added
 
-- **2026-07-11 19:31** — **Yuuzou Aoki** — [Lupin III Part 3 Character Designs With Yuzo Aoki](/people/yuuzou-aoki#lupin-iii-part-3-character-designs-with-yuzo-aoki)
+- **2026-07-11 19:31** — **Yuuzou Aoki** — [Lupin III: Part III Character Designs With Yuuzou Aoki](/people/yuuzou-aoki#lupin-iii-part-iii-character-designs-with-yuuzou-aoki)
 - **2026-07-11 19:20** — **Taichi Ishidate** — [Violet Evergarden](/people/taichi-ishidate#violet-evergarden-1)
 - **2026-07-11 19:17** — **Taichi Ishidate** — [Violet Evergarden](/people/taichi-ishidate#violet-evergarden)
-- **2026-07-11 19:12** — **Taichi Ishidate** — [About Anime Industry](/people/taichi-ishidate#about-anime-industry-24)
+- **2026-07-11 19:12** — **Taichi Ishidate** — [About Anime Industry](/people/taichi-ishidate#about-anime-industry-9)
 - **2026-07-11 19:09** — **Hiroyuki Yamaga** — [Hiroyuki Yamaga Reflects on Gainax’s Past and Anime’s Future](/people/hiroyuki-yamaga#hiroyuki-yamaga-reflects-on-gainaxs-past-and-animes-future)
 - **2026-07-11 19:02** — **Tetsuya Kinoshita, Shimba Tsuchiya** — [Welcome to the Ballroom](/people/tetsuya-kinoshita#welcome-to-the-ballroom-1)
 - **2026-07-11 18:55** — **Takahiro Chiba, Yoshimi Itazu, Tetsuya Kinoshita** — [Welcome to the Ballroom](/people/takahiro-chiba#welcome-to-the-ballroom)

@@ -1,5 +1,5 @@
 ---
-title: Lupin III Part 3 Character Designs With Yuzo Aoki
+title: "Lupin III: Part III Character Designs With Yuuzou Aoki"
 
 date: 1984-02
 

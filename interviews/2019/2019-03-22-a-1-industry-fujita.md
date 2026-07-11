@@ -16,7 +16,7 @@ language: ja
 
 links:
   - type: source
-    url: https://a1p.jp/interview/kanekoatsushi/
+    url: https://a1p.jp/interview/fujitasachio/
 
 archived_at: 2026-07-11 08:44
 ---

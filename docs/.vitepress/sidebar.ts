@@ -546,6 +546,10 @@ export default {
                 "link": "/people/tatsuyuki-nagai"
             },
             {
+                "text": "Tensai Okamura",
+                "link": "/people/tensai-okamura"
+            },
+            {
                 "text": "Tetsuya Kawakami",
                 "link": "/people/tetsuya-kawakami"
             },

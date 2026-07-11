@@ -1966,5 +1966,22 @@
       "Designer",
       "Lyricist"
     ]
+  },
+
+  "tensai-okamura": {
+    "name": "Tensai Okamura",
+    "aliases": [
+      "岡村天斎",
+      "岡村天斉"
+    ],
+    "roles": [
+      "Storyboarder",
+      "Key Animator",
+      "Director",
+      "Scriptwriter",
+      "Animation Director",
+      "Designer",
+      "In-Betweener"
+    ]
   }
 }

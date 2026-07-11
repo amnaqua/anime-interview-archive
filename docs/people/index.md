@@ -139,6 +139,7 @@ title: People
 - [Tatsuya Hiragi](./tatsuya-hiragi)
 - [Tatsuya Ishiguro](./tatsuya-ishiguro)
 - [Tatsuyuki Nagai](./tatsuyuki-nagai)
+- [Tensai Okamura](./tensai-okamura)
 - [Tetsuya Kawakami](./tetsuya-kawakami)
 - [Tetsuya Kinoshita](./tetsuya-kinoshita)
 - [Toshitaka Morioka](./toshitaka-morioka)

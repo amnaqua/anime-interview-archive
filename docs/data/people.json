@@ -1401,5 +1401,50 @@
     "roles": [
       "Background Artist"
     ]
+  },
+
+  "jun-katou": {
+    "name": "Jun Katou",
+    "aliases": [
+      "加藤 淳"
+    ],
+    "roles": [
+      "Producer",
+      "Production Manager"
+    ]
+  },
+
+  "tetsuya-kawakami": {
+    "name": "Tetsuya Kawakami",
+    "aliases": [
+      "川上哲也"
+    ],
+    "roles": [
+      "Animation Director",
+      "Designer",
+      "Key Animator",
+      "In-Betweener"
+    ]
+  },
+
+  "youhei-miyawaki": {
+    "name": "Youhei Miyawaki",
+    "aliases": [
+      "宮脇洋平"
+    ],
+    "roles": [
+      "Composite Artist",
+      "Colorist"
+    ]
+  },
+
+  "mizuho-kanda": {
+    "name": "Mizuho Kanda",
+    "aliases": [
+      "神田瑞帆"
+    ],
+    "roles": [
+      "3DCG Artist"
+    ]
   }
 }

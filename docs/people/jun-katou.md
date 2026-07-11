@@ -1,12 +1,12 @@
 ---
-title: "Ayaka Murakami"
+title: "Jun Katou"
 ---
 
-# Ayaka Murakami
+# Jun Katou
 
-村上 彩夏
+加藤 淳
 
-**Roles:** Colorist
+**Roles:** Producer, Production Manager
 
 ## Interviews
 
@@ -18,17 +18,6 @@ title: "Ayaka Murakami"
 - **Company:** A-1 Pictures
 - **People:** Jun Katou, Tetsuya Kawakami, Ayaka Murakami, Youhei Miyawaki, Mizuho Kanda
 - **Source:**  https://a1p.jp/interview/20240305_02/
-
----
-
-### About Anime Industry
-
-- **Date:** 2019-06-03
-- **Publisher:** A-1 Official Site
-- **Language:** Japanese
-- **Company:** A-1 Pictures
-- **People:** Ayaka Murakami
-- **Source:**  https://a1p.jp/interview/murakamiayaka/
 
 ---
 

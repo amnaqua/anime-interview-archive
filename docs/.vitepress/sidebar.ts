@@ -126,6 +126,10 @@ export default {
                 "link": "/people/jouji-unoguchi"
             },
             {
+                "text": "Jun Katou",
+                "link": "/people/jun-katou"
+            },
+            {
                 "text": "Kai Ikarashi",
                 "link": "/people/kai-ikarashi"
             },
@@ -244,6 +248,10 @@ export default {
             {
                 "text": "Mitsurou Kubo",
                 "link": "/people/mitsurou-kubo"
+            },
+            {
+                "text": "Mizuho Kanda",
+                "link": "/people/mizuho-kanda"
             },
             {
                 "text": "Moko-chan",
@@ -386,6 +394,10 @@ export default {
                 "link": "/people/tatsuyuki-nagai"
             },
             {
+                "text": "Tetsuya Kawakami",
+                "link": "/people/tetsuya-kawakami"
+            },
+            {
                 "text": "Toshitaka Morioka",
                 "link": "/people/toshitaka-morioka"
             },
@@ -416,6 +428,10 @@ export default {
             {
                 "text": "You Yoshinari",
                 "link": "/people/you-yoshinari"
+            },
+            {
+                "text": "Youhei Miyawaki",
+                "link": "/people/youhei-miyawaki"
             },
             {
                 "text": "Yui Tomita",

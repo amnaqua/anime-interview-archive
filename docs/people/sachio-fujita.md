@@ -13,7 +13,7 @@ title: "Sachio Fujita"
 - **Language:** Japanese
 - **Company:** A-1 Pictures
 - **People:** Sachio Fujita
-- **Source:**  https://a1p.jp/interview/kanekoatsushi/
+- **Source:**  https://a1p.jp/interview/fujitasachio/
 
 ---
 

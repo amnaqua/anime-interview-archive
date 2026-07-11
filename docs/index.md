@@ -28,7 +28,7 @@ features:
 
 # Recently Added
 
-- **2026-07-11 08:43** — **Sachio Fujita** — [About Anime Industry](/people/sachio-fujita#about-anime-industry-9)
+- **2026-07-11 08:44** — **Sachio Fujita** — [About Anime Industry](/people/sachio-fujita#about-anime-industry-9)
 - **2026-07-11 08:41** — **Atsushi Kaneko** — [About Anime Industry](/people/atsushi-kaneko#about-anime-industry-10)
 - **2026-07-11 08:25** — **Akinori Ooyama, Shunsuke Sugimoto, Kaoru Miyabara, Tadahiro Shibata** — [Psyde Kick Studio](/people/akinori-aoyama#psyde-kick-studio)
 - **2026-07-11 08:14** — **Takushi Koide** — [Sayonara Lara](/people/takushi-koide#sayonara-lara)

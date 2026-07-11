@@ -10,6 +10,7 @@ title: People
 - [Akihisa Shibuya](./akihisa-shibuya)
 - [Akihito Suzuki](./akihito-suzuki)
 - [Akinori Ooyama](./akinori-aoyama)
+- [Aoba Onobe](./aoba-onobe)
 - [Atsuo Nakayama](./atsuo-nakayama)
 - [Atsushi Kaneko](./atsushi-kaneko)
 - [Atsushi Nishigori](./atsushi-nishigori)

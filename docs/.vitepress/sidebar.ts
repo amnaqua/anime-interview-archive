@@ -30,6 +30,10 @@ export default {
                 "link": "/people/akinori-aoyama"
             },
             {
+                "text": "Aoba Onobe",
+                "link": "/people/aoba-onobe"
+            },
+            {
                 "text": "Atsuo Nakayama",
                 "link": "/people/atsuo-nakayama"
             },

@@ -1586,5 +1586,36 @@
     "roles": [
       "Composite Artist"
     ]
+  },
+
+  "mayato-nozaki": {
+    "name": "Mayato Nozaki",
+    "aliases": [
+      "野﨑真哉斗"
+    ],
+    "roles": [
+      "Colorist"
+    ]
+  },
+
+  "reina-tachibana": {
+    "name": "Reina Tachibana",
+    "aliases": [
+      "橘玲奈"
+    ],
+    "roles": [
+      "Colorist",
+      "Designer"
+    ]
+  },
+
+  "kurumi-yoshida": {
+    "name": "Kurumi Yoshida",
+    "aliases": [
+      "\uD842\uDFB7田久留美"
+    ],
+    "roles": [
+      "Colorist"
+    ]
   }
 }

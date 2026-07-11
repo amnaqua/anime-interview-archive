@@ -214,6 +214,10 @@ export default {
                 "link": "/people/kouhei-sakita"
             },
             {
+                "text": "Kurumi Yoshida",
+                "link": "/people/kurumi-yoshida"
+            },
+            {
                 "text": "Kyouko Kotani",
                 "link": "/people/kyouko-kotani"
             },
@@ -248,6 +252,10 @@ export default {
             {
                 "text": "Masayuki Yoshihara",
                 "link": "/people/masayuki-yoshihara"
+            },
+            {
+                "text": "Mayato Nozaki",
+                "link": "/people/mayato-nozaki"
             },
             {
                 "text": "Megumi Maeda",
@@ -332,6 +340,10 @@ export default {
             {
                 "text": "Rei Yamaguchi",
                 "link": "/people/rei-yamaguchi"
+            },
+            {
+                "text": "Reina Tachibana",
+                "link": "/people/reina-tachibana"
             },
             {
                 "text": "Rena Motomura",

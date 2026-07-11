@@ -154,6 +154,10 @@ export default {
                 "link": "/people/kana-ueda"
             },
             {
+                "text": "Kanto Kikuchi",
+                "link": "/people/kanto-kikuchi"
+            },
+            {
                 "text": "Kaoru Miyabara",
                 "link": "/people/kaoru-miyabara"
             },
@@ -164,6 +168,10 @@ export default {
             {
                 "text": "Kazuki Kawagoe",
                 "link": "/people/kazuki-kawagoe"
+            },
+            {
+                "text": "Kazuki Maejima",
+                "link": "/people/kazuki-maejima"
             },
             {
                 "text": "Kazuto Arai",
@@ -314,6 +322,10 @@ export default {
                 "link": "/people/noritaka-kawaguchi"
             },
             {
+                "text": "Rei Yamaguchi",
+                "link": "/people/rei-yamaguchi"
+            },
+            {
                 "text": "Rena Motomura",
                 "link": "/people/rena-motomura"
             },
@@ -328,6 +340,10 @@ export default {
             {
                 "text": "Ryo-Timo",
                 "link": "/people/ryo-timo"
+            },
+            {
+                "text": "Ryouko Ishikura",
+                "link": "/people/ryouko-ishikura"
             },
             {
                 "text": "Ryouta Gotou",

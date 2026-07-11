@@ -1496,5 +1496,45 @@
     "roles": [
       "3DCG Artist"
     ]
+  },
+
+  "ryouko-ishikura": {
+    "name": "Ryouko Ishikura",
+    "aliases": [
+      "石倉諒子"
+    ],
+    "roles": [
+      "Production Manager"
+    ]
+  },
+
+  "kanto-kikuchi": {
+    "name": "Kanto Kikuchi",
+    "aliases": [
+      "菊地観人"
+    ],
+    "roles": [
+      "Production Manager"
+    ]
+  },
+
+  "rei-yamaguchi": {
+    "name": "Rei Yamaguchi",
+    "aliases": [
+      "山口黎"
+    ],
+    "roles": [
+      "Production Manager"
+    ]
+  },
+
+  "kazuki-maejima": {
+    "name": "Kazuki Maejima",
+    "aliases": [
+      "前島和記"
+    ],
+    "roles": [
+      "Production Manager"
+    ]
   }
 }

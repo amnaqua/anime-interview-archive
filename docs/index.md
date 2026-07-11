@@ -4,11 +4,11 @@ layout: home
 hero:
   name: Anime Interview Archive
   text: Archive of anime staff interviews and production materials.
-  tagline: 81 interviews indexed
+  tagline: 82 interviews indexed
 
 features:
   - title: 👥 People
-    details: 92 people
+    details: 93 people
     link: /people/
 
   - title: 🎬 Works
@@ -28,7 +28,8 @@ features:
 
 # Recently Added
 
-- **2026-07-11 08:41** — **Atsushi Kaneko** — [About Anime Industry](/people/atsushi-kaneko#about-anime-industry-15)
+- **2026-07-11 08:43** — **Sachio Fujita** — [About Anime Industry](/people/sachio-fujita#about-anime-industry-9)
+- **2026-07-11 08:41** — **Atsushi Kaneko** — [About Anime Industry](/people/atsushi-kaneko#about-anime-industry-10)
 - **2026-07-11 08:25** — **Akinori Ooyama, Shunsuke Sugimoto, Kaoru Miyabara, Tadahiro Shibata** — [Psyde Kick Studio](/people/akinori-aoyama#psyde-kick-studio)
 - **2026-07-11 08:14** — **Takushi Koide** — [Sayonara Lara](/people/takushi-koide#sayonara-lara)
 - **2026-07-09 23:12** — **Kairi Unabara, Hiroaki Karasu, Yoshihisa Satou** — [Tongari Boushi no Atelier](/people/kairi-unabara#tongari-boushi-no-atelier-8)
@@ -37,4 +38,3 @@ features:
 - **2026-07-09 23:00** — **Eve** — [Tongari Boushi no Atelier](/people/eve#tongari-boushi-no-atelier-5)
 - **2026-07-09 22:59** — **Yuka Kitamura** — [Tongari Boushi no Atelier](/people/yuka-kitamura#tongari-boushi-no-atelier-4)
 - **2026-07-09 22:55** — **Shuuhei Tada, Mika Nakajima** — [Tongari Boushi no Atelier](/people/shuuhei-tada#tongari-boushi-no-atelier-3)
-- **2026-07-09 22:52** — **Haruyoshi Nomura, William Lee, Isao Nanba, Hayato Torii** — [Tongari Boushi no Atelier](/people/haruyoshi-nomura#tongari-boushi-no-atelier-2)

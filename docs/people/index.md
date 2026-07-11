@@ -68,6 +68,7 @@ title: People
 - [Ryo-Timo](./ryo-timo)
 - [Ryouta Gotou](./ryouta-gotou)
 - [Ryoutarou Nagayama](./ryoutarou-nagayama)
+- [Sachio Fujita](./sachio-fujita)
 - [Satoshi Nakano](./satoshi-nakano)
 - [Sayo Yamamoto](./sayo-yamamoto)
 - [Shouji Kawamori](./shouji-kawamori)

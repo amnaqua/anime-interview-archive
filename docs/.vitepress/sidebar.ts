@@ -262,6 +262,10 @@ export default {
                 "link": "/people/ryoutarou-nagayama"
             },
             {
+                "text": "Sachio Fujita",
+                "link": "/people/sachio-fujita"
+            },
+            {
                 "text": "Satoshi Nakano",
                 "link": "/people/satoshi-nakano"
             },

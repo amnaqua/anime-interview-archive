@@ -1919,5 +1919,16 @@
       "Designer",
       "In-Betweener"
     ]
+  },
+
+  "kenichi-suemitsu": {
+    "name": "Kenichi Suemitsu",
+    "aliases": [
+      "末満健一"
+    ],
+    "roles": [
+      "Manga Artist",
+      "Scriptwriter"
+    ]
   }
 }

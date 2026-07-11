@@ -234,6 +234,10 @@ export default {
                 "link": "/people/kenichi-sonoda"
             },
             {
+                "text": "Kenichi Suemitsu",
+                "link": "/people/kenichi-suemitsu"
+            },
+            {
                 "text": "Kinoko Nasu",
                 "link": "/people/kinoko-nasu"
             },

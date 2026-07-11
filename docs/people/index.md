@@ -61,6 +61,7 @@ title: People
 - [Keitatsu Hayakawa](./keitatsu-hayakawa)
 - [Kengo Oda](./kengo-oda)
 - [Kenichi Sonoda](./kenichi-sonoda)
+- [Kenichi Suemitsu](./kenichi-suemitsu)
 - [Kinoko Nasu](./kinoko-nasu)
 - [Kiyotaka Oshiyama](./kiyotaka-oshiyama)
 - [Koichiro Ito](./koichiro-ito)

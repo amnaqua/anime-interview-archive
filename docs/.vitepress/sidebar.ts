@@ -114,6 +114,10 @@ export default {
                 "link": "/people/hiroshi-nakajima"
             },
             {
+                "text": "Honoka Kagami",
+                "link": "/people/honoka-kagami"
+            },
+            {
                 "text": "Isao Nanba",
                 "link": "/people/isao-nanba"
             },
@@ -214,6 +218,10 @@ export default {
                 "link": "/people/masayuki-yoshihara"
             },
             {
+                "text": "Megumi Maeda",
+                "link": "/people/megumi-maeda"
+            },
+            {
                 "text": "Mika Nakajima",
                 "link": "/people/mika-nakajima"
             },
@@ -224,6 +232,10 @@ export default {
             {
                 "text": "Minori Ootsuka",
                 "link": "/people/minori-ootsuka"
+            },
+            {
+                "text": "Misaki Yamasawa",
+                "link": "/people/misaki-yamasawa"
             },
             {
                 "text": "Mitsuhisa Ishikawa",
@@ -284,6 +296,10 @@ export default {
             {
                 "text": "Rina Miura",
                 "link": "/people/rina-miura"
+            },
+            {
+                "text": "Ririka Furukawa",
+                "link": "/people/ririka-furukawa"
             },
             {
                 "text": "Ryo-Timo",

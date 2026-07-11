@@ -1043,5 +1043,49 @@
     "roles": [
       "Production Manager"
     ]
+  },
+
+  "megumi-maeda": {
+    "name": "Megumi Maeda",
+    "aliases": [
+      "前田 芽美"
+    ],
+    "roles": [
+      "Designer",
+      "Key Animator",
+      "Director",
+      "In-Betweener"
+    ]
+  },
+
+  "misaki-yamasawa": {
+    "name": "Misaki Yamasawa",
+    "aliases": [
+      "山澤 美紗紀"
+    ],
+    "roles": [
+      "Colorist",
+      "In-Betweener"
+    ]
+  },
+
+  "ririka-furukawa": {
+    "name": "Ririka Furukawa",
+    "aliases": [
+      "古川 璃々花"
+    ],
+    "roles": [
+      "3DCG Artist"
+    ]
+  },
+
+  "honoka-kagami": {
+    "name": "Honoka Kagami",
+    "aliases": [
+      "加賀美 帆"
+    ],
+    "roles": [
+      "Composite Artist"
+    ]
   }
 }

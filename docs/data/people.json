@@ -1446,5 +1446,15 @@
     "roles": [
       "3DCG Artist"
     ]
+  },
+
+  "keitatsu-hayakawa": {
+    "name": "Keitatsu Hayakawa",
+    "aliases": [
+      "早川敬立"
+    ],
+    "roles": [
+      "3DCG Artist"
+    ]
   }
 }

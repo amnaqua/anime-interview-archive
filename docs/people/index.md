@@ -43,6 +43,7 @@ title: People
 - [Kazuki Akane](./kazuki-akane)
 - [Kazuki Kawagoe](./kazuki-kawagoe)
 - [Kazuto Arai](./kazuto-arai)
+- [Keitatsu Hayakawa](./keitatsu-hayakawa)
 - [Kenichi Sonoda](./kenichi-sonoda)
 - [Kinoko Nasu](./kinoko-nasu)
 - [Kiyotaka Oshiyama](./kiyotaka-oshiyama)

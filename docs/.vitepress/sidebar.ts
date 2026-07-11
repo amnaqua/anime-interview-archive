@@ -27,7 +27,7 @@ export default {
             },
             {
                 "text": "Akinori Ooyama",
-                "link": "/people/akinori-aoyama"
+                "link": "/people/akinori-ooyama"
             },
             {
                 "text": "Aoba Onobe",

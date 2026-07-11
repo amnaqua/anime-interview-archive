@@ -1,7 +1,7 @@
 ---
 title: Psyde Kick Studio
 
-date: 2026-07-10
+date: 2026-07-03
 
 people:
   - akinori-ooyama
@@ -20,7 +20,7 @@ language: ja
 
 links:
   - type: source
-    url: https://a1p.jp/interview/260710/
+    url: https://a1p.jp/interview/260703/
 
-archived_at: 2026-07-11 08:25
+archived_at: 2026-07-11 16:47
 ---

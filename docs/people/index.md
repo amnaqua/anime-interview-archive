@@ -9,7 +9,7 @@ title: People
 - [Akane Takeda](./akane-takeda)
 - [Akihisa Shibuya](./akihisa-shibuya)
 - [Akihito Suzuki](./akihito-suzuki)
-- [Akinori Ooyama](./akinori-aoyama)
+- [Akinori Ooyama](./akinori-ooyama)
 - [Aoba Onobe](./aoba-onobe)
 - [Atsuo Nakayama](./atsuo-nakayama)
 - [Atsushi Kaneko](./atsushi-kaneko)

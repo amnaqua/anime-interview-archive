@@ -4,7 +4,7 @@ layout: home
 hero:
   name: Anime Interview Archive
   text: Archive of anime staff interviews and production materials.
-  tagline: 111 interviews indexed
+  tagline: 112 interviews indexed
 
 features:
   - title: 👥 People
@@ -28,7 +28,7 @@ features:
 
 # Recently Added
 
-- **2026-07-11 16:32** — **Ryouta Aikou, Kana Asai, Ayumu Ikegami** — [About Anime Industry](/people/ryouta-aikou#about-anime-industry-33)
+- **2026-07-11 16:36** — **Ryouta Aikou, Kana Asai, Ayumu Ikegami** — [About Anime Industry](/people/ryouta-aikou#about-anime-industry-33)
 - **2026-07-11 16:32** — **Shinsei Hidaka, Nachi Ban, Rikuto Shinada** — [About Anime Industry](/people/shinsei-hidaka#about-anime-industry-37)
 - **2026-07-11 16:28** — **Chinatsu Saitou, Yukina Iwata, Haruka Koseki** — [About Anime Industry](/people/chinatsu-saitou#about-anime-industry-44)
 - **2026-07-11 16:26** — **Karin Kanbara, Chiharu Tomizawa** — [About Anime Industry](/people/karin-kanbara#about-anime-industry-38)

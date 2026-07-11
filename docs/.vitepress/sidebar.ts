@@ -430,6 +430,10 @@ export default {
                 "link": "/people/sayo-yamamoto"
             },
             {
+                "text": "Shimba Tsuchiya",
+                "link": "/people/shimba-tsuchiya"
+            },
+            {
                 "text": "Shingo Sasaki",
                 "link": "/people/shingo-sasaki"
             },

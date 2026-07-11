@@ -110,6 +110,7 @@ title: People
 - [Sachio Fujita](./sachio-fujita)
 - [Satoshi Nakano](./satoshi-nakano)
 - [Sayo Yamamoto](./sayo-yamamoto)
+- [Shimba Tsuchiya](./shimba-tsuchiya)
 - [Shingo Sasaki](./shingo-sasaki)
 - [Shinsei Hidaka](./shinsei-hidaka)
 - [Shouji Kawamori](./shouji-kawamori)

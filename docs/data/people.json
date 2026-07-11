@@ -1813,5 +1813,15 @@
       "Production Manager",
       "Business"
     ]
+  },
+
+  "shimba-tsuchiya": {
+    "name": "Shimba Tsuchiya",
+    "aliases": [
+      "土屋神葉"
+    ],
+    "roles": [
+      "Voice Actor"
+    ]
   }
 }

@@ -17,6 +17,17 @@ title: "Anime News Network"
 
 ---
 
+### Welcome to the Ballroom
+
+- **Date:** 2017-09-01
+- **Publisher:** Anime News Network
+- **Language:** English
+- **Company:** Production I.G
+- **People:** Tetsuya Kinoshita, Shimba Tsuchiya
+- **Source:**  https://www.animenewsnetwork.com/interview/2017-09-01/welcome-to-the-ballroom-tetsuya-kinoshita-and-shimba-tsuchiya/.120830
+
+---
+
 ### In This Corner of the World
 
 - **Date:** 2017-08-11

@@ -206,6 +206,10 @@ export default {
                 "link": "/people/miku-kadowaki"
             },
             {
+                "text": "Minori Ootsuka",
+                "link": "/people/minori-ootsuka"
+            },
+            {
                 "text": "Mitsuhisa Ishikawa",
                 "link": "/people/mitsuhisa-ishikawa"
             },

@@ -54,6 +54,7 @@ title: People
 - [Masayuki Yoshihara](./masayuki-yoshihara)
 - [Mika Nakajima](./mika-nakajima)
 - [Miku Kadowaki](./miku-kadowaki)
+- [Minori Ootsuka](./minori-ootsuka)
 - [Mitsuhisa Ishikawa](./mitsuhisa-ishikawa)
 - [Mitsurou Kubo](./mitsurou-kubo)
 - [Moko-chan](./moko-chan)

@@ -943,5 +943,15 @@
     "roles": [
       "Animator"
     ]
+  },
+
+  "minori-ootsuka": {
+    "name": "Minori Ootsuka",
+    "aliases": [
+      "大塚 実梨"
+    ],
+    "roles": [
+      "Colorist"
+    ]
   }
 }

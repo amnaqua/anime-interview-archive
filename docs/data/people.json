@@ -1617,5 +1617,25 @@
     "roles": [
       "Colorist"
     ]
+  },
+
+  "karin-kanbara": {
+    "name": "Karin Kanbara",
+    "aliases": [
+      "神原夏琳"
+    ],
+    "roles": [
+      "Background Artist"
+    ]
+  },
+
+  "chiharu-tomizawa": {
+    "name": "Chiharu Tomizawa",
+    "aliases": [
+      "冨澤千春"
+    ],
+    "roles": [
+      "Background Artist"
+    ]
   }
 }

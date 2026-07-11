@@ -58,6 +58,10 @@ export default {
                 "link": "/people/bahi-jd"
             },
             {
+                "text": "Chiharu Tomizawa",
+                "link": "/people/chiharu-tomizawa"
+            },
+            {
                 "text": "Chiyoko Ueno",
                 "link": "/people/chiyoko-ueno"
             },
@@ -164,6 +168,10 @@ export default {
             {
                 "text": "Kaoru Miyabara",
                 "link": "/people/kaoru-miyabara"
+            },
+            {
+                "text": "Karin Kanbara",
+                "link": "/people/karin-kanbara"
             },
             {
                 "text": "Kazuki Akane",

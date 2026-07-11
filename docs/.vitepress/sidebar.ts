@@ -290,6 +290,10 @@ export default {
                 "link": "/people/tadashi-hiramatsu"
             },
             {
+                "text": "Takushi Koide",
+                "link": "/people/takushi-koide"
+            },
+            {
                 "text": "Tatsuya Ishiguro",
                 "link": "/people/tatsuya-ishiguro"
             },
@@ -424,6 +428,10 @@ export default {
             {
                 "text": "One Piece",
                 "link": "/works/one-piece"
+            },
+            {
+                "text": "Sayonara Lara",
+                "link": "/works/sayonara-lara"
             },
             {
                 "text": "Space☆Dandy",

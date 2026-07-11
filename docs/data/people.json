@@ -832,5 +832,16 @@
     "roles": [
       "Animator"
     ]
+  },
+
+  "takushi-koide": {
+    "name": "Takushi Koide",
+    "aliases": [
+      "小出 卓史"
+    ],
+    "roles": [
+      "Director",
+      "Animator"
+    ]
   }
 }

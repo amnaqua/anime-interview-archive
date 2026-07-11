@@ -75,6 +75,7 @@ title: People
 - [Shuuhei Tada](./shuuhei-tada)
 - [Sunao Katabuchi](./sunao-katabuchi)
 - [Tadashi Hiramatsu](./tadashi-hiramatsu)
+- [Takushi Koide](./takushi-koide)
 - [Tatsuya Ishiguro](./tatsuya-ishiguro)
 - [Tatsuyuki Nagai](./tatsuyuki-nagai)
 - [Tsutomu Mizushima](./tsutomu-mizushima)

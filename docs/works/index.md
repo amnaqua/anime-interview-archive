@@ -21,6 +21,7 @@ title: Works
 - [Mobile Suit Gundam: Iron-Blooded Orphans](./gundam-iron-blooded-orphans)
 - [On Your Mark](./on-your-mark)
 - [One Piece](./one-piece)
+- [Sayonara Lara](./sayonara-lara)
 - [Space☆Dandy](./space-dandy)
 - [Tenkuu no Escaflowne](./tenkuu-no-escaflowne)
 - [Tenmaku no Jaadugar](./tenmaku-no-jaadugar)

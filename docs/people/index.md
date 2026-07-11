@@ -96,6 +96,7 @@ title: People
 - [Tadashi Hiramatsu](./tadashi-hiramatsu)
 - [Takurou Mori](./takurou-mori)
 - [Takushi Koide](./takushi-koide)
+- [Tatsuya Hiragi](./tatsuya-hiragi)
 - [Tatsuya Ishiguro](./tatsuya-ishiguro)
 - [Tatsuyuki Nagai](./tatsuyuki-nagai)
 - [Toshitaka Morioka](./toshitaka-morioka)

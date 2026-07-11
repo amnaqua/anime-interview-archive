@@ -374,6 +374,10 @@ export default {
                 "link": "/people/takushi-koide"
             },
             {
+                "text": "Tatsuya Hiragi",
+                "link": "/people/tatsuya-hiragi"
+            },
+            {
                 "text": "Tatsuya Ishiguro",
                 "link": "/people/tatsuya-ishiguro"
             },

@@ -861,7 +861,9 @@
       "杉本 俊輔"
     ],
     "roles": [
-      "Producer"
+      "Producer",
+      "Production Manager",
+      "Scriptwriter"
     ]
   },
 
@@ -1086,6 +1088,16 @@
     ],
     "roles": [
       "Composite Artist"
+    ]
+  },
+
+  "tatsuya-hiragi": {
+    "name": "Tatsuya Hiragi",
+    "aliases": [
+      "平義樹弥"
+    ],
+    "roles": [
+      "Background Artist"
     ]
   }
 }

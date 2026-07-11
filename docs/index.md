@@ -8,7 +8,7 @@ hero:
 
 features:
   - title: 👥 People
-    details: 148 people
+    details: 150 people
     link: /people/
 
   - title: 🎬 Works
@@ -28,7 +28,7 @@ features:
 
 # Recently Added
 
-- **2026-07-11 18:55** — **Takahiro Chiba** — [Welcome to the Ballroom](/people/takahiro-chiba#welcome-to-the-ballroom)
+- **2026-07-11 18:55** — **Takahiro Chiba, Yoshimi Itazu, Tetsuya Kinoshita** — [Welcome to the Ballroom](/people/takahiro-chiba#welcome-to-the-ballroom)
 - **2026-07-11 18:50** — **Takahiro Oomori** — [Natsume Yuujinchou](/people/takahiro-oomori#natsume-yuujinchou)
 - **2026-07-11 18:44** — **Yousuke Shiokawa, Atsuhiro Iwakami** — [Fate/Grand Order Devs Promise Similar Experience Between Japanese and American Versions](/people/yousuke-shiokawa#fategrand-order-devs-promise-similar-experience-between-japanese-and-american-versions)
 - **2026-07-11 16:47** — **Akinori Ooyama, Shunsuke Sugimoto, Kaoru Miyabara, Tadahiro Shibata** — [Psyde Kick Studio](/people/akinori-ooyama#psyde-kick-studio)

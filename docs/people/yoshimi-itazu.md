@@ -1,12 +1,12 @@
 ---
-title: "Takahiro Chiba"
+title: "Yoshimi Itazu"
 ---
 
-# Takahiro Chiba
+# Yoshimi Itazu
 
-千葉崇洋 • 千葉孝浩 • 千葉たかひろ • 千葉宗洋 • 千葉洋 • 千葉崇行
+板津匡覧
 
-**Roles:** Key Animator, Designer, Animation Director, In-Betweener
+**Roles:** Director, Storyboarder, Key Animator, Animation Director, In-Betweener, Designer
 
 ## Interviews
 

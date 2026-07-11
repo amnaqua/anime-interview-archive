@@ -1,12 +1,12 @@
 ---
-title: "Takahiro Chiba"
+title: "Tetsuya Kinoshita"
 ---
 
-# Takahiro Chiba
+# Tetsuya Kinoshita
 
-千葉崇洋 • 千葉孝浩 • 千葉たかひろ • 千葉宗洋 • 千葉洋 • 千葉崇行
+木下哲哉
 
-**Roles:** Key Animator, Designer, Animation Director, In-Betweener
+**Roles:** Producer, Production Manager, Business
 
 ## Interviews
 

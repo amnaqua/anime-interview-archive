@@ -5,6 +5,8 @@ date: 2017-07-25
 
 people:
   - takahiro-chiba
+  - yoshimi-itazu
+  - tetsuya-kinoshita
 
 publisher:
   - ann

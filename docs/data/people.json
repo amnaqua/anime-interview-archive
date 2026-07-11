@@ -1786,5 +1786,32 @@
       "Animation Director",
       "In-Betweener"
     ]
+  },
+
+  "yoshimi-itazu": {
+    "name": "Yoshimi Itazu",
+    "aliases": [
+      "板津匡覧"
+    ],
+    "roles": [
+      "Director",
+      "Storyboarder",
+      "Key Animator",
+      "Animation Director",
+      "In-Betweener",
+      "Designer"
+    ]
+  },
+
+  "tetsuya-kinoshita": {
+    "name": "Tetsuya Kinoshita",
+    "aliases": [
+      "木下哲哉"
+    ],
+    "roles": [
+      "Producer",
+      "Production Manager",
+      "Business"
+    ]
   }
 }

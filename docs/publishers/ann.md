@@ -34,7 +34,7 @@ title: "Anime News Network"
 - **Publisher:** Anime News Network
 - **Language:** English
 - **Company:** Production I.G
-- **People:** Takahiro Chiba
+- **People:** Takahiro Chiba, Yoshimi Itazu, Tetsuya Kinoshita
 - **Source:**  https://www.animenewsnetwork.com/feature/2017-07-25/interview-the-staff-of-welcome-to-the-ballroom/.119282
 
 ---

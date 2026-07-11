@@ -514,6 +514,10 @@ export default {
                 "link": "/people/tetsuya-kawakami"
             },
             {
+                "text": "Tetsuya Kinoshita",
+                "link": "/people/tetsuya-kinoshita"
+            },
+            {
                 "text": "Toshitaka Morioka",
                 "link": "/people/toshitaka-morioka"
             },
@@ -536,6 +540,10 @@ export default {
             {
                 "text": "Yoshihisa Satou",
                 "link": "/people/yoshihisa-satou"
+            },
+            {
+                "text": "Yoshimi Itazu",
+                "link": "/people/yoshimi-itazu"
             },
             {
                 "text": "Yoshitoshi Abe",

@@ -1466,5 +1466,15 @@
     "roles": [
       "3DCG Artist"
     ]
+  },
+
+  "haruki-asa": {
+    "name": "Haruki Asa",
+    "aliases": [
+      "朝春輝"
+    ],
+    "roles": [
+      "3DCG Artist"
+    ]
   }
 }

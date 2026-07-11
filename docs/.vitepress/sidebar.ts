@@ -82,6 +82,10 @@ export default {
                 "link": "/people/gorou-miyazaki"
             },
             {
+                "text": "Haruki Asa",
+                "link": "/people/haruki-asa"
+            },
+            {
                 "text": "Haruyoshi Nomura",
                 "link": "/people/haruyoshi-nomura"
             },

@@ -23,6 +23,7 @@ title: People
 - [Gen Urobuchi](./gen-urobuchi)
 - [George Wada](./george-wada)
 - [Gorou Miyazaki](./gorou-miyazaki)
+- [Haruki Asa](./haruki-asa)
 - [Haruyoshi Nomura](./haruyoshi-nomura)
 - [Hayao Miyazaki](./hayao-miyazaki)
 - [Hayato Torii](./hayato-torii)

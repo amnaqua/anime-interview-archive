@@ -1730,5 +1730,24 @@
     "roles": [
       "In-Betweener"
     ]
+  },
+
+  "yousuke-shiokawa": {
+    "name": "Yousuke Shiokawa",
+    "aliases": [
+      "塩川洋介"
+    ],
+    "roles": []
+  },
+
+  "atsuhiro-iwakami": {
+    "name": "Atsuhiro Iwakami",
+    "aliases": [
+      "岩上敦宏"
+    ],
+    "roles": [
+      "Producer",
+      "Scriptwriter"
+    ]
   }
 }

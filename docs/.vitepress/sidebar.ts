@@ -34,6 +34,10 @@ export default {
                 "link": "/people/aoba-onobe"
             },
             {
+                "text": "Atsuhiro Iwakami",
+                "link": "/people/atsuhiro-iwakami"
+            },
+            {
                 "text": "Atsuo Nakayama",
                 "link": "/people/atsuo-nakayama"
             },
@@ -536,6 +540,10 @@ export default {
             {
                 "text": "Youhei Miyawaki",
                 "link": "/people/youhei-miyawaki"
+            },
+            {
+                "text": "Yousuke Shiokawa",
+                "link": "/people/yousuke-shiokawa"
             },
             {
                 "text": "Yui Tomita",

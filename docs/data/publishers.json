@@ -153,5 +153,9 @@
 
   "a-1": {
     "name": "A-1 Official Site"
+  },
+
+  "out": {
+    "name": "OUT"
   }
 }

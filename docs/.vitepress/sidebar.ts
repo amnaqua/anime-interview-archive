@@ -616,6 +616,10 @@ export default {
             {
                 "text": "Yuuta Hiraoka",
                 "link": "/people/yuuta-hiraoka"
+            },
+            {
+                "text": "Yuuzou Aoki",
+                "link": "/people/yuuzou-aoki"
             }
         ]
     }
@@ -668,6 +672,10 @@ export default {
             {
                 "text": "Little Witch Academia",
                 "link": "/works/little-witch-academia"
+            },
+            {
+                "text": "Lupin III: Part III",
+                "link": "/works/lupin-iii-part-iii"
             },
             {
                 "text": "Lupin the Third: The Woman Called Fujiko Mine",
@@ -870,6 +878,10 @@ export default {
                 "link": "/companies/toei"
             },
             {
+                "text": "Tokyo Movie Shinsha",
+                "link": "/companies/tms-old"
+            },
+            {
                 "text": "Trigger",
                 "link": "/companies/trigger"
             },
@@ -988,6 +1000,10 @@ export default {
             {
                 "text": "Otakon",
                 "link": "/publishers/otakon"
+            },
+            {
+                "text": "OUT",
+                "link": "/publishers/out"
             },
             {
                 "text": "Pelleas",

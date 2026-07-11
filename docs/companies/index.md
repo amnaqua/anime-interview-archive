@@ -33,5 +33,6 @@ title: Companies
 - [Sunrise](./sunrise)
 - [TMS Entertainment](./tms)
 - [Toei Animation](./toei)
+- [Tokyo Movie Shinsha](./tms-old)
 - [Trigger](./trigger)
 - [Wit Studio](./wit)

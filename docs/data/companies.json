@@ -121,5 +121,9 @@
 
   "gainax": {
     "name": "Gainax"
+  },
+
+  "tms-old": {
+    "name": "Tokyo Movie Shinsha"
   }
 }

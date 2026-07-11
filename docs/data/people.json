@@ -1850,5 +1850,21 @@
       "Key Animator",
       "Producer"
     ]
+  },
+
+  "yuuzou-aoki": {
+    "name": "Yuuzou Aoki",
+    "aliases": [
+      "青木悠三",
+      "青木雄三",
+      "畑中由宇"
+    ],
+    "roles": [
+      "Storyboarder",
+      "Key Animator",
+      "Designer",
+      "Animation Director",
+      "Director"
+    ]
   }
 }

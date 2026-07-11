@@ -30,6 +30,7 @@ title: Publishers
 - [Oricon](./oricon)
 - [OtaCrew](./ota-crew)
 - [Otakon](./otakon)
+- [OUT](./out)
 - [Pelleas](./pelleas)
 - [Real Sound](./real-sound)
 - [Sakuga Blog](./sakuga-blog)

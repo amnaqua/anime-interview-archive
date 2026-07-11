@@ -1700,5 +1700,35 @@
       "In-Betweener",
       "Key Animator"
     ]
+  },
+
+  "ryouta-aikou": {
+    "name": "Ryouta Aikou",
+    "aliases": [
+      "愛甲亮汰"
+    ],
+    "roles": [
+      "In-Betweener"
+    ]
+  },
+
+  "kana-asai": {
+    "name": "Kana Asai",
+    "aliases": [
+      "浅井花菜"
+    ],
+    "roles": [
+      "In-Betweener"
+    ]
+  },
+
+  "ayumu-ikegami": {
+    "name": "Ayumu Ikegami",
+    "aliases": [
+      "池上歩夢"
+    ],
+    "roles": [
+      "In-Betweener"
+    ]
   }
 }

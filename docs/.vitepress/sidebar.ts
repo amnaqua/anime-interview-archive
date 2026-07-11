@@ -50,6 +50,10 @@ export default {
                 "link": "/people/ayaka-murakami"
             },
             {
+                "text": "Ayumu Ikegami",
+                "link": "/people/ayumu-ikegami"
+            },
+            {
                 "text": "Ayumu Watanabe",
                 "link": "/people/ayumu-watanabe"
             },
@@ -160,6 +164,10 @@ export default {
             {
                 "text": "Kairi Unabara",
                 "link": "/people/kairi-unabara"
+            },
+            {
+                "text": "Kana Asai",
+                "link": "/people/kana-asai"
             },
             {
                 "text": "Kana Miyata",
@@ -392,6 +400,10 @@ export default {
             {
                 "text": "Ryousuke Baba",
                 "link": "/people/ryousuke-baba"
+            },
+            {
+                "text": "Ryouta Aikou",
+                "link": "/people/ryouta-aikou"
             },
             {
                 "text": "Ryouta Gotou",

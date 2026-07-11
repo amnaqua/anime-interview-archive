@@ -993,5 +993,15 @@
     "roles": [
       "Colorist"
     ]
+  },
+
+  "yui-tomita": {
+    "name": "Yui Tomita",
+    "aliases": [
+      "冨田 結伊"
+    ],
+    "roles": [
+      "Composite"
+    ]
   }
 }

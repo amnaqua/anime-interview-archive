@@ -394,6 +394,10 @@ export default {
                 "link": "/people/yudai-hiraoka"
             },
             {
+                "text": "Yui Tomita",
+                "link": "/people/yui-tomita"
+            },
+            {
                 "text": "Yuka Kitamura",
                 "link": "/people/yuka-kitamura"
             },

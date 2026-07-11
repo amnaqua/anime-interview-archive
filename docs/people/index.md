@@ -101,6 +101,7 @@ title: People
 - [Yoshitoshi Abe](./yoshitoshi-abe)
 - [You Yoshinari](./you-yoshinari)
 - [Yūdai Hiraoka](./yudai-hiraoka)
+- [Yui Tomita](./yui-tomita)
 - [Yuka Kitamura](./yuka-kitamura)
 - [Yuki Tsunoda](./yuki-tsunoda)
 - [Yutaka Nakamura](./yutaka-nakamura)

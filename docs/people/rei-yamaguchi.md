@@ -17,7 +17,7 @@ title: "Rei Yamaguchi"
 - **Language:** Japanese
 - **Company:** A-1 Pictures
 - **People:** Kaoru Miyabara, Tadahiro Shibata, Ryouko Ishikura, Kanto Kikuchi, Rei Yamaguchi, Kazuki Maejima
-- **Source:**  https://a1p.jp/interview/250302-04/
+- **Source:**  https://a1p.jp/interview/260302-06/
 
 ---
 

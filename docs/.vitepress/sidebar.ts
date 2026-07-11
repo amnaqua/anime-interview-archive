@@ -86,6 +86,10 @@ export default {
                 "link": "/people/gorou-miyazaki"
             },
             {
+                "text": "Hana Yamashita",
+                "link": "/people/hana-yamashita"
+            },
+            {
                 "text": "Haruki Asa",
                 "link": "/people/haruki-asa"
             },
@@ -350,6 +354,10 @@ export default {
                 "link": "/people/ryouko-ishikura"
             },
             {
+                "text": "Ryousuke Baba",
+                "link": "/people/ryousuke-baba"
+            },
+            {
                 "text": "Ryouta Gotou",
                 "link": "/people/ryouta-gotou"
             },
@@ -492,6 +500,10 @@ export default {
             {
                 "text": "Yuki Tsunoda",
                 "link": "/people/yuki-tsunoda"
+            },
+            {
+                "text": "Yurika Seki",
+                "link": "/people/yurika-seki"
             },
             {
                 "text": "Yutaka Nakamura",

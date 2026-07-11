@@ -17,7 +17,7 @@ title: "Motonobu Hishinuma"
 - **Language:** Japanese
 - **Company:** A-1 Pictures
 - **People:** Yuuichi Nakamura, Keitatsu Hayakawa, Motonobu Hishinuma, Shuhei Kato
-- **Source:**  https://a1p.jp/interview/250302-05/
+- **Source:**  https://a1p.jp/interview/260302-07/
 
 ---
 

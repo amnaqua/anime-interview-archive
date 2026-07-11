@@ -1556,5 +1556,35 @@
     "roles": [
       "3DCG Artist"
     ]
+  },
+
+  "ryousuke-baba": {
+    "name": "Ryousuke Baba",
+    "aliases": [
+      "馬塲亮輔"
+    ],
+    "roles": [
+      "Composite Artist"
+    ]
+  },
+
+  "yurika-seki": {
+    "name": "Yurika Seki",
+    "aliases": [
+      "關優梨花"
+    ],
+    "roles": [
+      "Composite Artist"
+    ]
+  },
+
+  "hana-yamashita": {
+    "name": "Hana Yamashita",
+    "aliases": [
+      "山下花菜"
+    ],
+    "roles": [
+      "Composite Artist"
+    ]
   }
 }

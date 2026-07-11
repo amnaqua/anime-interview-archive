@@ -94,6 +94,10 @@ export default {
                 "link": "/people/douji-shiki"
             },
             {
+                "text": "Ei Aoki",
+                "link": "/people/ei-aoki"
+            },
+            {
                 "text": "Eve",
                 "link": "/people/eve"
             },
@@ -766,6 +770,10 @@ export default {
                 "link": "/works/one-piece"
             },
             {
+                "text": "Re:Creators",
+                "link": "/works/re-creators"
+            },
+            {
                 "text": "Sayonara Lara",
                 "link": "/works/sayonara-lara"
             },
@@ -956,6 +964,10 @@ export default {
             {
                 "text": "Trigger",
                 "link": "/companies/trigger"
+            },
+            {
+                "text": "TROYCA",
+                "link": "/companies/troyca"
             },
             {
                 "text": "Wit Studio",

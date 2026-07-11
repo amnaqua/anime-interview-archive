@@ -4,19 +4,19 @@ layout: home
 hero:
   name: Anime Interview Archive
   text: Archive of anime staff interviews and production materials.
-  tagline: 133 interviews indexed
+  tagline: 134 interviews indexed
 
 features:
   - title: 👥 People
-    details: 163 people
+    details: 164 people
     link: /people/
 
   - title: 🎬 Works
-    details: 37 works
+    details: 38 works
     link: /works/
 
   - title: 🏢 Companies
-    details: 35 companies
+    details: 36 companies
     link: /companies/
 
   - title: 📰 Publishers
@@ -28,6 +28,7 @@ features:
 
 # Recently Added
 
+- **2026-07-12 02:30** — **Ei Aoki** — [Re:Creators](/people/ei-aoki#recreators)
 - **2026-07-12 02:23** — **Tensai Okamura** — [About Anime Industry](/people/tensai-okamura#about-anime-industry-26)
 - **2026-07-12 02:20** — **Monkey Punch** — [Lupin III](/people/monkey-punch#lupin-iii)
 - **2026-07-12 02:12** — **Yoshihiko Umakoshi, Christopher Sabat** — [Boku no Hero Academia 2nd Season](/people/yoshihiko-umakoshi#boku-no-hero-academia-2nd-season)
@@ -36,4 +37,3 @@ features:
 - **2026-07-12 01:43** — **Yasuhiro Takemoto, Shouji Gatou** — [Final Yasuhiro Takemoto x Shouji Gatou impressions](/people/yasuhiro-takemoto#final-yasuhiro-takemoto-x-shouji-gatou-impressions)
 - **2026-07-12 01:39** — **Yasuhiro Takemoto, Shouji Gatou** — [Early Yasuhiro Takemoto x Shouji Gatou impressions](/people/yasuhiro-takemoto#early-yasuhiro-takemoto-x-shouji-gatou-impressions)
 - **2026-07-12 01:34** — **Yasuhiro Takemoto, Shouji Gatou** — [Hyouka](/people/yasuhiro-takemoto#hyouka)
-- **2026-07-12 01:19** — **Moko-chan** — [Ghost in the Shell (2026)](/people/moko-chan#ghost-in-the-shell-2026-4)

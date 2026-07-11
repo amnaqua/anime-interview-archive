@@ -29,6 +29,7 @@ title: Works
 - [Natsume Yuujinchou](./natsume-yuujinchou)
 - [On Your Mark](./on-your-mark)
 - [One Piece](./one-piece)
+- [Re:Creators](./re-creators)
 - [Sayonara Lara](./sayonara-lara)
 - [Space☆Dandy](./space-dandy)
 - [Tenkuu no Escaflowne](./tenkuu-no-escaflowne)

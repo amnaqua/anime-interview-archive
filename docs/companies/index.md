@@ -38,4 +38,5 @@ title: Companies
 - [Toei Animation](./toei)
 - [Tokyo Movie Shinsha](./tms-old)
 - [Trigger](./trigger)
+- [TROYCA](./troyca)
 - [Wit Studio](./wit)

@@ -26,6 +26,7 @@ title: People
 - [Chizuru Muramatsu](./chizuru-muramatsu)
 - [Christopher Sabat](./christopher-sabat)
 - [Douji Shiki](./douji-shiki)
+- [Ei Aoki](./ei-aoki)
 - [Eve](./eve)
 - [Futoshi Nishiya](./futoshi-nishiya)
 - [Gen Urobuchi](./gen-urobuchi)

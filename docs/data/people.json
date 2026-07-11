@@ -1983,5 +1983,20 @@
       "Designer",
       "In-Betweener"
     ]
+  },
+
+  "ei-aoki": {
+    "name": "Ei Aoki",
+    "aliases": [
+      "あおきえい",
+      "青木英"
+    ],
+    "roles": [
+      "Director",
+      "Storyboarder",
+      "Scriptwriter",
+      "Key Animator",
+      "Composite Artist"
+    ]
   }
 }

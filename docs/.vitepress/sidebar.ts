@@ -14,6 +14,10 @@ export default {
                 "link": "/people/akihisa-shibuya"
             },
             {
+                "text": "Akihito Suzuki",
+                "link": "/people/akihito-suzuki"
+            },
+            {
                 "text": "Akinori Ooyama",
                 "link": "/people/akinori-aoyama"
             },

@@ -6,6 +6,7 @@ title: People
 
 - [Abel Góngora](./abel-gongora)
 - [Akihisa Shibuya](./akihisa-shibuya)
+- [Akihito Suzuki](./akihito-suzuki)
 - [Akinori Ooyama](./akinori-aoyama)
 - [Atsuo Nakayama](./atsuo-nakayama)
 - [Atsushi Kaneko](./atsushi-kaneko)

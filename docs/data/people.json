@@ -923,5 +923,15 @@
     "roles": [
       "3DCG"
     ]
+  },
+
+  "akihito-suzuki": {
+    "name": "Akihito Suzuki",
+    "aliases": [
+      "鈴木 彬人"
+    ],
+    "roles": [
+      "Composite"
+    ]
   }
 }

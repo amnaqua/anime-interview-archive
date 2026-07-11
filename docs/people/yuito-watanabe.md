@@ -13,7 +13,9 @@ title: "Yuito Watanabe"
 - **Language:** Japanese
 - **Company:** A-1 Pictures
 - **People:** Airi Ookubo, Yuuki Kurokawa, Takurou Mori, Yuito Watanabe
-- **Source:**  https://a1p.jp/interview/20240301_01/
+- **Source:**
+  - Part 1: https://a1p.jp/interview/20240301_01/
+  - Part 2: https://a1p.jp/interview/20240301_02/
 
 ---
 

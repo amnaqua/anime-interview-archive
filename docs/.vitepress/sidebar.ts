@@ -734,6 +734,10 @@ export default {
                 "link": "/works/uchouten-kazoku"
             },
             {
+                "text": "Violet Evergarden",
+                "link": "/works/violet-evergarden"
+            },
+            {
                 "text": "Welcome to the Ballroom",
                 "link": "/works/ballroom"
             },

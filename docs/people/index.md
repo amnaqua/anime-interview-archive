@@ -7,6 +7,7 @@ title: People
 - [Abel Góngora](./abel-gongora)
 - [Akinori Ooyama](./akinori-aoyama)
 - [Atsuo Nakayama](./atsuo-nakayama)
+- [Atsushi Kaneko](./atsushi-kaneko)
 - [Atsushi Nishigori](./atsushi-nishigori)
 - [Ayumu Watanabe](./ayumu-watanabe)
 - [Bahi JD](./bahi-jd)

@@ -18,6 +18,10 @@ export default {
                 "link": "/people/atsuo-nakayama"
             },
             {
+                "text": "Atsushi Kaneko",
+                "link": "/people/atsushi-kaneko"
+            },
+            {
                 "text": "Atsushi Nishigori",
                 "link": "/people/atsushi-nishigori"
             },

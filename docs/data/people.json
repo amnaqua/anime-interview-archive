@@ -883,5 +883,15 @@
     "roles": [
       "Producer"
     ]
+  },
+
+  "atsushi-kaneko": {
+    "name": "Atsushi Kaneko",
+    "aliases": [
+      "金子 敦史"
+    ],
+    "roles": [
+      "Producer"
+    ]
   }
 }

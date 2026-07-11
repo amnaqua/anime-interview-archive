@@ -1043,7 +1043,7 @@
   "yuuichi-nakamura": {
     "name": "Yuuichi Nakamura",
     "aliases": [
-      "中村 悠一"
+      "中村悠一"
     ],
     "roles": [
       "Singer",
@@ -1535,6 +1535,26 @@
     ],
     "roles": [
       "Production Manager"
+    ]
+  },
+
+  "motonobu-hishinuma": {
+    "name": "Motonobu Hishinuma",
+    "aliases": [
+      "菱沼誉常"
+    ],
+    "roles": [
+      "3DCG Artist"
+    ]
+  },
+
+  "shuhei-kato": {
+    "name": "Shuhei Kato",
+    "aliases": [
+      "加藤柊平"
+    ],
+    "roles": [
+      "3DCG Artist"
     ]
   }
 }

@@ -282,6 +282,10 @@ export default {
                 "link": "/people/moko-chan"
             },
             {
+                "text": "Motonobu Hishinuma",
+                "link": "/people/motonobu-hishinuma"
+            },
+            {
                 "text": "Muneki Ogasawara",
                 "link": "/people/muneki-ogasawara"
             },
@@ -380,6 +384,10 @@ export default {
             {
                 "text": "Shouko Hori",
                 "link": "/people/shouko-hori"
+            },
+            {
+                "text": "Shuhei Kato",
+                "link": "/people/shuhei-kato"
             },
             {
                 "text": "Shunichi Tsuji",

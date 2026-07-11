@@ -903,5 +903,15 @@
     "roles": [
       "Producer"
     ]
+  },
+
+  "akihisa-shibuya": {
+    "name": "Akihisa Shibuya",
+    "aliases": [
+      "渋谷 晃尚"
+    ],
+    "roles": [
+      "Producer"
+    ]
   }
 }

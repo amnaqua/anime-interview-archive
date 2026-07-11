@@ -918,6 +918,10 @@ export default {
                 "link": "/publishers/ann"
             },
             {
+                "text": "Animedia",
+                "link": "/publishers/animedia"
+            },
+            {
                 "text": "AnimeLand",
                 "link": "/publishers/animeland"
             },
@@ -958,6 +962,10 @@ export default {
                 "link": "/publishers/fusetter"
             },
             {
+                "text": "Futabasha MOOK",
+                "link": "/publishers/futabasha-mook"
+            },
+            {
                 "text": "Gizmodo",
                 "link": "/publishers/gizmodo"
             },
@@ -980,6 +988,10 @@ export default {
             {
                 "text": "Medium",
                 "link": "/publishers/medium"
+            },
+            {
+                "text": "My Anime",
+                "link": "/publishers/my-anime"
             },
             {
                 "text": "NetLab",
@@ -1026,6 +1038,10 @@ export default {
                 "link": "/publishers/shinseiki"
             },
             {
+                "text": "The Anime",
+                "link": "/publishers/the-anime"
+            },
+            {
                 "text": "The Guardian",
                 "link": "/publishers/guardian"
             },
@@ -1036,6 +1052,10 @@ export default {
             {
                 "text": "Tower Records",
                 "link": "/publishers/tower"
+            },
+            {
+                "text": "VAP",
+                "link": "/publishers/vap"
             },
             {
                 "text": "Wakame Paradise",

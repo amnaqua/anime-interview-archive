@@ -22,5 +22,9 @@ export function addToMap(map, key, interview) {
     if (!map.has(key))
         map.set(key, []);
 
-    map.get(key).push(interview);
+    const list = map.get(key);
+
+    if (!list.includes(interview)) {
+        list.push(interview);
+    }
 }

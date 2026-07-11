@@ -30,7 +30,9 @@ title: "${title}"
 
         md += `### ${interview.title}\n\n`;
 
-        md += `- **Date:** ${interview.date}\n`;
+        if (interview.date) {
+            md += `- **Date:** ${interview.date}\n`;
+        }
 
         if (interview.publisher.length)
             md += `- **Publisher:** ${interview.publisher.join(", ")}\n`;
@@ -76,6 +78,21 @@ title: "${title}"
             for (const link of translations) {
                 md += `  - ${link.language}: ${link.url}\n`;
             }
+        }
+
+        if (interview.entries?.length) {
+
+            md += `<details>\n`;
+            md += `<summary><strong>Contents (${interview.entries.length})</strong></summary>\n\n`;
+
+            md += `| Date | Publisher | Interview |\n`;
+            md += `|------|-----------|-----------|\n`;
+
+            for (const entry of interview.entries) {
+                md += `| ${entry.date} | ${entry.publisher ?? ""} | ${entry.title} |\n`;
+            }
+
+            md += `\n</details>\n\n`;
         }
 
         md += "\n---\n\n";

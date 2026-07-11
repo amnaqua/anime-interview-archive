@@ -157,5 +157,25 @@
 
   "out": {
     "name": "OUT"
+  },
+
+  "the-anime": {
+    "name": "The Anime"
+  },
+
+  "my-anime": {
+    "name": "My Anime"
+  },
+
+  "vap": {
+    "name": "VAP"
+  },
+
+  "animedia": {
+    "name": "Animedia"
+  },
+
+  "futabasha-mook": {
+    "name": "Futabasha MOOK"
   }
 }

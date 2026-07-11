@@ -54,6 +54,24 @@ async function generateSection(directory, map, dictionary, title) {
     }
 }
 
+function indexEntries(entries, map, field, interview) {
+
+    for (const entry of entries ?? []) {
+
+        const value = entry[field];
+
+        if (!value) continue;
+
+        if (Array.isArray(value)) {
+            for (const slug of value) {
+                addToMap(map, slug, interview);
+            }
+        } else {
+            addToMap(map, value, interview);
+        }
+    }
+}
+
 async function main() {
 
     const people = new Map();
@@ -70,13 +88,21 @@ async function main() {
         const raw = await fs.readFile(file, "utf8");
         const { data } = matter(raw);
 
+        const entryDates = (data.entries ?? [])
+            .map(entry =>
+                entry.date instanceof Date
+                    ? entry.date.toISOString().slice(0, 10)
+                    : String(entry.date)
+            )
+            .sort();
+
         const interview = {
             title: data.title,
 
             date:
                 data.date instanceof Date
                     ? data.date.toISOString().slice(0, 10)
-                    : data.date,
+                    : data.date ?? entryDates[0],
 
             archived_at:
                 data.archived_at instanceof Date
@@ -110,8 +136,35 @@ async function main() {
 
             publisher: (data.publisher ?? []).map(
                 slug => lookup(publishersData, slug)
-            )
+            ),
+
+            entries: (data.entries ?? [])
+                .map(entry => ({
+                    title: entry.title,
+
+                    date:
+                        entry.date instanceof Date
+                            ? entry.date.toISOString().slice(0, 10)
+                            : String(entry.date),
+
+                    publisher: lookup(
+                        publishersData,
+                        entry.publisher
+                    ),
+
+                    work: entry.work ?? [],
+
+                    people: entry.people ?? []
+                }))
+                .sort((a, b) => a.date.localeCompare(b.date)),
         };
+
+        if (!interview.date && interview.entries.length) {
+            interview.date = interview.entries
+                .map(e => e.date)
+                .sort()
+                .at(-1);
+        }
 
         interviews.push(interview);
 
@@ -127,6 +180,9 @@ async function main() {
         for (const slug of data.publisher ?? [])
             addToMap(publishers, slug, interview);
 
+        indexEntries(data.entries, people, "people", interview);
+        indexEntries(data.entries, works, "work", interview);
+        indexEntries(data.entries, publishers, "publisher", interview);
     }
 
     await generateSection(

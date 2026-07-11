@@ -1952,5 +1952,19 @@
     "roles": [
       "Voice Actor"
     ]
+  },
+
+  "monkey-punch": {
+    "name": "Monkey Punch",
+    "aliases": [
+      "モンキー・パンチ",
+      "モンキーパンチ"
+    ],
+    "roles": [
+      "Manga Artist",
+      "Director",
+      "Designer",
+      "Lyricist"
+    ]
   }
 }

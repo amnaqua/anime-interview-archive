@@ -342,6 +342,10 @@ export default {
                 "link": "/people/moko-chan"
             },
             {
+                "text": "Monkey Punch",
+                "link": "/people/monkey-punch"
+            },
+            {
                 "text": "Motonobu Hishinuma",
                 "link": "/people/motonobu-hishinuma"
             },
@@ -712,6 +716,10 @@ export default {
             {
                 "text": "Little Witch Academia",
                 "link": "/works/little-witch-academia"
+            },
+            {
+                "text": "Lupin III",
+                "link": "/works/lupin-iii"
             },
             {
                 "text": "Lupin III: Part III",

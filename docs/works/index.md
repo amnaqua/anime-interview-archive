@@ -18,6 +18,7 @@ title: Works
 - [Koe no Katachi](./koe-no-katachi)
 - [Kokoro ga Sakebitagatterunda.](./kokoro-ga-sakebitagatterunda)
 - [Little Witch Academia](./little-witch-academia)
+- [Lupin III](./lupin-iii)
 - [Lupin III: Part III](./lupin-iii-part-iii)
 - [Lupin the Third: The Woman Called Fujiko Mine](./lupin-the-third-mine-fujiko-to-iu-onna)
 - [Mahoutsukai no Yome](./mahoutsukai-no-yome)

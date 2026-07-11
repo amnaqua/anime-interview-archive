@@ -88,6 +88,7 @@ title: People
 - [Mitsurou Kubo](./mitsurou-kubo)
 - [Mizuho Kanda](./mizuho-kanda)
 - [Moko-chan](./moko-chan)
+- [Monkey Punch](./monkey-punch)
 - [Motonobu Hishinuma](./motonobu-hishinuma)
 - [Muneki Ogasawara](./muneki-ogasawara)
 - [Nachi Ban](./nachi-ban)

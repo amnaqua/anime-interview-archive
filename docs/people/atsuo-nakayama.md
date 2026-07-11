@@ -4,6 +4,8 @@ title: "Atsuo Nakayama"
 
 # Atsuo Nakayama
 
+**Roles:** Producer
+
 ## Interviews
 
 ### What Tokyo Needs to Become the "Hollywood of the Animation Industry"

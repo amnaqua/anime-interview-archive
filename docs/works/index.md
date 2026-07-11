@@ -31,4 +31,5 @@ title: Works
 - [Thunderbolt Fantasy](./thunderbolt-fantasy)
 - [Tongari Boushi no Atelier](./tongari-boushi-no-atelier)
 - [Uchouten Kazoku](./uchouten-kazoku)
+- [Welcome to the Ballroom](./ballroom)
 - [Yuri!!! on Ice](./yuri-on-ice)

@@ -1768,5 +1768,23 @@
       "Animation Director",
       "In-Betweener"
     ]
+  },
+
+  "takahiro-chiba": {
+    "name": "Takahiro Chiba",
+    "aliases": [
+      "千葉崇洋",
+      "千葉孝浩",
+      "千葉たかひろ",
+      "千葉宗洋",
+      "千葉洋",
+      "千葉崇行"
+    ],
+    "roles": [
+      "Key Animator",
+      "Designer",
+      "Animation Director",
+      "In-Betweener"
+    ]
   }
 }

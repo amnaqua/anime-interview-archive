@@ -4,15 +4,15 @@ layout: home
 hero:
   name: Anime Interview Archive
   text: Archive of anime staff interviews and production materials.
-  tagline: 114 interviews indexed
+  tagline: 115 interviews indexed
 
 features:
   - title: 👥 People
-    details: 147 people
+    details: 148 people
     link: /people/
 
   - title: 🎬 Works
-    details: 28 works
+    details: 29 works
     link: /works/
 
   - title: 🏢 Companies
@@ -28,6 +28,7 @@ features:
 
 # Recently Added
 
+- **2026-07-11 18:55** — **Takahiro Chiba** — [Welcome to the Ballroom](/people/takahiro-chiba#welcome-to-the-ballroom)
 - **2026-07-11 18:50** — **Takahiro Oomori** — [Natsume Yuujinchou](/people/takahiro-oomori#natsume-yuujinchou)
 - **2026-07-11 18:44** — **Yousuke Shiokawa, Atsuhiro Iwakami** — [Fate/Grand Order Devs Promise Similar Experience Between Japanese and American Versions](/people/yousuke-shiokawa#fategrand-order-devs-promise-similar-experience-between-japanese-and-american-versions)
 - **2026-07-11 16:47** — **Akinori Ooyama, Shunsuke Sugimoto, Kaoru Miyabara, Tadahiro Shibata** — [Psyde Kick Studio](/people/akinori-ooyama#psyde-kick-studio)
@@ -37,4 +38,3 @@ features:
 - **2026-07-11 16:26** — **Karin Kanbara, Chiharu Tomizawa** — [About Anime Industry](/people/karin-kanbara#about-anime-industry-38)
 - **2026-07-11 16:22** — **Mayato Nozaki, Reina Tachibana, Kurumi Yoshida** — [About Anime Industry](/people/mayato-nozaki#about-anime-industry-41)
 - **2026-07-11 16:17** — **Ryousuke Baba, Yurika Seki, Hana Yamashita** — [About Anime Industry](/people/ryousuke-baba#about-anime-industry-35)
-- **2026-07-11 16:11** — **Yuuichi Nakamura, Keitatsu Hayakawa, Motonobu Hishinuma, Shuhei Kato** — [About Anime Industry](/people/yuuichi-nakamura#about-anime-industry-40)

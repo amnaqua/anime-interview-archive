@@ -482,6 +482,10 @@ export default {
                 "link": "/people/tadashi-hiramatsu"
             },
             {
+                "text": "Takahiro Chiba",
+                "link": "/people/takahiro-chiba"
+            },
+            {
                 "text": "Takahiro Oomori",
                 "link": "/people/takahiro-oomori"
             },
@@ -708,6 +712,10 @@ export default {
             {
                 "text": "Uchouten Kazoku",
                 "link": "/works/uchouten-kazoku"
+            },
+            {
+                "text": "Welcome to the Ballroom",
+                "link": "/works/ballroom"
             },
             {
                 "text": "Yuri!!! on Ice",

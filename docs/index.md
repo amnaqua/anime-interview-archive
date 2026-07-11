@@ -4,19 +4,19 @@ layout: home
 hero:
   name: Anime Interview Archive
   text: Archive of anime staff interviews and production materials.
-  tagline: 122 interviews indexed
+  tagline: 123 interviews indexed
 
 features:
   - title: 👥 People
-    details: 154 people
+    details: 156 people
     link: /people/
 
   - title: 🎬 Works
-    details: 31 works
+    details: 32 works
     link: /works/
 
   - title: 🏢 Companies
-    details: 32 companies
+    details: 33 companies
     link: /companies/
 
   - title: 📰 Publishers
@@ -28,7 +28,8 @@ features:
 
 # Recently Added
 
-- **2026-07-11 19:48** — **Yuuzou Aoki** — [The Forgotten Lupin III Interviews](/people/yuuzou-aoki#the-forgotten-lupin-iii-interviews)
+- **2026-07-11 21:28** — **Shouji Gatou, Douji Shiki** — [In This Corner of the World](/people/shouji-gatou#in-this-corner-of-the-world-1)
+- **2026-07-11 20:25** — **Yuuzou Aoki** — [The Forgotten Lupin III Interviews](/people/yuuzou-aoki#the-forgotten-lupin-iii-interviews)
 - **2026-07-11 19:31** — **Yuuzou Aoki** — [Lupin III: Part III Character Designs With Yuuzou Aoki](/people/yuuzou-aoki#lupin-iii-part-iii-character-designs-with-yuuzou-aoki)
 - **2026-07-11 19:20** — **Taichi Ishidate** — [Violet Evergarden](/people/taichi-ishidate#violet-evergarden-1)
 - **2026-07-11 19:17** — **Taichi Ishidate** — [Violet Evergarden](/people/taichi-ishidate#violet-evergarden)
@@ -37,4 +38,3 @@ features:
 - **2026-07-11 19:02** — **Tetsuya Kinoshita, Shimba Tsuchiya** — [Welcome to the Ballroom](/people/tetsuya-kinoshita#welcome-to-the-ballroom-1)
 - **2026-07-11 18:55** — **Takahiro Chiba, Yoshimi Itazu, Tetsuya Kinoshita** — [Welcome to the Ballroom](/people/takahiro-chiba#welcome-to-the-ballroom)
 - **2026-07-11 18:50** — **Takahiro Oomori** — [Natsume Yuujinchou](/people/takahiro-oomori#natsume-yuujinchou)
-- **2026-07-11 18:44** — **Yousuke Shiokawa, Atsuhiro Iwakami** — [Fate/Grand Order Devs Promise Similar Experience Between Japanese and American Versions](/people/yousuke-shiokawa#fategrand-order-devs-promise-similar-experience-between-japanese-and-american-versions)

@@ -7,6 +7,7 @@ title: Works
 - [Atom: The Beginning](./atom-the-beginning)
 - [Cyberpunk: Edgerunners 2](./cyberpunk-edgerunners-2)
 - [Flip Flappers](./flip-flappers)
+- [Full Metal Panic!](./full-metal-panic)
 - [Ghost in the Shell](./ghost-in-the-shell)
 - [Girls & Panzer Movie](./girls-panzer-movie)
 - [In This Corner of the World](./in-this-corner-of-the-world)

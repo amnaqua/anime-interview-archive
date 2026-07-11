@@ -1866,5 +1866,25 @@
       "Animation Director",
       "Director"
     ]
+  },
+
+  "shouji-gatou": {
+    "name": "Shouji Gatou",
+    "aliases": [
+      "賀東招二"
+    ],
+    "roles": [
+      "Scriptwriter"
+    ]
+  },
+
+  "douji-shiki": {
+    "name": "Douji Shiki",
+    "aliases": [
+      "四季童子"
+    ],
+    "roles": [
+      "Designer"
+    ]
   }
 }

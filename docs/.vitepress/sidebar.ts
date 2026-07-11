@@ -82,6 +82,10 @@ export default {
                 "link": "/people/chizuru-muramatsu"
             },
             {
+                "text": "Douji Shiki",
+                "link": "/people/douji-shiki"
+            },
+            {
                 "text": "Eve",
                 "link": "/people/eve"
             },
@@ -446,6 +450,10 @@ export default {
                 "link": "/people/shinsei-hidaka"
             },
             {
+                "text": "Shouji Gatou",
+                "link": "/people/shouji-gatou"
+            },
+            {
                 "text": "Shouji Kawamori",
                 "link": "/people/shouji-kawamori"
             },
@@ -642,6 +650,10 @@ export default {
                 "link": "/works/flip-flappers"
             },
             {
+                "text": "Full Metal Panic!",
+                "link": "/works/full-metal-panic"
+            },
+            {
                 "text": "Ghost in the Shell",
                 "link": "/works/ghost-in-the-shell"
             },
@@ -796,6 +808,10 @@ export default {
             {
                 "text": "Gainax",
                 "link": "/companies/gainax"
+            },
+            {
+                "text": "Gonzo",
+                "link": "/companies/gonzo"
             },
             {
                 "text": "Good Smile Company",

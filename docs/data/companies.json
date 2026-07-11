@@ -125,5 +125,9 @@
 
   "tms-old": {
     "name": "Tokyo Movie Shinsha"
+  },
+
+  "gonzo": {
+    "name": "Gonzo"
   }
 }

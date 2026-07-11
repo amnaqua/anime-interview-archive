@@ -554,6 +554,10 @@ export default {
                 "link": "/people/william-lee"
             },
             {
+                "text": "Yasuhiro Takemoto",
+                "link": "/people/yasuhiro-takemoto"
+            },
+            {
                 "text": "Yasuyuki Ueda",
                 "link": "/people/yasuyuki-ueda"
             },
@@ -660,6 +664,10 @@ export default {
             {
                 "text": "Girls & Panzer Movie",
                 "link": "/works/girls-panzer-movie"
+            },
+            {
+                "text": "Hyouka",
+                "link": "/works/hyouka"
             },
             {
                 "text": "In This Corner of the World",

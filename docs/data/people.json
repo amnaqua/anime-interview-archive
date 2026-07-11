@@ -1886,5 +1886,22 @@
     "roles": [
       "Designer"
     ]
+  },
+
+  "yasuhiro-takemoto": {
+    "name": "Yasuhiro Takemoto",
+    "aliases": [
+      "武本康弘"
+    ],
+    "roles": [
+      "Director",
+      "Storyboarder",
+      "Scriptwriter",
+      "Key Animator",
+      "Producer",
+      "Animation Director",
+      "Designer",
+      "In-Betweener"
+    ]
   }
 }

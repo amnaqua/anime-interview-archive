@@ -10,6 +10,7 @@ title: Works
 - [Full Metal Panic!](./full-metal-panic)
 - [Ghost in the Shell](./ghost-in-the-shell)
 - [Girls & Panzer Movie](./girls-panzer-movie)
+- [Hyouka](./hyouka)
 - [In This Corner of the World](./in-this-corner-of-the-world)
 - [Kaoru Hana wa Rin to Saku](./kaoru-hana)
 - [Kiznaiver](./kiznaiver)

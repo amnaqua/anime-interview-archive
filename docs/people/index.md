@@ -141,6 +141,7 @@ title: People
 - [Tsutomu Mizushima](./tsutomu-mizushima)
 - [Vincent Chansard](./vincent-chansard)
 - [William Lee](./william-lee)
+- [Yasuhiro Takemoto](./yasuhiro-takemoto)
 - [Yasuyuki Ueda](./yasuyuki-ueda)
 - [Yoshihisa Satou](./yoshihisa-satou)
 - [Yoshimi Itazu](./yoshimi-itazu)

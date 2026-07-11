@@ -1,25 +1,14 @@
 ---
-title: "Shouji Gatou"
+title: "Yasuhiro Takemoto"
 ---
 
-# Shouji Gatou
+# Yasuhiro Takemoto
 
-賀東招二
+武本康弘
 
-**Roles:** Scriptwriter
+**Roles:** Director, Storyboarder, Scriptwriter, Key Animator, Producer, Animation Director, Designer, In-Betweener
 
 ## Interviews
-
-### In This Corner of the World
-
-- **Date:** 2017-08-03
-- **Publisher:** Anime News Network
-- **Language:** English
-- **Company:** Gonzo
-- **People:** Shouji Gatou, Douji Shiki
-- **Source:**  https://www.animenewsnetwork.com/interview/2017-08-03/full-metal-panic-shoji-gatou-and-shiki-douji/.119685
-
----
 
 ### Hyouka
 

@@ -38,6 +38,8 @@ features:
 `;
 
     for (const interview of stats.latestInterviews) {
+        if (!interview.peopleNames.length) continue;
+
         const people = interview.peopleNames.join(", ");
 
         md += `- **${interview.archived_at}** — **${people}** — [${interview.title}](/people/${interview.people[0]}#${interview.anchor})\n`;

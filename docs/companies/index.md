@@ -16,6 +16,7 @@ title: Companies
 - [Gainax](./gainax)
 - [Gonzo](./gonzo)
 - [Good Smile Company](./good-smile)
+- [J.C.Staff](./j-c-staff)
 - [Kinema Citrus](./kinema-citrus)
 - [Kodansha](./kodansha)
 - [Kyoto Animation](./kyo-ani)

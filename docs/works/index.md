@@ -31,6 +31,7 @@ title: Works
 - [One Piece](./one-piece)
 - [Re:Creators](./re-creators)
 - [Sayonara Lara](./sayonara-lara)
+- [Shokugeki no Souma](./food-wars)
 - [Space☆Dandy](./space-dandy)
 - [Tenkuu no Escaflowne](./tenkuu-no-escaflowne)
 - [Tenmaku no Jaadugar](./tenmaku-no-jaadugar)

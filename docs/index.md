@@ -4,19 +4,19 @@ layout: home
 hero:
   name: Anime Interview Archive
   text: Archive of anime staff interviews and production materials.
-  tagline: 134 interviews indexed
+  tagline: 135 interviews indexed
 
 features:
   - title: 👥 People
-    details: 164 people
+    details: 165 people
     link: /people/
 
   - title: 🎬 Works
-    details: 38 works
+    details: 39 works
     link: /works/
 
   - title: 🏢 Companies
-    details: 36 companies
+    details: 37 companies
     link: /companies/
 
   - title: 📰 Publishers
@@ -28,8 +28,9 @@ features:
 
 # Recently Added
 
+- **2026-07-12 02:35** — **Yuuto Tsukuda** — [Shokugeki no Souma](/people/yuuto-tsukuda#shokugeki-no-souma)
 - **2026-07-12 02:30** — **Ei Aoki** — [Re:Creators](/people/ei-aoki#recreators)
-- **2026-07-12 02:23** — **Tensai Okamura** — [About Anime Industry](/people/tensai-okamura#about-anime-industry-26)
+- **2026-07-12 02:23** — **Tensai Okamura** — [About Anime Industry](/people/tensai-okamura#about-anime-industry-10)
 - **2026-07-12 02:20** — **Monkey Punch** — [Lupin III](/people/monkey-punch#lupin-iii)
 - **2026-07-12 02:12** — **Yoshihiko Umakoshi, Christopher Sabat** — [Boku no Hero Academia 2nd Season](/people/yoshihiko-umakoshi#boku-no-hero-academia-2nd-season)
 - **2026-07-12 02:05** — **Kenichi Suemitsu** — [How Kenichi Suemitsu Adapts Welcome to the Ballroom for Television](/people/kenichi-suemitsu#how-kenichi-suemitsu-adapts-welcome-to-the-ballroom-for-television)

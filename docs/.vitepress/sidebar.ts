@@ -658,6 +658,10 @@ export default {
                 "link": "/people/yuuta-hiraoka"
             },
             {
+                "text": "Yuuto Tsukuda",
+                "link": "/people/yuuto-tsukuda"
+            },
+            {
                 "text": "Yuuzou Aoki",
                 "link": "/people/yuuzou-aoki"
             }
@@ -778,6 +782,10 @@ export default {
                 "link": "/works/sayonara-lara"
             },
             {
+                "text": "Shokugeki no Souma",
+                "link": "/works/food-wars"
+            },
+            {
                 "text": "Space☆Dandy",
                 "link": "/works/space-dandy"
             },
@@ -876,6 +884,10 @@ export default {
             {
                 "text": "Good Smile Company",
                 "link": "/companies/good-smile"
+            },
+            {
+                "text": "J.C.Staff",
+                "link": "/companies/j-c-staff"
             },
             {
                 "text": "Kinema Citrus",

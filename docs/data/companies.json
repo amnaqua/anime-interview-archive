@@ -113,5 +113,9 @@
 
   "psyde-kick": {
     "name": "Psyde Kick Studio"
+  },
+
+  "brains-base": {
+    "name": "Brain's Base"
   }
 }

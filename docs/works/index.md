@@ -19,6 +19,7 @@ title: Works
 - [Mahoutsukai no Yome](./mahoutsukai-no-yome)
 - [Michiko to Hatchin](./michiko-to-hatchin)
 - [Mobile Suit Gundam: Iron-Blooded Orphans](./gundam-iron-blooded-orphans)
+- [Natsume Yuujinchou](./natsume-yuujinchou)
 - [On Your Mark](./on-your-mark)
 - [One Piece](./one-piece)
 - [Sayonara Lara](./sayonara-lara)

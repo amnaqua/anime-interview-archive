@@ -8,6 +8,7 @@ title: Companies
 - [Actas](./actas)
 - [Aniplex](./aniplex)
 - [Bones](./bones)
+- [Brain's Base](./brains-base)
 - [BUG FILMS](./bug-films)
 - [CloverWorks](./clover-works)
 - [CoMix Wave Films](./comix-wave)

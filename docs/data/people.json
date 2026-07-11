@@ -1749,5 +1749,24 @@
       "Producer",
       "Scriptwriter"
     ]
+  },
+
+  "takahiro-oomori": {
+    "name": "Takahiro Oomori",
+    "aliases": [
+      "大森貴弘",
+      "小森貴弘"
+    ],
+    "roles": [
+      "Director",
+      "Sound Artist",
+      "Storyboarder",
+      "Scriptwriter",
+      "Editor",
+      "Key Animator",
+      "Designer",
+      "Animation Director",
+      "In-Betweener"
+    ]
   }
 }

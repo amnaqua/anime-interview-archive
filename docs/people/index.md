@@ -123,6 +123,7 @@ title: People
 - [Sunao Katabuchi](./sunao-katabuchi)
 - [Tadahiro Shibata](./tadahiro-shibata)
 - [Tadashi Hiramatsu](./tadashi-hiramatsu)
+- [Takahiro Oomori](./takahiro-oomori)
 - [Takurou Mori](./takurou-mori)
 - [Takushi Koide](./takushi-koide)
 - [Tatsuya Hiragi](./tatsuya-hiragi)

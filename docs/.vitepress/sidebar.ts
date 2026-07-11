@@ -482,6 +482,10 @@ export default {
                 "link": "/people/tadashi-hiramatsu"
             },
             {
+                "text": "Takahiro Oomori",
+                "link": "/people/takahiro-oomori"
+            },
+            {
                 "text": "Takurou Mori",
                 "link": "/people/takurou-mori"
             },
@@ -658,6 +662,10 @@ export default {
                 "link": "/works/gundam-iron-blooded-orphans"
             },
             {
+                "text": "Natsume Yuujinchou",
+                "link": "/works/natsume-yuujinchou"
+            },
+            {
                 "text": "On Your Mark",
                 "link": "/works/on-your-mark"
             },
@@ -728,6 +736,10 @@ export default {
             {
                 "text": "Bones",
                 "link": "/companies/bones"
+            },
+            {
+                "text": "Brain's Base",
+                "link": "/companies/brains-base"
             },
             {
                 "text": "BUG FILMS",

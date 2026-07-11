@@ -86,6 +86,10 @@ export default {
                 "link": "/people/chizuru-muramatsu"
             },
             {
+                "text": "Christopher Sabat",
+                "link": "/people/christopher-sabat"
+            },
+            {
                 "text": "Douji Shiki",
                 "link": "/people/douji-shiki"
             },
@@ -570,6 +574,10 @@ export default {
                 "link": "/people/yasuyuki-ueda"
             },
             {
+                "text": "Yoshihiko Umakoshi",
+                "link": "/people/yoshihiko-umakoshi"
+            },
+            {
                 "text": "Yoshihisa Satou",
                 "link": "/people/yoshihisa-satou"
             },
@@ -652,6 +660,10 @@ export default {
             {
                 "text": "Atom: The Beginning",
                 "link": "/works/atom-the-beginning"
+            },
+            {
+                "text": "Boku no Hero Academia 2nd Season",
+                "link": "/works/boku-no-hero-academia-2"
             },
             {
                 "text": "Cyberpunk: Edgerunners 2",

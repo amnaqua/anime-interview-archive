@@ -1930,5 +1930,27 @@
       "Manga Artist",
       "Scriptwriter"
     ]
+  },
+
+  "yoshihiko-umakoshi": {
+    "name": "Yoshihiko Umakoshi",
+    "aliases": [
+      "馬越嘉彦"
+    ],
+    "roles": [
+      "Designer",
+      "Animation Director",
+      "Key Animator",
+      "Director",
+      "In-Betweener"
+    ]
+  },
+
+  "christopher-sabat": {
+    "name": "Christopher Sabat",
+    "aliases": [],
+    "roles": [
+      "Voice Actor"
+    ]
   }
 }

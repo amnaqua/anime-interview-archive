@@ -1637,5 +1637,35 @@
     "roles": [
       "Background Artist"
     ]
+  },
+
+  "chinatsu-saitou": {
+    "name": "Chinatsu Saitou",
+    "aliases": [
+      "齊藤千夏"
+    ],
+    "roles": [
+      "In-Betweener"
+    ]
+  },
+
+  "yukina-iwata": {
+    "name": "Yukina Iwata",
+    "aliases": [
+      "岩田幸奈"
+    ],
+    "roles": [
+      "In-Betweener"
+    ]
+  },
+
+  "haruka-koseki": {
+    "name": "Haruka Koseki",
+    "aliases": [
+      "小関遥"
+    ],
+    "roles": [
+      "In-Betweener"
+    ]
   }
 }

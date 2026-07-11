@@ -62,6 +62,10 @@ export default {
                 "link": "/people/chiharu-tomizawa"
             },
             {
+                "text": "Chinatsu Saitou",
+                "link": "/people/chinatsu-saitou"
+            },
+            {
                 "text": "Chiyoko Ueno",
                 "link": "/people/chiyoko-ueno"
             },
@@ -92,6 +96,10 @@ export default {
             {
                 "text": "Hana Yamashita",
                 "link": "/people/hana-yamashita"
+            },
+            {
+                "text": "Haruka Koseki",
+                "link": "/people/haruka-koseki"
             },
             {
                 "text": "Haruki Asa",
@@ -520,6 +528,10 @@ export default {
             {
                 "text": "Yuki Tsunoda",
                 "link": "/people/yuki-tsunoda"
+            },
+            {
+                "text": "Yukina Iwata",
+                "link": "/people/yukina-iwata"
             },
             {
                 "text": "Yurika Seki",

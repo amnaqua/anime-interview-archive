@@ -913,5 +913,15 @@
     "roles": [
       "Producer"
     ]
+  },
+
+  "toshitaka-morioka": {
+    "name": "Toshitaka Morioka",
+    "aliases": [
+      "森岡 俊宇"
+    ],
+    "roles": [
+      "3DCG"
+    ]
   }
 }

@@ -85,6 +85,7 @@ title: People
 - [Takushi Koide](./takushi-koide)
 - [Tatsuya Ishiguro](./tatsuya-ishiguro)
 - [Tatsuyuki Nagai](./tatsuyuki-nagai)
+- [Toshitaka Morioka](./toshitaka-morioka)
 - [Tsutomu Mizushima](./tsutomu-mizushima)
 - [Vincent Chansard](./vincent-chansard)
 - [William Lee](./william-lee)

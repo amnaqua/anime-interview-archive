@@ -330,6 +330,10 @@ export default {
                 "link": "/people/tatsuyuki-nagai"
             },
             {
+                "text": "Toshitaka Morioka",
+                "link": "/people/toshitaka-morioka"
+            },
+            {
                 "text": "Tsutomu Mizushima",
                 "link": "/people/tsutomu-mizushima"
             },

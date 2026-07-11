@@ -963,5 +963,15 @@
     "roles": [
       "3DCG"
     ]
+  },
+
+  "chizuru-muramatsu": {
+    "name": "Chizuru Muramatsu",
+    "aliases": [
+      "村松 千鶴"
+    ],
+    "roles": [
+      "In-Betweener"
+    ]
   }
 }

@@ -50,6 +50,10 @@ export default {
                 "link": "/people/chiyoko-ueno"
             },
             {
+                "text": "Chizuru Muramatsu",
+                "link": "/people/chizuru-muramatsu"
+            },
+            {
                 "text": "Eve",
                 "link": "/people/eve"
             },

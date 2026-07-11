@@ -15,6 +15,7 @@ title: People
 - [Ayumu Watanabe](./ayumu-watanabe)
 - [Bahi JD](./bahi-jd)
 - [Chiyoko Ueno](./chiyoko-ueno)
+- [Chizuru Muramatsu](./chizuru-muramatsu)
 - [Eve](./eve)
 - [Futoshi Nishiya](./futoshi-nishiya)
 - [Gen Urobuchi](./gen-urobuchi)

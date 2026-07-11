@@ -12,7 +12,7 @@ title: "Aniplex"
 - **Publisher:** Kaoru Hana Official Site
 - **Language:** Japanese
 - **Company:** CloverWorks, Kodansha, Aniplex
-- **People:** Yūdai Hiraoka, Shouko Hori, Shunichi Tsuji
+- **People:** Yuuta Hiraoka, Shouko Hori, Shunichi Tsuji
 - **Source:**  https://kaoruhana-anime.com/special/interview/01.html
 
 ---

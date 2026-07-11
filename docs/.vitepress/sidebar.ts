@@ -398,10 +398,6 @@ export default {
                 "link": "/people/you-yoshinari"
             },
             {
-                "text": "Yūdai Hiraoka",
-                "link": "/people/yudai-hiraoka"
-            },
-            {
                 "text": "Yui Tomita",
                 "link": "/people/yui-tomita"
             },
@@ -432,6 +428,10 @@ export default {
             {
                 "text": "Yuuko Myouken",
                 "link": "/people/yuuko-myouken"
+            },
+            {
+                "text": "Yuuta Hiraoka",
+                "link": "/people/yuuta-hiraoka"
             }
         ]
     }

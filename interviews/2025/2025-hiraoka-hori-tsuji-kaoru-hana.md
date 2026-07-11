@@ -4,7 +4,7 @@ title: Kaoru Hana wa Rin to Saku
 date: "2025"
 
 people:
-  - yudai-hiraoka
+  - yuuta-hiraoka
   - shouko-hori
   - shunichi-tsuji
 

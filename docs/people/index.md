@@ -102,7 +102,6 @@ title: People
 - [Yoshihisa Satou](./yoshihisa-satou)
 - [Yoshitoshi Abe](./yoshitoshi-abe)
 - [You Yoshinari](./you-yoshinari)
-- [Yūdai Hiraoka](./yudai-hiraoka)
 - [Yui Tomita](./yui-tomita)
 - [Yuito Watanabe](./yuito-watanabe)
 - [Yuka Kitamura](./yuka-kitamura)
@@ -111,3 +110,4 @@ title: People
 - [Yuuichi Nakamura](./yuuichi-nakamura)
 - [Yuuki Kurokawa](./yuuki-kurokawa)
 - [Yuuko Myouken](./yuuko-myouken)
+- [Yuuta Hiraoka](./yuuta-hiraoka)

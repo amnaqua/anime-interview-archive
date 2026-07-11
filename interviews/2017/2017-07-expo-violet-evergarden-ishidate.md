@@ -12,7 +12,7 @@ companies:
 work:
   - violet-evergarden
 
-language: en
+language: ja
 
 links:
   - type: source

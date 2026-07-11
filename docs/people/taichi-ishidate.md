@@ -12,8 +12,20 @@ title: "Taichi Ishidate"
 
 ### Violet Evergarden
 
+- **Date:** 2017-12
+- **Language:** Japanese
+- **Company:** Kyoto Animation
+- **People:** Taichi Ishidate
+- **Source:**  Shin-Q Vol.2 2017
+- **Translations:**
+  - null: https://blog.sakugabooru.com/2018/01/13/violet-evergarden-interview-director-taichi-ishidate-shin-q-vol-2-2017/
+
+---
+
+### Violet Evergarden
+
 - **Date:** 2017-07
-- **Language:** English
+- **Language:** Japanese
 - **Company:** Kyoto Animation
 - **People:** Taichi Ishidate
 - **Source:**  Anime Expo 2017

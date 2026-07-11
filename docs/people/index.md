@@ -39,6 +39,7 @@ title: People
 - [Hiroi Hasegawa](./hiroi-hasegawa)
 - [Hiroshi Nagahama](./hiroshi-nagahama)
 - [Hiroshi Nakajima](./hiroshi-nakajima)
+- [Hiroyuki Yamaga](./hiroyuki-yamaga)
 - [Honoka Kagami](./honoka-kagami)
 - [Isao Nanba](./isao-nanba)
 - [Jouji Unoguchi](./jouji-unoguchi)

@@ -117,5 +117,9 @@
 
   "brains-base": {
     "name": "Brain's Base"
+  },
+
+  "gainax": {
+    "name": "Gainax"
   }
 }

@@ -12,6 +12,7 @@ title: Companies
 - [BUG FILMS](./bug-films)
 - [CloverWorks](./clover-works)
 - [CoMix Wave Films](./comix-wave)
+- [Gainax](./gainax)
 - [Good Smile Company](./good-smile)
 - [Kinema Citrus](./kinema-citrus)
 - [Kodansha](./kodansha)

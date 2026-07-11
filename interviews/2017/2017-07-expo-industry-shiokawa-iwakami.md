@@ -6,9 +6,6 @@ date: 2017-07
 people:
   - yousuke-shiokawa
   - atsuhiro-iwakami
-
-publisher:
-  - Anime Expo 2017
   
 companies:
   - aniplex
@@ -16,6 +13,9 @@ companies:
 language: ja
 
 links:
+  - type: source
+    url: Anime Expo 2017    
+
   - type: translation
     language: en
     url: https://anigamers.com/interviews/fate-grand-order-devs-similar-experience-japanese-american-yosuke-shiokawa-atsuhiro-iwakami/

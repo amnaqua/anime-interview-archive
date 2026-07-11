@@ -146,6 +146,10 @@ export default {
                 "link": "/people/hiroshi-nakajima"
             },
             {
+                "text": "Hiroyuki Yamaga",
+                "link": "/people/hiroyuki-yamaga"
+            },
+            {
                 "text": "Honoka Kagami",
                 "link": "/people/honoka-kagami"
             },
@@ -772,6 +776,10 @@ export default {
             {
                 "text": "CoMix Wave Films",
                 "link": "/companies/comix-wave"
+            },
+            {
+                "text": "Gainax",
+                "link": "/companies/gainax"
             },
             {
                 "text": "Good Smile Company",

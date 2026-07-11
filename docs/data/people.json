@@ -1823,5 +1823,18 @@
     "roles": [
       "Voice Actor"
     ]
+  },
+
+  "hiroyuki-yamaga": {
+    "name": "Hiroyuki Yamaga",
+    "aliases": [
+      "山賀博之"
+    ],
+    "roles": [
+      "Producer",
+      "Director",
+      "Scriptwriter",
+      "Storyboarder"
+    ]
   }
 }

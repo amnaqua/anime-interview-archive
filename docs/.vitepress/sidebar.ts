@@ -10,6 +10,10 @@ export default {
                 "link": "/people/abel-gongora"
             },
             {
+                "text": "Akane Takeda",
+                "link": "/people/akane-takeda"
+            },
+            {
                 "text": "Akihisa Shibuya",
                 "link": "/people/akihisa-shibuya"
             },

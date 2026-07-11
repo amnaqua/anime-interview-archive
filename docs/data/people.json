@@ -933,5 +933,15 @@
     "roles": [
       "Composite"
     ]
+  },
+
+  "akane-takeda": {
+    "name": "Akane Takeda",
+    "aliases": [
+      "竹田 茜"
+    ],
+    "roles": [
+      "Animator"
+    ]
   }
 }

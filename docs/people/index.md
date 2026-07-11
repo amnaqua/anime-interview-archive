@@ -5,6 +5,7 @@ title: People
 # People
 
 - [Abel Góngora](./abel-gongora)
+- [Akane Takeda](./akane-takeda)
 - [Akihisa Shibuya](./akihisa-shibuya)
 - [Akihito Suzuki](./akihito-suzuki)
 - [Akinori Ooyama](./akinori-aoyama)

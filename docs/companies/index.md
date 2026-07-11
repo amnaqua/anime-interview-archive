@@ -12,6 +12,7 @@ title: Companies
 - [BUG FILMS](./bug-films)
 - [CloverWorks](./clover-works)
 - [CoMix Wave Films](./comix-wave)
+- [Crunchyroll](./crunchyroll)
 - [Gainax](./gainax)
 - [Gonzo](./gonzo)
 - [Good Smile Company](./good-smile)

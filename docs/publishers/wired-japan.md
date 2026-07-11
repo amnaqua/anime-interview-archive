@@ -30,6 +30,16 @@ title: "Wired Japan"
 
 ### About Anime Industry
 
+- **Date:** 2026-07-04
+- **Publisher:** Wired Japan
+- **Language:** Japanese
+- **Company:** Crunchyroll
+- **Source:**  https://wired.jp/article/crunchyroll-anime-industry/
+
+---
+
+### About Anime Industry
+
 - **Date:** 2026-07-03
 - **Publisher:** Wired Japan
 - **Language:** Japanese

@@ -35,6 +35,7 @@ title: Publishers
 - [Otakon](./otakon)
 - [OUT](./out)
 - [Pelleas](./pelleas)
+- [Pen Online](./pen)
 - [Real Sound](./real-sound)
 - [Sakuga Blog](./sakuga-blog)
 - [Seibundo Shinkosha](./seibundo-shinkosha)

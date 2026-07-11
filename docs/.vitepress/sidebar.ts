@@ -806,6 +806,10 @@ export default {
                 "link": "/companies/comix-wave"
             },
             {
+                "text": "Crunchyroll",
+                "link": "/companies/crunchyroll"
+            },
+            {
                 "text": "Gainax",
                 "link": "/companies/gainax"
             },
@@ -1036,6 +1040,10 @@ export default {
             {
                 "text": "Pelleas",
                 "link": "/publishers/pelleas"
+            },
+            {
+                "text": "Pen Online",
+                "link": "/publishers/pen"
             },
             {
                 "text": "Real Sound",

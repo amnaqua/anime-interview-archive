@@ -13,7 +13,7 @@ title: "Moko-chan"
 ### Ghost in the Shell (2026)
 
 - **Date:** 2026-07-11
-- **Publisher:** pen
+- **Publisher:** Pen Online
 - **Language:** Japanese
 - **Company:** Science SARU
 - **People:** Moko-chan

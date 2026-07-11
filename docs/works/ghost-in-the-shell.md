@@ -9,7 +9,7 @@ title: "Ghost in the Shell"
 ### Ghost in the Shell (2026)
 
 - **Date:** 2026-07-11
-- **Publisher:** pen
+- **Publisher:** Pen Online
 - **Language:** Japanese
 - **Company:** Science SARU
 - **People:** Moko-chan
@@ -47,6 +47,16 @@ title: "Ghost in the Shell"
 - **Company:** Science SARU
 - **People:** Moko-chan
 - **Source:**  https://wired.jp/article/science-saru-interview-3-the-ghost-in-the-shell-mokochan/
+
+---
+
+### About Anime Industry
+
+- **Date:** 2026-07-04
+- **Publisher:** Wired Japan
+- **Language:** Japanese
+- **Company:** Crunchyroll
+- **Source:**  https://wired.jp/article/crunchyroll-anime-industry/
 
 ---
 

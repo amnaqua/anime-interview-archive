@@ -129,5 +129,9 @@
 
   "gonzo": {
     "name": "Gonzo"
+  },
+
+  "crunchyroll": {
+    "name": "Crunchyroll"
   }
 }

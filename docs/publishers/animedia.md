@@ -19,6 +19,19 @@ title: "Animedia"
 
 ---
 
+### Final Yasuhiro Takemoto x Shouji Gatou impressions
+
+- **Date:** 2012-05
+- **Publisher:** Animedia
+- **Language:** Japanese
+- **Company:** Kyoto Animation
+- **People:** Yasuhiro Takemoto, Shouji Gatou
+- **Source:**  Sixth 2012 issue of Otona Animedia
+- **Translations:**
+  - English: https://blog.sakugabooru.com/2017/11/23/hyouka-roundtable-final-yasuhiro-takemoto-x-shouji-gatou-impressions/
+
+---
+
 ### The Forgotten Lupin III Interviews
 
 - **Date:** 1983-12

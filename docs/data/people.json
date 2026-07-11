@@ -983,5 +983,15 @@
     "roles": [
       "3DCG"
     ]
+  },
+
+  "ayaka-murakami": {
+    "name": "Ayaka Murakami",
+    "aliases": [
+      "村上 彩夏"
+    ],
+    "roles": [
+      "Colorist"
+    ]
   }
 }

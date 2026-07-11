@@ -38,6 +38,10 @@ export default {
                 "link": "/people/atsushi-nishigori"
             },
             {
+                "text": "Ayaka Murakami",
+                "link": "/people/ayaka-murakami"
+            },
+            {
                 "text": "Ayumu Watanabe",
                 "link": "/people/ayumu-watanabe"
             },

@@ -12,6 +12,7 @@ title: People
 - [Atsuo Nakayama](./atsuo-nakayama)
 - [Atsushi Kaneko](./atsushi-kaneko)
 - [Atsushi Nishigori](./atsushi-nishigori)
+- [Ayaka Murakami](./ayaka-murakami)
 - [Ayumu Watanabe](./ayumu-watanabe)
 - [Bahi JD](./bahi-jd)
 - [Chiyoko Ueno](./chiyoko-ueno)

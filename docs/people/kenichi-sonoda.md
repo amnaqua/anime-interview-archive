@@ -4,6 +4,10 @@ title: "Kenichi Sonoda"
 
 # Kenichi Sonoda
 
+園田 健一
+
+**Roles:** Mangaka
+
 ## Interviews
 
 ### About Anime Industry

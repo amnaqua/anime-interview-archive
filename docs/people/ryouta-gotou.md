@@ -4,6 +4,10 @@ title: "Ryouta Gotou"
 
 # Ryouta Gotou
 
+後藤 亮太
+
+**Roles:** Background Artist
+
 ## Interviews
 
 ### Tongari Boushi no Atelier

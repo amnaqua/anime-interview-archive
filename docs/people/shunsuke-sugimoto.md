@@ -4,6 +4,10 @@ title: "Shunsuke Sugimoto"
 
 # Shunsuke Sugimoto
 
+杉本 俊輔
+
+**Roles:** Producer, Production Manager, Scriptwriter
+
 ## Interviews
 
 ### Psyde Kick Studio

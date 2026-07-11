@@ -4,6 +4,10 @@ title: "Kana Ueda"
 
 # Kana Ueda
 
+植田 佳奈
+
+**Roles:** Singer, Sound Artist, Voice Actor
+
 ## Interviews
 
 ### About Anime Industry

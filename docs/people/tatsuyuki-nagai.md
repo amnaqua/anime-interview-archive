@@ -4,6 +4,10 @@ title: "Tatsuyuki Nagai"
 
 # Tatsuyuki Nagai
 
+長井 龍雪
+
+**Roles:** Director, Storyboarder, Key Animator, Production Manager
+
 ## Interviews
 
 ### Kokoro ga Sakebitagatterunda.

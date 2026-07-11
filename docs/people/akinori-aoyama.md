@@ -4,6 +4,10 @@ title: "Akinori Ooyama"
 
 # Akinori Ooyama
 
+大山 晃典
+
+**Roles:** Production Manager
+
 ## Interviews
 
 ### Psyde Kick Studio

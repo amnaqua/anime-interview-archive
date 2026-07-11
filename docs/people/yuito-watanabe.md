@@ -4,6 +4,10 @@ title: "Yuito Watanabe"
 
 # Yuito Watanabe
 
+渡邉 唯人
+
+**Roles:** Production Manager
+
 ## Interviews
 
 ### About Anime Industry

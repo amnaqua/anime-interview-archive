@@ -4,6 +4,10 @@ title: "Yuuta Hiraoka"
 
 # Yuuta Hiraoka
 
+平岡 雄大
+
+**Roles:** Producer
+
 ## Interviews
 
 ### Kaoru Hana wa Rin to Saku

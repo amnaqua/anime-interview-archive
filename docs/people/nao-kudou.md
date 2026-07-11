@@ -4,6 +4,10 @@ title: "Nao Kudou"
 
 # Nao Kudou
 
+工藤 菜央
+
+**Roles:** Production Manager, 3DCG Artist, Composite Artist
+
 ## Interviews
 
 ### About Anime Industry

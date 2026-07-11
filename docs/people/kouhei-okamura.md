@@ -4,6 +4,10 @@ title: "Kouhei Okamura"
 
 # Kouhei Okamura
 
+岡村 公平
+
+**Roles:** Animator
+
 ## Interviews
 
 ### Koe no Katachi

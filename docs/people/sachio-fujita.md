@@ -4,6 +4,10 @@ title: "Sachio Fujita"
 
 # Sachio Fujita
 
+藤田 祥雄
+
+**Roles:** Producer, Production Manager
+
 ## Interviews
 
 ### About Anime Industry

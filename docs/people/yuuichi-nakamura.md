@@ -4,6 +4,10 @@ title: "Yuuichi Nakamura"
 
 # Yuuichi Nakamura
 
+中村 悠一
+
+**Roles:** Singer, Voice Actor
+
 ## Interviews
 
 ### Tongari Boushi no Atelier

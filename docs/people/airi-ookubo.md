@@ -4,6 +4,10 @@ title: "Airi Ookubo"
 
 # Airi Ookubo
 
+大久保 愛理
+
+**Roles:** Production Manager
+
 ## Interviews
 
 ### About Anime Industry

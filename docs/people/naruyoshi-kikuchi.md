@@ -4,6 +4,10 @@ title: "Naruyoshi Kikuchi"
 
 # Naruyoshi Kikuchi
 
+菊地 成孔
+
+**Roles:** Composer
+
 ## Interviews
 
 ### Sound Design of Woman Called Fujiko Mine

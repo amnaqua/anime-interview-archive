@@ -4,6 +4,8 @@ title: "Hiroi Hasegawa"
 
 # Hiroi Hasegawa
 
+**Roles:** Producer
+
 ## Interviews
 
 ### About Anime Industry

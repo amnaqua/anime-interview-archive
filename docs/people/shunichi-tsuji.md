@@ -4,6 +4,10 @@ title: "Shunichi Tsuji"
 
 # Shunichi Tsuji
 
+辻 俊一
+
+**Roles:** Producer
+
 ## Interviews
 
 ### Kaoru Hana wa Rin to Saku

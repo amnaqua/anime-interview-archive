@@ -4,6 +4,10 @@ title: "Akihito Suzuki"
 
 # Akihito Suzuki
 
+鈴木 彬人
+
+**Roles:** Composite Artist
+
 ## Interviews
 
 ### About Anime Industry

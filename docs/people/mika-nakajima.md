@@ -4,6 +4,10 @@ title: "Mika Nakajima"
 
 # Mika Nakajima
 
+中島 美佳
+
+**Roles:** Designer, Background Artist
+
 ## Interviews
 
 ### Tongari Boushi no Atelier

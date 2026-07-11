@@ -4,6 +4,10 @@ title: "Isao Nanba"
 
 # Isao Nanba
 
+難波 功
+
+**Roles:** Animation Director, Key Animator, Director, Designer, In-Betweener
+
 ## Interviews
 
 ### Tongari Boushi no Atelier

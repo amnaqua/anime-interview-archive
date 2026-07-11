@@ -4,6 +4,10 @@ title: "Rena Motomura"
 
 # Rena Motomura
 
+本村 玲奈
+
+**Roles:** Voice Actor, Singer
+
 ## Interviews
 
 ### Tongari Boushi no Atelier

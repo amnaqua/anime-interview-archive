@@ -4,6 +4,10 @@ title: "Shouji Kawamori"
 
 # Shouji Kawamori
 
+河森 正治
+
+**Roles:** Designer, Storyboarder, Director, Musician, Scriptwriter, Key Animator
+
 ## Interviews
 
 ### Shoji Kawamori and Hidetaka Tenjin Talk Macross in the US, AI, and More

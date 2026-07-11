@@ -4,6 +4,10 @@ title: "Akane Takeda"
 
 # Akane Takeda
 
+竹田 茜
+
+**Roles:** Designer, Key Animator, Director, Animation Director, In-Betweener
+
 ## Interviews
 
 ### About Anime Industry

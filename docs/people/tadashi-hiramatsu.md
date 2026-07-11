@@ -4,6 +4,10 @@ title: "Tadashi Hiramatsu"
 
 # Tadashi Hiramatsu
 
+平松 禎史
+
+**Roles:** Animator
+
 ## Interviews
 
 ### Yuri!!! on Ice

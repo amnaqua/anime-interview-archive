@@ -4,6 +4,10 @@ title: "Ayaka Murakami"
 
 # Ayaka Murakami
 
+村上 彩夏
+
+**Roles:** Colorist
+
 ## Interviews
 
 ### About Anime Industry

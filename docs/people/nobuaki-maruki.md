@@ -4,6 +4,10 @@ title: "Nobuaki Maruki"
 
 # Nobuaki Maruki
 
+丸木 宣明
+
+**Roles:** Animator
+
 ## Interviews
 
 ### Koe no Katachi

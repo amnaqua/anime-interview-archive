@@ -4,6 +4,10 @@ title: "Shuuhei Tada"
 
 # Shuuhei Tada
 
+多田 周平
+
+**Roles:** Background Artist
+
 ## Interviews
 
 ### Tongari Boushi no Atelier

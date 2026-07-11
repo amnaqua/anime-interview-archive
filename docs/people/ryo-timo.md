@@ -4,6 +4,10 @@ title: "Ryo-Timo"
 
 # Ryo-Timo
 
+りょーちも
+
+**Roles:** Animator
+
 ## Interviews
 
 ### About Anime Industry

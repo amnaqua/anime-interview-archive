@@ -4,6 +4,10 @@ title: "Futoshi Nishiya"
 
 # Futoshi Nishiya
 
+西屋 太志
+
+**Roles:** Animator
+
 ## Interviews
 
 ### Koe no Katachi

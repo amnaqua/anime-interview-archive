@@ -4,6 +4,10 @@ title: "Atsushi Kaneko"
 
 # Atsushi Kaneko
 
+金子 敦史
+
+**Roles:** Producer, Production Manager
+
 ## Interviews
 
 ### About Anime Industry

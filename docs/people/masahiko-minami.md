@@ -4,6 +4,10 @@ title: "Masahiko Minami"
 
 # Masahiko Minami
 
+南 雅彦
+
+**Roles:** Producer
+
 ## Interviews
 
 ### About Anime Industry

@@ -4,6 +4,8 @@ title: "Kouhei Sakita"
 
 # Kouhei Sakita
 
+**Roles:** Producer
+
 ## Interviews
 
 ### About Anime Industry

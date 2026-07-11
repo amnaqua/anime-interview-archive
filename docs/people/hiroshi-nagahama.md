@@ -4,6 +4,10 @@ title: "Hiroshi Nagahama"
 
 # Hiroshi Nagahama
 
+長濱 博史
+
+**Roles:** Director
+
 ## Interviews
 
 ### The Reflection

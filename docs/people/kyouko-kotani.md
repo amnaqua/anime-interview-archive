@@ -4,6 +4,10 @@ title: "Kyouko Kotani"
 
 # Kyouko Kotani
 
+小谷 杏子
+
+**Roles:** Animator
+
 ## Interviews
 
 ### A Female Animator’s Take On The Current Anime Industry

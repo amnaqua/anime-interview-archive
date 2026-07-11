@@ -4,6 +4,10 @@ title: "Mitsurou Kubo"
 
 # Mitsurou Kubo
 
+久保 ミツロウ
+
+**Roles:** Mangaka
+
 ## Interviews
 
 ### Yuri!!! on Ice

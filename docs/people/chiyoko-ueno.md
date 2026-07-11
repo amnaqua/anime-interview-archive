@@ -4,6 +4,10 @@ title: "Chiyoko Ueno"
 
 # Chiyoko Ueno
 
+植野 千世子
+
+**Roles:** Animator
+
 ## Interviews
 
 ### Koe no Katachi

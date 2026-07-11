@@ -4,6 +4,10 @@ title: "Norihiro Tomiita"
 
 # Norihiro Tomiita
 
+冨板 紀宏
+
+**Roles:** 3DCG
+
 ## Interviews
 
 ### Koe no Katachi

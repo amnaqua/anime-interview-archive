@@ -4,6 +4,8 @@ title: "William Lee"
 
 # William Lee
 
+**Roles:** Key Animator, Animation Director, In-Betweener
+
 ## Interviews
 
 ### Tongari Boushi no Atelier

@@ -4,6 +4,10 @@ title: "Kaoru Miyabara"
 
 # Kaoru Miyabara
 
+宮原 郁
+
+**Roles:** Production Manager
+
 ## Interviews
 
 ### Psyde Kick Studio

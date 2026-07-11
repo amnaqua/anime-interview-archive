@@ -4,6 +4,10 @@ title: "Kazuki Kawagoe"
 
 # Kazuki Kawagoe
 
+川越 一生
+
+**Roles:** Director, Storyboarder, Sound Artist, Key Animator, Production Manager
+
 ## Interviews
 
 ### Tongari Boushi no Atelier

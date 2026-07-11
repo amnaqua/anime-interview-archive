@@ -4,6 +4,10 @@ title: "Akihisa Shibuya"
 
 # Akihisa Shibuya
 
+渋谷 晃尚
+
+**Roles:** Production Manager, Producer
+
 ## Interviews
 
 ### About Anime Industry

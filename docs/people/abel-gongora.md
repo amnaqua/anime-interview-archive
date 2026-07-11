@@ -4,6 +4,8 @@ title: "Abel Góngora"
 
 # Abel Góngora
 
+**Roles:** Director
+
 ## Interviews
 
 ### Tenmaku no Jaadugar

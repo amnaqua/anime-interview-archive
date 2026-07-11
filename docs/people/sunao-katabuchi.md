@@ -4,6 +4,10 @@ title: "Sunao Katabuchi"
 
 # Sunao Katabuchi
 
+片渕 須直
+
+**Roles:** Director
+
 ## Interviews
 
 ### In This Corner of the World

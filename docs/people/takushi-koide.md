@@ -4,6 +4,10 @@ title: "Takushi Koide"
 
 # Takushi Koide
 
+小出 卓史
+
+**Roles:** Director, Storyboarder, Key Animator, Designer, Animation Director, In-Betweener, Musician
+
 ## Interviews
 
 ### Sayonara Lara

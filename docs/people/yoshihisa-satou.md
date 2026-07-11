@@ -4,6 +4,10 @@ title: "Yoshihisa Satou"
 
 # Yoshihisa Satou
 
+佐藤 義久
+
+**Roles:** Key Animator, Animation Director, Designer, In-Betweener
+
 ## Interviews
 
 ### Tongari Boushi no Atelier

@@ -4,6 +4,10 @@ title: "Tatsuya Hiragi"
 
 # Tatsuya Hiragi
 
+平義樹弥
+
+**Roles:** Background Artist
+
 ## Interviews
 
 ### About Anime Industry

@@ -1,16 +1,25 @@
-export function buildMarkdown(title, interviews) {
+export function buildMarkdown({ entity, interviews }) {
+
+    const title = entity.name;
 
     interviews.sort((a, b) => b.date.localeCompare(a.date));
 
     let md = `---
-title: ${JSON.stringify(title)}
+title: "${title}"
 ---
 
 # ${title}
 
-## Interviews
-
 `;
+    if (entity.aliases?.length) {
+        md += `${entity.aliases.join(" • ")}\n\n`;
+    }
+
+    if (entity.roles?.length) {
+        md += `**Roles:** ${entity.roles.join(", ")}\n\n`;
+    }
+
+    md += `## Interviews\n\n`;
 
     if (interviews.length === 0) {
         md += "No interviews available yet.\n";

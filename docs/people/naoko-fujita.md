@@ -4,6 +4,10 @@ title: "Naoko Fujita"
 
 # Naoko Fujita
 
+藤田 奈緒子
+
+**Roles:** Animator
+
 ## Interviews
 
 ### Koe no Katachi

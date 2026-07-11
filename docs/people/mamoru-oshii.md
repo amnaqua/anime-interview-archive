@@ -4,6 +4,10 @@ title: "Mamoru Oshii"
 
 # Mamoru Oshii
 
+押井 守
+
+**Roles:** Director
+
 ## Interviews
 
 ### The Animation of Hayao Miyazaki, Isao Takahata and Studio Ghibli

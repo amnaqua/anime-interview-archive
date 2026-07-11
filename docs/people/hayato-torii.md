@@ -4,6 +4,10 @@ title: "Hayato Torii"
 
 # Hayato Torii
 
+鳥井 隼人
+
+**Roles:** Animation Director, Key Animator, In-Betweener
+
 ## Interviews
 
 ### Tongari Boushi no Atelier

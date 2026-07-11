@@ -4,6 +4,8 @@ title: "Gen Urobuchi"
 
 # Gen Urobuchi
 
+虚淵 玄
+
 ## Interviews
 
 ### Thunderbolt Fantasy

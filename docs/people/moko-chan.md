@@ -4,6 +4,8 @@ title: "Moko-chan"
 
 # Moko-chan
 
+**Roles:** Director
+
 ## Interviews
 
 ### Ghost in the Shell (2026)

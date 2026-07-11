@@ -4,6 +4,10 @@ title: "Noritaka Kawaguchi"
 
 # Noritaka Kawaguchi
 
+川口 典孝
+
+**Roles:** Producer
+
 ## Interviews
 
 ### What Tokyo Needs to Become the "Hollywood of the Animation Industry"

@@ -4,6 +4,10 @@ title: "Yuuko Myouken"
 
 # Yuuko Myouken
 
+明見 裕子
+
+**Roles:** Animator
+
 ## Interviews
 
 ### Koe no Katachi

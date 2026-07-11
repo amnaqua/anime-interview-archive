@@ -4,6 +4,10 @@ title: "Yoshitoshi Abe"
 
 # Yoshitoshi Abe
 
+安倍 吉俊
+
+**Roles:** Mangaka
+
 ## Interviews
 
 ### Texhnolyze

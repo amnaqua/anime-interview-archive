@@ -4,6 +4,10 @@ title: "Yutaka Nakamura"
 
 # Yutaka Nakamura
 
+中村 豊
+
+**Roles:** Animator
+
 ## Interviews
 
 ### About Anime Industry

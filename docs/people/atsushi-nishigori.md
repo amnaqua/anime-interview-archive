@@ -4,6 +4,10 @@ title: "Atsushi Nishigori"
 
 # Atsushi Nishigori
 
+錦織 敦史
+
+**Roles:** Director
+
 ## Interviews
 
 ### About Anime Industry

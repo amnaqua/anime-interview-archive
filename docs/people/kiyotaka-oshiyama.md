@@ -4,6 +4,10 @@ title: "Kiyotaka Oshiyama"
 
 # Kiyotaka Oshiyama
 
+押山 清高
+
+**Roles:** Director, Animator
+
 ## Interviews
 
 ### Flip Flappers

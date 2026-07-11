@@ -4,6 +4,10 @@ title: "Koichiro Ito"
 
 # Koichiro Ito
 
+伊藤 耕一郎
+
+**Roles:** Producer
+
 ## Interviews
 
 ### About Anime Industry

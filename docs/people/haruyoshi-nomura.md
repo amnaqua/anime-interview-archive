@@ -4,6 +4,10 @@ title: "Haruyoshi Nomura"
 
 # Haruyoshi Nomura
 
+野村 治嘉
+
+**Roles:** Animation Director, Key Animator, Designer, Storyboarder, In-Betweener
+
 ## Interviews
 
 ### Tongari Boushi no Atelier

@@ -4,6 +4,10 @@ title: "Shouko Hori"
 
 # Shouko Hori
 
+堀 祥子
+
+**Roles:** Producer
+
 ## Interviews
 
 ### Kaoru Hana wa Rin to Saku

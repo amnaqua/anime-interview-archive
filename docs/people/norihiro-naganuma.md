@@ -4,6 +4,10 @@ title: "Norihiro Naganuma"
 
 # Norihiro Naganuma
 
+長沼 範裕
+
+**Roles:** Director, Scriptwriter, Storyboarder, Animation Director, Key Animator, In-Betweener, Background Artist, Designer
+
 ## Interviews
 
 ### Mahoutsukai no Yome

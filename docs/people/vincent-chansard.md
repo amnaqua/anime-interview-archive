@@ -4,6 +4,8 @@ title: "Vincent Chansard"
 
 # Vincent Chansard
 
+**Roles:** Animator
+
 ## Interviews
 
 ### About Anime Industry

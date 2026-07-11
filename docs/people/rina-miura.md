@@ -4,6 +4,10 @@ title: "Rina Miura"
 
 # Rina Miura
 
+三浦 理奈
+
+**Roles:** Special Effects
+
 ## Interviews
 
 ### Koe no Katachi

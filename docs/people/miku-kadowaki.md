@@ -4,6 +4,10 @@ title: "Miku Kadowaki"
 
 # Miku Kadowaki
 
+門脇 未来
+
+**Roles:** Animator
+
 ## Interviews
 
 ### Koe no Katachi

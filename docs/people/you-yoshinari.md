@@ -4,6 +4,10 @@ title: "You Yoshinari"
 
 # You Yoshinari
 
+吉成 曜
+
+**Roles:** Director, Animator
+
 ## Interviews
 
 ### Little Witch Academia

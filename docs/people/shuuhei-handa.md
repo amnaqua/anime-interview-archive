@@ -4,6 +4,10 @@ title: "Shuuhei Handa"
 
 # Shuuhei Handa
 
+半田 修平
+
+**Roles:** Character Design
+
 ## Interviews
 
 ### Ghost in the Shell (2026)

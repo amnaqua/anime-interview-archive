@@ -4,6 +4,10 @@ title: "Honoka Kagami"
 
 # Honoka Kagami
 
+加賀美 帆
+
+**Roles:** Composite Artist
+
 ## Interviews
 
 ### About Anime Industry

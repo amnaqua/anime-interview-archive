@@ -4,6 +4,10 @@ title: "Kai Ikarashi"
 
 # Kai Ikarashi
 
+五十嵐 海
+
+**Roles:** Director
+
 ## Interviews
 
 ### Cyberpunk: Edgerunners 2

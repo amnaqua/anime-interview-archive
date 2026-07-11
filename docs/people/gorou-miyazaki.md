@@ -4,6 +4,10 @@ title: "Gorou Miyazaki"
 
 # Gorou Miyazaki
 
+宮崎 吾朗
+
+**Roles:** Director
+
 ## Interviews
 
 ### About Anime Industry

@@ -4,6 +4,10 @@ title: "Yuki Tsunoda"
 
 # Yuki Tsunoda
 
+角田 有希
+
+**Roles:** Animator
+
 ## Interviews
 
 ### Koe no Katachi

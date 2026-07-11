@@ -4,6 +4,10 @@ title: "Manabu Ootsuka"
 
 # Manabu Ootsuka
 
+大塚学
+
+**Roles:** Producer
+
 ## Interviews
 
 ### What Tokyo Needs to Become the "Hollywood of the Animation Industry"

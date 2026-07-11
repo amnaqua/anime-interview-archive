@@ -4,6 +4,10 @@ title: "Yuka Kitamura"
 
 # Yuka Kitamura
 
+北村 友香
+
+**Roles:** Musician
+
 ## Interviews
 
 ### Tongari Boushi no Atelier

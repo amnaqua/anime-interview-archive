@@ -4,6 +4,10 @@ title: "Hiroshi Nakajima"
 
 # Hiroshi Nakajima
 
+中島 宏
+
+**Roles:** 3DCG Artist, Director
+
 ## Interviews
 
 ### About Anime Industry

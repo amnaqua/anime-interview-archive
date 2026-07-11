@@ -4,6 +4,8 @@ title: "Kinoko Nasu"
 
 # Kinoko Nasu
 
+奈須 きのこ
+
 ## Interviews
 
 ### What Shapes My Soul (Nasu Kinoko, on Ikuhara Kunihiko)

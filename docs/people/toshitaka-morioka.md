@@ -4,6 +4,10 @@ title: "Toshitaka Morioka"
 
 # Toshitaka Morioka
 
+森岡 俊宇
+
+**Roles:** 3DCG Artist
+
 ## Interviews
 
 ### About Anime Industry

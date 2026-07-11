@@ -4,6 +4,10 @@ title: "Yui Tomita"
 
 # Yui Tomita
 
+冨田 結伊
+
+**Roles:** Composite Artist, Designer
+
 ## Interviews
 
 ### About Anime Industry

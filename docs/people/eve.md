@@ -4,6 +4,10 @@ title: "Eve"
 
 # Eve
 
+いぶ
+
+**Roles:** Musician, Singer, Lyricist, Sound Artist, Producer
+
 ## Interviews
 
 ### Tongari Boushi no Atelier

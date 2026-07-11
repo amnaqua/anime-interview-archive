@@ -507,7 +507,12 @@
       "吉原 正行"
     ],
     "roles": [
-      "Animator"
+      "Key Animator",
+      "Storyboarder",
+      "Director",
+      "Designer",
+      "Animation Director",
+      "In-Betweener"
     ]
   },
 
@@ -517,7 +522,15 @@
       "宮崎 駿"
     ],
     "roles": [
-      "Director"
+      "Storyboarder",
+      "Director",
+      "Key Animator",
+      "Producer",
+      "Lyricist",
+      "Scriptwriter",
+      "Animation Production",
+      "Designer",
+      "In-Betweener"
     ]
   },
 
@@ -527,7 +540,10 @@
       "赤根 和樹"
     ],
     "roles": [
-      "Director"
+      "Storyboarder",
+      "Director",
+      "Scriptwriter",
+      "Production Manager"
     ]
   },
 
@@ -537,7 +553,10 @@
       "岡田 麿里"
     ],
     "roles": [
-      "Director"
+      "Scriptwriter",
+      "Director",
+      "Lyricist",
+      "Storyboarder"
     ]
   },
 
@@ -547,7 +566,10 @@
       "長井 龍雪"
     ],
     "roles": [
-      "Director"
+      "Director",
+      "Storyboarder",
+      "Key Animator",
+      "Production Manager"
     ]
   },
 
@@ -557,7 +579,11 @@
       "石黒 達也"
     ],
     "roles": [
-      "Producer"
+      "Producer",
+      "Director",
+      "Key Animator",
+      "Storyboarder",
+      "Production Manager"
     ]
   },
 
@@ -567,7 +593,11 @@
       "小原 充"
     ],
     "roles": [
-      "Animator"
+      "Producer",
+      "Key Animator",
+      "Animation Director",
+      "Designer",
+      "In-Betweener"
     ]
   },
 
@@ -583,7 +613,15 @@
       "湯浅 政明"
     ],
     "roles": [
-      "Director"
+      "Designer",
+      "Storyboarder",
+      "Director",
+      "Lyricist",
+      "Producer",
+      "Key Animator",
+      "Scriptwriter",
+      "Animation Director",
+      "In-Betweener"
     ]
   },
 
@@ -593,7 +631,9 @@
       "和田 丈嗣"
     ],
     "roles": [
-      "Producer"
+      "Producer",
+      "Production Manager",
+      "Business"
     ]
   },
 
@@ -603,7 +643,14 @@
       "長沼 範裕"
     ],
     "roles": [
-      "Animator"
+      "Director",
+      "Scriptwriter",
+      "Storyboarder",
+      "Animation Director",
+      "Key Animator",
+      "In-Betweener",
+      "Background Artist",
+      "Designer"
     ]
   },
 
@@ -613,7 +660,13 @@
       "水島 努"
     ],
     "roles": [
-      "Director"
+      "Director",
+      "Storyboarder",
+      "Sound Artist",
+      "Lyricist",
+      "Musician",
+      "Scriptwriter",
+      "Production Manager"
     ]
   },
 
@@ -623,7 +676,9 @@
       "植田 佳奈"
     ],
     "roles": [
-      "VA"
+      "Singer",
+      "Sound Artist",
+      "Voice Actor"
     ]
   },
 
@@ -633,7 +688,9 @@
       "小笠原 宗紀"
     ],
     "roles": [
-      "Producer"
+      "Producer",
+      "Director",
+      "Production Manager"
     ]
   },
 
@@ -642,7 +699,14 @@
     "aliases": [
       "天神 英貴"
     ],
-    "roles": []
+    "roles": [
+      "Designer",
+      "Animation Director",
+      "Key Animator",
+      "Director",
+      "Composite Artist",
+      "Colorist"
+    ]
   },
 
   "shouji-kawamori": {
@@ -651,7 +715,12 @@
       "河森 正治"
     ],
     "roles": [
-      "Designer"
+      "Designer",
+      "Storyboarder",
+      "Director",
+      "Musician",
+      "Scriptwriter",
+      "Key Animator"
     ]
   },
 
@@ -661,7 +730,8 @@
       "本村 玲奈"
     ],
     "roles": [
-      "VA"
+      "Voice Actor",
+      "Singer"
     ]
   },
 
@@ -671,7 +741,14 @@
       "渡辺 歩"
     ],
     "roles": [
-      "Director"
+      "Director",
+      "Storyboarder",
+      "Sound Artist",
+      "Scriptwriter",
+      "Designer",
+      "Key Animator",
+      "Animation Director",
+      "In-Betweener"
     ]
   },
 
@@ -681,8 +758,7 @@
       "後藤 亮太"
     ],
     "roles": [
-      "Art Director",
-      "Background Art"
+      "Background Artist"
     ]
   },
 
@@ -692,7 +768,11 @@
       "野村 治嘉"
     ],
     "roles": [
-      "Animator"
+      "Animation Director",
+      "Key Animator",
+      "Designer",
+      "Storyboarder",
+      "In-Betweener"
     ]
   },
 
@@ -700,7 +780,9 @@
     "name": "William Lee",
     "aliases": [],
     "roles": [
-      "Animator"
+      "Key Animator",
+      "Animation Director",
+      "In-Betweener"
     ]
   },
 
@@ -710,7 +792,11 @@
       "難波 功"
     ],
     "roles": [
-      "Animator"
+      "Animation Director",
+      "Key Animator",
+      "Director",
+      "Designer",
+      "In-Betweener"
     ]
   },
 
@@ -720,7 +806,9 @@
       "鳥井 隼人"
     ],
     "roles": [
-      "Animator"
+      "Animation Director",
+      "Key Animator",
+      "In-Betweener"
     ]
   },
 
@@ -730,7 +818,7 @@
       "多田 周平"
     ],
     "roles": [
-      "Background Art"
+      "Background Artist"
     ]
   },
 
@@ -740,7 +828,8 @@
       "中島 美佳"
     ],
     "roles": [
-      "Background Art"
+      "Designer",
+      "Background Artist"
     ]
   },
 
@@ -750,7 +839,7 @@
       "北村 友香"
     ],
     "roles": [
-      "Composer"
+      "Musician"
     ]
   },
 
@@ -760,7 +849,11 @@
       "いぶ"
     ],
     "roles": [
-      "Musician"
+      "Musician",
+      "Singer",
+      "Lyricist",
+      "Sound Artist",
+      "Producer"
     ]
   },
 
@@ -770,7 +863,7 @@
       "花江 夏樹"
     ],
     "roles": [
-      "VA"
+      "Singer"
     ]
   },
 
@@ -780,7 +873,8 @@
       "中村 悠一"
     ],
     "roles": [
-      "VA"
+      "Singer",
+      "Voice Actor"
     ]
   },
 
@@ -790,7 +884,11 @@
       "川越 一生"
     ],
     "roles": [
-      "Director"
+      "Director",
+      "Storyboarder",
+      "Sound Artist",
+      "Key Animator",
+      "Production Manager"
     ]
   },
 
@@ -800,7 +898,12 @@
       "中野 悟史"
     ],
     "roles": [
-      "Animator"
+      "Director",
+      "Animation Director",
+      "Key Animator",
+      "Storyboarder",
+      "Designer",
+      "In-Betweener"
     ]
   },
 
@@ -810,7 +913,10 @@
       "うなばら 海里"
     ],
     "roles": [
-      "Animator"
+      "Designer",
+      "Key Animator",
+      "Animation Director",
+      "In-Betweener"
     ]
   },
 
@@ -820,7 +926,10 @@
       "烏 宏明"
     ],
     "roles": [
-      "Animator"
+      "Animation Director",
+      "Key Animator",
+      "Designer",
+      "In-Betweener"
     ]
   },
 
@@ -830,7 +939,10 @@
       "佐藤 義久"
     ],
     "roles": [
-      "Animator"
+      "Key Animator",
+      "Animation Director",
+      "Designer",
+      "In-Betweener"
     ]
   },
 
@@ -841,7 +953,12 @@
     ],
     "roles": [
       "Director",
-      "Animator"
+      "Storyboarder",
+      "Key Animator",
+      "Designer",
+      "Animation Director",
+      "In-Betweener",
+      "Musician"
     ]
   },
 
@@ -851,7 +968,7 @@
       "大山 晃典"
     ],
     "roles": [
-      "Producer"
+      "Production Manager"
     ]
   },
 
@@ -873,7 +990,7 @@
       "宮原 郁"
     ],
     "roles": [
-      "Producer"
+      "Production Manager"
     ]
   },
 
@@ -883,7 +1000,7 @@
       "柴田 匡寛"
     ],
     "roles": [
-      "Producer"
+      "Production Manager"
     ]
   },
 
@@ -893,7 +1010,8 @@
       "金子 敦史"
     ],
     "roles": [
-      "Producer"
+      "Producer",
+      "Production Manager"
     ]
   },
 
@@ -903,7 +1021,8 @@
       "藤田 祥雄"
     ],
     "roles": [
-      "Producer"
+      "Producer",
+      "Production Manager"
     ]
   },
 
@@ -913,6 +1032,7 @@
       "渋谷 晃尚"
     ],
     "roles": [
+      "Production Manager",
       "Producer"
     ]
   },
@@ -923,7 +1043,7 @@
       "森岡 俊宇"
     ],
     "roles": [
-      "3DCG"
+      "3DCG Artist"
     ]
   },
 
@@ -933,7 +1053,7 @@
       "鈴木 彬人"
     ],
     "roles": [
-      "Composite"
+      "Composite Artist"
     ]
   },
 
@@ -943,7 +1063,11 @@
       "竹田 茜"
     ],
     "roles": [
-      "Animator"
+      "Designer",
+      "Key Animator",
+      "Director",
+      "Animation Director",
+      "In-Betweener"
     ]
   },
 
@@ -953,7 +1077,8 @@
       "大塚 実梨"
     ],
     "roles": [
-      "Colorist"
+      "Colorist",
+      "In-Betweener"
     ]
   },
 
@@ -963,7 +1088,8 @@
       "中島 宏"
     ],
     "roles": [
-      "3DCG"
+      "3DCG Artist",
+      "Director"
     ]
   },
 
@@ -983,7 +1109,9 @@
       "工藤 菜央"
     ],
     "roles": [
-      "3DCG"
+      "Production Manager",
+      "3DCG Artist",
+      "Composite Artist"
     ]
   },
 
@@ -1003,7 +1131,8 @@
       "冨田 結伊"
     ],
     "roles": [
-      "Composite"
+      "Composite Artist",
+      "Designer"
     ]
   },
 

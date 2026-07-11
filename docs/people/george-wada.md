@@ -4,6 +4,10 @@ title: "George Wada"
 
 # George Wada
 
+和田 丈嗣
+
+**Roles:** Producer, Production Manager, Business
+
 ## Interviews
 
 ### Mahoutsukai no Yome

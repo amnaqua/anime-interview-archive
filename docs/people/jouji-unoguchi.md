@@ -4,6 +4,10 @@ title: "Jouji Unoguchi"
 
 # Jouji Unoguchi
 
+鵜ノ口 穣二
+
+**Roles:** 3DCG
+
 ## Interviews
 
 ### Koe no Katachi

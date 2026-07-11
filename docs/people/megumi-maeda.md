@@ -4,6 +4,10 @@ title: "Megumi Maeda"
 
 # Megumi Maeda
 
+前田 芽美
+
+**Roles:** Designer, Key Animator, Director, In-Betweener
+
 ## Interviews
 
 ### About Anime Industry

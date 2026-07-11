@@ -4,6 +4,10 @@ title: "Shouji Murahama"
 
 # Shouji Murahama
 
+村濱 章司
+
+**Roles:** Producer
+
 ## Interviews
 
 ### From DAICON to GONZO to EMON

@@ -4,6 +4,10 @@ title: "Kairi Unabara"
 
 # Kairi Unabara
 
+うなばら 海里
+
+**Roles:** Designer, Key Animator, Animation Director, In-Betweener
+
 ## Interviews
 
 ### Tongari Boushi no Atelier

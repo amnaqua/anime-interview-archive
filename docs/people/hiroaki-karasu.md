@@ -4,6 +4,10 @@ title: "Hiroaki Karasu"
 
 # Hiroaki Karasu
 
+烏 宏明
+
+**Roles:** Animation Director, Key Animator, Designer, In-Betweener
+
 ## Interviews
 
 ### Tongari Boushi no Atelier

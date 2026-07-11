@@ -4,6 +4,10 @@ title: "Takurou Mori"
 
 # Takurou Mori
 
+森 拓郎
+
+**Roles:** Production Manager
+
 ## Interviews
 
 ### About Anime Industry

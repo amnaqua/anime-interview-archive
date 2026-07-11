@@ -4,6 +4,10 @@ title: "Mitsuhisa Ishikawa"
 
 # Mitsuhisa Ishikawa
 
+石川 光久
+
+**Roles:** Producer
+
 ## Interviews
 
 ### What Tokyo Needs to Become the "Hollywood of the Animation Industry"

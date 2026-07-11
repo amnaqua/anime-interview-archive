@@ -4,6 +4,10 @@ title: "Naoko Yamada"
 
 # Naoko Yamada
 
+山田尚子
+
+**Roles:** Director
+
 ## Interviews
 
 ### Tenmaku no Jaadugar

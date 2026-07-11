@@ -4,6 +4,10 @@ title: "Yuuki Kurokawa"
 
 # Yuuki Kurokawa
 
+黒河 友貴
+
+**Roles:** Production Manager
+
 ## Interviews
 
 ### About Anime Industry

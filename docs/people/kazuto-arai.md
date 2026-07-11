@@ -4,6 +4,10 @@ title: "Kazuto Arai"
 
 # Kazuto Arai
 
+荒井 和人
+
+**Roles:** Animator
+
 ## Interviews
 
 ### About Anime Industry

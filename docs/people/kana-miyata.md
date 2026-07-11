@@ -4,6 +4,10 @@ title: "Kana Miyata"
 
 # Kana Miyata
 
+宮田 佳奈
+
+**Roles:** Coloring
+
 ## Interviews
 
 ### Koe no Katachi

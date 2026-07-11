@@ -41,10 +41,11 @@ async function generateSection(directory, map, dictionary, title) {
 
     for (const [slug] of Object.entries(dictionary)) {
 
-        const markdown = buildMarkdown(
-            lookup(dictionary, slug),
-            map.get(slug) ?? []
-        );
+        const markdown = buildMarkdown({
+            slug,
+            entity: dictionary[slug],
+            interviews: map.get(slug) ?? []
+        });
 
         await fs.writeFile(
             path.join(directory, `${slug}.md`),

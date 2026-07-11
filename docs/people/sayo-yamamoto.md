@@ -4,6 +4,10 @@ title: "Sayo Yamamoto"
 
 # Sayo Yamamoto
 
+山本 沙代
+
+**Roles:** Director
+
 ## Interviews
 
 ### Yuri!!! on Ice

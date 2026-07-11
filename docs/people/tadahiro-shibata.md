@@ -4,6 +4,10 @@ title: "Tadahiro Shibata"
 
 # Tadahiro Shibata
 
+柴田 匡寛
+
+**Roles:** Production Manager
+
 ## Interviews
 
 ### Psyde Kick Studio

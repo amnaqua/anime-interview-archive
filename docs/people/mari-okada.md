@@ -4,6 +4,10 @@ title: "Mari Okada"
 
 # Mari Okada
 
+岡田 麿里
+
+**Roles:** Scriptwriter, Director, Lyricist, Storyboarder
+
 ## Interviews
 
 ### Kiznaiver

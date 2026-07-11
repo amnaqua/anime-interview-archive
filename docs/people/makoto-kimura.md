@@ -4,6 +4,10 @@ title: "Makoto Kimura"
 
 # Makoto Kimura
 
+木村 誠
+
+**Roles:** Producer
+
 ## Interviews
 
 ### About Anime Industry

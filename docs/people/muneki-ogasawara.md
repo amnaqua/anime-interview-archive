@@ -4,6 +4,10 @@ title: "Muneki Ogasawara"
 
 # Muneki Ogasawara
 
+小笠原 宗紀
+
+**Roles:** Producer, Director, Production Manager
+
 ## Interviews
 
 ### Giving 120%: Kinema Citrus President Talks Under the Dog, Kickstarter, and Anime Budgets

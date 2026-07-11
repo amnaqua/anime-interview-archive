@@ -4,6 +4,10 @@ title: "Natsuki Hanae"
 
 # Natsuki Hanae
 
+花江 夏樹
+
+**Roles:** Singer
+
 ## Interviews
 
 ### Tongari Boushi no Atelier

@@ -4,6 +4,8 @@ title: "Bahi JD"
 
 # Bahi JD
 
+**Roles:** Animator
+
 ## Interviews
 
 ### Atom: The Beginning

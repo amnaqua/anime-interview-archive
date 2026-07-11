@@ -125,6 +125,7 @@ title: People
 - [Sunao Katabuchi](./sunao-katabuchi)
 - [Tadahiro Shibata](./tadahiro-shibata)
 - [Tadashi Hiramatsu](./tadashi-hiramatsu)
+- [Taichi Ishidate](./taichi-ishidate)
 - [Takahiro Chiba](./takahiro-chiba)
 - [Takahiro Oomori](./takahiro-oomori)
 - [Takurou Mori](./takurou-mori)

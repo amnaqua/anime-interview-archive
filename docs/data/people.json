@@ -1836,5 +1836,19 @@
       "Scriptwriter",
       "Storyboarder"
     ]
+  },
+
+  "taichi-ishidate": {
+    "name": "Taichi Ishidate",
+    "aliases": [
+      "石立太一"
+    ],
+    "roles": [
+      "Director",
+      "Storyboarder",
+      "Scriptwriter",
+      "Key Animator",
+      "Producer"
+    ]
   }
 }

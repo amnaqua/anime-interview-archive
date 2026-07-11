@@ -490,6 +490,10 @@ export default {
                 "link": "/people/tadashi-hiramatsu"
             },
             {
+                "text": "Taichi Ishidate",
+                "link": "/people/taichi-ishidate"
+            },
+            {
                 "text": "Takahiro Chiba",
                 "link": "/people/takahiro-chiba"
             },

@@ -118,6 +118,18 @@ title: "Kyoto Animation"
 
 ---
 
+### Early Yasuhiro Takemoto x Shouji Gatou impressions
+
+- **Date:** 2012-07
+- **Language:** Japanese
+- **Company:** Kyoto Animation
+- **People:** Yasuhiro Takemoto, Shouji Gatou
+- **Source:**  July 2012 issue of Newtype
+- **Translations:**
+  - English: https://blog.sakugabooru.com/2017/11/15/hyouka-roundtable-early-yasuhiro-takemoto-x-shouji-gatou-impressions/
+
+---
+
 ### Hyouka
 
 - **Date:** 2012-06-12

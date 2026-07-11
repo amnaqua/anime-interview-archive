@@ -4,7 +4,7 @@ layout: home
 hero:
   name: Anime Interview Archive
   text: Archive of anime staff interviews and production materials.
-  tagline: 126 interviews indexed
+  tagline: 127 interviews indexed
 
 features:
   - title: 👥 People
@@ -28,6 +28,7 @@ features:
 
 # Recently Added
 
+- **2026-07-12 01:39** — **Yasuhiro Takemoto, Shouji Gatou** — [Early Yasuhiro Takemoto x Shouji Gatou impressions](/people/yasuhiro-takemoto#early-yasuhiro-takemoto-x-shouji-gatou-impressions)
 - **2026-07-12 01:34** — **Yasuhiro Takemoto, Shouji Gatou** — [Hyouka](/people/yasuhiro-takemoto#hyouka)
 - **2026-07-12 01:19** — **Moko-chan** — [Ghost in the Shell (2026)](/people/moko-chan#ghost-in-the-shell-2026-4)
 - **2026-07-11 21:28** — **Shouji Gatou, Douji Shiki** — [In This Corner of the World](/people/shouji-gatou#in-this-corner-of-the-world-1)
@@ -36,4 +37,3 @@ features:
 - **2026-07-11 19:20** — **Taichi Ishidate** — [Violet Evergarden](/people/taichi-ishidate#violet-evergarden-1)
 - **2026-07-11 19:17** — **Taichi Ishidate** — [Violet Evergarden](/people/taichi-ishidate#violet-evergarden)
 - **2026-07-11 19:12** — **Taichi Ishidate** — [About Anime Industry](/people/taichi-ishidate#about-anime-industry-7)
-- **2026-07-11 19:09** — **Hiroyuki Yamaga** — [Hiroyuki Yamaga Reflects on Gainax’s Past and Anime’s Future](/people/hiroyuki-yamaga#hiroyuki-yamaga-reflects-on-gainaxs-past-and-animes-future)

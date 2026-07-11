@@ -1486,5 +1486,15 @@
     "roles": [
       "3DCG Artist"
     ]
+  },
+
+  "kengo-oda": {
+    "name": "Kengo Oda",
+    "aliases": [
+      "織田健吾"
+    ],
+    "roles": [
+      "3DCG Artist"
+    ]
   }
 }

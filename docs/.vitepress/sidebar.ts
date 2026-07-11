@@ -174,6 +174,10 @@ export default {
                 "link": "/people/keitatsu-hayakawa"
             },
             {
+                "text": "Kengo Oda",
+                "link": "/people/kengo-oda"
+            },
+            {
                 "text": "Kenichi Sonoda",
                 "link": "/people/kenichi-sonoda"
             },

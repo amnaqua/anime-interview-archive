@@ -46,6 +46,7 @@ title: People
 - [Kazuki Kawagoe](./kazuki-kawagoe)
 - [Kazuto Arai](./kazuto-arai)
 - [Keitatsu Hayakawa](./keitatsu-hayakawa)
+- [Kengo Oda](./kengo-oda)
 - [Kenichi Sonoda](./kenichi-sonoda)
 - [Kinoko Nasu](./kinoko-nasu)
 - [Kiyotaka Oshiyama](./kiyotaka-oshiyama)

@@ -666,10 +666,6 @@ export default {
                 "link": "/people/yuuta-hiraoka"
             },
             {
-                "text": "Yuuto Tsukuda",
-                "link": "/people/yuuto-tsukuda"
-            },
-            {
                 "text": "Yuuzou Aoki",
                 "link": "/people/yuuzou-aoki"
             }
@@ -738,6 +734,10 @@ export default {
                 "link": "/works/little-witch-academia"
             },
             {
+                "text": "Look Back",
+                "link": "/works/look-back"
+            },
+            {
                 "text": "Lupin III",
                 "link": "/works/lupin-iii"
             },
@@ -788,10 +788,6 @@ export default {
             {
                 "text": "Sayonara Lara",
                 "link": "/works/sayonara-lara"
-            },
-            {
-                "text": "Shokugeki no Souma",
-                "link": "/works/food-wars"
             },
             {
                 "text": "Space☆Dandy",
@@ -894,10 +890,6 @@ export default {
                 "link": "/companies/good-smile"
             },
             {
-                "text": "J.C.Staff",
-                "link": "/companies/j-c-staff"
-            },
-            {
                 "text": "Kinema Citrus",
                 "link": "/companies/kinema-citrus"
             },
@@ -956,6 +948,10 @@ export default {
             {
                 "text": "Studio Deen",
                 "link": "/companies/deen"
+            },
+            {
+                "text": "Studio DURIAN",
+                "link": "/companies/durian"
             },
             {
                 "text": "Studio Ghibli",

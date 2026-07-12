@@ -8,7 +8,7 @@ hero:
 
 features:
   - title: 👥 People
-    details: 167 people
+    details: 166 people
     link: /people/
 
   - title: 🎬 Works
@@ -28,10 +28,10 @@ features:
 
 # Recently Added
 
-- **2026-07-12 08:14** — **Takushi Koide, Anna Kawahara, Shiori Tani** — [Sayonara Lara](/people/takushi-koide#sayonara-lara)
-- **2026-07-12 02:35** — **Yuuto Tsukuda** — [Shokugeki no Souma](/people/yuuto-tsukuda#shokugeki-no-souma)
+- **2026-07-13 01:23** — **Kiyotaka Oshiyama** — [Look Back](/people/kiyotaka-oshiyama#look-back)
+- **2026-07-12 11:16** — **Takushi Koide, Anna Kawahara, Shiori Tani** — [Sayonara Lara](/people/takushi-koide#sayonara-lara)
 - **2026-07-12 02:30** — **Ei Aoki** — [Re:Creators](/people/ei-aoki#recreators)
-- **2026-07-12 02:23** — **Tensai Okamura** — [About Anime Industry](/people/tensai-okamura#about-anime-industry-26)
+- **2026-07-12 02:23** — **Tensai Okamura** — [About Anime Industry](/people/tensai-okamura#about-anime-industry-11)
 - **2026-07-12 02:20** — **Monkey Punch** — [Lupin III](/people/monkey-punch#lupin-iii)
 - **2026-07-12 02:12** — **Yoshihiko Umakoshi, Christopher Sabat** — [Boku no Hero Academia 2nd Season](/people/yoshihiko-umakoshi#boku-no-hero-academia-2nd-season)
 - **2026-07-12 02:05** — **Kenichi Suemitsu** — [How Kenichi Suemitsu Adapts Welcome to the Ballroom for Television](/people/kenichi-suemitsu#how-kenichi-suemitsu-adapts-welcome-to-the-ballroom-for-television)

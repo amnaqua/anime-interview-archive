@@ -169,5 +169,4 @@ title: People
 - [Yuuki Kurokawa](./yuuki-kurokawa)
 - [Yuuko Myouken](./yuuko-myouken)
 - [Yuuta Hiraoka](./yuuta-hiraoka)
-- [Yuuto Tsukuda](./yuuto-tsukuda)
 - [Yuuzou Aoki](./yuuzou-aoki)

@@ -30,6 +30,10 @@ export default {
                 "link": "/people/akinori-ooyama"
             },
             {
+                "text": "Anna Kawahara",
+                "link": "/people/anna-kawahara"
+            },
+            {
                 "text": "Aoba Onobe",
                 "link": "/people/aoba-onobe"
             },
@@ -468,6 +472,10 @@ export default {
             {
                 "text": "Shinsei Hidaka",
                 "link": "/people/shinsei-hidaka"
+            },
+            {
+                "text": "Shiori Tani",
+                "link": "/people/shiori-tani"
             },
             {
                 "text": "Shouji Gatou",

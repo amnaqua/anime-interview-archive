@@ -17,6 +17,17 @@ title: "Kinema Citrus"
 
 ---
 
+### Sayonara Lara
+
+- **Date:** 2026-05-12
+- **Publisher:** MANTANWEB
+- **Language:** Japanese
+- **Company:** Kinema Citrus
+- **People:** Takushi Koide, Anna Kawahara, Shiori Tani
+- **Source:**  https://mantan-web.jp/article/20260512dog00m200090000a.html
+
+---
+
 ### Giving 120%: Kinema Citrus President Talks Under the Dog, Kickstarter, and Anime Budgets
 
 - **Date:** 2016-08

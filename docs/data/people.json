@@ -2008,5 +2008,28 @@
     "roles": [
       "Manga Artist"
     ]
+  },
+
+  "anna-kawahara": {
+    "name": "Anna Kawahara",
+    "aliases": [
+      "川原杏奈"
+    ],
+    "roles": [
+      "Scriptwriter"
+    ]
+  },
+
+  "shiori-tani": {
+    "name": "Shiori Tani",
+    "aliases": [
+      "谷紫織"
+    ],
+    "roles": [
+      "Designer",
+      "Animation Director",
+      "Key Animator",
+      "In-Betweener"
+    ]
   }
 }

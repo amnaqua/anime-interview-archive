@@ -342,6 +342,10 @@ export default {
                 "link": "/people/mitsuhisa-ishikawa"
             },
             {
+                "text": "Mitsuo Iso",
+                "link": "/people/mitsuo-iso"
+            },
+            {
                 "text": "Mitsurou Kubo",
                 "link": "/people/mitsurou-kubo"
             },
@@ -692,6 +696,10 @@ export default {
             {
                 "text": "Cyberpunk: Edgerunners 2",
                 "link": "/works/cyberpunk-edgerunners-2"
+            },
+            {
+                "text": "Dennou Coil",
+                "link": "/works/dennou-coil"
             },
             {
                 "text": "Flip Flappers",

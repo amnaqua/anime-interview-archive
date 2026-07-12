@@ -88,6 +88,7 @@ title: People
 - [Minori Ootsuka](./minori-ootsuka)
 - [Misaki Yamasawa](./misaki-yamasawa)
 - [Mitsuhisa Ishikawa](./mitsuhisa-ishikawa)
+- [Mitsuo Iso](./mitsuo-iso)
 - [Mitsurou Kubo](./mitsurou-kubo)
 - [Mizuho Kanda](./mizuho-kanda)
 - [Moko-chan](./moko-chan)

@@ -7,6 +7,7 @@ title: Works
 - [Atom: The Beginning](./atom-the-beginning)
 - [Boku no Hero Academia 2nd Season](./boku-no-hero-academia-2)
 - [Cyberpunk: Edgerunners 2](./cyberpunk-edgerunners-2)
+- [Dennou Coil](./dennou-coil)
 - [Flip Flappers](./flip-flappers)
 - [Full Metal Panic!](./full-metal-panic)
 - [Ghost in the Shell](./ghost-in-the-shell)

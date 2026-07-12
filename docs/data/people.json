@@ -2033,5 +2033,24 @@
       "Scriptwriter",
       "Designer"
     ]
+  },
+
+  "mitsuo-iso": {
+    "name": "Mitsuo Iso",
+    "aliases": [
+      "Mitsuo Iso (磯光雄)",
+      "Mikio Odagawa (小田川幹雄)",
+      "Hideo Nieta (贄田秀雄)"
+    ],
+    "roles": [
+      "Designer",
+      "Director",
+      "Storyboarder",
+      "Composite Artist",
+      "Key Animator",
+      "Scriptwriter",
+      "In-Betweener",
+      "Animation Director"
+    ]
   }
 }

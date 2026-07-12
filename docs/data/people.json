@@ -2021,5 +2021,17 @@
       "Key Animator",
       "In-Betweener"
     ]
+  },
+
+  "lesean-thomas": {
+    "name": "LeSean Thomas",
+    "aliases": [],
+    "roles": [
+      "Director",
+      "Storyboarder",
+      "Producer",
+      "Scriptwriter",
+      "Designer"
+    ]
   }
 }

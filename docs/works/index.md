@@ -43,4 +43,5 @@ title: Works
 - [Uchouten Kazoku](./uchouten-kazoku)
 - [Violet Evergarden](./violet-evergarden)
 - [Welcome to the Ballroom](./ballroom)
+- [Yasuke](./yasuke)
 - [Yuri!!! on Ice](./yuri-on-ice)

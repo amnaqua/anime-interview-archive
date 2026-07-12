@@ -72,6 +72,7 @@ title: People
 - [Kouhei Sakita](./kouhei-sakita)
 - [Kurumi Yoshida](./kurumi-yoshida)
 - [Kyouko Kotani](./kyouko-kotani)
+- [LeSean Thomas](./lesean-thomas)
 - [Makoto Kimura](./makoto-kimura)
 - [Makoto Kohara](./makoto-kohara)
 - [Mamoru Oshii](./mamoru-oshii)

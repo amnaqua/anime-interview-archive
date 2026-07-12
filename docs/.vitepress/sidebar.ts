@@ -278,6 +278,10 @@ export default {
                 "link": "/people/kyouko-kotani"
             },
             {
+                "text": "LeSean Thomas",
+                "link": "/people/lesean-thomas"
+            },
+            {
                 "text": "Makoto Kimura",
                 "link": "/people/makoto-kimura"
             },
@@ -832,6 +836,10 @@ export default {
             {
                 "text": "Welcome to the Ballroom",
                 "link": "/works/ballroom"
+            },
+            {
+                "text": "Yasuke",
+                "link": "/works/yasuke"
             },
             {
                 "text": "Yuri!!! on Ice",

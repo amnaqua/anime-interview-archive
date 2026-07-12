@@ -13,6 +13,7 @@ title: Works
 - [Girls & Panzer Movie](./girls-panzer-movie)
 - [Hyouka](./hyouka)
 - [In This Corner of the World](./in-this-corner-of-the-world)
+- [Inu-Ou](./inu-ou)
 - [Kaoru Hana wa Rin to Saku](./kaoru-hana)
 - [Kiznaiver](./kiznaiver)
 - [Koe no Katachi](./koe-no-katachi)

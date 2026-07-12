@@ -714,6 +714,10 @@ export default {
                 "link": "/works/in-this-corner-of-the-world"
             },
             {
+                "text": "Inu-Ou",
+                "link": "/works/inu-ou"
+            },
+            {
                 "text": "Kaoru Hana wa Rin to Saku",
                 "link": "/works/kaoru-hana"
             },

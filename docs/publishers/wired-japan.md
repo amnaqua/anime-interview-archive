@@ -124,7 +124,11 @@ title: "Wired Japan"
 - **Language:** Japanese
 - **Company:** Polygon Pictures
 - **People:** Tsutomu Nihei, Hiroyuki Seshita
-- **Source:**  https://wired.jp/2017/05/20/blame-movie/
+- **Source:**
+  - Part 1: https://wired.jp/2017/05/20/blame-movie/
+  - Part 2: https://wired.jp/2017/05/20/blame-movie-gallery-1/
+  - Part 3: https://wired.jp/2017/05/20/blame-movie-gallery-2/
+  - Part 4: https://wired.jp/2017/05/20/blame-movie-gallery-3/
 
 ---
 

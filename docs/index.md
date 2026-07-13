@@ -37,4 +37,4 @@ features:
 - **2026-07-13 01:23** — **Kiyotaka Oshiyama** — [Look Back](/people/kiyotaka-oshiyama#look-back)
 - **2026-07-12 11:16** — **Takushi Koide, Anna Kawahara, Shiori Tani** — [Sayonara Lara](/people/takushi-koide#sayonara-lara)
 - **2026-07-12 02:30** — **Ei Aoki** — [Re:Creators](/people/ei-aoki#recreators)
-- **2026-07-12 02:23** — **Tensai Okamura** — [About Anime Industry](/people/tensai-okamura#about-anime-industry-8)
+- **2026-07-12 02:23** — **Tensai Okamura** — [About Anime Industry](/people/tensai-okamura#about-anime-industry-11)

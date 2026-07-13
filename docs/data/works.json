@@ -212,5 +212,10 @@
   "eizouken": {
     "name": "Keep Your Hands Off Eizouken!",
     "year": 2020
+  },
+
+  "blame-movie": {
+    "name": "Blame! Movie",
+    "year": 2017
   }
 }

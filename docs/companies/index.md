@@ -25,6 +25,7 @@ title: Companies
 - [Nitroplus](./nitro-plus)
 - [OLM](./olm)
 - [P.A. Works](./pa-works)
+- [Polygon Pictures](./polygon-pictures)
 - [Production I.G](./production-ig)
 - [Psyde Kick Studio](./psyde-kick)
 - [Science SARU](./science-saru)

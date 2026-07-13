@@ -166,6 +166,10 @@ export default {
                 "link": "/people/hiroshi-nakajima"
             },
             {
+                "text": "Hiroyuki Seshita",
+                "link": "/people/hiroyuki-seshita"
+            },
+            {
                 "text": "Hiroyuki Yamaga",
                 "link": "/people/hiroyuki-yamaga"
             },
@@ -590,6 +594,10 @@ export default {
                 "link": "/people/tsutomu-mizushima"
             },
             {
+                "text": "Tsutomu Nihei",
+                "link": "/people/tsutomu-nihei"
+            },
+            {
                 "text": "Vincent Chansard",
                 "link": "/people/vincent-chansard"
             },
@@ -692,6 +700,10 @@ export default {
             {
                 "text": "Atom: The Beginning",
                 "link": "/works/atom-the-beginning"
+            },
+            {
+                "text": "Blame! Movie",
+                "link": "/works/blame-movie"
             },
             {
                 "text": "Boku no Hero Academia 2nd Season",
@@ -952,6 +964,10 @@ export default {
             {
                 "text": "P.A. Works",
                 "link": "/companies/pa-works"
+            },
+            {
+                "text": "Polygon Pictures",
+                "link": "/companies/polygon-pictures"
             },
             {
                 "text": "Production I.G",

@@ -2063,5 +2063,26 @@
       "Manga Artist",
       "Designer"
     ]
+  },
+
+  "tsutomu-nihei": {
+    "name": "Tsutomu Nihei",
+    "aliases": [
+      "Tsutomu Nihei (弐瓶勉)"
+    ],
+    "roles": [
+      "Manga Artist"
+    ]
+  },
+
+  "hiroyuki-seshita": {
+    "name": "Hiroyuki Seshita",
+    "aliases": [
+      "Hiroyuki Seshita (瀬下寛之)"
+    ],
+    "roles": [
+      "Director",
+      "Storyboarder"
+    ]
   }
 }

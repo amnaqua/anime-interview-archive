@@ -4,19 +4,19 @@ layout: home
 hero:
   name: Anime Interview Archive
   text: Archive of anime staff interviews and production materials.
-  tagline: 141 interviews indexed
+  tagline: 142 interviews indexed
 
 features:
   - title: 👥 People
-    details: 169 people
+    details: 171 people
     link: /people/
 
   - title: 🎬 Works
-    details: 43 works
+    details: 44 works
     link: /works/
 
   - title: 🏢 Companies
-    details: 37 companies
+    details: 38 companies
     link: /companies/
 
   - title: 📰 Publishers
@@ -28,6 +28,7 @@ features:
 
 # Recently Added
 
+- **2026-07-13 16:20** — **Tsutomu Nihei, Hiroyuki Seshita** — [Blame! Movie](/people/tsutomu-nihei#blame-movie)
 - **2026-07-13 16:12** — **Sumito Oowara** — [Keep Your Hands Off Eizouken!](/people/sumito-oowara#keep-your-hands-off-eizouken)
 - **2026-07-13 02:16** — **Mitsuo Iso** — [Dennou Coil](/people/mitsuo-iso#dennou-coil)
 - **2026-07-13 02:08** — **LeSean Thomas** — [Yasuke](/people/lesean-thomas#yasuke)
@@ -36,5 +37,4 @@ features:
 - **2026-07-13 01:23** — **Kiyotaka Oshiyama** — [Look Back](/people/kiyotaka-oshiyama#look-back)
 - **2026-07-12 11:16** — **Takushi Koide, Anna Kawahara, Shiori Tani** — [Sayonara Lara](/people/takushi-koide#sayonara-lara)
 - **2026-07-12 02:30** — **Ei Aoki** — [Re:Creators](/people/ei-aoki#recreators)
-- **2026-07-12 02:23** — **Tensai Okamura** — [About Anime Industry](/people/tensai-okamura#about-anime-industry-12)
-- **2026-07-12 02:20** — **Monkey Punch** — [Lupin III](/people/monkey-punch#lupin-iii)
+- **2026-07-12 02:23** — **Tensai Okamura** — [About Anime Industry](/people/tensai-okamura#about-anime-industry-8)

@@ -1,21 +1,14 @@
 ---
-title: "Toei Animation"
+title: "Shinji Aramaki"
 ---
 
-# Toei Animation
+# Shinji Aramaki
+
+Shinji Aramaki (荒牧伸志)
+
+**Roles:** Designer, Director, Storyboarder, Producer, Scriptwriter, Key Animator
 
 ## Interviews
-
-### One Piece
-
-- **Date:** 2025-10-25
-- **Publisher:** X (twitter)
-- **Language:** Arabic
-- **Company:** Toei Animation
-- **People:** Vincent Chansard
-- **Source:**  https://x.com/1jilj1il/status/1982779896213492212
-
----
 
 ### Captain Herlock (2013)
 

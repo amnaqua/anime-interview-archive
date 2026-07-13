@@ -65,8 +65,9 @@ title: "Wired Japan"
 - **Date:** 2023-03-15
 - **Publisher:** Wired Japan
 - **Language:** Japanese
-- **People:** Mamoru Oshii
-- **Source:**  https://wired.jp/article/mamoru-oshii-interview/
+- **Company:** Science SARU
+- **People:** Masaaki Yuasa
+- **Source:**  https://wired.jp/article/masaaki-yuasa-inuoh-interview/
 
 ---
 
@@ -75,9 +76,8 @@ title: "Wired Japan"
 - **Date:** 2023-03-15
 - **Publisher:** Wired Japan
 - **Language:** Japanese
-- **Company:** Science SARU
-- **People:** Masaaki Yuasa
-- **Source:**  https://wired.jp/article/masaaki-yuasa-inuoh-interview/
+- **People:** Mamoru Oshii
+- **Source:**  https://wired.jp/article/mamoru-oshii-interview/
 
 ---
 
@@ -140,6 +140,17 @@ title: "Wired Japan"
 - **Company:** Trigger
 - **People:** Masahiko Ootsuka
 - **Source:**  https://wired.jp/2014/06/26/trigger/
+
+---
+
+### Captain Herlock (2013)
+
+- **Date:** 2013-09-27
+- **Publisher:** Wired Japan
+- **Language:** Japanese
+- **Company:** Toei Animation, Marza Animation Planet
+- **People:** Leiji Matsumoto, Shinji Aramaki
+- **Source:**  https://wired.jp/2013/09/27/captain-harlock/
 
 ---
 

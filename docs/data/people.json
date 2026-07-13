@@ -2099,5 +2099,33 @@
       "Storyboarder",
       "Sound Artist"
     ]
+  },
+
+  "leiji-matsumoto": {
+    "name": "Leiji Matsumoto",
+    "aliases": [
+      "Leiji Matsumoto (松本零士)"
+    ],
+    "roles": [
+      "Manga Artist",
+      "Designer",
+      "Director",
+      "Storyboarder"
+    ]
+  },
+
+  "shinji-aramaki": {
+    "name": "Shinji Aramaki",
+    "aliases": [
+      "Shinji Aramaki (荒牧伸志)"
+    ],
+    "roles": [
+      "Designer",
+      "Director",
+      "Storyboarder",
+      "Producer",
+      "Scriptwriter",
+      "Key Animator"
+    ]
   }
 }

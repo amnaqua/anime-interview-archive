@@ -282,6 +282,10 @@ export default {
                 "link": "/people/kyouko-kotani"
             },
             {
+                "text": "Leiji Matsumoto",
+                "link": "/people/leiji-matsumoto"
+            },
+            {
                 "text": "LeSean Thomas",
                 "link": "/people/lesean-thomas"
             },
@@ -484,6 +488,10 @@ export default {
             {
                 "text": "Shingo Sasaki",
                 "link": "/people/shingo-sasaki"
+            },
+            {
+                "text": "Shinji Aramaki",
+                "link": "/people/shinji-aramaki"
             },
             {
                 "text": "Shinsei Hidaka",
@@ -712,6 +720,10 @@ export default {
             {
                 "text": "Boku no Hero Academia 2nd Season",
                 "link": "/works/boku-no-hero-academia-2"
+            },
+            {
+                "text": "Captain Herlock (2013)",
+                "link": "/works/captain-herlock-2013"
             },
             {
                 "text": "Cyberpunk: Edgerunners 2",
@@ -956,6 +968,10 @@ export default {
             {
                 "text": "MAPPA",
                 "link": "/companies/mappa"
+            },
+            {
+                "text": "Marza Animation Planet",
+                "link": "/companies/marza"
             },
             {
                 "text": "Nitroplus",

@@ -22,6 +22,7 @@ title: Companies
 - [Madhouse](./madhouse)
 - [Manglobe](./manglobe)
 - [MAPPA](./mappa)
+- [Marza Animation Planet](./marza)
 - [Nitroplus](./nitro-plus)
 - [OLM](./olm)
 - [P.A. Works](./pa-works)

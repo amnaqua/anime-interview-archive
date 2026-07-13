@@ -7,6 +7,7 @@ title: Works
 - [Atom: The Beginning](./atom-the-beginning)
 - [Blame! Movie](./blame-movie)
 - [Boku no Hero Academia 2nd Season](./boku-no-hero-academia-2)
+- [Captain Herlock (2013)](./captain-herlock-2013)
 - [Cyberpunk: Edgerunners 2](./cyberpunk-edgerunners-2)
 - [Dennou Coil](./dennou-coil)
 - [Flip Flappers](./flip-flappers)

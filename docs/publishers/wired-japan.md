@@ -65,9 +65,8 @@ title: "Wired Japan"
 - **Date:** 2023-03-15
 - **Publisher:** Wired Japan
 - **Language:** Japanese
-- **Company:** Science SARU
-- **People:** Masaaki Yuasa
-- **Source:**  https://wired.jp/article/masaaki-yuasa-inuoh-interview/
+- **People:** Mamoru Oshii
+- **Source:**  https://wired.jp/article/mamoru-oshii-interview/
 
 ---
 
@@ -76,8 +75,9 @@ title: "Wired Japan"
 - **Date:** 2023-03-15
 - **Publisher:** Wired Japan
 - **Language:** Japanese
-- **People:** Mamoru Oshii
-- **Source:**  https://wired.jp/article/mamoru-oshii-interview/
+- **Company:** Science SARU
+- **People:** Masaaki Yuasa
+- **Source:**  https://wired.jp/article/masaaki-yuasa-inuoh-interview/
 
 ---
 
@@ -129,6 +129,17 @@ title: "Wired Japan"
   - Part 2: https://wired.jp/2017/05/20/blame-movie-gallery-1/
   - Part 3: https://wired.jp/2017/05/20/blame-movie-gallery-2/
   - Part 4: https://wired.jp/2017/05/20/blame-movie-gallery-3/
+
+---
+
+### About Anime Industry
+
+- **Date:** 2014-06-26
+- **Publisher:** Wired Japan
+- **Language:** Japanese
+- **Company:** Trigger
+- **People:** Masahiko Ootsuka
+- **Source:**  https://wired.jp/2014/06/26/trigger/
 
 ---
 

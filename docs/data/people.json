@@ -2084,5 +2084,20 @@
       "Director",
       "Storyboarder"
     ]
+  },
+
+  "masahiko-ootsuka": {
+    "name": "Masahiko Ootsuka",
+    "aliases": [
+      "Masahiko Ootsuka (大塚雅彦)",
+      "Hiroshi Ooshita (大下弘志)"
+    ],
+    "roles": [
+      "Scriptwriter",
+      "Director",
+      "Producer",
+      "Storyboarder",
+      "Sound Artist"
+    ]
   }
 }

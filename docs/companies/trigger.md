@@ -40,3 +40,14 @@ title: "Trigger"
 
 ---
 
+### About Anime Industry
+
+- **Date:** 2014-06-26
+- **Publisher:** Wired Japan
+- **Language:** Japanese
+- **Company:** Trigger
+- **People:** Masahiko Ootsuka
+- **Source:**  https://wired.jp/2014/06/26/trigger/
+
+---
+

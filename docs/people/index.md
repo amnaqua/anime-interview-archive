@@ -81,6 +81,7 @@ title: People
 - [Mari Okada](./mari-okada)
 - [Masaaki Yuasa](./masaaki-yuasa)
 - [Masahiko Minami](./masahiko-minami)
+- [Masahiko Ootsuka](./masahiko-ootsuka)
 - [Masayuki Yoshihara](./masayuki-yoshihara)
 - [Mayato Nozaki](./mayato-nozaki)
 - [Megumi Maeda](./megumi-maeda)

@@ -314,6 +314,10 @@ export default {
                 "link": "/people/masahiko-minami"
             },
             {
+                "text": "Masahiko Ootsuka",
+                "link": "/people/masahiko-ootsuka"
+            },
+            {
                 "text": "Masayuki Yoshihara",
                 "link": "/people/masayuki-yoshihara"
             },

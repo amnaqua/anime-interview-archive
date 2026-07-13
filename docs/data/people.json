@@ -2052,5 +2052,16 @@
       "In-Betweener",
       "Animation Director"
     ]
+  },
+
+  "sumito-oowara": {
+    "name": "Sumito Oowara",
+    "aliases": [
+      "Sumito Oowara (大童澄瞳)"
+    ],
+    "roles": [
+      "Manga Artist",
+      "Designer"
+    ]
   }
 }

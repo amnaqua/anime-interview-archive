@@ -4,15 +4,15 @@ layout: home
 hero:
   name: Anime Interview Archive
   text: Archive of anime staff interviews and production materials.
-  tagline: 140 interviews indexed
+  tagline: 141 interviews indexed
 
 features:
   - title: 👥 People
-    details: 168 people
+    details: 169 people
     link: /people/
 
   - title: 🎬 Works
-    details: 42 works
+    details: 43 works
     link: /works/
 
   - title: 🏢 Companies
@@ -28,6 +28,7 @@ features:
 
 # Recently Added
 
+- **2026-07-13 16:12** — **Sumito Oowara** — [Keep Your Hands Off Eizouken!](/people/sumito-oowara#keep-your-hands-off-eizouken)
 - **2026-07-13 02:16** — **Mitsuo Iso** — [Dennou Coil](/people/mitsuo-iso#dennou-coil)
 - **2026-07-13 02:08** — **LeSean Thomas** — [Yasuke](/people/lesean-thomas#yasuke)
 - **2026-07-13 01:59** — **Masaaki Yuasa** — [About Anime Industry](/people/masaaki-yuasa#about-anime-industry-27)
@@ -37,4 +38,3 @@ features:
 - **2026-07-12 02:30** — **Ei Aoki** — [Re:Creators](/people/ei-aoki#recreators)
 - **2026-07-12 02:23** — **Tensai Okamura** — [About Anime Industry](/people/tensai-okamura#about-anime-industry-12)
 - **2026-07-12 02:20** — **Monkey Punch** — [Lupin III](/people/monkey-punch#lupin-iii)
-- **2026-07-12 02:12** — **Yoshihiko Umakoshi, Christopher Sabat** — [Boku no Hero Academia 2nd Season](/people/yoshihiko-umakoshi#boku-no-hero-academia-2nd-season)

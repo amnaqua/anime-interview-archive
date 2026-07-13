@@ -522,6 +522,10 @@ export default {
                 "link": "/people/shuuhei-tada"
             },
             {
+                "text": "Sumito Oowara",
+                "link": "/people/sumito-oowara"
+            },
+            {
                 "text": "Sunao Katabuchi",
                 "link": "/people/sunao-katabuchi"
             },
@@ -732,6 +736,10 @@ export default {
             {
                 "text": "Kaoru Hana wa Rin to Saku",
                 "link": "/works/kaoru-hana"
+            },
+            {
+                "text": "Keep Your Hands Off Eizouken!",
+                "link": "/works/eizouken"
             },
             {
                 "text": "Kiznaiver",

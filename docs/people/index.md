@@ -133,6 +133,7 @@ title: People
 - [Shunsuke Sugimoto](./shunsuke-sugimoto)
 - [Shuuhei Handa](./shuuhei-handa)
 - [Shuuhei Tada](./shuuhei-tada)
+- [Sumito Oowara](./sumito-oowara)
 - [Sunao Katabuchi](./sunao-katabuchi)
 - [Tadahiro Shibata](./tadahiro-shibata)
 - [Tadashi Hiramatsu](./tadashi-hiramatsu)

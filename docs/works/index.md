@@ -16,6 +16,7 @@ title: Works
 - [In This Corner of the World](./in-this-corner-of-the-world)
 - [Inu-Ou](./inu-ou)
 - [Kaoru Hana wa Rin to Saku](./kaoru-hana)
+- [Keep Your Hands Off Eizouken!](./eizouken)
 - [Kiznaiver](./kiznaiver)
 - [Koe no Katachi](./koe-no-katachi)
 - [Kokoro ga Sakebitagatterunda.](./kokoro-ga-sakebitagatterunda)

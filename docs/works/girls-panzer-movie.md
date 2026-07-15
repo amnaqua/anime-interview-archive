@@ -4,6 +4,10 @@ title: "Girls & Panzer Movie"
 
 # Girls & Panzer Movie
 
+<div class="entity-meta">
+Anime • 2015<br>
+</div>
+
 ## Interviews
 
 ### Girls & Panzer Movie

@@ -4,9 +4,10 @@ title: "Gen Urobuchi"
 
 # Gen Urobuchi
 
-虚淵 玄
-
-**Roles:** Scriptwriter, Designer
+<div class="entity-meta">
+虚淵 玄<br>
+Jobs: Scriptwriter, Designer<br>
+</div>
 
 ## Interviews
 

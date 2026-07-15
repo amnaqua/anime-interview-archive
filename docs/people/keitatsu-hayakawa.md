@@ -4,9 +4,10 @@ title: "Keitatsu Hayakawa"
 
 # Keitatsu Hayakawa
 
-早川敬立
-
-**Roles:** 3DCG Artist
+<div class="entity-meta">
+早川敬立<br>
+Jobs: 3DCG Artist<br>
+</div>
 
 ## Interviews
 

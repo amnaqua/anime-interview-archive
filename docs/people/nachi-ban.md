@@ -4,9 +4,10 @@ title: "Nachi Ban"
 
 # Nachi Ban
 
-伴菜智
-
-**Roles:** Key Animator, In-Betweener
+<div class="entity-meta">
+伴菜智<br>
+Jobs: Key Animator, In-Betweener<br>
+</div>
 
 ## Interviews
 

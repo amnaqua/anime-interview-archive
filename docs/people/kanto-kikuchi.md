@@ -4,9 +4,10 @@ title: "Kanto Kikuchi"
 
 # Kanto Kikuchi
 
-菊地観人
-
-**Roles:** Production Manager
+<div class="entity-meta">
+菊地観人<br>
+Jobs: Production Manager<br>
+</div>
 
 ## Interviews
 

@@ -4,9 +4,10 @@ title: "Honoka Kagami"
 
 # Honoka Kagami
 
-加賀美 帆
-
-**Roles:** Composite Artist
+<div class="entity-meta">
+加賀美 帆<br>
+Jobs: Composite Artist<br>
+</div>
 
 ## Interviews
 

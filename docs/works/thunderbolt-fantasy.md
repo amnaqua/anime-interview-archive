@@ -4,6 +4,10 @@ title: "Thunderbolt Fantasy"
 
 # Thunderbolt Fantasy
 
+<div class="entity-meta">
+Anime • 2016<br>
+</div>
+
 ## Interviews
 
 ### Thunderbolt Fantasy

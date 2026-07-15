@@ -4,9 +4,10 @@ title: "Kairi Unabara"
 
 # Kairi Unabara
 
-うなばら 海里
-
-**Roles:** Designer, Key Animator, Animation Director, In-Betweener
+<div class="entity-meta">
+うなばら 海里<br>
+Jobs: Designer, Key Animator, Animation Director, In-Betweener<br>
+</div>
 
 ## Interviews
 

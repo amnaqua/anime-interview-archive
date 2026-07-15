@@ -4,9 +4,10 @@ title: "Monkey Punch"
 
 # Monkey Punch
 
-モンキー・パンチ • モンキーパンチ
-
-**Roles:** Manga Artist, Director, Designer, Lyricist
+<div class="entity-meta">
+モンキー・パンチ • モンキーパンチ<br>
+Jobs: Manga Artist, Director, Designer, Lyricist<br>
+</div>
 
 ## Interviews
 

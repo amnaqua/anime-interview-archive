@@ -4,6 +4,10 @@ title: "Lupin III: Part III"
 
 # Lupin III: Part III
 
+<div class="entity-meta">
+Anime • 1984<br>
+</div>
+
 ## Interviews
 
 ### Lupin III: Part III Character Designs With Yuuzou Aoki

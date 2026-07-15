@@ -4,9 +4,10 @@ title: "Shinsei Hidaka"
 
 # Shinsei Hidaka
 
-日髙鎮世
-
-**Roles:** Key Animator, In-Betweener
+<div class="entity-meta">
+日髙鎮世<br>
+Jobs: Key Animator, In-Betweener<br>
+</div>
 
 ## Interviews
 

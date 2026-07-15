@@ -4,9 +4,10 @@ title: "Masaaki Yuasa"
 
 # Masaaki Yuasa
 
-湯浅 政明
-
-**Roles:** Designer, Storyboarder, Director, Lyricist, Producer, Key Animator, Scriptwriter, Animation Director, In-Betweener
+<div class="entity-meta">
+湯浅 政明<br>
+Jobs: Designer, Storyboarder, Director, Lyricist, Producer, Key Animator, Scriptwriter, Animation Director, In-Betweener<br>
+</div>
 
 ## Interviews
 

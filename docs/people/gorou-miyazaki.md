@@ -4,9 +4,10 @@ title: "Gorou Miyazaki"
 
 # Gorou Miyazaki
 
-宮崎 吾朗
-
-**Roles:** Director, Lyricist, Storyboarder, Musician, Scriptwriter
+<div class="entity-meta">
+宮崎 吾朗<br>
+Jobs: Director, Lyricist, Storyboarder, Musician, Scriptwriter<br>
+</div>
 
 ## Interviews
 

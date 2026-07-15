@@ -4,6 +4,10 @@ title: "Hyouka"
 
 # Hyouka
 
+<div class="entity-meta">
+Anime • 2012<br>
+</div>
+
 ## Interviews
 
 ### Early Yasuhiro Takemoto x Shouji Gatou impressions

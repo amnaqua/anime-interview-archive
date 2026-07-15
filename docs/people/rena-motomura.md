@@ -4,9 +4,10 @@ title: "Rena Motomura"
 
 # Rena Motomura
 
-本村 玲奈
-
-**Roles:** Voice Actor, Singer
+<div class="entity-meta">
+本村 玲奈<br>
+Jobs: Voice Actor, Singer<br>
+</div>
 
 ## Interviews
 

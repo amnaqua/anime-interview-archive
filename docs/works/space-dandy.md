@@ -4,6 +4,10 @@ title: "Space☆Dandy"
 
 # Space☆Dandy
 
+<div class="entity-meta">
+Anime • 2014<br>
+</div>
+
 ## Interviews
 
 ### Space Dandy

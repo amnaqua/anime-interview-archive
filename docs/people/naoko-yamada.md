@@ -4,9 +4,10 @@ title: "Naoko Yamada"
 
 # Naoko Yamada
 
-山田尚子
-
-**Roles:** Director, Storyboarder, Colorist, Lyricist, Key Animator, Producer, In-Betweener
+<div class="entity-meta">
+山田尚子<br>
+Jobs: Director, Storyboarder, Colorist, Lyricist, Key Animator, Producer, In-Betweener<br>
+</div>
 
 ## Interviews
 

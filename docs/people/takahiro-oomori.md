@@ -4,9 +4,10 @@ title: "Takahiro Oomori"
 
 # Takahiro Oomori
 
-大森貴弘 • 小森貴弘
-
-**Roles:** Director, Sound Artist, Storyboarder, Scriptwriter, Editor, Key Animator, Designer, Animation Director, In-Betweener
+<div class="entity-meta">
+大森貴弘 • 小森貴弘<br>
+Jobs: Director, Sound Artist, Storyboarder, Scriptwriter, Editor, Key Animator, Designer, Animation Director, In-Betweener<br>
+</div>
 
 ## Interviews
 

@@ -4,9 +4,10 @@ title: "Hidetaka Tenjin"
 
 # Hidetaka Tenjin
 
-天神 英貴
-
-**Roles:** Designer, Animation Director, Key Animator, Director, Composite Artist, Colorist
+<div class="entity-meta">
+天神 英貴<br>
+Jobs: Designer, Animation Director, Key Animator, Director, Composite Artist, Colorist<br>
+</div>
 
 ## Interviews
 

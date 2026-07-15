@@ -4,9 +4,10 @@ title: "Norihiro Naganuma"
 
 # Norihiro Naganuma
 
-長沼 範裕
-
-**Roles:** Director, Scriptwriter, Storyboarder, Animation Director, Key Animator, In-Betweener, Background Artist, Designer
+<div class="entity-meta">
+長沼 範裕<br>
+Jobs: Director, Scriptwriter, Storyboarder, Animation Director, Key Animator, In-Betweener, Background Artist, Designer<br>
+</div>
 
 ## Interviews
 

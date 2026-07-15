@@ -4,9 +4,10 @@ title: "Shouko Hori"
 
 # Shouko Hori
 
-堀 祥子
-
-**Roles:** Producer, Business
+<div class="entity-meta">
+堀 祥子<br>
+Jobs: Producer, Business<br>
+</div>
 
 ## Interviews
 

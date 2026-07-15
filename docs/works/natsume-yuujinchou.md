@@ -4,6 +4,10 @@ title: "Natsume Yuujinchou"
 
 # Natsume Yuujinchou
 
+<div class="entity-meta">
+Anime • 2008<br>
+</div>
+
 ## Interviews
 
 ### Natsume Yuujinchou

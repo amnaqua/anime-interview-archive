@@ -4,9 +4,10 @@ title: "Yoshimasa Mizuo"
 
 # Yoshimasa Mizuo
 
-Yoshimasa Mizuo (水尾芳正)
-
-**Roles:** Producer, Business
+<div class="entity-meta">
+Yoshimasa Mizuo (水尾芳正)<br>
+Jobs: Producer, Business<br>
+</div>
 
 ## Interviews
 

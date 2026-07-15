@@ -4,9 +4,10 @@ title: "Koichiro Ito"
 
 # Koichiro Ito
 
-伊藤 耕一郎
-
-**Roles:** Producer, Scriptwriter
+<div class="entity-meta">
+伊藤 耕一郎<br>
+Jobs: Producer, Scriptwriter<br>
+</div>
 
 ## Interviews
 

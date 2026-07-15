@@ -1,231 +1,277 @@
 {
   "tenmaku-no-jaadugar": {
     "name": "Tenmaku no Jaadugar",
+    "type": "anime",
     "year": 2026
   },
 
   "ghost-in-the-shell": {
     "name": "Ghost in the Shell",
+    "type": "anime",
     "year": 2026
   },
 
   "kaoru-hana": {
     "name": "Kaoru Hana wa Rin to Saku",
+    "type": "anime",
     "year": 2025
   },
 
   "one-piece": {
     "name": "One Piece",
+    "type": "anime",
     "year": 1999
   },
 
   "space-dandy": {
     "name": "Space☆Dandy",
+    "type": "anime",
     "year": 2014
   },
 
   "atom-the-beginning": {
     "name": "Atom: The Beginning",
+    "type": "anime",
     "year": 2017
   },
 
   "in-this-corner-of-the-world" : {
     "name": "In This Corner of the World",
+    "type": "anime",
     "year": 2016
   },
 
   "flip-flappers": {
     "name": "Flip Flappers",
+    "type": "anime",
     "year": 2016
   },
 
   "little-witch-academia": {
     "name": "Little Witch Academia",
+    "type": "anime",
     "year": 2017
   },
 
   "texhnolyze": {
     "name": "Texhnolyze",
+    "type": "anime",
     "year": 2003
   },
 
   "cyberpunk-edgerunners-2": {
     "name": "Cyberpunk: Edgerunners 2",
+    "type": "anime",
     "year": 2026
   },
 
   "michiko-to-hatchin": {
     "name": "Michiko to Hatchin",
+    "type": "anime",
     "year": 2008
   },
 
   "lupin-the-third-mine-fujiko-to-iu-onna": {
     "name": "Lupin the Third: The Woman Called Fujiko Mine",
+    "type": "anime",
     "year": 2012
   },
 
   "yuri-on-ice": {
     "name": "Yuri!!! on Ice",
+    "type": "anime",
     "year": 2016
   },
 
   "the-reflection": {
     "name": "The Reflection",
+    "type": "anime",
     "year": 2017
   },
 
   "thunderbolt-fantasy": {
     "name": "Thunderbolt Fantasy",
+    "type": "anime",
     "year": 2016
   },
 
   "koe-no-katachi": {
     "name": "Koe no Katachi",
+    "type": "anime",
     "year": 2016
   },
 
   "uchouten-kazoku": {
     "name": "Uchouten Kazoku",
+    "type": "anime",
     "year": 2013
   },
 
   "on-your-mark": {
     "name": "On Your Mark",
+    "type": "anime",
     "year": 1995
   },
 
   "tenkuu-no-escaflowne": {
     "name": "Tenkuu no Escaflowne",
+    "type": "anime",
     "year": 1996
   },
 
   "kokoro-ga-sakebitagatterunda": {
     "name": "Kokoro ga Sakebitagatterunda.",
+    "type": "anime",
     "year": 2015
   },
 
   "kiznaiver": {
     "name": "Kiznaiver",
+    "type": "anime",
     "year": 2016
   },
 
   "gundam-iron-blooded-orphans": {
     "name": "Mobile Suit Gundam: Iron-Blooded Orphans",
+    "type": "anime",
     "year": 2015
   },
 
   "mahoutsukai-no-yome": {
     "name": "Mahoutsukai no Yome",
+    "type": "anime",
     "year": 2017
   },
 
   "girls-panzer-movie": {
     "name": "Girls & Panzer Movie",
+    "type": "anime",
     "year": 2015
   },
 
   "tongari-boushi-no-atelier": {
     "name": "Tongari Boushi no Atelier",
+    "type": "anime",
     "year": 2026
   },
 
   "sayonara-lara": {
     "name": "Sayonara Lara",
+    "type": "anime",
     "year": 2026
   },
 
   "natsume-yuujinchou": {
     "name": "Natsume Yuujinchou",
+    "type": "anime",
     "year": 2008
   },
 
   "ballroom": {
     "name": "Welcome to the Ballroom",
+    "type": "anime",
     "year": 2017
   },
 
   "violet-evergarden": {
     "name": "Violet Evergarden",
+    "type": "anime",
     "year": 2018
   },
 
   "lupin-iii-part-iii": {
     "name": "Lupin III: Part III",
+    "type": "anime",
     "year": 1984
   },
 
   "full-metal-panic": {
     "name": "Full Metal Panic!",
+    "type": "anime",
     "year": 2002
   },
 
   "hyouka": {
     "name": "Hyouka",
+    "type": "anime",
     "year": 2012
   },
 
   "naruto": {
     "name": "Naruto",
+    "type": "anime",
     "year": 2002
   },
 
   "naruto-shippuuden": {
     "name": "Naruto: Shippuuden",
+    "type": "anime",
     "year": 2007
   },
 
   "boku-no-hero-academia-2": {
     "name": "Boku no Hero Academia 2nd Season",
+    "type": "anime",
     "year": 2017
   },
 
   "lupin-iii": {
     "name": "Lupin III",
+    "type": "anime",
     "year": 1971
   },
 
   "re-creators": {
     "name": "Re:Creators",
+    "type": "anime",
     "year": 2017
   },
 
   "look-back": {
     "name": "Look Back",
+    "type": "anime",
     "year": 2024
   },
 
   "inu-ou": {
     "name": "Inu-Ou",
+    "type": "anime",
     "year": 2022
   },
 
   "yasuke": {
     "name": "Yasuke",
+    "type": "anime",
     "year": 2021
   },
 
   "dennou-coil": {
     "name": "Dennou Coil",
+    "type": "anime",
     "year": 2007
   },
 
   "eizouken": {
     "name": "Keep Your Hands Off Eizouken!",
+    "type": "anime",
     "year": 2020
   },
 
   "blame-movie": {
     "name": "Blame! Movie",
+    "type": "anime",
     "year": 2017
   },
 
   "captain-herlock-2013": {
     "name": "Captain Herlock (2013)",
+    "type": "anime",
     "year": 2013
   },
 
   "sousou-no-frieren": {
     "name": "Sousou no Frieren",
+    "type": "anime",
     "year": 2023
   }
 }

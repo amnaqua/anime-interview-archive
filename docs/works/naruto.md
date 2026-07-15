@@ -4,6 +4,10 @@ title: "Naruto"
 
 # Naruto
 
+<div class="entity-meta">
+Anime • 2002<br>
+</div>
+
 ## Interviews
 
 ### Naruto

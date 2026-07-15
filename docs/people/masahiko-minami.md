@@ -4,9 +4,10 @@ title: "Masahiko Minami"
 
 # Masahiko Minami
 
-南 雅彦
-
-**Roles:** Producer, Production Manager
+<div class="entity-meta">
+南 雅彦<br>
+Jobs: Producer, Production Manager<br>
+</div>
 
 ## Interviews
 

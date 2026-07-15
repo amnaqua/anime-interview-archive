@@ -4,9 +4,10 @@ title: "Mika Nakajima"
 
 # Mika Nakajima
 
-中島 美佳
-
-**Roles:** Designer, Background Artist
+<div class="entity-meta">
+中島 美佳<br>
+Jobs: Designer, Background Artist<br>
+</div>
 
 ## Interviews
 

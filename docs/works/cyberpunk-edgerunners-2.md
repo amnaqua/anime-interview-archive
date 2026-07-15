@@ -4,6 +4,10 @@ title: "Cyberpunk: Edgerunners 2"
 
 # Cyberpunk: Edgerunners 2
 
+<div class="entity-meta">
+Anime • 2026<br>
+</div>
+
 ## Interviews
 
 ### Cyberpunk: Edgerunners 2

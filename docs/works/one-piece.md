@@ -4,6 +4,10 @@ title: "One Piece"
 
 # One Piece
 
+<div class="entity-meta">
+Anime • 1999<br>
+</div>
+
 ## Interviews
 
 ### One Piece

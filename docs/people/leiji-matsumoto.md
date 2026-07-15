@@ -4,9 +4,10 @@ title: "Leiji Matsumoto"
 
 # Leiji Matsumoto
 
-Leiji Matsumoto (松本零士)
-
-**Roles:** Manga Artist, Designer, Director, Storyboarder
+<div class="entity-meta">
+Leiji Matsumoto (松本零士)<br>
+Jobs: Manga Artist, Designer, Director, Storyboarder<br>
+</div>
 
 ## Interviews
 

@@ -4,6 +4,10 @@ title: "Tongari Boushi no Atelier"
 
 # Tongari Boushi no Atelier
 
+<div class="entity-meta">
+Anime • 2026<br>
+</div>
+
 ## Interviews
 
 ### Tongari Boushi no Atelier

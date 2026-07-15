@@ -4,9 +4,10 @@ title: "Makoto Kimura"
 
 # Makoto Kimura
 
-木村 誠
-
-**Roles:** Producer, Production Manager
+<div class="entity-meta">
+木村 誠<br>
+Jobs: Producer, Production Manager<br>
+</div>
 
 ## Interviews
 

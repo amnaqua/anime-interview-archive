@@ -4,9 +4,10 @@ title: "Haruki Asa"
 
 # Haruki Asa
 
-朝春輝
-
-**Roles:** 3DCG Artist
+<div class="entity-meta">
+朝春輝<br>
+Jobs: 3DCG Artist<br>
+</div>
 
 ## Interviews
 

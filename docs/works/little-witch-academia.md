@@ -4,6 +4,10 @@ title: "Little Witch Academia"
 
 # Little Witch Academia
 
+<div class="entity-meta">
+Anime • 2017<br>
+</div>
+
 ## Interviews
 
 ### Little Witch Academia

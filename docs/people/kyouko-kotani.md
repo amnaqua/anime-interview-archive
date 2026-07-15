@@ -4,9 +4,10 @@ title: "Kyouko Kotani"
 
 # Kyouko Kotani
 
-小谷 杏子
-
-**Roles:** Key Animator, Animation Director, Designer, In-Betweener
+<div class="entity-meta">
+小谷 杏子<br>
+Jobs: Key Animator, Animation Director, Designer, In-Betweener<br>
+</div>
 
 ## Interviews
 

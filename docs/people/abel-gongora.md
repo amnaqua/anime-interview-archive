@@ -4,7 +4,9 @@ title: "Abel Góngora"
 
 # Abel Góngora
 
-**Roles:** Director, Storyboarder, Key Animator, Background Artist, Composite Artist, Editor, Animation Director
+<div class="entity-meta">
+Jobs: Director, Storyboarder, Key Animator, Background Artist, Composite Artist, Editor, Animation Director<br>
+</div>
 
 ## Interviews
 

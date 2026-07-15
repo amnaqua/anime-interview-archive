@@ -4,9 +4,10 @@ title: "Shuuhei Tada"
 
 # Shuuhei Tada
 
-多田 周平
-
-**Roles:** Background Artist
+<div class="entity-meta">
+多田 周平<br>
+Jobs: Background Artist<br>
+</div>
 
 ## Interviews
 

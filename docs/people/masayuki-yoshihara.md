@@ -4,9 +4,10 @@ title: "Masayuki Yoshihara"
 
 # Masayuki Yoshihara
 
-吉原 正行
-
-**Roles:** Key Animator, Storyboarder, Director, Designer, Animation Director, In-Betweener
+<div class="entity-meta">
+吉原 正行<br>
+Jobs: Key Animator, Storyboarder, Director, Designer, Animation Director, In-Betweener<br>
+</div>
 
 ## Interviews
 

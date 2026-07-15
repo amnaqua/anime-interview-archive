@@ -4,6 +4,10 @@ title: "Captain Herlock (2013)"
 
 # Captain Herlock (2013)
 
+<div class="entity-meta">
+Anime • 2013<br>
+</div>
+
 ## Interviews
 
 ### Captain Herlock (2013)

@@ -4,6 +4,10 @@ title: "Kokoro ga Sakebitagatterunda."
 
 # Kokoro ga Sakebitagatterunda.
 
+<div class="entity-meta">
+Anime • 2015<br>
+</div>
+
 ## Interviews
 
 ### Kokoro ga Sakebitagatterunda.

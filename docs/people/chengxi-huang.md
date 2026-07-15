@@ -4,9 +4,10 @@ title: "Chengxi Huang"
 
 # Chengxi Huang
 
-黄成希 • 黃成希
-
-**Roles:** Key Animator, Director, Storyboarder, Animation Director, Designer, In-Betweener
+<div class="entity-meta">
+黄成希 • 黃成希<br>
+Jobs: Key Animator, Director, Storyboarder, Animation Director, Designer, In-Betweener<br>
+</div>
 
 ## Interviews
 

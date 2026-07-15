@@ -4,9 +4,10 @@ title: "Takafumi Nakame"
 
 # Takafumi Nakame
 
-Takafumi Nakame (中目貴史)
-
-**Roles:** Production Manager, Producer
+<div class="entity-meta">
+Takafumi Nakame (中目貴史)<br>
+Jobs: Production Manager, Producer<br>
+</div>
 
 ## Interviews
 

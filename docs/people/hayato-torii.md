@@ -4,9 +4,10 @@ title: "Hayato Torii"
 
 # Hayato Torii
 
-鳥井 隼人
-
-**Roles:** Animation Director, Key Animator, In-Betweener
+<div class="entity-meta">
+鳥井 隼人<br>
+Jobs: Animation Director, Key Animator, In-Betweener<br>
+</div>
 
 ## Interviews
 

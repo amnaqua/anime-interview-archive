@@ -4,6 +4,10 @@ title: "Re:Creators"
 
 # Re:Creators
 
+<div class="entity-meta">
+Anime • 2017<br>
+</div>
+
 ## Interviews
 
 ### Re:Creators

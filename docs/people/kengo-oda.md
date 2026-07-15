@@ -4,9 +4,10 @@ title: "Kengo Oda"
 
 # Kengo Oda
 
-織田健吾
-
-**Roles:** 3DCG Artist
+<div class="entity-meta">
+織田健吾<br>
+Jobs: 3DCG Artist<br>
+</div>
 
 ## Interviews
 

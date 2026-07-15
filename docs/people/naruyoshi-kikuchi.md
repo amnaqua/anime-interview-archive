@@ -4,9 +4,10 @@ title: "Naruyoshi Kikuchi"
 
 # Naruyoshi Kikuchi
 
-菊地 成孔
-
-**Roles:** Musician, Lyricist, Sound Artist, Singer
+<div class="entity-meta">
+菊地 成孔<br>
+Jobs: Musician, Lyricist, Sound Artist, Singer<br>
+</div>
 
 ## Interviews
 

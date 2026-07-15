@@ -4,6 +4,10 @@ title: "Boku no Hero Academia 2nd Season"
 
 # Boku no Hero Academia 2nd Season
 
+<div class="entity-meta">
+Anime • 2017<br>
+</div>
+
 ## Interviews
 
 ### Boku no Hero Academia 2nd Season

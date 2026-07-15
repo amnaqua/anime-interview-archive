@@ -4,6 +4,10 @@ title: "Tenmaku no Jaadugar"
 
 # Tenmaku no Jaadugar
 
+<div class="entity-meta">
+Anime • 2026<br>
+</div>
+
 ## Interviews
 
 ### Tenmaku no Jaadugar

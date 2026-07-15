@@ -4,9 +4,10 @@ title: "Mamoru Oshii"
 
 # Mamoru Oshii
 
-押井 守
-
-**Roles:** Director, Scriptwriter, Storyboarder, Producer
+<div class="entity-meta">
+押井 守<br>
+Jobs: Director, Scriptwriter, Storyboarder, Producer<br>
+</div>
 
 ## Interviews
 

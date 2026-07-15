@@ -4,9 +4,10 @@ title: "Futoshi Nishiya"
 
 # Futoshi Nishiya
 
-西屋 太志
-
-**Roles:** Animation Director, Designer, Key Animator, Producer
+<div class="entity-meta">
+西屋 太志<br>
+Jobs: Animation Director, Designer, Key Animator, Producer<br>
+</div>
 
 ## Interviews
 

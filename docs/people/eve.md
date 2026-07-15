@@ -4,9 +4,10 @@ title: "Eve"
 
 # Eve
 
-いぶ
-
-**Roles:** Musician, Singer, Lyricist, Sound Artist, Producer
+<div class="entity-meta">
+いぶ<br>
+Jobs: Musician, Singer, Lyricist, Sound Artist, Producer<br>
+</div>
 
 ## Interviews
 

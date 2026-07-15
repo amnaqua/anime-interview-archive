@@ -4,9 +4,10 @@ title: "Ryouta Aikou"
 
 # Ryouta Aikou
 
-愛甲亮汰
-
-**Roles:** In-Betweener
+<div class="entity-meta">
+愛甲亮汰<br>
+Jobs: In-Betweener<br>
+</div>
 
 ## Interviews
 

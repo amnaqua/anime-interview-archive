@@ -4,9 +4,10 @@ title: "Haruka Koseki"
 
 # Haruka Koseki
 
-小関遥
-
-**Roles:** In-Betweener
+<div class="entity-meta">
+小関遥<br>
+Jobs: In-Betweener<br>
+</div>
 
 ## Interviews
 

@@ -4,6 +4,10 @@ title: "Ghost in the Shell"
 
 # Ghost in the Shell
 
+<div class="entity-meta">
+Anime • 2026<br>
+</div>
+
 ## Interviews
 
 ### Ghost in the Shell (2026)

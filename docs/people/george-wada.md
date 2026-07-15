@@ -4,9 +4,10 @@ title: "George Wada"
 
 # George Wada
 
-和田 丈嗣
-
-**Roles:** Producer, Production Manager, Business
+<div class="entity-meta">
+和田 丈嗣<br>
+Jobs: Producer, Production Manager, Business<br>
+</div>
 
 ## Interviews
 

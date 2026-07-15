@@ -4,9 +4,10 @@ title: "Kenichi Sonoda"
 
 # Kenichi Sonoda
 
-園田 健一
-
-**Roles:** Designer, Key Animator, Storyboarder, Manga Artist
+<div class="entity-meta">
+園田 健一<br>
+Jobs: Designer, Key Animator, Storyboarder, Manga Artist<br>
+</div>
 
 ## Interviews
 

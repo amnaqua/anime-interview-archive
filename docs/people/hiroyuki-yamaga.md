@@ -4,9 +4,10 @@ title: "Hiroyuki Yamaga"
 
 # Hiroyuki Yamaga
 
-山賀博之
-
-**Roles:** Producer, Director, Scriptwriter, Storyboarder
+<div class="entity-meta">
+山賀博之<br>
+Jobs: Producer, Director, Scriptwriter, Storyboarder<br>
+</div>
 
 ## Interviews
 

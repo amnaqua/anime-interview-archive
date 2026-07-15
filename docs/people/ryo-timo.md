@@ -4,9 +4,10 @@ title: "Ryo-Timo"
 
 # Ryo-Timo
 
-りょーちも
-
-**Roles:** Designer, Director, 3DCG Artist, Editor, Scriptwriter, Storyboarder, Key Animator, In-Betweener, Colorist, Animation Director, Producer
+<div class="entity-meta">
+りょーちも<br>
+Jobs: Designer, Director, 3DCG Artist, Editor, Scriptwriter, Storyboarder, Key Animator, In-Betweener, Colorist, Animation Director, Producer<br>
+</div>
 
 ## Interviews
 

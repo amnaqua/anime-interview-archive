@@ -4,9 +4,10 @@ title: "Takushi Koide"
 
 # Takushi Koide
 
-小出 卓史
-
-**Roles:** Director, Storyboarder, Key Animator, Designer, Animation Director, In-Betweener, Musician
+<div class="entity-meta">
+小出 卓史<br>
+Jobs: Director, Storyboarder, Key Animator, Designer, Animation Director, In-Betweener, Musician<br>
+</div>
 
 ## Interviews
 

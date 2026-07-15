@@ -4,9 +4,10 @@ title: "Tatsuya Hiragi"
 
 # Tatsuya Hiragi
 
-平義樹弥
-
-**Roles:** Background Artist
+<div class="entity-meta">
+平義樹弥<br>
+Jobs: Background Artist<br>
+</div>
 
 ## Interviews
 

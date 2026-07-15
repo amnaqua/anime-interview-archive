@@ -4,9 +4,10 @@ title: "Shuuhei Handa"
 
 # Shuuhei Handa
 
-半田 修平
-
-**Roles:** Designer, Animation Director, Storyboarder, Key Animator, In-Betweener
+<div class="entity-meta">
+半田 修平<br>
+Jobs: Designer, Animation Director, Storyboarder, Key Animator, In-Betweener<br>
+</div>
 
 ## Interviews
 

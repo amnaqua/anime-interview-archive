@@ -4,9 +4,10 @@ title: "Rikuto Shinada"
 
 # Rikuto Shinada
 
-品田陸登
-
-**Roles:** In-Betweener, Key Animator
+<div class="entity-meta">
+品田陸登<br>
+Jobs: In-Betweener, Key Animator<br>
+</div>
 
 ## Interviews
 

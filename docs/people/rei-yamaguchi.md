@@ -4,9 +4,10 @@ title: "Rei Yamaguchi"
 
 # Rei Yamaguchi
 
-山口黎
-
-**Roles:** Production Manager
+<div class="entity-meta">
+山口黎<br>
+Jobs: Production Manager<br>
+</div>
 
 ## Interviews
 

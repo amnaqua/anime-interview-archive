@@ -4,9 +4,10 @@ title: "Mitsurou Kubo"
 
 # Mitsurou Kubo
 
-久保 ミツロウ
-
-**Roles:** Designer, Key Animator, Manga Artist
+<div class="entity-meta">
+久保 ミツロウ<br>
+Jobs: Designer, Key Animator, Manga Artist<br>
+</div>
 
 ## Interviews
 

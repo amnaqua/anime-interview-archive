@@ -4,9 +4,10 @@ title: "Kazuki Akane"
 
 # Kazuki Akane
 
-赤根 和樹
-
-**Roles:** Storyboarder, Director, Scriptwriter, Production Manager
+<div class="entity-meta">
+赤根 和樹<br>
+Jobs: Storyboarder, Director, Scriptwriter, Production Manager<br>
+</div>
 
 ## Interviews
 

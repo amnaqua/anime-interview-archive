@@ -4,9 +4,10 @@ title: "Yasuyuki Ueda"
 
 # Yasuyuki Ueda
 
-上田 耕行
-
-**Roles:** Producer, Production Manager
+<div class="entity-meta">
+上田 耕行<br>
+Jobs: Producer, Production Manager<br>
+</div>
 
 ## Interviews
 

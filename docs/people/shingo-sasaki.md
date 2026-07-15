@@ -4,9 +4,10 @@ title: "Shingo Sasaki"
 
 # Shingo Sasaki
 
-佐々木進伍
-
-**Roles:** 3DCG Artist
+<div class="entity-meta">
+佐々木進伍<br>
+Jobs: 3DCG Artist<br>
+</div>
 
 ## Interviews
 

@@ -4,9 +4,10 @@ title: "Sunao Katabuchi"
 
 # Sunao Katabuchi
 
-片渕 須直
-
-**Roles:** Director, Sound Artist, Lyricist, Storyboarder, Scriptwriter, Designer
+<div class="entity-meta">
+片渕 須直<br>
+Jobs: Director, Sound Artist, Lyricist, Storyboarder, Scriptwriter, Designer<br>
+</div>
 
 ## Interviews
 

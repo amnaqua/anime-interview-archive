@@ -4,6 +4,10 @@ title: "Welcome to the Ballroom"
 
 # Welcome to the Ballroom
 
+<div class="entity-meta">
+Anime • 2017<br>
+</div>
+
 ## Interviews
 
 ### Welcome to the Ballroom

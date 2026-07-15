@@ -4,9 +4,10 @@ title: "Shimba Tsuchiya"
 
 # Shimba Tsuchiya
 
-土屋神葉
-
-**Roles:** Voice Actor
+<div class="entity-meta">
+土屋神葉<br>
+Jobs: Voice Actor<br>
+</div>
 
 ## Interviews
 

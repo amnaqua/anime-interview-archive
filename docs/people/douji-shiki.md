@@ -4,9 +4,10 @@ title: "Douji Shiki"
 
 # Douji Shiki
 
-四季童子
-
-**Roles:** Designer
+<div class="entity-meta">
+四季童子<br>
+Jobs: Designer<br>
+</div>
 
 ## Interviews
 

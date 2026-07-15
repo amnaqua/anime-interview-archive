@@ -4,9 +4,10 @@ title: "Hiroyuki Seshita"
 
 # Hiroyuki Seshita
 
-Hiroyuki Seshita (瀬下寛之)
-
-**Roles:** Director, Storyboarder
+<div class="entity-meta">
+Hiroyuki Seshita (瀬下寛之)<br>
+Jobs: Director, Storyboarder<br>
+</div>
 
 ## Interviews
 

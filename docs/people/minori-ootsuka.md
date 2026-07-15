@@ -4,9 +4,10 @@ title: "Minori Ootsuka"
 
 # Minori Ootsuka
 
-大塚 実梨
-
-**Roles:** Colorist, In-Betweener
+<div class="entity-meta">
+大塚 実梨<br>
+Jobs: Colorist, In-Betweener<br>
+</div>
 
 ## Interviews
 

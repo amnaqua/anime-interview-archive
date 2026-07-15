@@ -4,9 +4,10 @@ title: "Yuuichi Nakamura"
 
 # Yuuichi Nakamura
 
-中村悠一
-
-**Roles:** Singer, Voice Actor
+<div class="entity-meta">
+中村悠一<br>
+Jobs: Singer, Voice Actor<br>
+</div>
 
 ## Interviews
 

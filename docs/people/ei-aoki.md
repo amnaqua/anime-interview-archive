@@ -4,9 +4,10 @@ title: "Ei Aoki"
 
 # Ei Aoki
 
-あおきえい • 青木英
-
-**Roles:** Director, Storyboarder, Scriptwriter, Key Animator, Composite Artist
+<div class="entity-meta">
+あおきえい • 青木英<br>
+Jobs: Director, Storyboarder, Scriptwriter, Key Animator, Composite Artist<br>
+</div>
 
 ## Interviews
 

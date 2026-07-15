@@ -4,9 +4,10 @@ title: "Kaoru Miyabara"
 
 # Kaoru Miyabara
 
-宮原 郁
-
-**Roles:** Production Manager
+<div class="entity-meta">
+宮原 郁<br>
+Jobs: Production Manager<br>
+</div>
 
 ## Interviews
 

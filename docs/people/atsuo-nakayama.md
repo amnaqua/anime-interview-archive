@@ -4,9 +4,10 @@ title: "Atsuo Nakayama"
 
 # Atsuo Nakayama
 
-中山 淳雄
-
-**Roles:** Producer
+<div class="entity-meta">
+中山 淳雄<br>
+Jobs: Producer<br>
+</div>
 
 ## Interviews
 

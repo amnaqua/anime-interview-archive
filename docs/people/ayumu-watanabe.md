@@ -4,9 +4,10 @@ title: "Ayumu Watanabe"
 
 # Ayumu Watanabe
 
-渡辺 歩
-
-**Roles:** Director, Storyboarder, Sound Artist, Scriptwriter, Designer, Key Animator, Animation Director, In-Betweener
+<div class="entity-meta">
+渡辺 歩<br>
+Jobs: Director, Storyboarder, Sound Artist, Scriptwriter, Designer, Key Animator, Animation Director, In-Betweener<br>
+</div>
 
 ## Interviews
 

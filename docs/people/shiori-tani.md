@@ -4,9 +4,10 @@ title: "Shiori Tani"
 
 # Shiori Tani
 
-谷紫織
-
-**Roles:** Designer, Animation Director, Key Animator, In-Betweener
+<div class="entity-meta">
+谷紫織<br>
+Jobs: Designer, Animation Director, Key Animator, In-Betweener<br>
+</div>
 
 ## Interviews
 

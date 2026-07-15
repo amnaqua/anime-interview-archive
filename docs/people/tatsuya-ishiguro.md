@@ -4,9 +4,10 @@ title: "Tatsuya Ishiguro"
 
 # Tatsuya Ishiguro
 
-石黒 達也
-
-**Roles:** Producer, Director, Key Animator, Storyboarder, Production Manager
+<div class="entity-meta">
+石黒 達也<br>
+Jobs: Producer, Director, Key Animator, Storyboarder, Production Manager<br>
+</div>
 
 ## Interviews
 

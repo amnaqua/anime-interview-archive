@@ -4,9 +4,10 @@ title: "Yutaka Nakamura"
 
 # Yutaka Nakamura
 
-中村 豊
-
-**Roles:** Animation Director, Key Animator, Storyboarder, Designer, Director, In-Betweener
+<div class="entity-meta">
+中村 豊<br>
+Jobs: Animation Director, Key Animator, Storyboarder, Designer, Director, In-Betweener<br>
+</div>
 
 ## Interviews
 

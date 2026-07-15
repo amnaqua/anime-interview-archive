@@ -4,9 +4,10 @@ title: "Muneki Ogasawara"
 
 # Muneki Ogasawara
 
-小笠原 宗紀
-
-**Roles:** Producer, Director, Production Manager
+<div class="entity-meta">
+小笠原 宗紀<br>
+Jobs: Producer, Director, Production Manager<br>
+</div>
 
 ## Interviews
 

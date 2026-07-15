@@ -4,9 +4,10 @@ title: "Ririka Furukawa"
 
 # Ririka Furukawa
 
-古川 璃々花
-
-**Roles:** 3DCG Artist
+<div class="entity-meta">
+古川 璃々花<br>
+Jobs: 3DCG Artist<br>
+</div>
 
 ## Interviews
 

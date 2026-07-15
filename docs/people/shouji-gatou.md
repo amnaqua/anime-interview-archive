@@ -4,9 +4,10 @@ title: "Shouji Gatou"
 
 # Shouji Gatou
 
-賀東招二
-
-**Roles:** Scriptwriter
+<div class="entity-meta">
+賀東招二<br>
+Jobs: Scriptwriter<br>
+</div>
 
 ## Interviews
 

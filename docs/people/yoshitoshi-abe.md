@@ -4,9 +4,10 @@ title: "Yoshitoshi Abe"
 
 # Yoshitoshi Abe
 
-安倍 吉俊
-
-**Roles:** Designer, Scriptwriter, Key Animator, Manga Artist
+<div class="entity-meta">
+安倍 吉俊<br>
+Jobs: Designer, Scriptwriter, Key Animator, Manga Artist<br>
+</div>
 
 ## Interviews
 

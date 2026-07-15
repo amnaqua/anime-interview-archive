@@ -4,6 +4,10 @@ title: "Keep Your Hands Off Eizouken!"
 
 # Keep Your Hands Off Eizouken!
 
+<div class="entity-meta">
+Anime • 2020<br>
+</div>
+
 ## Interviews
 
 ### Keep Your Hands Off Eizouken!

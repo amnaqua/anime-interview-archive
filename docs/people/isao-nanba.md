@@ -4,9 +4,10 @@ title: "Isao Nanba"
 
 # Isao Nanba
 
-難波 功
-
-**Roles:** Animation Director, Key Animator, Director, Designer, In-Betweener
+<div class="entity-meta">
+難波 功<br>
+Jobs: Animation Director, Key Animator, Director, Designer, In-Betweener<br>
+</div>
 
 ## Interviews
 

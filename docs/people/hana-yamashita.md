@@ -4,9 +4,10 @@ title: "Hana Yamashita"
 
 # Hana Yamashita
 
-山下花菜
-
-**Roles:** Composite Artist
+<div class="entity-meta">
+山下花菜<br>
+Jobs: Composite Artist<br>
+</div>
 
 ## Interviews
 

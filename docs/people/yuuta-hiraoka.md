@@ -4,9 +4,10 @@ title: "Yuuta Hiraoka"
 
 # Yuuta Hiraoka
 
-平岡 雄大
-
-**Roles:** Producer
+<div class="entity-meta">
+平岡 雄大<br>
+Jobs: Producer<br>
+</div>
 
 ## Interviews
 

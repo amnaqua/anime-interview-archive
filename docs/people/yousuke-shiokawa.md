@@ -4,7 +4,9 @@ title: "Yousuke Shiokawa"
 
 # Yousuke Shiokawa
 
-塩川洋介
+<div class="entity-meta">
+塩川洋介<br>
+</div>
 
 ## Interviews
 

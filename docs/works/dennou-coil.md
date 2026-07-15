@@ -4,6 +4,10 @@ title: "Dennou Coil"
 
 # Dennou Coil
 
+<div class="entity-meta">
+Anime • 2007<br>
+</div>
+
 ## Interviews
 
 ### Dennou Coil

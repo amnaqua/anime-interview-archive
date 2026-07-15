@@ -4,6 +4,10 @@ title: "Sayonara Lara"
 
 # Sayonara Lara
 
+<div class="entity-meta">
+Anime • 2026<br>
+</div>
+
 ## Interviews
 
 ### Sayonara Lara

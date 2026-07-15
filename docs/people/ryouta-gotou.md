@@ -4,9 +4,10 @@ title: "Ryouta Gotou"
 
 # Ryouta Gotou
 
-後藤 亮太
-
-**Roles:** Background Artist
+<div class="entity-meta">
+後藤 亮太<br>
+Jobs: Background Artist<br>
+</div>
 
 ## Interviews
 

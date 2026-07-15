@@ -4,9 +4,10 @@ title: "Tensai Okamura"
 
 # Tensai Okamura
 
-岡村天斎 • 岡村天斉
-
-**Roles:** Storyboarder, Key Animator, Director, Scriptwriter, Animation Director, Designer, In-Betweener
+<div class="entity-meta">
+岡村天斎 • 岡村天斉<br>
+Jobs: Storyboarder, Key Animator, Director, Scriptwriter, Animation Director, Designer, In-Betweener<br>
+</div>
 
 ## Interviews
 

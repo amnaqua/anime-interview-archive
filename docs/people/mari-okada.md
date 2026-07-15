@@ -4,9 +4,10 @@ title: "Mari Okada"
 
 # Mari Okada
 
-岡田 麿里
-
-**Roles:** Scriptwriter, Director, Lyricist, Storyboarder
+<div class="entity-meta">
+岡田 麿里<br>
+Jobs: Scriptwriter, Director, Lyricist, Storyboarder<br>
+</div>
 
 ## Interviews
 

@@ -4,9 +4,10 @@ title: "Ryousuke Baba"
 
 # Ryousuke Baba
 
-馬塲亮輔
-
-**Roles:** Composite Artist
+<div class="entity-meta">
+馬塲亮輔<br>
+Jobs: Composite Artist<br>
+</div>
 
 ## Interviews
 

@@ -4,6 +4,10 @@ title: "Koe no Katachi"
 
 # Koe no Katachi
 
+<div class="entity-meta">
+Anime • 2016<br>
+</div>
+
 ## Interviews
 
 ### Koe no Katachi

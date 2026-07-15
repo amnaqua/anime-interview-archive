@@ -4,9 +4,10 @@ title: "Ayumu Ikegami"
 
 # Ayumu Ikegami
 
-池上歩夢
-
-**Roles:** In-Betweener
+<div class="entity-meta">
+池上歩夢<br>
+Jobs: In-Betweener<br>
+</div>
 
 ## Interviews
 

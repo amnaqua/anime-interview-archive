@@ -4,6 +4,10 @@ title: "Naruto: Shippuuden"
 
 # Naruto: Shippuuden
 
+<div class="entity-meta">
+Anime • 2007<br>
+</div>
+
 ## Interviews
 
 ### Naruto

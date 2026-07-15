@@ -4,9 +4,10 @@ title: "Misaki Yamasawa"
 
 # Misaki Yamasawa
 
-山澤 美紗紀
-
-**Roles:** Colorist, In-Betweener
+<div class="entity-meta">
+山澤 美紗紀<br>
+Jobs: Colorist, In-Betweener<br>
+</div>
 
 ## Interviews
 

@@ -4,9 +4,10 @@ title: "Atsushi Nishigori"
 
 # Atsushi Nishigori
 
-錦織 敦史
-
-**Roles:** Designer, Director, Key Animator, Animation Director, Storyboarder, Scriptwriter, In-Betweener
+<div class="entity-meta">
+錦織 敦史<br>
+Jobs: Designer, Director, Key Animator, Animation Director, Storyboarder, Scriptwriter, In-Betweener<br>
+</div>
 
 ## Interviews
 

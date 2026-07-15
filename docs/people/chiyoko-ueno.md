@@ -4,9 +4,10 @@ title: "Chiyoko Ueno"
 
 # Chiyoko Ueno
 
-植野 千世子
-
-**Roles:** Key Animator, Animation Director, Designer, Producer, In-Betweener
+<div class="entity-meta">
+植野 千世子<br>
+Jobs: Key Animator, Animation Director, Designer, Producer, In-Betweener<br>
+</div>
 
 ## Interviews
 

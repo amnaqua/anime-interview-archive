@@ -4,6 +4,10 @@ title: "Mahoutsukai no Yome"
 
 # Mahoutsukai no Yome
 
+<div class="entity-meta">
+Anime • 2017<br>
+</div>
+
 ## Interviews
 
 ### Mahoutsukai no Yome

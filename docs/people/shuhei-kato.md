@@ -4,9 +4,10 @@ title: "Shuhei Kato"
 
 # Shuhei Kato
 
-加藤柊平
-
-**Roles:** 3DCG Artist
+<div class="entity-meta">
+加藤柊平<br>
+Jobs: 3DCG Artist<br>
+</div>
 
 ## Interviews
 

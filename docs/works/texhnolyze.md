@@ -4,6 +4,10 @@ title: "Texhnolyze"
 
 # Texhnolyze
 
+<div class="entity-meta">
+Anime • 2003<br>
+</div>
+
 ## Interviews
 
 ### Texhnolyze

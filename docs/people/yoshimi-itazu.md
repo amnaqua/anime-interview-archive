@@ -4,9 +4,10 @@ title: "Yoshimi Itazu"
 
 # Yoshimi Itazu
 
-板津匡覧
-
-**Roles:** Director, Storyboarder, Key Animator, Animation Director, In-Betweener, Designer
+<div class="entity-meta">
+板津匡覧<br>
+Jobs: Director, Storyboarder, Key Animator, Animation Director, In-Betweener, Designer<br>
+</div>
 
 ## Interviews
 

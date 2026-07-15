@@ -4,9 +4,10 @@ title: "Hiroshi Nakajima"
 
 # Hiroshi Nakajima
 
-中島 宏
-
-**Roles:** 3DCG Artist, Director
+<div class="entity-meta">
+中島 宏<br>
+Jobs: 3DCG Artist, Director<br>
+</div>
 
 ## Interviews
 

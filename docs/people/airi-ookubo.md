@@ -4,9 +4,10 @@ title: "Airi Ookubo"
 
 # Airi Ookubo
 
-大久保 愛理
-
-**Roles:** Production Manager
+<div class="entity-meta">
+大久保 愛理<br>
+Jobs: Production Manager<br>
+</div>
 
 ## Interviews
 

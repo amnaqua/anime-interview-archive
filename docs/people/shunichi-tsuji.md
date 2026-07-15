@@ -4,9 +4,10 @@ title: "Shunichi Tsuji"
 
 # Shunichi Tsuji
 
-辻 俊一
-
-**Roles:** Producer, Production Manager
+<div class="entity-meta">
+辻 俊一<br>
+Jobs: Producer, Production Manager<br>
+</div>
 
 ## Interviews
 

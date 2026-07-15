@@ -4,7 +4,9 @@ title: "Christopher Sabat"
 
 # Christopher Sabat
 
-**Roles:** Voice Actor
+<div class="entity-meta">
+Jobs: Voice Actor<br>
+</div>
 
 ## Interviews
 

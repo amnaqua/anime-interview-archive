@@ -4,9 +4,10 @@ title: "Satoshi Nakano"
 
 # Satoshi Nakano
 
-中野 悟史
-
-**Roles:** Director, Animation Director, Key Animator, Storyboarder, Designer, In-Betweener
+<div class="entity-meta">
+中野 悟史<br>
+Jobs: Director, Animation Director, Key Animator, Storyboarder, Designer, In-Betweener<br>
+</div>
 
 ## Interviews
 

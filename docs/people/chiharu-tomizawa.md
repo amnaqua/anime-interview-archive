@@ -4,9 +4,10 @@ title: "Chiharu Tomizawa"
 
 # Chiharu Tomizawa
 
-冨澤千春
-
-**Roles:** Background Artist
+<div class="entity-meta">
+冨澤千春<br>
+Jobs: Background Artist<br>
+</div>
 
 ## Interviews
 

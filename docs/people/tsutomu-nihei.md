@@ -4,9 +4,10 @@ title: "Tsutomu Nihei"
 
 # Tsutomu Nihei
 
-Tsutomu Nihei (弐瓶勉)
-
-**Roles:** Manga Artist
+<div class="entity-meta">
+Tsutomu Nihei (弐瓶勉)<br>
+Jobs: Manga Artist<br>
+</div>
 
 ## Interviews
 

@@ -4,9 +4,10 @@ title: "You Yoshinari"
 
 # You Yoshinari
 
-吉成 曜
-
-**Roles:** Key Animator, Designer, Storyboarder, Animation Director, Director, In-Betweener
+<div class="entity-meta">
+吉成 曜<br>
+Jobs: Key Animator, Designer, Storyboarder, Animation Director, Director, In-Betweener<br>
+</div>
 
 ## Interviews
 

@@ -4,9 +4,10 @@ title: "Motonobu Hishinuma"
 
 # Motonobu Hishinuma
 
-菱沼誉常
-
-**Roles:** 3DCG Artist
+<div class="entity-meta">
+菱沼誉常<br>
+Jobs: 3DCG Artist<br>
+</div>
 
 ## Interviews
 

@@ -4,9 +4,10 @@ title: "Kiyotaka Oshiyama"
 
 # Kiyotaka Oshiyama
 
-押山 清高
-
-**Roles:** Designer, Key Animator, Director, Lyricist, Storyboarder, Animation Director, In-Betweener, Scriptwriter
+<div class="entity-meta">
+押山 清高<br>
+Jobs: Designer, Key Animator, Director, Lyricist, Storyboarder, Animation Director, In-Betweener, Scriptwriter<br>
+</div>
 
 ## Interviews
 

@@ -4,9 +4,10 @@ title: "Tetsuya Kinoshita"
 
 # Tetsuya Kinoshita
 
-木下哲哉
-
-**Roles:** Producer, Production Manager, Business
+<div class="entity-meta">
+木下哲哉<br>
+Jobs: Producer, Production Manager, Business<br>
+</div>
 
 ## Interviews
 

@@ -4,9 +4,10 @@ title: "Yuka Kitamura"
 
 # Yuka Kitamura
 
-北村 友香
-
-**Roles:** Musician
+<div class="entity-meta">
+北村 友香<br>
+Jobs: Musician<br>
+</div>
 
 ## Interviews
 

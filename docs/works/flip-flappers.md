@@ -4,6 +4,10 @@ title: "Flip Flappers"
 
 # Flip Flappers
 
+<div class="entity-meta">
+Anime • 2016<br>
+</div>
+
 ## Interviews
 
 ### Flip Flappers

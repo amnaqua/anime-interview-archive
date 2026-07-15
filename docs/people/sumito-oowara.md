@@ -4,9 +4,10 @@ title: "Sumito Oowara"
 
 # Sumito Oowara
 
-Sumito Oowara (大童澄瞳)
-
-**Roles:** Manga Artist, Designer
+<div class="entity-meta">
+Sumito Oowara (大童澄瞳)<br>
+Jobs: Manga Artist, Designer<br>
+</div>
 
 ## Interviews
 

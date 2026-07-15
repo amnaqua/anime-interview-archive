@@ -4,9 +4,10 @@ title: "Jun Katou"
 
 # Jun Katou
 
-加藤 淳
-
-**Roles:** Producer, Production Manager
+<div class="entity-meta">
+加藤 淳<br>
+Jobs: Producer, Production Manager<br>
+</div>
 
 ## Interviews
 

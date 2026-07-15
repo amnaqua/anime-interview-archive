@@ -4,9 +4,10 @@ title: "Shinji Aramaki"
 
 # Shinji Aramaki
 
-Shinji Aramaki (荒牧伸志)
-
-**Roles:** Designer, Director, Storyboarder, Producer, Scriptwriter, Key Animator
+<div class="entity-meta">
+Shinji Aramaki (荒牧伸志)<br>
+Jobs: Designer, Director, Storyboarder, Producer, Scriptwriter, Key Animator<br>
+</div>
 
 ## Interviews
 

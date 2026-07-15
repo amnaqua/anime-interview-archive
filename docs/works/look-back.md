@@ -4,6 +4,10 @@ title: "Look Back"
 
 # Look Back
 
+<div class="entity-meta">
+Anime • 2024<br>
+</div>
+
 ## Interviews
 
 ### Look Back

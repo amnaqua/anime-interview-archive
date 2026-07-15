@@ -4,9 +4,10 @@ title: "Yasuhiro Takemoto"
 
 # Yasuhiro Takemoto
 
-武本康弘
-
-**Roles:** Director, Storyboarder, Scriptwriter, Key Animator, Producer, Animation Director, Designer, In-Betweener
+<div class="entity-meta">
+武本康弘<br>
+Jobs: Director, Storyboarder, Scriptwriter, Key Animator, Producer, Animation Director, Designer, In-Betweener<br>
+</div>
 
 ## Interviews
 

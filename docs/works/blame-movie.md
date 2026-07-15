@@ -4,6 +4,10 @@ title: "Blame! Movie"
 
 # Blame! Movie
 
+<div class="entity-meta">
+Anime • 2017<br>
+</div>
+
 ## Interviews
 
 ### Blame! Movie

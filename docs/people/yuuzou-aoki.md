@@ -4,9 +4,10 @@ title: "Yuuzou Aoki"
 
 # Yuuzou Aoki
 
-青木悠三 • 青木雄三 • 畑中由宇
-
-**Roles:** Storyboarder, Key Animator, Designer, Animation Director, Director
+<div class="entity-meta">
+青木悠三 • 青木雄三 • 畑中由宇<br>
+Jobs: Storyboarder, Key Animator, Designer, Animation Director, Director<br>
+</div>
 
 ## Interviews
 

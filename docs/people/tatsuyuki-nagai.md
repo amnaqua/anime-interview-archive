@@ -4,9 +4,10 @@ title: "Tatsuyuki Nagai"
 
 # Tatsuyuki Nagai
 
-長井 龍雪
-
-**Roles:** Director, Storyboarder, Key Animator, Production Manager
+<div class="entity-meta">
+長井 龍雪<br>
+Jobs: Director, Storyboarder, Key Animator, Production Manager<br>
+</div>
 
 ## Interviews
 

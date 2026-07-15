@@ -4,9 +4,10 @@ title: "Yui Tomita"
 
 # Yui Tomita
 
-冨田 結伊
-
-**Roles:** Composite Artist, Designer
+<div class="entity-meta">
+冨田 結伊<br>
+Jobs: Composite Artist, Designer<br>
+</div>
 
 ## Interviews
 

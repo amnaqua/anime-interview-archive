@@ -4,9 +4,10 @@ title: "Yoshihisa Satou"
 
 # Yoshihisa Satou
 
-佐藤 義久
-
-**Roles:** Key Animator, Animation Director, Designer, In-Betweener
+<div class="entity-meta">
+佐藤 義久<br>
+Jobs: Key Animator, Animation Director, Designer, In-Betweener<br>
+</div>
 
 ## Interviews
 

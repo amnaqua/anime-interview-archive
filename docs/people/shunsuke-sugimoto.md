@@ -4,9 +4,10 @@ title: "Shunsuke Sugimoto"
 
 # Shunsuke Sugimoto
 
-杉本 俊輔
-
-**Roles:** Producer, Production Manager, Scriptwriter
+<div class="entity-meta">
+杉本 俊輔<br>
+Jobs: Producer, Production Manager, Scriptwriter<br>
+</div>
 
 ## Interviews
 

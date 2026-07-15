@@ -4,9 +4,10 @@ title: "Shouji Murahama"
 
 # Shouji Murahama
 
-村濱 章司
-
-**Roles:** Producer, Production Manager
+<div class="entity-meta">
+村濱 章司<br>
+Jobs: Producer, Production Manager<br>
+</div>
 
 ## Interviews
 

@@ -4,9 +4,10 @@ title: "Tsutomu Mizushima"
 
 # Tsutomu Mizushima
 
-水島 努
-
-**Roles:** Director, Storyboarder, Sound Artist, Lyricist, Musician, Scriptwriter, Production Manager
+<div class="entity-meta">
+水島 努<br>
+Jobs: Director, Storyboarder, Sound Artist, Lyricist, Musician, Scriptwriter, Production Manager<br>
+</div>
 
 ## Interviews
 

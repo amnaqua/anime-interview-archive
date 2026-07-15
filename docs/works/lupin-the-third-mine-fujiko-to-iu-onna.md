@@ -4,6 +4,10 @@ title: "Lupin the Third: The Woman Called Fujiko Mine"
 
 # Lupin the Third: The Woman Called Fujiko Mine
 
+<div class="entity-meta">
+Anime • 2012<br>
+</div>
+
 ## Interviews
 
 ### Sound Design of Woman Called Fujiko Mine

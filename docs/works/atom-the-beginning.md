@@ -4,6 +4,10 @@ title: "Atom: The Beginning"
 
 # Atom: The Beginning
 
+<div class="entity-meta">
+Anime • 2017<br>
+</div>
+
 ## Interviews
 
 ### Atom: The Beginning

@@ -4,6 +4,10 @@ title: "Lupin III"
 
 # Lupin III
 
+<div class="entity-meta">
+Anime • 1971<br>
+</div>
+
 ## Interviews
 
 ### Lupin III

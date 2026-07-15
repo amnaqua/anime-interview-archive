@@ -4,6 +4,10 @@ title: "Yasuke"
 
 # Yasuke
 
+<div class="entity-meta">
+Anime • 2021<br>
+</div>
+
 ## Interviews
 
 ### Yasuke

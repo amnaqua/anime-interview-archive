@@ -1,0 +1,12 @@
+.entity-meta {
+    margin-top: 0.4rem;
+    margin-bottom: 0.8rem;
+
+    color: var(--vp-c-text-2);
+    font-size: 0.85rem;
+    line-height: 1.4;
+}
+
+.entity-meta + h2 {
+    margin-top: 1rem;
+}

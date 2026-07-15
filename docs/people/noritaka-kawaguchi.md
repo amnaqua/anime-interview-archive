@@ -4,9 +4,10 @@ title: "Noritaka Kawaguchi"
 
 # Noritaka Kawaguchi
 
-川口 典孝
-
-**Roles:** Musician, Producer, Production Manager
+<div class="entity-meta">
+川口 典孝<br>
+Jobs: Musician, Producer, Production Manager<br>
+</div>
 
 ## Interviews
 

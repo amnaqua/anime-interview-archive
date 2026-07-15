@@ -4,9 +4,10 @@ title: "Yuito Watanabe"
 
 # Yuito Watanabe
 
-渡邉 唯人
-
-**Roles:** Production Manager
+<div class="entity-meta">
+渡邉 唯人<br>
+Jobs: Production Manager<br>
+</div>
 
 ## Interviews
 

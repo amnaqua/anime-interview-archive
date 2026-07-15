@@ -4,9 +4,10 @@ title: "Kai Ikarashi"
 
 # Kai Ikarashi
 
-五十嵐 海
-
-**Roles:** Director, Storyboarder, Designer, Scriptwriter, Key Animator, Animation Director, Background Artist, In-Betweener
+<div class="entity-meta">
+五十嵐 海<br>
+Jobs: Director, Storyboarder, Designer, Scriptwriter, Key Animator, Animation Director, Background Artist, In-Betweener<br>
+</div>
 
 ## Interviews
 

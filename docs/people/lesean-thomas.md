@@ -4,7 +4,9 @@ title: "LeSean Thomas"
 
 # LeSean Thomas
 
-**Roles:** Director, Storyboarder, Producer, Scriptwriter, Designer
+<div class="entity-meta">
+Jobs: Director, Storyboarder, Producer, Scriptwriter, Designer<br>
+</div>
 
 ## Interviews
 

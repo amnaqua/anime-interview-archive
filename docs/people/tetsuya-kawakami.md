@@ -4,9 +4,10 @@ title: "Tetsuya Kawakami"
 
 # Tetsuya Kawakami
 
-川上哲也
-
-**Roles:** Animation Director, Designer, Key Animator, In-Betweener
+<div class="entity-meta">
+川上哲也<br>
+Jobs: Animation Director, Designer, Key Animator, In-Betweener<br>
+</div>
 
 ## Interviews
 

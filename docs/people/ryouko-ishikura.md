@@ -4,9 +4,10 @@ title: "Ryouko Ishikura"
 
 # Ryouko Ishikura
 
-石倉諒子
-
-**Roles:** Production Manager
+<div class="entity-meta">
+石倉諒子<br>
+Jobs: Production Manager<br>
+</div>
 
 ## Interviews
 

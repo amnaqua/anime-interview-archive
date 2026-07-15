@@ -4,9 +4,10 @@ title: "Tadahiro Shibata"
 
 # Tadahiro Shibata
 
-柴田 匡寛
-
-**Roles:** Production Manager
+<div class="entity-meta">
+柴田 匡寛<br>
+Jobs: Production Manager<br>
+</div>
 
 ## Interviews
 

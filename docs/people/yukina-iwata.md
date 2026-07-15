@@ -4,9 +4,10 @@ title: "Yukina Iwata"
 
 # Yukina Iwata
 
-岩田幸奈
-
-**Roles:** In-Betweener
+<div class="entity-meta">
+岩田幸奈<br>
+Jobs: In-Betweener<br>
+</div>
 
 ## Interviews
 

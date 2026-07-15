@@ -4,6 +4,10 @@ title: "The Reflection"
 
 # The Reflection
 
+<div class="entity-meta">
+Anime • 2017<br>
+</div>
+
 ## Interviews
 
 ### The Reflection

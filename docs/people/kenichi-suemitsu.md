@@ -4,9 +4,10 @@ title: "Kenichi Suemitsu"
 
 # Kenichi Suemitsu
 
-末満健一
-
-**Roles:** Manga Artist, Scriptwriter
+<div class="entity-meta">
+末満健一<br>
+Jobs: Manga Artist, Scriptwriter<br>
+</div>
 
 ## Interviews
 

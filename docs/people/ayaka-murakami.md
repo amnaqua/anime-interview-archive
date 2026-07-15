@@ -4,9 +4,10 @@ title: "Ayaka Murakami"
 
 # Ayaka Murakami
 
-村上 彩夏
-
-**Roles:** Colorist
+<div class="entity-meta">
+村上 彩夏<br>
+Jobs: Colorist<br>
+</div>
 
 ## Interviews
 

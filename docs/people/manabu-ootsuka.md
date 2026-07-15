@@ -4,9 +4,10 @@ title: "Manabu Ootsuka"
 
 # Manabu Ootsuka
 
-大塚学
-
-**Roles:** Producer, Production Manager
+<div class="entity-meta">
+大塚学<br>
+Jobs: Producer, Production Manager<br>
+</div>
 
 ## Interviews
 

@@ -4,9 +4,10 @@ title: "Kazuki Maejima"
 
 # Kazuki Maejima
 
-前島和記
-
-**Roles:** Production Manager
+<div class="entity-meta">
+前島和記<br>
+Jobs: Production Manager<br>
+</div>
 
 ## Interviews
 

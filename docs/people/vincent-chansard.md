@@ -4,7 +4,9 @@ title: "Vincent Chansard"
 
 # Vincent Chansard
 
-**Roles:** Key Animator, Storyboarder
+<div class="entity-meta">
+Jobs: Key Animator, Storyboarder<br>
+</div>
 
 ## Interviews
 

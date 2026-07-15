@@ -4,9 +4,10 @@ title: "Yurika Seki"
 
 # Yurika Seki
 
-關優梨花
-
-**Roles:** Composite Artist
+<div class="entity-meta">
+關優梨花<br>
+Jobs: Composite Artist<br>
+</div>
 
 ## Interviews
 

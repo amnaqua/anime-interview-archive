@@ -4,9 +4,10 @@ title: "Shouji Kawamori"
 
 # Shouji Kawamori
 
-河森 正治
-
-**Roles:** Designer, Storyboarder, Director, Musician, Scriptwriter, Key Animator
+<div class="entity-meta">
+河森 正治<br>
+Jobs: Designer, Storyboarder, Director, Musician, Scriptwriter, Key Animator<br>
+</div>
 
 ## Interviews
 

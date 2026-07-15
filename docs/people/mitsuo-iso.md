@@ -4,9 +4,10 @@ title: "Mitsuo Iso"
 
 # Mitsuo Iso
 
-Mitsuo Iso (磯光雄) • Mikio Odagawa (小田川幹雄) • Hideo Nieta (贄田秀雄)
-
-**Roles:** Designer, Director, Storyboarder, Composite Artist, Key Animator, Scriptwriter, In-Betweener, Animation Director
+<div class="entity-meta">
+Mitsuo Iso (磯光雄) • Mikio Odagawa (小田川幹雄) • Hideo Nieta (贄田秀雄)<br>
+Jobs: Designer, Director, Storyboarder, Composite Artist, Key Animator, Scriptwriter, In-Betweener, Animation Director<br>
+</div>
 
 ## Interviews
 

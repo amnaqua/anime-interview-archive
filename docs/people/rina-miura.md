@@ -4,9 +4,10 @@ title: "Rina Miura"
 
 # Rina Miura
 
-三浦 理奈
-
-**Roles:** Colorist, Composite Artist
+<div class="entity-meta">
+三浦 理奈<br>
+Jobs: Colorist, Composite Artist<br>
+</div>
 
 ## Interviews
 

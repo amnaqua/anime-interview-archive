@@ -4,9 +4,10 @@ title: "Akihisa Shibuya"
 
 # Akihisa Shibuya
 
-渋谷 晃尚
-
-**Roles:** Production Manager, Producer
+<div class="entity-meta">
+渋谷 晃尚<br>
+Jobs: Production Manager, Producer<br>
+</div>
 
 ## Interviews
 

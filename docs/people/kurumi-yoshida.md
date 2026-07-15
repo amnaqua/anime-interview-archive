@@ -4,9 +4,10 @@ title: "Kurumi Yoshida"
 
 # Kurumi Yoshida
 
-𠮷田久留美
-
-**Roles:** Colorist
+<div class="entity-meta">
+𠮷田久留美<br>
+Jobs: Colorist<br>
+</div>
 
 ## Interviews
 

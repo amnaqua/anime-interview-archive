@@ -4,9 +4,10 @@ title: "Makoto Kohara"
 
 # Makoto Kohara
 
-小原 充
-
-**Roles:** Producer, Key Animator, Animation Director, Designer, In-Betweener
+<div class="entity-meta">
+小原 充<br>
+Jobs: Producer, Key Animator, Animation Director, Designer, In-Betweener<br>
+</div>
 
 ## Interviews
 

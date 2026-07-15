@@ -11,12 +11,42 @@ title: "${title}"
 # ${title}
 
 `;
+    const meta = [];
+
+    if (entity.type || entity.year) {
+
+        const parts = [];
+
+        if (entity.type) {
+            parts.push(
+                entity.type.charAt(0).toUpperCase() +
+                entity.type.slice(1)
+            );
+        }
+
+        if (entity.year) {
+            parts.push(entity.year);
+        }
+
+        meta.push(parts.join(" • "));
+    }
+
     if (entity.aliases?.length) {
-        md += `${entity.aliases.join(" • ")}\n\n`;
+        meta.push(entity.aliases.join(" • "));
     }
 
     if (entity.roles?.length) {
-        md += `**Roles:** ${entity.roles.join(", ")}\n\n`;
+        meta.push(`Jobs: ${entity.roles.join(", ")}`);
+    }
+
+    if (meta.length) {
+        md += `<div class="entity-meta">\n`;
+
+        for (const line of meta) {
+            md += `${line}<br>\n`;
+        }
+
+        md += `</div>\n\n`;
     }
 
     md += `## Interviews\n\n`;

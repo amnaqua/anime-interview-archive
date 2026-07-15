@@ -4,6 +4,10 @@ title: "Violet Evergarden"
 
 # Violet Evergarden
 
+<div class="entity-meta">
+Anime • 2018<br>
+</div>
+
 ## Interviews
 
 ### Violet Evergarden

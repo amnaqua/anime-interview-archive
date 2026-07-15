@@ -4,6 +4,10 @@ title: "Michiko to Hatchin"
 
 # Michiko to Hatchin
 
+<div class="entity-meta">
+Anime • 2008<br>
+</div>
+
 ## Interviews
 
 ### Rawness of Women

@@ -4,9 +4,10 @@ title: "Aoba Onobe"
 
 # Aoba Onobe
 
-小野辺青葉
-
-**Roles:** 3DCG Artist
+<div class="entity-meta">
+小野辺青葉<br>
+Jobs: 3DCG Artist<br>
+</div>
 
 ## Interviews
 

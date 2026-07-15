@@ -4,7 +4,9 @@ title: "Bahi JD"
 
 # Bahi JD
 
-**Roles:** Key Animator, Storyboarder, Designer, In-Betweener, Animation Director
+<div class="entity-meta">
+Jobs: Key Animator, Storyboarder, Designer, In-Betweener, Animation Director<br>
+</div>
 
 ## Interviews
 

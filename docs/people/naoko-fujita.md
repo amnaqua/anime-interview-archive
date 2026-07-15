@@ -4,9 +4,10 @@ title: "Naoko Fujita"
 
 # Naoko Fujita
 
-藤田 奈緒子
-
-**Roles:** In-Betweener, Key Animator
+<div class="entity-meta">
+藤田 奈緒子<br>
+Jobs: In-Betweener, Key Animator<br>
+</div>
 
 ## Interviews
 

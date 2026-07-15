@@ -4,9 +4,10 @@ title: "Mizuho Kanda"
 
 # Mizuho Kanda
 
-神田瑞帆
-
-**Roles:** 3DCG Artist
+<div class="entity-meta">
+神田瑞帆<br>
+Jobs: 3DCG Artist<br>
+</div>
 
 ## Interviews
 

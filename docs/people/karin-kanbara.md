@@ -4,9 +4,10 @@ title: "Karin Kanbara"
 
 # Karin Kanbara
 
-神原夏琳
-
-**Roles:** Background Artist
+<div class="entity-meta">
+神原夏琳<br>
+Jobs: Background Artist<br>
+</div>
 
 ## Interviews
 

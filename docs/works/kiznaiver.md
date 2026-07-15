@@ -4,6 +4,10 @@ title: "Kiznaiver"
 
 # Kiznaiver
 
+<div class="entity-meta">
+Anime • 2016<br>
+</div>
+
 ## Interviews
 
 ### Kiznaiver

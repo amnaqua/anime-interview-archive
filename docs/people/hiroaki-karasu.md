@@ -4,9 +4,10 @@ title: "Hiroaki Karasu"
 
 # Hiroaki Karasu
 
-烏 宏明
-
-**Roles:** Animation Director, Key Animator, Designer, In-Betweener
+<div class="entity-meta">
+烏 宏明<br>
+Jobs: Animation Director, Key Animator, Designer, In-Betweener<br>
+</div>
 
 ## Interviews
 

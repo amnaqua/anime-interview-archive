@@ -4,9 +4,10 @@ title: "Masahiko Ootsuka"
 
 # Masahiko Ootsuka
 
-Masahiko Ootsuka (大塚雅彦) • Hiroshi Ooshita (大下弘志)
-
-**Roles:** Scriptwriter, Director, Producer, Storyboarder, Sound Artist
+<div class="entity-meta">
+Masahiko Ootsuka (大塚雅彦) • Hiroshi Ooshita (大下弘志)<br>
+Jobs: Scriptwriter, Director, Producer, Storyboarder, Sound Artist<br>
+</div>
 
 ## Interviews
 

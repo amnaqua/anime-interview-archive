@@ -4,9 +4,10 @@ title: "Keiichirou Saitou"
 
 # Keiichirou Saitou
 
-Keiichirou Saitou (斎藤圭一郎)
-
-**Roles:** Storyboarder, Key Animator, Director, Colorist, Designer, Animation Director, In-Betweener, Composite Artist
+<div class="entity-meta">
+Keiichirou Saitou (斎藤圭一郎)<br>
+Jobs: Storyboarder, Key Animator, Director, Colorist, Designer, Animation Director, In-Betweener, Composite Artist<br>
+</div>
 
 ## Interviews
 

@@ -4,9 +4,10 @@ title: "Yuuki Kurokawa"
 
 # Yuuki Kurokawa
 
-黒河 友貴
-
-**Roles:** Production Manager
+<div class="entity-meta">
+黒河 友貴<br>
+Jobs: Production Manager<br>
+</div>
 
 ## Interviews
 

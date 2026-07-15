@@ -4,9 +4,10 @@ title: "Youhei Miyawaki"
 
 # Youhei Miyawaki
 
-宮脇洋平
-
-**Roles:** Composite Artist, Colorist
+<div class="entity-meta">
+宮脇洋平<br>
+Jobs: Composite Artist, Colorist<br>
+</div>
 
 ## Interviews
 

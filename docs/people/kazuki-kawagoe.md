@@ -4,9 +4,10 @@ title: "Kazuki Kawagoe"
 
 # Kazuki Kawagoe
 
-川越 一生
-
-**Roles:** Director, Storyboarder, Sound Artist, Key Animator, Production Manager
+<div class="entity-meta">
+川越 一生<br>
+Jobs: Director, Storyboarder, Sound Artist, Key Animator, Production Manager<br>
+</div>
 
 ## Interviews
 

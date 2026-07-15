@@ -4,9 +4,10 @@ title: "Atsushi Kaneko"
 
 # Atsushi Kaneko
 
-金子 敦史
-
-**Roles:** Producer, Production Manager
+<div class="entity-meta">
+金子 敦史<br>
+Jobs: Producer, Production Manager<br>
+</div>
 
 ## Interviews
 

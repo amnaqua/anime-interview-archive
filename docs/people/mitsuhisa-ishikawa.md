@@ -4,9 +4,10 @@ title: "Mitsuhisa Ishikawa"
 
 # Mitsuhisa Ishikawa
 
-石川 光久
-
-**Roles:** Producer, Production Manage
+<div class="entity-meta">
+石川 光久<br>
+Jobs: Producer, Production Manage<br>
+</div>
 
 ## Interviews
 

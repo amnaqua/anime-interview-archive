@@ -4,6 +4,10 @@ title: "Inu-Ou"
 
 # Inu-Ou
 
+<div class="entity-meta">
+Anime • 2022<br>
+</div>
+
 ## Interviews
 
 ### About Anime Industry

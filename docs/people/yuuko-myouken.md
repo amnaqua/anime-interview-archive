@@ -4,9 +4,10 @@ title: "Yuuko Myouken"
 
 # Yuuko Myouken
 
-明見 裕子
-
-**Roles:** Animation Director, Key Animator, Producer
+<div class="entity-meta">
+明見 裕子<br>
+Jobs: Animation Director, Key Animator, Producer<br>
+</div>
 
 ## Interviews
 

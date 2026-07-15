@@ -4,9 +4,10 @@ title: "Nobuaki Maruki"
 
 # Nobuaki Maruki
 
-丸木 宣明
-
-**Roles:** Animation Director, Key Animator, Producer, Designer
+<div class="entity-meta">
+丸木 宣明<br>
+Jobs: Animation Director, Key Animator, Producer, Designer<br>
+</div>
 
 ## Interviews
 

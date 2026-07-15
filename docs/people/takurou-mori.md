@@ -4,9 +4,10 @@ title: "Takurou Mori"
 
 # Takurou Mori
 
-森 拓郎
-
-**Roles:** Production Manager
+<div class="entity-meta">
+森 拓郎<br>
+Jobs: Production Manager<br>
+</div>
 
 ## Interviews
 

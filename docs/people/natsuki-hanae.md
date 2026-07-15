@@ -4,9 +4,10 @@ title: "Natsuki Hanae"
 
 # Natsuki Hanae
 
-花江 夏樹
-
-**Roles:** Singer
+<div class="entity-meta">
+花江 夏樹<br>
+Jobs: Singer<br>
+</div>
 
 ## Interviews
 

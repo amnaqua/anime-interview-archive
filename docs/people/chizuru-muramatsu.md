@@ -4,9 +4,10 @@ title: "Chizuru Muramatsu"
 
 # Chizuru Muramatsu
 
-村松 千鶴
-
-**Roles:** In-Betweener
+<div class="entity-meta">
+村松 千鶴<br>
+Jobs: In-Betweener<br>
+</div>
 
 ## Interviews
 

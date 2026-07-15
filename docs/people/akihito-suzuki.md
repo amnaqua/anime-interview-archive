@@ -4,9 +4,10 @@ title: "Akihito Suzuki"
 
 # Akihito Suzuki
 
-鈴木 彬人
-
-**Roles:** Composite Artist
+<div class="entity-meta">
+鈴木 彬人<br>
+Jobs: Composite Artist<br>
+</div>
 
 ## Interviews
 

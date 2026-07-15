@@ -4,9 +4,10 @@ title: "Yoshihiko Umakoshi"
 
 # Yoshihiko Umakoshi
 
-馬越嘉彦
-
-**Roles:** Designer, Animation Director, Key Animator, Director, In-Betweener
+<div class="entity-meta">
+馬越嘉彦<br>
+Jobs: Designer, Animation Director, Key Animator, Director, In-Betweener<br>
+</div>
 
 ## Interviews
 

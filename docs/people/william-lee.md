@@ -4,7 +4,9 @@ title: "William Lee"
 
 # William Lee
 
-**Roles:** Key Animator, Animation Director, In-Betweener
+<div class="entity-meta">
+Jobs: Key Animator, Animation Director, In-Betweener<br>
+</div>
 
 ## Interviews
 

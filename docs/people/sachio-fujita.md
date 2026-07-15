@@ -4,9 +4,10 @@ title: "Sachio Fujita"
 
 # Sachio Fujita
 
-藤田 祥雄
-
-**Roles:** Producer, Production Manager
+<div class="entity-meta">
+藤田 祥雄<br>
+Jobs: Producer, Production Manager<br>
+</div>
 
 ## Interviews
 

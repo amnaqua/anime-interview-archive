@@ -4,9 +4,10 @@ title: "Reina Tachibana"
 
 # Reina Tachibana
 
-橘玲奈
-
-**Roles:** Colorist, Designer
+<div class="entity-meta">
+橘玲奈<br>
+Jobs: Colorist, Designer<br>
+</div>
 
 ## Interviews
 

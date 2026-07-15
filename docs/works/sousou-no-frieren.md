@@ -4,6 +4,10 @@ title: "Sousou no Frieren"
 
 # Sousou no Frieren
 
+<div class="entity-meta">
+Anime • 2023<br>
+</div>
+
 ## Interviews
 
 ### Sousou no Frieren

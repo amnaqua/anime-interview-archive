@@ -4,9 +4,10 @@ title: "Mayato Nozaki"
 
 # Mayato Nozaki
 
-野﨑真哉斗
-
-**Roles:** Colorist
+<div class="entity-meta">
+野﨑真哉斗<br>
+Jobs: Colorist<br>
+</div>
 
 ## Interviews
 

@@ -4,6 +4,10 @@ title: "Full Metal Panic!"
 
 # Full Metal Panic!
 
+<div class="entity-meta">
+Anime • 2002<br>
+</div>
+
 ## Interviews
 
 ### In This Corner of the World

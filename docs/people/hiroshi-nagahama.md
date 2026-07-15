@@ -4,9 +4,10 @@ title: "Hiroshi Nagahama"
 
 # Hiroshi Nagahama
 
-長濱 博史
-
-**Roles:** Director, Storyboarder, Key Animator, Designer, Scriptwriter, Animation Director, In-Betweener
+<div class="entity-meta">
+長濱 博史<br>
+Jobs: Director, Storyboarder, Key Animator, Designer, Scriptwriter, Animation Director, In-Betweener<br>
+</div>
 
 ## Interviews
 

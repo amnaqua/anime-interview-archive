@@ -4,9 +4,10 @@ title: "Kazuto Arai"
 
 # Kazuto Arai
 
-荒井 和人
-
-**Roles:** Key Animator, In-Betweener, Colorist, Animation Director, Storyboarder, Director, Scriptwriter
+<div class="entity-meta">
+荒井 和人<br>
+Jobs: Key Animator, In-Betweener, Colorist, Animation Director, Storyboarder, Director, Scriptwriter<br>
+</div>
 
 ## Interviews
 

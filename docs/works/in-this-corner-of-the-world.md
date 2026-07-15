@@ -4,6 +4,10 @@ title: "In This Corner of the World"
 
 # In This Corner of the World
 
+<div class="entity-meta">
+Anime • 2016<br>
+</div>
+
 ## Interviews
 
 ### In This Corner of the World

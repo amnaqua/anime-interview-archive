@@ -4,6 +4,10 @@ title: "Yuri!!! on Ice"
 
 # Yuri!!! on Ice
 
+<div class="entity-meta">
+Anime • 2016<br>
+</div>
+
 ## Interviews
 
 ### Yuri!!! on Ice

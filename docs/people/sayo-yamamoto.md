@@ -4,9 +4,10 @@ title: "Sayo Yamamoto"
 
 # Sayo Yamamoto
 
-山本 沙代
-
-**Roles:** Storyboarder, Scriptwriter, Director, Production Manager
+<div class="entity-meta">
+山本 沙代<br>
+Jobs: Storyboarder, Scriptwriter, Director, Production Manager<br>
+</div>
 
 ## Interviews
 

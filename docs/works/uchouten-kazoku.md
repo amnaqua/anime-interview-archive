@@ -4,6 +4,10 @@ title: "Uchouten Kazoku"
 
 # Uchouten Kazoku
 
+<div class="entity-meta">
+Anime • 2013<br>
+</div>
+
 ## Interviews
 
 ### Uchouten Kazoku

@@ -4,9 +4,10 @@ title: "Kinoko Nasu"
 
 # Kinoko Nasu
 
-奈須 きのこ
-
-**Roles:** Scriptwriter, Designer, Lyricist
+<div class="entity-meta">
+奈須 きのこ<br>
+Jobs: Scriptwriter, Designer, Lyricist<br>
+</div>
 
 ## Interviews
 

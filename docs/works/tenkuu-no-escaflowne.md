@@ -4,6 +4,10 @@ title: "Tenkuu no Escaflowne"
 
 # Tenkuu no Escaflowne
 
+<div class="entity-meta">
+Anime • 1996<br>
+</div>
+
 ## Interviews
 
 ### Tenkuu no Escaflowne

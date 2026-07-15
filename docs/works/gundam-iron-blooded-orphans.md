@@ -4,6 +4,10 @@ title: "Mobile Suit Gundam: Iron-Blooded Orphans"
 
 # Mobile Suit Gundam: Iron-Blooded Orphans
 
+<div class="entity-meta">
+Anime • 2015<br>
+</div>
+
 ## Interviews
 
 ### Mobile Suit Gundam: Iron-Blooded Orphans

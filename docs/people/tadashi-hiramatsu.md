@@ -4,9 +4,10 @@ title: "Tadashi Hiramatsu"
 
 # Tadashi Hiramatsu
 
-平松 禎史
-
-**Roles:** Key Animator, Director, Designer, Animation Director, Storyboarder, Sound Artist, In-Betweener
+<div class="entity-meta">
+平松 禎史<br>
+Jobs: Key Animator, Director, Designer, Animation Director, Storyboarder, Sound Artist, In-Betweener<br>
+</div>
 
 ## Interviews
 

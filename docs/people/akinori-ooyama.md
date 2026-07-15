@@ -4,9 +4,10 @@ title: "Akinori Ooyama"
 
 # Akinori Ooyama
 
-大山 晃典
-
-**Roles:** Production Manager
+<div class="entity-meta">
+大山 晃典<br>
+Jobs: Production Manager<br>
+</div>
 
 ## Interviews
 

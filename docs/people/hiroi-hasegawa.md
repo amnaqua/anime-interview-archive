@@ -4,7 +4,9 @@ title: "Hiroi Hasegawa"
 
 # Hiroi Hasegawa
 
-**Roles:** Producer
+<div class="entity-meta">
+Jobs: Producer<br>
+</div>
 
 ## Interviews
 

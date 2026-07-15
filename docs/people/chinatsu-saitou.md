@@ -4,9 +4,10 @@ title: "Chinatsu Saitou"
 
 # Chinatsu Saitou
 
-齊藤千夏
-
-**Roles:** In-Betweener
+<div class="entity-meta">
+齊藤千夏<br>
+Jobs: In-Betweener<br>
+</div>
 
 ## Interviews
 

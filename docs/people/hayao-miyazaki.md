@@ -4,9 +4,10 @@ title: "Hayao Miyazaki"
 
 # Hayao Miyazaki
 
-宮崎 駿
-
-**Roles:** Storyboarder, Director, Key Animator, Producer, Lyricist, Scriptwriter, Animation Production, Designer, In-Betweener
+<div class="entity-meta">
+宮崎 駿<br>
+Jobs: Storyboarder, Director, Key Animator, Producer, Lyricist, Scriptwriter, Animation Production, Designer, In-Betweener<br>
+</div>
 
 ## Interviews
 

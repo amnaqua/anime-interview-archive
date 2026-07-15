@@ -4,9 +4,10 @@ title: "Taichi Ishidate"
 
 # Taichi Ishidate
 
-石立太一
-
-**Roles:** Director, Storyboarder, Scriptwriter, Key Animator, Producer
+<div class="entity-meta">
+石立太一<br>
+Jobs: Director, Storyboarder, Scriptwriter, Key Animator, Producer<br>
+</div>
 
 ## Interviews
 

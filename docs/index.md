@@ -29,7 +29,7 @@ features:
 # Recently Added
 
 - **2026-07-13 16:40** — **Leiji Matsumoto, Shinji Aramaki** — [Captain Herlock (2013)](/people/leiji-matsumoto#captain-herlock-2013)
-- **2026-07-13 16:31** — **Masahiko Ootsuka** — [About Anime Industry](/people/masahiko-ootsuka#about-anime-industry-11)
+- **2026-07-13 16:31** — **Masahiko Ootsuka** — [About Anime Industry](/people/masahiko-ootsuka#about-anime-industry-9)
 - **2026-07-13 16:20** — **Tsutomu Nihei, Hiroyuki Seshita** — [Blame! Movie](/people/tsutomu-nihei#blame-movie)
 - **2026-07-13 16:12** — **Sumito Oowara** — [Keep Your Hands Off Eizouken!](/people/sumito-oowara#keep-your-hands-off-eizouken)
 - **2026-07-13 02:16** — **Mitsuo Iso** — [Dennou Coil](/people/mitsuo-iso#dennou-coil)

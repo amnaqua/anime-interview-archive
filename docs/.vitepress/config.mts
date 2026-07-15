@@ -9,6 +9,16 @@ export default defineConfig({
     title: "Anime Interview Archive",
     description: "Archive of anime staff interviews",
 
+    head: [
+        [
+            "link",
+            {
+                rel: "icon",
+                href: "/anime-interview-archive/favicon.svg"
+            }
+        ]
+    ],
+
     themeConfig: {
         sidebar,
 

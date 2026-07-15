@@ -161,6 +161,7 @@ title: People
 - [Yasuyuki Ueda](./yasuyuki-ueda)
 - [Yoshihiko Umakoshi](./yoshihiko-umakoshi)
 - [Yoshihisa Satou](./yoshihisa-satou)
+- [Yoshimasa Mizuo](./yoshimasa-mizuo)
 - [Yoshimi Itazu](./yoshimi-itazu)
 - [Yoshitoshi Abe](./yoshitoshi-abe)
 - [You Yoshinari](./you-yoshinari)

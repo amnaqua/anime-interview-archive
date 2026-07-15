@@ -634,6 +634,10 @@ export default {
                 "link": "/people/yoshihisa-satou"
             },
             {
+                "text": "Yoshimasa Mizuo",
+                "link": "/people/yoshimasa-mizuo"
+            },
+            {
                 "text": "Yoshimi Itazu",
                 "link": "/people/yoshimi-itazu"
             },
@@ -1136,6 +1140,10 @@ export default {
             {
                 "text": "Halcyon Realms",
                 "link": "/publishers/halcyon-realms"
+            },
+            {
+                "text": "Kaishi Professional University",
+                "link": "/publishers/kaishi-pu"
             },
             {
                 "text": "Kaoru Hana Official Site",

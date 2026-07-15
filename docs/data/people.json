@@ -2138,5 +2138,33 @@
       "Producer",
       "Business"
     ]
+  },
+
+  "keiichirou-saitou": {
+    "name": "Keiichirou Saitou",
+    "aliases": [
+      "Keiichirou Saitou (斎藤圭一郎)"
+    ],
+    "roles": [
+      "Storyboarder",
+      "Key Animator",
+      "Director",
+      "Colorist",
+      "Designer",
+      "Animation Director",
+      "In-Betweener",
+      "Composite Artist"
+    ]
+  },
+
+  "takafumi-nakame": {
+    "name": "Takafumi Nakame",
+    "aliases": [
+      "Takafumi Nakame (中目貴史)"
+    ],
+    "roles": [
+      "Production Manager",
+      "Producer"
+    ]
   }
 }

@@ -238,6 +238,10 @@ export default {
                 "link": "/people/kazuto-arai"
             },
             {
+                "text": "Keiichirou Saitou",
+                "link": "/people/keiichirou-saitou"
+            },
+            {
                 "text": "Keitatsu Hayakawa",
                 "link": "/people/keitatsu-hayakawa"
             },
@@ -558,6 +562,10 @@ export default {
                 "link": "/people/taichi-ishidate"
             },
             {
+                "text": "Takafumi Nakame",
+                "link": "/people/takafumi-nakame"
+            },
+            {
                 "text": "Takahiro Chiba",
                 "link": "/people/takahiro-chiba"
             },
@@ -844,6 +852,10 @@ export default {
             {
                 "text": "Sayonara Lara",
                 "link": "/works/sayonara-lara"
+            },
+            {
+                "text": "Sousou no Frieren",
+                "link": "/works/sousou-no-frieren"
             },
             {
                 "text": "Space☆Dandy",
@@ -1148,6 +1160,10 @@ export default {
             {
                 "text": "Kaoru Hana Official Site",
                 "link": "/publishers/kaoru-hana"
+            },
+            {
+                "text": "Kilkenny People",
+                "link": "/publishers/kilkenny"
             },
             {
                 "text": "Kinema Junpo Sha",

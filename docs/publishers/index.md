@@ -25,6 +25,7 @@ title: Publishers
 - [Halcyon Realms](./halcyon-realms)
 - [Kaishi Professional University](./kaishi-pu)
 - [Kaoru Hana Official Site](./kaoru-hana)
+- [Kilkenny People](./kilkenny)
 - [Kinema Junpo Sha](./kinema-junpo-sha)
 - [MANTANWEB](./mantanweb)
 - [Medium](./medium)

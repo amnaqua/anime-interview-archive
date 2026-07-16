@@ -303,5 +303,11 @@
     "name": "World Is Dancing",
     "type": "anime",
     "year": 2026
+  },
+
+  "utena-movie": {
+    "name": "Shoujo Kakumei Utena: Adolescence Mokushiroku",
+    "type": "anime",
+    "year": 1999
   }
 }

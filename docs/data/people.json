@@ -2363,5 +2363,19 @@
       "Animation Director",
       "In-Betweener"
     ]
+  },
+
+  "kunihiko-ikuhara": {
+    "name": "Kunihiko Ikuhara",
+    "aliases": [
+      "Kunihiko Ikuhara (幾原邦彦)",
+      "Kai Kashin (渦薪かい)"
+    ],
+    "roles": [
+      "Director",
+      "Scriptwriter",
+      "Storyboarder",
+      "Sound Artist"
+    ]
   }
 }

@@ -12,7 +12,7 @@ people:
 media_type: anime
 
 publisher:
-  - youtube
+  - tech-tokyo-2026
   
 companies:
   - production-ig

@@ -2387,5 +2387,28 @@
     "roles": [
       "Scriptwriter"
     ]
+  },
+
+  "kenji-kamiyama": {
+    "name": "Kenji Kamiyama",
+    "aliases": [
+      "Marc Handler (マーク・ハンドラー)"
+    ],
+    "roles": [
+      "Scriptwriter"
+    ]
+  },
+
+  "yoshiki-sakurai": {
+    "name": "Yoshiki Sakurai",
+    "aliases": [
+      "Yoshiki Sakurai (櫻井圭記)",
+      "Taiki Sakurai (櫻井大樹)"
+    ],
+    "roles": [
+      "Scriptwriter",
+      "Producer",
+      "Storyboarder"
+    ]
   }
 }

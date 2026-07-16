@@ -321,5 +321,11 @@
     "name": "Chikyuu Shoujo Arjuna",
     "type": "anime",
     "year": 2001
+  },
+
+  "gits-sac": {
+    "name": "Ghost in the Shell: Stand Alone Complex",
+    "type": "anime",
+    "year": 2002
   }
 }

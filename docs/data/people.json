@@ -2251,5 +2251,17 @@
     "roles": [
       "Manga Artist"
     ]
+  },
+
+  "inio-asano": {
+    "name": "Inio Asano",
+    "aliases": [
+      "Inio Asano (浅野いにお)"
+    ],
+    "roles": [
+      "Manga Artist",
+      "Animation Director",
+      "Lyricist"
+    ]
   }
 }

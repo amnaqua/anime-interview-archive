@@ -197,5 +197,9 @@
 
   "netflix": {
     "name": "Netflix"
+  },
+
+  "cg-world": {
+    "name": "CGWORLD"
   }
 }

@@ -2377,5 +2377,15 @@
       "Storyboarder",
       "Sound Artist"
     ]
+  },
+
+  "marc-handler": {
+    "name": "Marc Handler",
+    "aliases": [
+      "Marc Handler (マーク・ハンドラー)"
+    ],
+    "roles": [
+      "Scriptwriter"
+    ]
   }
 }

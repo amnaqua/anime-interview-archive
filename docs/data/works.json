@@ -309,5 +309,10 @@
     "name": "Shoujo Kakumei Utena: Adolescence Mokushiroku",
     "type": "anime",
     "year": 1999
+  },
+
+  "flcl": {
+    "name": "FLCL",
+    "type": "anime"
   }
 }

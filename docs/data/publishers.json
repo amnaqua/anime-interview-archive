@@ -205,5 +205,9 @@
 
   "cypic": {
     "name": "Cypic"
+  },
+
+  "lkr": {
+    "name": "LKR"
   }
 }

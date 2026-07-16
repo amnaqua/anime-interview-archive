@@ -6,6 +6,8 @@ date: "2016"
 people:
   - shouji-murahama
 
+media_type: anime
+
 publisher:
   - ota-crew
 

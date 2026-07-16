@@ -6,6 +6,8 @@ date: 2017-03-30
 people:
   - kyouko-kotani
 
+media_type: anime
+
 publisher:
   - nlab
 

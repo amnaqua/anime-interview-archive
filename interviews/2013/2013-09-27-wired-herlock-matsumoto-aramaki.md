@@ -7,6 +7,8 @@ people:
   - leiji-matsumoto
   - shinji-aramaki
 
+media_type: anime
+
 publisher:
   - wired-japan
   

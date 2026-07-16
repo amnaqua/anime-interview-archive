@@ -4,6 +4,8 @@ title: Naruto
 people:
   - chengxi-huang
 
+media_type: anime
+
 work:
   - naruto
   - naruto-shippuuden

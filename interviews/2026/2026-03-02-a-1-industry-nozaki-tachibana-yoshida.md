@@ -8,6 +8,8 @@ people:
   - reina-tachibana
   - kurumi-yoshida
 
+media_type: anime
+
 publisher:
   - a-1
 

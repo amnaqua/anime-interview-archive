@@ -75,6 +75,10 @@ title: "${title}"
             md += `- **Date:** ${interview.date}\n`;
         }
 
+        if (interview.mediaType) {
+            md += `- **Media Type:** ${interview.mediaType}\n`
+        }
+
         if (interview.publisher.length)
             md += `- **Publisher:** ${interview.publisher.join(", ")}\n`;
 

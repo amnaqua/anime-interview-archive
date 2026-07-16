@@ -7,6 +7,8 @@ people:
   - shouji-gatou
   - douji-shiki
 
+media_type: anime
+
 publisher:
   - ann
   

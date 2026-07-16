@@ -6,6 +6,8 @@ date: 2008-09-01
 people:
   - sayo-yamamoto
 
+media_type: anime
+
 publisher:
   - seibundo-shinkosha
   

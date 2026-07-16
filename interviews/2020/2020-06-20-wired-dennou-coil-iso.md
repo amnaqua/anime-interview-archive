@@ -6,6 +6,8 @@ date: 2020-06-20
 people:
   - mitsuo-iso
 
+media_type: anime
+
 publisher:
   - wired-japan
   

@@ -7,6 +7,8 @@ people:
   - naoko-yamada
   - abel-gongora
 
+media_type: anime
+
 work:
   - tenmaku-no-jaadugar
 

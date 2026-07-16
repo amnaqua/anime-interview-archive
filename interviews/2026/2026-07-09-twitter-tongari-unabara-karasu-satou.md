@@ -8,6 +8,8 @@ people:
   - hiroaki-karasu
   - yoshihisa-satou
 
+media_type: anime
+
 companies:
   - bug-films
 

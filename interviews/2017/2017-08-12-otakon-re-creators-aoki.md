@@ -6,6 +6,8 @@ date: 2017-08-12
 people:
   - ei-aoki
 
+media_type: anime
+
 work:
   - re-creators
   

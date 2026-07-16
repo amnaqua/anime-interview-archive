@@ -6,6 +6,8 @@ date: 2025-10-25
 people:
   - vincent-chansard
 
+media_type: anime
+
 work:
   - one-piece
 

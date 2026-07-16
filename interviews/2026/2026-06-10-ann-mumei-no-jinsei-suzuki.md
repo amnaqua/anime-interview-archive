@@ -6,6 +6,8 @@ date: 2026-06-10
 people:
   - ryuya-suzuki
 
+media_type: anime
+
 publisher:
   - ann
 

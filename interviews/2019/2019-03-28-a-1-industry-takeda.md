@@ -6,6 +6,8 @@ date: 2019-03-28
 people:
   - akane-takeda
 
+media_type: anime
+
 companies:
   - a-1
 

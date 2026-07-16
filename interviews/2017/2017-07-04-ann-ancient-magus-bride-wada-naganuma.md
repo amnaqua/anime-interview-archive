@@ -7,6 +7,8 @@ people:
   - george-wada
   - norihiro-naganuma
 
+media_type: anime
+
 publisher:
   - ann
 

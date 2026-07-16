@@ -6,6 +6,8 @@ date: 2017-05-20
 people:
   - gen-urobuchi
 
+media_type: anime
+
 publisher:
   - ann
   

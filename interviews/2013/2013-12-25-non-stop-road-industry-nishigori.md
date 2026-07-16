@@ -6,6 +6,8 @@ date: 2013-12-25
 people:
   - atsushi-nishigori
 
+media_type: anime
+
 publisher:
   - non-stop-road
 

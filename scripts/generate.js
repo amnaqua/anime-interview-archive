@@ -12,6 +12,7 @@ import worksData from "../docs/data/works.json" with { type: "json" };
 import companiesData from "../docs/data/companies.json" with { type: "json" };
 import publishersData from "../docs/data/publishers.json" with { type: "json" };
 import languagesData from "../docs/data/languages.json" with { type: "json" };
+import mediaTypesData from "../docs/data/media-types.json" with { type: "json" };
 
 import { lookup, resetDirectory, addToMap } from "./utils.js";
 import { buildMarkdown } from "./markdown.js";
@@ -157,6 +158,8 @@ async function main() {
                     people: entry.people ?? []
                 }))
                 .sort((a, b) => a.date.localeCompare(b.date)),
+
+            mediaType: lookup(mediaTypesData, data.media_type)
         };
 
         if (!interview.date && interview.entries.length) {

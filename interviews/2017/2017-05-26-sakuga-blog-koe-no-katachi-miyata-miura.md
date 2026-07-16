@@ -7,6 +7,8 @@ people:
   - kana-miyata
   - rina-miura
 
+media_type: anime
+
 publisher:
   - sakuga-blog
 

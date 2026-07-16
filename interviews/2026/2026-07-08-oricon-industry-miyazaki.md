@@ -6,6 +6,8 @@ date: 2026-07-08
 people:
   - gorou-miyazaki
 
+media_type: anime
+
 publisher:
   - oricon
 

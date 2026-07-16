@@ -6,6 +6,8 @@ date: 2026-07-04
 work:
   - ghost-in-the-shell
 
+media_type: anime
+
 companies:
   - crunchyroll
 

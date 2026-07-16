@@ -6,6 +6,8 @@ date: 2023-03-15
 people:
   - masaaki-yuasa
 
+media_type: anime
+
 publisher:
   - wired-japan
   

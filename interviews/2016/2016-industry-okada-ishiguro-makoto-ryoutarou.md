@@ -9,6 +9,8 @@ people:
   - makoto-kohara
   - ryoutarou-nagayama
 
+media_type: anime
+
 language: ja
 
 links:

@@ -7,6 +7,8 @@ people:
   - mari-okada
   - tatsuyuki-nagai
 
+media_type: anime
+
 publisher:
   - cinra
   

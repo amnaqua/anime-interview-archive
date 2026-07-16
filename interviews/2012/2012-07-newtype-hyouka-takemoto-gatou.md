@@ -7,6 +7,8 @@ people:
   - yasuhiro-takemoto
   - shouji-gatou
 
+media_type: anime
+
 work:
   - hyouka
 

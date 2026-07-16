@@ -6,6 +6,8 @@ date: 2025-02-23
 people:
   - hiroi-hasegawa
 
+media_type: anime
+
 companies:
   - mappa
 

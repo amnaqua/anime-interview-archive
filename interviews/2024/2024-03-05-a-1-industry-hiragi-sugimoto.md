@@ -7,6 +7,8 @@ people:
   - tatsuya-hiragi
   - shunsuke-sugimoto
 
+media_type: anime
+
 publisher:
   - a-1
 

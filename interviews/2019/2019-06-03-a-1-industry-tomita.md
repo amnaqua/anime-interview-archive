@@ -6,6 +6,8 @@ date: 2019-06-03
 people:
   - yui-tomita
 
+media_type: anime
+
 companies:
   - a-1
 

@@ -7,6 +7,8 @@ people:
   - jouji-unoguchi
   - norihiro-tomiita
 
+media_type: anime
+
 publisher:
   - sakuga-blog
 

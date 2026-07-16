@@ -6,6 +6,8 @@ date: 2026-07-04
 people:
   - vincent-chansard
 
+media_type: anime
+
 publisher:
   - youtube
 

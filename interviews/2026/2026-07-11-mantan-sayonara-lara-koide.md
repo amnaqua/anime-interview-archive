@@ -6,6 +6,8 @@ date: 2026-07-11
 people:
   - takushi-koide
 
+media_type: anime
+
 companies:
   - kinema-citrus
 

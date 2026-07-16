@@ -8,6 +8,8 @@ people:
   - nobuaki-maruki
   - yuuko-myouken
 
+media_type: anime
+
 publisher:
   - sakuga-blog
   

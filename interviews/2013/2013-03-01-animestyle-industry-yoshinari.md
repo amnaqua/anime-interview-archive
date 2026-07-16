@@ -6,6 +6,8 @@ date: 2013-03-01
 people:
   - you-yoshinari
 
+media_type: anime
+
 publisher:
   - anime-style-magazine
 

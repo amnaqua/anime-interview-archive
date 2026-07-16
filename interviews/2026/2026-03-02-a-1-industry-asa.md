@@ -6,6 +6,8 @@ date: 2026-03-02
 people:
   - haruki-asa
 
+media_type: anime
+
 publisher:
   - a-1
 

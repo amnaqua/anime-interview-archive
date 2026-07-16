@@ -6,6 +6,8 @@ date: 2017-05
 people:
   - hiroyuki-yamaga
 
+media_type: anime
+
 companies:
   - gainax
 

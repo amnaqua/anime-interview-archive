@@ -6,6 +6,8 @@ date: 2024-04-25
 people:
   - makoto-kimura
 
+media_type: anime
+
 publisher:
   - cj-insights
 

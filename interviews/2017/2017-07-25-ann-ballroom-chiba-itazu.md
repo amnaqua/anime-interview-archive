@@ -8,6 +8,8 @@ people:
   - yoshimi-itazu
   - tetsuya-kinoshita
 
+media_type: anime
+
 publisher:
   - ann
 

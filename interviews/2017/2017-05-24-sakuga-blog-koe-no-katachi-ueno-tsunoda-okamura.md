@@ -8,6 +8,8 @@ people:
   - yuki-tsunoda
   - kouhei-okamura
 
+media_type: anime
+
 publisher:
   - sakuga-blog
 

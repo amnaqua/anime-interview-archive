@@ -4,6 +4,8 @@ title: The Forgotten Lupin III Interviews
 people:
   - yuuzou-aoki
   
+media_type: anime
+
 companies:
   - tms-old
 

@@ -6,6 +6,8 @@ date: 2026-06-27
 people:
   - eve
 
+media_type: anime
+
 companies:
   - bug-films
 

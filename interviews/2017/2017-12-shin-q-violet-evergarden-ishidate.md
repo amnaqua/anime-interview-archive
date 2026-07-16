@@ -6,6 +6,8 @@ date: 2017-12
 people:
   - taichi-ishidate
   
+media_type: anime
+
 companies:
   - kyo-ani
 

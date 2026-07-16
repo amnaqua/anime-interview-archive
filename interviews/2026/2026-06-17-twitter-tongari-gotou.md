@@ -6,6 +6,8 @@ date: 2026-06-17
 people:
   - ryouta-gotou
 
+media_type: anime
+
 companies:
   - bug-films
 

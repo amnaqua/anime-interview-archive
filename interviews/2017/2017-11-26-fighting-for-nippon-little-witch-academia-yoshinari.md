@@ -6,6 +6,8 @@ date: 2017-11-26
 people:
   - you-yoshinari
 
+media_type: anime
+
 publisher:
   - fighting-for-nippon
   

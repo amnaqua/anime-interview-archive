@@ -6,6 +6,8 @@ date: 2026-01-20
 people:
   - yoshimasa-mizuo
 
+media_type: anime
+
 publisher:
   - kaishi-pu
 

@@ -6,6 +6,8 @@ date: 2019-03-28
 people:
   - minori-ootsuka
 
+media_type: anime
+
 companies:
   - a-1
 

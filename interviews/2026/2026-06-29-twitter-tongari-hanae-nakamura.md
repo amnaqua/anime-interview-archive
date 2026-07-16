@@ -7,6 +7,8 @@ people:
   - natsuki-hanae
   - yuuichi-nakamura
 
+media_type: anime
+
 companies:
   - bug-films
 

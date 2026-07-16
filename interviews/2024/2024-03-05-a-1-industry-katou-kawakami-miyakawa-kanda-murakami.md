@@ -10,6 +10,8 @@ people:
   - youhei-miyawaki
   - mizuho-kanda
 
+media_type: anime
+
 publisher:
   - a-1
 

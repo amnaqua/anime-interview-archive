@@ -7,6 +7,8 @@ people:
   - yoshitoshi-abe
   - yasuyuki-ueda
   
+media_type: anime
+
 work:
   - texhnolyze
   

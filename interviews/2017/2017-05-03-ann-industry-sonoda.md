@@ -6,6 +6,8 @@ date: 2017-05-03
 people:
   - kenichi-sonoda
 
+media_type: anime
+
 publisher:
   - ann
 

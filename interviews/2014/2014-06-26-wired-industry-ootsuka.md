@@ -6,6 +6,8 @@ date: 2014-06-26
 people:
   - masahiko-ootsuka
 
+media_type: anime
+
 publisher:
   - wired-japan
   

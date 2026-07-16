@@ -6,6 +6,8 @@ date: 2016-08
 people:
   - kazuki-akane
 
+media_type: anime
+
 publisher:
   - animage
   

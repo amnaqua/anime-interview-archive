@@ -6,6 +6,8 @@ date: 2017-04-28
 people:
   - koichiro-ito
 
+media_type: anime
+
 publisher:
   - ann
   

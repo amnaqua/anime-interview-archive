@@ -7,6 +7,8 @@ people:
   - ayumu-watanabe
   - rena-motomura
 
+media_type: anime
+
 companies:
   - bug-films
 

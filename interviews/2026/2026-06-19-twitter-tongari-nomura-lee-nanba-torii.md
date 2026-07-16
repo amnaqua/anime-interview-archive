@@ -9,6 +9,8 @@ people:
   - isao-nanba
   - hayato-torii
 
+media_type: anime
+
 companies:
   - bug-films
 

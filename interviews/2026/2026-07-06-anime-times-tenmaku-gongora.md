@@ -6,6 +6,8 @@ date: 2026-07-06
 people:
   - abel-gongora
 
+media_type: anime
+
 work:
   - tenmaku-no-jaadugar
 

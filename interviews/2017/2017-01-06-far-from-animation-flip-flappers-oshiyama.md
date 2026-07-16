@@ -6,6 +6,8 @@ date: 2017-01-06
 people:
   - kiyotaka-oshiyama
 
+media_type: anime
+
 publisher:
   - far-from-animation
   

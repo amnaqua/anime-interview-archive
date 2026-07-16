@@ -6,6 +6,8 @@ date: "2016-08"
 people:
   - muneki-ogasawara
 
+media_type: anime
+
 publisher:
   - otakon
 

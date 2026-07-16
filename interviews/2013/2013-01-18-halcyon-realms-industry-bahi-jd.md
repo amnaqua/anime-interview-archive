@@ -6,6 +6,8 @@ date: 2013-01-18
 people:
   - bahi-jd
 
+media_type: anime
+
 publisher:
   - halcyon-realms
 

@@ -6,6 +6,8 @@ date: 1984-02
 people:
   - yuuzou-aoki
 
+media_type: anime
+
 publisher:
   - out
   

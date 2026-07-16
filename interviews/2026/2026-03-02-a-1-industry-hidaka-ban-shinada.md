@@ -8,6 +8,8 @@ people:
   - nachi-ban
   - rikuto-shinada
 
+media_type: anime
+
 publisher:
   - a-1
 

@@ -6,6 +6,8 @@ date: 2003-04-23
 people:
   - yutaka-nakamura
 
+media_type: anime
+
 publisher:
   - web-anime-style
 

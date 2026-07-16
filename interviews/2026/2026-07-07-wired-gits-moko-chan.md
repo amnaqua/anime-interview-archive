@@ -6,6 +6,8 @@ date: 2026-07-07
 people:
   - moko-chan
 
+media_type: anime
+
 work:
   - ghost-in-the-shell
 

@@ -7,6 +7,8 @@ people:
   - yoshihiko-umakoshi
   - christopher-sabat
 
+media_type: anime
+
 publisher:
   - ann
 

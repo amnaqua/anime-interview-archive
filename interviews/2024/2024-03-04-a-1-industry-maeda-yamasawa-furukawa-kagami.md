@@ -9,6 +9,8 @@ people:
   - ririka-furukawa
   - honoka-kagami
 
+media_type: anime
+
 publisher:
   - a-1
 

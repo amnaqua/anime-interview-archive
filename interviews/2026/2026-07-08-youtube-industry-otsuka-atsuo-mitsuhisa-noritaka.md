@@ -9,6 +9,8 @@ people:
   - mitsuhisa-ishikawa
   - atsuo-nakayama
 
+media_type: anime
+
 publisher:
   - youtube
   

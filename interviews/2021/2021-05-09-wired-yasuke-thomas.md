@@ -6,6 +6,8 @@ date: 2021-05-09
 people:
   - lesean-thomas
 
+media_type: anime
+
 publisher:
   - wired-japan
   

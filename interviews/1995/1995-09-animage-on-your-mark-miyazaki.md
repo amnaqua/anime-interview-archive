@@ -6,6 +6,8 @@ date: 1995-06
 people:
   - hayao-miyazaki
 
+media_type: anime
+
 publisher:
   - animage
 

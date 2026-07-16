@@ -7,6 +7,8 @@ people:
   - shouji-kawamori
   - hidetaka-tenjin
 
+media_type: anime
+
 publisher:
   - otakon
 

@@ -7,6 +7,8 @@ people:
   - karin-kanbara
   - chiharu-tomizawa
 
+media_type: anime
+
 publisher:
   - a-1
 

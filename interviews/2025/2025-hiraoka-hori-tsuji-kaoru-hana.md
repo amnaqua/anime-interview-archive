@@ -8,6 +8,8 @@ people:
   - shouko-hori
   - shunichi-tsuji
 
+media_type: anime
+
 companies:
   - clover-works
   - kodansha

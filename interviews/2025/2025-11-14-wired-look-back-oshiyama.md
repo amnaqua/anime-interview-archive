@@ -6,6 +6,8 @@ date: 2025-11-14
 people:
   - kiyotaka-oshiyama
 
+media_type: anime
+
 work:
   - look-back
 

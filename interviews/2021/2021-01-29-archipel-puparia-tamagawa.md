@@ -6,6 +6,8 @@ date: 2021-01-29
 people:
   - shingo-tamagawa
 
+media_type: anime
+
 publisher:
   - archipel
 

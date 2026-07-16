@@ -6,6 +6,8 @@ date: 2017-08-07
 people:
   - tensai-okamura
 
+media_type: anime
+
 language: en
 
 links:

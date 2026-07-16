@@ -6,6 +6,8 @@ date: 2012-07-16
 people:
   - bahi-jd
 
+media_type: anime
+
 publisher:
   - pelleas
 

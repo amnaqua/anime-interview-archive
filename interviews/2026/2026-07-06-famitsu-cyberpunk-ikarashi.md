@@ -6,6 +6,8 @@ date: 2026-07-06
 people:
   - kai-ikarashi
 
+media_type: anime
+
 work:
   - cyberpunk-edgerunners-2
 

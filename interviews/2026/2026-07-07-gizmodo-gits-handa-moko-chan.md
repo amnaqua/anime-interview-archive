@@ -7,6 +7,8 @@ people:
   - moko-chan
   - shuuhei-handa
 
+media_type: anime
+
 work:
   - ghost-in-the-shell
 

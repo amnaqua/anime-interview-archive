@@ -11,6 +11,8 @@ people:
   - rei-yamaguchi
   - kazuki-maejima
 
+media_type: anime
+
 publisher:
   - a-1
 

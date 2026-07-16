@@ -6,6 +6,8 @@ date: 2014-08-20
 people:
   - mari-okada
 
+media_type: anime
+
 publisher:
   - noitamina
 

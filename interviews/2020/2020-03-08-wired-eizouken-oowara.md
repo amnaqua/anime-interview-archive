@@ -6,6 +6,8 @@ date: 2020-03-08
 people:
   - sumito-oowara
 
+media_type: anime
+
 publisher:
   - wired-japan
   

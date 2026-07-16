@@ -6,6 +6,8 @@ date: 2017-06-02
 people:
   - futoshi-nishiya
 
+media_type: anime
+
 publisher:
   - sakuga-blog
 

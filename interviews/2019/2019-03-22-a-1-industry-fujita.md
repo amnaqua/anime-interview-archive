@@ -6,6 +6,8 @@ date: 2019-03-22
 people:
   - sachio-fujita
 
+media_type: anime
+
 companies:
   - a-1
 

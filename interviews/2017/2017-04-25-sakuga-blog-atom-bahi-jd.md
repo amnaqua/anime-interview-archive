@@ -6,6 +6,8 @@ date: 2017-04-25
 people:
   - bahi-jd
 
+media_type: anime
+
 publisher:
   - sakuga-blog
   

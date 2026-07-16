@@ -6,6 +6,8 @@ date: 2017-05-25
 people:
   - naoko-fujita
 
+media_type: anime
+
 publisher:
   - sakuga-blog
 

@@ -7,6 +7,8 @@ people:
   - tetsuya-kinoshita
   - shimba-tsuchiya
 
+media_type: anime
+
 publisher:
   - ann
 

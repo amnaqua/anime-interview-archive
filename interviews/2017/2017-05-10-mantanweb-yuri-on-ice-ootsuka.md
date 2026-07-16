@@ -6,6 +6,8 @@ date: 2017-05-10
 people:
   - manabu-ootsuka
 
+media_type: anime
+
 work:
   - yuri-on-ice
 

@@ -2241,5 +2241,15 @@
       "Designer",
       "In-Betweener"
     ]
+  },
+
+  "shinichi-sakamoto": {
+    "name": "Shinichi Sakamoto",
+    "aliases": [
+      "Shinichi Sakamoto (坂本眞一)"
+    ],
+    "roles": [
+      "Manga Artist"
+    ]
   }
 }

@@ -7,6 +7,8 @@ people:
   - yousuke-shiokawa
   - atsuhiro-iwakami
   
+media_type: anime
+
 companies:
   - aniplex
 

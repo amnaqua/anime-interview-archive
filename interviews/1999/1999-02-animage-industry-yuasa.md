@@ -6,6 +6,8 @@ date: 1996-02
 people:
   - masaaki-yuasa
 
+media_type: anime
+
 publisher:
   - animage
 

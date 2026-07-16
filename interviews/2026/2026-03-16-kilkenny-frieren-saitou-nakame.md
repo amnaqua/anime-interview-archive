@@ -7,6 +7,8 @@ people:
   - keiichirou-saitou
   - takafumi-nakame
 
+media_type: anime
+
 companies:
   - madhouse
 

@@ -7,6 +7,8 @@ people:
   - shuuhei-tada
   - mika-nakajima
 
+media_type: anime
+
 companies:
   - bug-films
 

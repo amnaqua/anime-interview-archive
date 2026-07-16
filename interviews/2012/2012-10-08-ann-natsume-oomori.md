@@ -6,6 +6,8 @@ date: 2012-10-08
 people:
   - takahiro-oomori
 
+media_type: anime
+
 publisher:
   - ann
 

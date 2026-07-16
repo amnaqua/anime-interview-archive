@@ -6,6 +6,8 @@ date: 2015-04-07
 people:
   - kana-ueda
 
+media_type: anime
+
 publisher:
   - ann
 

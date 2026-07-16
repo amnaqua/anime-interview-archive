@@ -6,6 +6,8 @@ date: 2017-08-20
 people:
   - kinoko-nasu
 
+media_type: anime
+
 publisher:
   - wakame-paradise
 

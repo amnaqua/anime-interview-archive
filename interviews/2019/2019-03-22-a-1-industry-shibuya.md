@@ -6,6 +6,8 @@ date: 2019-03-22
 people:
   - akihisa-shibuya
 
+media_type: anime
+
 companies:
   - a-1
 

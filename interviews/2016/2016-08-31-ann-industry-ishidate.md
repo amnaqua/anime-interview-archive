@@ -6,6 +6,8 @@ date: 2016-08-31
 people:
   - taichi-ishidate
 
+media_type: anime
+
 publisher:
   - ann
 

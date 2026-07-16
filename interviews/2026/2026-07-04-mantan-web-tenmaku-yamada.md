@@ -6,6 +6,8 @@ date: 2026-07-04
 people:
   - naoko-yamada
 
+media_type: anime
+
 work:
   - tenmaku-no-jaadugar
 

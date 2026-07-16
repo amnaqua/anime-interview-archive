@@ -6,6 +6,8 @@ date: 2023-12-15
 people:
   - ryo-timo
 
+media_type: anime
+
 publisher:
   - full-frontal
 

@@ -6,6 +6,8 @@ date: 1978-07
 people:
   - monkey-punch
 
+media_type: anime
+
 publisher:
   - animage
   

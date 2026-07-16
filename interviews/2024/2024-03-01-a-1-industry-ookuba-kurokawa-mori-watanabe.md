@@ -9,6 +9,8 @@ people:
   - takurou-mori
   - yuito-watanabe
 
+media_type: anime
+
 publisher:
   - a-1
 

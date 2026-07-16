@@ -9,6 +9,8 @@ people:
   - motonobu-hishinuma
   - shuhei-kato
 
+media_type: anime
+
 publisher:
   - a-1
 

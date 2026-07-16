@@ -6,6 +6,8 @@ date: 2018-12-01
 people:
   - kouji-yamamura
 
+media_type: anime
+
 publisher:
   - archipel
 

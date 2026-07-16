@@ -6,6 +6,8 @@ date: 1995-05-16
 people:
   - mamoru-oshii
 
+media_type: anime
+
 publisher:
   - kinema-junpo-sha
 

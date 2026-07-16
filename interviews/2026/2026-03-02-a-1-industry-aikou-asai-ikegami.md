@@ -8,6 +8,8 @@ people:
   - kana-asai
   - ayumu-ikegami
 
+media_type: anime
+
 publisher:
   - a-1
 

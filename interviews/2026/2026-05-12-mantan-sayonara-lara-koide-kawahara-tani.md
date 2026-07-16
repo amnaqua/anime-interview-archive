@@ -8,6 +8,8 @@ people:
   - anna-kawahara
   - shiori-tani
 
+media_type: anime
+
 companies:
   - kinema-citrus
 

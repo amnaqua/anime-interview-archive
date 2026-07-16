@@ -7,6 +7,8 @@ people:
   - sayo-yamamoto
   - naruyoshi-kikuchi
 
+media_type: anime
+
 work:
   - lupin-the-third-mine-fujiko-to-iu-onna
 

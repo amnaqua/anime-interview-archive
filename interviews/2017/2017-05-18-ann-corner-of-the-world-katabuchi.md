@@ -6,6 +6,8 @@ date: 2017-05-18
 people:
   - sunao-katabuchi
 
+media_type: anime
+
 publisher:
   - ann
   

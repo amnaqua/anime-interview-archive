@@ -6,6 +6,8 @@ date: 2017-04-07
 people:
   - tsutomu-mizushima
 
+media_type: anime
+
 publisher:
   - finland-or-japan
   

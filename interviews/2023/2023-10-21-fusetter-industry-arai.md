@@ -6,6 +6,8 @@ date: 2023-10-21
 people:
   - kazuto-arai
 
+media_type: anime
+
 publisher:
   - fusetter
 

@@ -8,6 +8,8 @@ people:
   - yukina-iwata
   - haruka-koseki
 
+media_type: anime
+
 publisher:
   - a-1
 

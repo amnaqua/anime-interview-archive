@@ -6,6 +6,8 @@ date: 2014-04-16
 people:
   - bahi-jd
 
+media_type: anime
+
 publisher:
   - ann
   

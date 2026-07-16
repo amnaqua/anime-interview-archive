@@ -9,6 +9,8 @@ people:
   - kaoru-miyabara
   - tadahiro-shibata
 
+media_type: anime
+
 companies:
   - psyde-kick
   - a-1

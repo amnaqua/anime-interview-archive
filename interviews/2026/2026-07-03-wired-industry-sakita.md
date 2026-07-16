@@ -6,6 +6,8 @@ date: 2026-07-03
 people:
   - kouhei-sakita
 
+media_type: anime
+
 companies:
   - science-saru
 

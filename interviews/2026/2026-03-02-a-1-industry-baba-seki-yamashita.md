@@ -8,6 +8,8 @@ people:
   - yurika-seki
   - hana-yamashita
 
+media_type: anime
+
 publisher:
   - a-1
 

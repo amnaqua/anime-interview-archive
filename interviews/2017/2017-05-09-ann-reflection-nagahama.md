@@ -6,6 +6,8 @@ date: 2017-05-09
 people:
   - hiroshi-nagahama
 
+media_type: anime
+
 publisher:
   - ann
   

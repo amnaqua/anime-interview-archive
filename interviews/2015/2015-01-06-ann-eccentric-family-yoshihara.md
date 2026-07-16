@@ -6,6 +6,8 @@ date: 2015-01-06
 people:
   - masayuki-yoshihara
 
+media_type: anime
+
 publisher:
   - ann
   

@@ -6,6 +6,8 @@ date: 2026-03-02
 people:
   - aoba-onobe
 
+media_type: anime
+
 publisher:
   - a-1
 

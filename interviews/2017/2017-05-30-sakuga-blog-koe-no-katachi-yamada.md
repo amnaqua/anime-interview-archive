@@ -6,6 +6,8 @@ date: 2017-05-30
 people:
   - naoko-yamada
 
+media_type: anime
+
 publisher:
   - sakuga-blog
 

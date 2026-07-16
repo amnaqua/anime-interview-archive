@@ -6,6 +6,8 @@ date: 2017-07
 people:
   - kenichi-suemitsu
 
+media_type: anime
+
 publisher:
   - animage
   

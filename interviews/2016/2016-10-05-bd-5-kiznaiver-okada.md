@@ -6,6 +6,8 @@ date: 2016-10-05
 people:
   - mari-okada
   
+media_type: anime
+
 work:
   - kiznaiver
   

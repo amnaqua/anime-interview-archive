@@ -7,6 +7,8 @@ people:
   - tsutomu-nihei
   - hiroyuki-seshita
 
+media_type: anime
+
 publisher:
   - wired-japan
   

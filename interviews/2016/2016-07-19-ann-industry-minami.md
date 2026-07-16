@@ -6,6 +6,8 @@ date: 2016-07-19
 people:
   - masahiko-minami
 
+media_type: anime
+
 publisher:
   - ann
 

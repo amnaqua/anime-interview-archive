@@ -6,6 +6,8 @@ date: 2026-07-04
 people:
   - moko-chan
 
+media_type: anime
+
 companies:
   - science-saru
 

@@ -6,6 +6,8 @@ date: 2019-06-03
 people:
   - chizuru-muramatsu
 
+media_type: anime
+
 companies:
   - a-1
 

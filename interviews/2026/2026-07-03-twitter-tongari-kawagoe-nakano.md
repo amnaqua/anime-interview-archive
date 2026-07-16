@@ -7,6 +7,8 @@ people:
   - kazuki-kawagoe
   - satoshi-nakano
 
+media_type: anime
+
 companies:
   - bug-films
 

@@ -8,6 +8,8 @@ people:
   - tadashi-hiramatsu
   - mitsurou-kubo
 
+media_type: anime
+
 work:
   - yuri-on-ice
 

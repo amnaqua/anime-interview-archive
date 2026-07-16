@@ -2459,5 +2459,15 @@
       "Storyboarder",
       "In-Betweener"
     ]
+  },
+
+  "julien-cortey": {
+    "name": "Julien Cortey",
+    "aliases": [],
+    "roles": [
+      "Producer",
+      "Director",
+      "Key Animator"
+    ]
   }
 }

@@ -6,8 +6,8 @@ export default defineConfig({
 
     lang: "en-US",
 
-    title: "Anime Interview Archive",
-    description: "Archive of anime staff interviews",
+    title: "Animanga Interview Archive",
+    description: "Archive of anime and manga staff interviews",
 
     head: [
         [

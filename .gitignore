@@ -2,8 +2,12 @@ node_modules/*
 /.idea
 /docs/.vitepress/cache
 
+# Generated pages
 docs/index.md
 docs/people/
 docs/works/
 docs/companies/
 docs/publishers/
+
+# Generated VitePress files
+docs/.vitepress/sidebar.ts

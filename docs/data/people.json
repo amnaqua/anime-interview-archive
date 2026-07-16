@@ -2424,5 +2424,16 @@
       "Key Animator",
       "In-Betweener"
     ]
+  },
+
+  "dorian-coulon": {
+    "name": "Dorian Coulon",
+    "aliases": [
+      "Dorian (ドリアン)"
+    ],
+    "roles": [
+      "Key Animator",
+      "Director"
+    ]
   }
 }

@@ -153,5 +153,9 @@
 
   "marza": {
     "name": "Marza Animation Planet"
+  },
+
+  "bind": {
+    "name": "Studio Bind"
   }
 }

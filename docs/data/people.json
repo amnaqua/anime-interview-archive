@@ -2263,5 +2263,30 @@
       "Animation Director",
       "Lyricist"
     ]
+  },
+
+  "manabu-okamoto": {
+    "name": "Manabu Okamoto",
+    "aliases": [
+      "Manabu Okamoto (岡本学)"
+    ],
+    "roles": [
+      "Director",
+      "Sound Artist",
+      "Storyboarder",
+      "Scriptwriter",
+      "Key Animator"
+    ]
+  },
+
+  "toshiya-ootomo": {
+    "name": "Toshiya Ootomo",
+    "aliases": [
+      "Toshiya Ootomo (大友寿也)"
+    ],
+    "roles": [
+      "Producer",
+      "Production Manager"
+    ]
   }
 }

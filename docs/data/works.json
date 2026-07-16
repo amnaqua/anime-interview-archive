@@ -291,5 +291,11 @@
     "name": "Cyberpunk: Edgerunners",
     "type": "anime",
     "year": 2022
+  },
+
+  "mushoku-tensei": {
+    "name": "Mushoku Tensei: Isekai Ittara Honki Dasu",
+    "type": "anime",
+    "year": 2021
   }
 }

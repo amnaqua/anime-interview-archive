@@ -313,6 +313,13 @@
 
   "flcl": {
     "name": "FLCL",
-    "type": "anime"
+    "type": "anime",
+    "year": 2000
+  },
+
+  "arjuna": {
+    "name": "Chikyuu Shoujo Arjuna",
+    "type": "anime",
+    "year": 2001
   }
 }

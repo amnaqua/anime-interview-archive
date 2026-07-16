@@ -5,7 +5,7 @@ title: "Shouji Murahama"
 # Shouji Murahama
 
 <div class="entity-meta">
-村濱 章司<br>
+Shouji Murahama (村濱章司, 村浜章司)<br>
 Jobs: Producer, Production Manager<br>
 </div>
 

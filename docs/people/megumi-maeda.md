@@ -5,7 +5,7 @@ title: "Megumi Maeda"
 # Megumi Maeda
 
 <div class="entity-meta">
-前田 芽美<br>
+Megumi Maeda (前田芽美)<br>
 Jobs: Designer, Key Animator, Director, In-Betweener<br>
 </div>
 

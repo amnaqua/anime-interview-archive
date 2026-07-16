@@ -5,7 +5,7 @@ title: "Kana Asai"
 # Kana Asai
 
 <div class="entity-meta">
-浅井花菜<br>
+Kana Asai (浅井花菜)<br>
 Jobs: In-Betweener<br>
 </div>
 

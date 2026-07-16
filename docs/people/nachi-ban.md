@@ -5,7 +5,7 @@ title: "Nachi Ban"
 # Nachi Ban
 
 <div class="entity-meta">
-伴菜智<br>
+Nachi Ban (伴菜智)<br>
 Jobs: Key Animator, In-Betweener<br>
 </div>
 

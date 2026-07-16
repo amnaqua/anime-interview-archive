@@ -5,7 +5,7 @@ title: "Miku Kadowaki"
 # Miku Kadowaki
 
 <div class="entity-meta">
-門脇 未来<br>
+Miku Kadowaki (門脇未来)<br>
 Jobs: Animation Director, Designer, Key Animator, Producer, In-Betweener<br>
 </div>
 

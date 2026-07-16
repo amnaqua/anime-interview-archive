@@ -5,7 +5,7 @@ title: "Atsuo Nakayama"
 # Atsuo Nakayama
 
 <div class="entity-meta">
-中山 淳雄<br>
+Atsuo Nakayama (中山淳雄)<br>
 Jobs: Producer<br>
 </div>
 

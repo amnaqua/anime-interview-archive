@@ -5,7 +5,7 @@ title: "Karin Kanbara"
 # Karin Kanbara
 
 <div class="entity-meta">
-神原夏琳<br>
+Karin Kanbara (神原夏琳)<br>
 Jobs: Background Artist<br>
 </div>
 

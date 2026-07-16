@@ -5,7 +5,7 @@ title: "Akinori Ooyama"
 # Akinori Ooyama
 
 <div class="entity-meta">
-大山 晃典<br>
+Akinori Ooyama (大山晃典)<br>
 Jobs: Production Manager<br>
 </div>
 

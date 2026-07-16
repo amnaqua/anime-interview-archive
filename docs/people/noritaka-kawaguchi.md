@@ -5,7 +5,7 @@ title: "Noritaka Kawaguchi"
 # Noritaka Kawaguchi
 
 <div class="entity-meta">
-川口 典孝<br>
+Noritaka Kawaguchi (川口典孝)<br>
 Jobs: Musician, Producer, Production Manager<br>
 </div>
 

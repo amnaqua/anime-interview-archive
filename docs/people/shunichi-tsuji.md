@@ -5,7 +5,7 @@ title: "Shunichi Tsuji"
 # Shunichi Tsuji
 
 <div class="entity-meta">
-辻 俊一<br>
+Toshikazu Tsuji (辻俊一)<br>
 Jobs: Producer, Production Manager<br>
 </div>
 

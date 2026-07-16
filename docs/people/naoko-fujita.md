@@ -5,7 +5,7 @@ title: "Naoko Fujita"
 # Naoko Fujita
 
 <div class="entity-meta">
-藤田 奈緒子<br>
+Naoko Fujita (藤田奈緒子)<br>
 Jobs: In-Betweener, Key Animator<br>
 </div>
 

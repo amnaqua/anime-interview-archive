@@ -5,7 +5,7 @@ title: "Atsushi Nishigori"
 # Atsushi Nishigori
 
 <div class="entity-meta">
-錦織 敦史<br>
+Atsushi Nishigori (錦織敦史, 錦織敦志)<br>
 Jobs: Designer, Director, Key Animator, Animation Director, Storyboarder, Scriptwriter, In-Betweener<br>
 </div>
 

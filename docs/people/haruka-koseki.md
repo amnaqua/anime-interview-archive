@@ -5,7 +5,7 @@ title: "Haruka Koseki"
 # Haruka Koseki
 
 <div class="entity-meta">
-小関遥<br>
+Haruka Koseki (小関遥)<br>
 Jobs: In-Betweener<br>
 </div>
 

@@ -5,7 +5,7 @@ title: "Hidetaka Tenjin"
 # Hidetaka Tenjin
 
 <div class="entity-meta">
-天神 英貴<br>
+Hidetaka Tenjin (天神英貴)<br>
 Jobs: Designer, Animation Director, Key Animator, Director, Composite Artist, Colorist<br>
 </div>
 

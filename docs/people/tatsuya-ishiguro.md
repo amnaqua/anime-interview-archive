@@ -5,7 +5,7 @@ title: "Tatsuya Ishiguro"
 # Tatsuya Ishiguro
 
 <div class="entity-meta">
-石黒 達也<br>
+Tatsuya Ishiguro (石黒達也)<br>
 Jobs: Producer, Director, Key Animator, Storyboarder, Production Manager<br>
 </div>
 

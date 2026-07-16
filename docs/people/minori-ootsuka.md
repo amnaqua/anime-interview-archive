@@ -5,7 +5,7 @@ title: "Minori Ootsuka"
 # Minori Ootsuka
 
 <div class="entity-meta">
-大塚 実梨<br>
+Minori Ootsuka (大塚実梨, 大塚美梨)<br>
 Jobs: Colorist, In-Betweener<br>
 </div>
 

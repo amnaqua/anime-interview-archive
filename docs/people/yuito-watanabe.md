@@ -5,7 +5,7 @@ title: "Yuito Watanabe"
 # Yuito Watanabe
 
 <div class="entity-meta">
-渡邉 唯人<br>
+Yuito Watanabe (渡邊唯人, 渡邉唯人)<br>
 Jobs: Production Manager<br>
 </div>
 

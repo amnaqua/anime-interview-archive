@@ -5,7 +5,7 @@ title: "Akihito Suzuki"
 # Akihito Suzuki
 
 <div class="entity-meta">
-鈴木 彬人<br>
+Akihito Suzuki (鈴木彬人)<br>
 Jobs: Composite Artist<br>
 </div>
 

@@ -5,7 +5,7 @@ title: "George Wada"
 # George Wada
 
 <div class="entity-meta">
-和田 丈嗣<br>
+Jouji Wada (和田丈嗣)<br>
 Jobs: Producer, Production Manager, Business<br>
 </div>
 

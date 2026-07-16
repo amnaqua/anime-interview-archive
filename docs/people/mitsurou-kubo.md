@@ -5,7 +5,7 @@ title: "Mitsurou Kubo"
 # Mitsurou Kubo
 
 <div class="entity-meta">
-久保 ミツロウ<br>
+Mitsurou Kubo (久保ミツロウ, 久保美津子)<br>
 Jobs: Designer, Key Animator, Manga Artist<br>
 </div>
 

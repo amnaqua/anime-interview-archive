@@ -5,7 +5,7 @@ title: "Tensai Okamura"
 # Tensai Okamura
 
 <div class="entity-meta">
-岡村天斎 • 岡村天斉<br>
+Tensai Okamura (岡村天斎, 岡村天斉) • Yutaka Okamura (岡村豊)<br>
 Jobs: Storyboarder, Key Animator, Director, Scriptwriter, Animation Director, Designer, In-Betweener<br>
 </div>
 

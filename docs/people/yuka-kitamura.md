@@ -5,7 +5,7 @@ title: "Yuka Kitamura"
 # Yuka Kitamura
 
 <div class="entity-meta">
-北村 友香<br>
+Yuka Kitamura (北村友香)<br>
 Jobs: Musician<br>
 </div>
 

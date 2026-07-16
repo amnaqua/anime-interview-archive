@@ -5,7 +5,7 @@ title: "Kairi Unabara"
 # Kairi Unabara
 
 <div class="entity-meta">
-うなばら 海里<br>
+Kairi Unabara (うなばら海里) • Mai Yamaguchi (山口真依)<br>
 Jobs: Designer, Key Animator, Animation Director, In-Betweener<br>
 </div>
 

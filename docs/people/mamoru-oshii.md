@@ -5,7 +5,7 @@ title: "Mamoru Oshii"
 # Mamoru Oshii
 
 <div class="entity-meta">
-押井 守<br>
+Mamoru Oshii (押井守) • Rei Maruwa (丸輪零)<br>
 Jobs: Director, Scriptwriter, Storyboarder, Producer<br>
 </div>
 

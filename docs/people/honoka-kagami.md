@@ -5,7 +5,7 @@ title: "Honoka Kagami"
 # Honoka Kagami
 
 <div class="entity-meta">
-加賀美 帆<br>
+Honoka Kagami (加賀美帆)<br>
 Jobs: Composite Artist<br>
 </div>
 

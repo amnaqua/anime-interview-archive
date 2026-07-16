@@ -5,7 +5,7 @@ title: "Hana Yamashita"
 # Hana Yamashita
 
 <div class="entity-meta">
-山下花菜<br>
+Hana Yamashita (山下花菜)<br>
 Jobs: Composite Artist<br>
 </div>
 

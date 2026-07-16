@@ -5,7 +5,7 @@ title: "Tetsuya Kawakami"
 # Tetsuya Kawakami
 
 <div class="entity-meta">
-川上哲也<br>
+Tetsuya Kawakami (川上哲也, 川上てつや, 川上哲哉)<br>
 Jobs: Animation Director, Designer, Key Animator, In-Betweener<br>
 </div>
 

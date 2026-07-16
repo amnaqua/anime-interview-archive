@@ -5,7 +5,7 @@ title: "Takurou Mori"
 # Takurou Mori
 
 <div class="entity-meta">
-森 拓郎<br>
+Takurou Mori (森拓郎)<br>
 Jobs: Production Manager<br>
 </div>
 

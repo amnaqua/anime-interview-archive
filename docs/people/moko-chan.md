@@ -5,7 +5,7 @@ title: "Moko-chan"
 # Moko-chan
 
 <div class="entity-meta">
-モコちゃん<br>
+Moko-chan (モコちゃん) • Moko (モコ) • Touma Kimura (木村とうま, 木村透真)<br>
 Jobs: Director, Storyboarder, Designer, Key Animator, Background Artist, Editor, Animation Director<br>
 </div>
 

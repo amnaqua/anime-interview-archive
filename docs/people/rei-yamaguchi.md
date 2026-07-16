@@ -5,7 +5,7 @@ title: "Rei Yamaguchi"
 # Rei Yamaguchi
 
 <div class="entity-meta">
-山口黎<br>
+Rei Yamaguchi (山口黎)<br>
 Jobs: Production Manager<br>
 </div>
 

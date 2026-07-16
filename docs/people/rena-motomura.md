@@ -5,7 +5,7 @@ title: "Rena Motomura"
 # Rena Motomura
 
 <div class="entity-meta">
-本村 玲奈<br>
+Rena Motomura (本村玲奈)<br>
 Jobs: Voice Actor, Singer<br>
 </div>
 

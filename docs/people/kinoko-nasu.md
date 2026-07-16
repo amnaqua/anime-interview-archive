@@ -5,7 +5,7 @@ title: "Kinoko Nasu"
 # Kinoko Nasu
 
 <div class="entity-meta">
-奈須 きのこ<br>
+Kinoko Nasu (奈須きのこ)<br>
 Jobs: Scriptwriter, Designer, Lyricist<br>
 </div>
 

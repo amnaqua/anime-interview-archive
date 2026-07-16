@@ -5,7 +5,7 @@ title: "Ayaka Murakami"
 # Ayaka Murakami
 
 <div class="entity-meta">
-村上 彩夏<br>
+Ayaka Murakami (村上彩夏, 村上彩香)<br>
 Jobs: Colorist<br>
 </div>
 

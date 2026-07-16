@@ -5,7 +5,7 @@ title: "Ayumu Watanabe"
 # Ayumu Watanabe
 
 <div class="entity-meta">
-渡辺 歩<br>
+Ayumu Watanabe (渡辺歩, 渡辺あゆむ) • Kakeru Watanabe (渡辺カケル)<br>
 Jobs: Director, Storyboarder, Sound Artist, Scriptwriter, Designer, Key Animator, Animation Director, In-Betweener<br>
 </div>
 

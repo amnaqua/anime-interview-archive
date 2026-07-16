@@ -5,7 +5,7 @@ title: "Mari Okada"
 # Mari Okada
 
 <div class="entity-meta">
-岡田 麿里<br>
+Mari Okada (岡田麿里, 岡田磨里)<br>
 Jobs: Scriptwriter, Director, Lyricist, Storyboarder<br>
 </div>
 

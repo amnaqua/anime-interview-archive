@@ -5,7 +5,7 @@ title: "Kouhei Sakita"
 # Kouhei Sakita
 
 <div class="entity-meta">
-崎田 康平<br>
+Kouhei Sakita (崎田康平)<br>
 Jobs: Producer, Production Manager<br>
 </div>
 

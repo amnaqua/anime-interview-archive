@@ -5,7 +5,7 @@ title: "Shouji Gatou"
 # Shouji Gatou
 
 <div class="entity-meta">
-賀東招二<br>
+Shouji Gatou (賀東招二)<br>
 Jobs: Scriptwriter<br>
 </div>
 

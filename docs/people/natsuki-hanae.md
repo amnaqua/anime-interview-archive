@@ -5,7 +5,7 @@ title: "Natsuki Hanae"
 # Natsuki Hanae
 
 <div class="entity-meta">
-花江 夏樹<br>
+Natsuki Hanae (花江夏樹)<br>
 Jobs: Singer<br>
 </div>
 

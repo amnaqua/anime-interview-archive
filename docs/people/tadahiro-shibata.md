@@ -5,7 +5,7 @@ title: "Tadahiro Shibata"
 # Tadahiro Shibata
 
 <div class="entity-meta">
-柴田 匡寛<br>
+Tadahiro Shibata (柴田匡寛)<br>
 Jobs: Production Manager<br>
 </div>
 

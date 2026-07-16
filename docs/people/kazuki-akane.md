@@ -5,7 +5,7 @@ title: "Kazuki Akane"
 # Kazuki Akane
 
 <div class="entity-meta">
-赤根 和樹<br>
+Kazuki Akane (赤根和樹, 忍海信一)<br>
 Jobs: Storyboarder, Director, Scriptwriter, Production Manager<br>
 </div>
 

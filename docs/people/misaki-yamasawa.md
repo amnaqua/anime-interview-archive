@@ -5,7 +5,7 @@ title: "Misaki Yamasawa"
 # Misaki Yamasawa
 
 <div class="entity-meta">
-山澤 美紗紀<br>
+Misaki Yamasawa (山澤美紗紀)<br>
 Jobs: Colorist, In-Betweener<br>
 </div>
 

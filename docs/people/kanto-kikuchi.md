@@ -5,7 +5,7 @@ title: "Kanto Kikuchi"
 # Kanto Kikuchi
 
 <div class="entity-meta">
-菊地観人<br>
+Kanto Kikuchi (菊地観人)<br>
 Jobs: Production Manager<br>
 </div>
 

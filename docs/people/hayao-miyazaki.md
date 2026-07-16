@@ -5,7 +5,7 @@ title: "Hayao Miyazaki"
 # Hayao Miyazaki
 
 <div class="entity-meta">
-宮崎 駿<br>
+Hayao Miyazaki (宮崎駿, 宮﨑駿) • Tsutomu Teruki (照樹務)<br>
 Jobs: Storyboarder, Director, Key Animator, Producer, Lyricist, Scriptwriter, Animation Production, Designer, In-Betweener<br>
 </div>
 

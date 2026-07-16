@@ -5,7 +5,7 @@ title: "Chiharu Tomizawa"
 # Chiharu Tomizawa
 
 <div class="entity-meta">
-冨澤千春<br>
+Chiharu Tomizawa (冨澤千春)<br>
 Jobs: Background Artist<br>
 </div>
 

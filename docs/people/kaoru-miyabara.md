@@ -5,7 +5,7 @@ title: "Kaoru Miyabara"
 # Kaoru Miyabara
 
 <div class="entity-meta">
-宮原 郁<br>
+Kaoru Miyabara (宮原郁)<br>
 Jobs: Production Manager<br>
 </div>
 

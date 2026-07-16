@@ -5,7 +5,7 @@ title: "Kana Ueda"
 # Kana Ueda
 
 <div class="entity-meta">
-植田 佳奈<br>
+Kana Ueda (植田佳奈)<br>
 Jobs: Singer, Sound Artist, Voice Actor<br>
 </div>
 

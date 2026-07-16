@@ -5,7 +5,7 @@ title: "Makoto Kimura"
 # Makoto Kimura
 
 <div class="entity-meta">
-木村 誠<br>
+Makoto Kimura (木村誠)<br>
 Jobs: Producer, Production Manager<br>
 </div>
 

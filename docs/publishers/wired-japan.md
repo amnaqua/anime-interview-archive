@@ -65,9 +65,8 @@ title: "Wired Japan"
 - **Date:** 2023-03-15
 - **Publisher:** Wired Japan
 - **Language:** Japanese
-- **Company:** Science SARU
-- **People:** Masaaki Yuasa
-- **Source:**  https://wired.jp/article/masaaki-yuasa-inuoh-interview/
+- **People:** Mamoru Oshii
+- **Source:**  https://wired.jp/article/mamoru-oshii-interview/
 
 ---
 
@@ -76,8 +75,9 @@ title: "Wired Japan"
 - **Date:** 2023-03-15
 - **Publisher:** Wired Japan
 - **Language:** Japanese
-- **People:** Mamoru Oshii
-- **Source:**  https://wired.jp/article/mamoru-oshii-interview/
+- **Company:** Science SARU
+- **People:** Masaaki Yuasa
+- **Source:**  https://wired.jp/article/masaaki-yuasa-inuoh-interview/
 
 ---
 

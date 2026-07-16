@@ -2,7 +2,9 @@
   "naoko-yamada": {
     "name": "Naoko Yamada",
     "aliases": [
-      "山田尚子"
+      "Naoko Yamada (山田尚子)",
+      "Hinako Hana (花ひなこ, 花ひな子)",
+      "Ryuu Andou (安堂隆)"
     ],
     "roles": [
       "Director",
@@ -17,7 +19,9 @@
 
   "abel-gongora": {
     "name": "Abel Góngora",
-    "aliases": [],
+    "aliases": [
+      "Abel Góngora (アベル・ゴンゴラ, アベル ゴンゴラ)"
+    ],
     "roles": [
       "Director",
       "Storyboarder",
@@ -32,7 +36,9 @@
   "moko-chan": {
     "name": "Moko-chan",
     "aliases": [
-      "モコちゃん"
+      "Moko-chan (モコちゃん)",
+      "Moko (モコ)",
+      "Touma Kimura (木村とうま, 木村透真)"
     ],
     "roles": [
       "Director",
@@ -48,7 +54,7 @@
   "kouhei-sakita": {
     "name": "Kouhei Sakita",
     "aliases": [
-      "崎田 康平"
+      "Kouhei Sakita (崎田康平)"
     ],
     "roles": [
       "Producer",
@@ -67,7 +73,7 @@
   "yuuta-hiraoka": {
     "name": "Yuuta Hiraoka",
     "aliases": [
-      "平岡 雄大"
+      "Yuuta Hiraoka (平岡雄大)"
     ],
     "roles": [
       "Producer"
@@ -77,7 +83,7 @@
   "shouko-hori": {
     "name": "Shouko Hori",
     "aliases": [
-      "堀 祥子"
+      "Shouko Hori (堀祥子)"
     ],
     "roles": [
       "Producer",
@@ -88,7 +94,7 @@
   "shunichi-tsuji": {
     "name": "Shunichi Tsuji",
     "aliases": [
-      "辻 俊一"
+      "Toshikazu Tsuji (辻俊一)"
     ],
     "roles": [
       "Producer",
@@ -99,7 +105,7 @@
   "atsushi-nishigori": {
     "name": "Atsushi Nishigori",
     "aliases": [
-      "錦織 敦史"
+      "Atsushi Nishigori (錦織敦史, 錦織敦志)"
     ],
     "roles": [
       "Designer",
@@ -115,7 +121,7 @@
   "makoto-kimura": {
     "name": "Makoto Kimura",
     "aliases": [
-      "木村 誠"
+      "Makoto Kimura (木村誠)"
     ],
     "roles": [
       "Producer",
@@ -126,7 +132,11 @@
   "ryo-timo": {
     "name": "Ryo-Timo",
     "aliases": [
-      "りょーちも"
+      "Ryouchimo (りょーちも, リョーチモ, りょーちも。)",
+      "Ryo_timo",
+      "Ryotimo",
+      "Ryousuke Sawa (澤良輔, 澤良介)",
+      "Sawa Ryouchimo (澤りょーちも, 澤りょーらも)"
     ],
     "roles": [
       "Designer",
@@ -146,7 +156,8 @@
   "kazuto-arai": {
     "name": "Kazuto Arai",
     "aliases": [
-      "荒井 和人"
+      "Kazuto Arai (荒井和人)",
+      "Barikios (バリキオス)"
     ],
     "roles": [
       "Key Animator",
@@ -161,7 +172,10 @@
 
   "vincent-chansard": {
     "name": "Vincent Chansard",
-    "aliases": [],
+    "aliases": [
+      "Cheb Vincent",
+      "Le mec de Versailles"
+    ],
     "roles": [
       "Key Animator",
       "Storyboarder"
@@ -171,7 +185,10 @@
   "yutaka-nakamura": {
     "name": "Yutaka Nakamura",
     "aliases": [
-      "中村 豊"
+      "Yutaka Nakamura (中村豊, なかむらゆたか)",
+      "Kohaku (こはく)",
+      "Yutaka Takahashi (高橋豊)",
+      "Yatarou Takahashi (高橋矢太郎)"
     ],
     "roles": [
       "Animation Director",
@@ -186,7 +203,7 @@
   "shuuhei-handa": {
     "name": "Shuuhei Handa",
     "aliases": [
-      "半田 修平"
+      "Shuuhei Handa (半田修平)"
     ],
     "roles": [
       "Designer",
@@ -199,7 +216,9 @@
 
   "bahi-jd": {
     "name": "Bahi JD",
-    "aliases": [],
+    "aliases": [
+      "Bahi JD (バヒJD, バヒ・JD)"
+    ],
     "roles": [
       "Key Animator",
       "Storyboarder",
@@ -212,7 +231,7 @@
   "sunao-katabuchi" : {
     "name": "Sunao Katabuchi",
     "aliases": [
-      "片渕 須直"
+      "Sunao Katabuchi (片渕須直)"
     ],
     "roles": [
       "Director",
@@ -227,7 +246,8 @@
   "mamoru-oshii": {
     "name": "Mamoru Oshii",
     "aliases": [
-      "押井 守"
+      "Mamoru Oshii (押井守)",
+      "Rei Maruwa (丸輪零)"
     ],
     "roles": [
       "Director",
@@ -240,7 +260,7 @@
   "kinoko-nasu": {
     "name": "Kinoko Nasu",
     "aliases": [
-      "奈須 きのこ"
+      "Kinoko Nasu (奈須きのこ)"
     ],
     "roles": [
       "Scriptwriter",
@@ -252,7 +272,7 @@
   "masahiko-minami": {
     "name": "Masahiko Minami",
     "aliases": [
-      "南 雅彦"
+      "Masahiko Minami (南雅彦)"
     ],
     "roles": [
       "Producer",
@@ -263,7 +283,8 @@
   "kiyotaka-oshiyama": {
     "name": "Kiyotaka Oshiyama",
     "aliases": [
-      "押山 清高"
+      "Kiyotaka Oshiyama (押山清高, 押山清隆)",
+      "Mayashio Katayoshi (型良真弥塩)"
     ],
     "roles": [
       "Designer",
@@ -280,7 +301,7 @@
   "koichiro-ito": {
     "name": "Koichiro Ito",
     "aliases": [
-      "伊藤 耕一郎"
+      "Kouichirou Itou (伊藤耕一郎)"
     ],
     "roles": [
       "Producer",
@@ -291,7 +312,7 @@
   "shouji-murahama": {
     "name": "Shouji Murahama",
     "aliases": [
-      "村濱 章司"
+      "Shouji Murahama (村濱章司, 村浜章司)"
     ],
     "roles": [
       "Producer",
@@ -302,7 +323,7 @@
   "kenichi-sonoda": {
     "name": "Kenichi Sonoda",
     "aliases": [
-      "園田 健一"
+      "Kenichi Sonoda (園田健一)"
     ],
     "roles": [
       "Designer",
@@ -315,7 +336,8 @@
   "you-yoshinari": {
     "name": "You Yoshinari",
     "aliases": [
-      "吉成 曜"
+      "You Yoshinari (吉成曜)",
+      "Yoh Yoshinari"
     ],
     "roles": [
       "Key Animator",
@@ -330,7 +352,7 @@
   "yoshitoshi-abe": {
     "name": "Yoshitoshi Abe",
     "aliases": [
-      "安倍 吉俊"
+      "Yoshitoshi Abe (安倍\uD842\uDFB7俊, 安倍吉俊)"
     ],
     "roles": [
       "Designer",
@@ -343,7 +365,7 @@
   "yasuyuki-ueda": {
     "name": "Yasuyuki Ueda",
     "aliases": [
-      "上田 耕行"
+      "Yasuyuki Ueda (上田耕行)"
     ],
     "roles": [
       "Producer",
@@ -354,7 +376,7 @@
   "gorou-miyazaki": {
     "name": "Gorou Miyazaki",
     "aliases": [
-      "宮崎 吾朗"
+      "Gorou Miyazaki (宮崎吾朗)"
     ],
     "roles": [
       "Director",
@@ -368,7 +390,10 @@
   "kai-ikarashi": {
     "name": "Kai Ikarashi",
     "aliases": [
-      "五十嵐 海"
+      "Kai Ikarashi (五十嵐海)",
+      "Niinu Mackenzie (ニーヌ・マッケンジー)",
+      "Setsuko Narayama (楢山節子)",
+      "Shoutarou Danbain (段羽院翔太朗)"
     ],
     "roles": [
       "Director",
@@ -385,7 +410,7 @@
   "manabu-ootsuka": {
     "name": "Manabu Ootsuka",
     "aliases": [
-      "大塚学"
+      "Manabu Ootsuka (大塚学)"
     ],
     "roles": [
       "Producer",
@@ -396,7 +421,7 @@
   "noritaka-kawaguchi": {
     "name": "Noritaka Kawaguchi",
     "aliases": [
-      "川口 典孝"
+      "Noritaka Kawaguchi (川口典孝)"
     ],
     "roles": [
       "Musician",
@@ -408,7 +433,7 @@
   "mitsuhisa-ishikawa": {
     "name": "Mitsuhisa Ishikawa",
     "aliases": [
-      "石川 光久"
+      "Mitsuhisa Ishikawa (石川光久)"
     ],
     "roles": [
       "Producer",
@@ -419,7 +444,7 @@
   "atsuo-nakayama": {
     "name": "Atsuo Nakayama",
     "aliases": [
-      "中山 淳雄"
+      "Atsuo Nakayama (中山淳雄)"
     ],
     "roles": [
       "Producer"
@@ -429,7 +454,7 @@
   "sayo-yamamoto": {
     "name": "Sayo Yamamoto",
     "aliases": [
-      "山本 沙代"
+      "Sayo Yamamoto (山本沙代)"
     ],
     "roles": [
       "Storyboarder",
@@ -442,7 +467,7 @@
   "naruyoshi-kikuchi": {
     "name": "Naruyoshi Kikuchi",
     "aliases": [
-      "菊地 成孔"
+      "Naruyoshi Kikuchi (菊地成孔)"
     ],
     "roles": [
       "Musician",
@@ -455,7 +480,7 @@
   "tadashi-hiramatsu": {
     "name": "Tadashi Hiramatsu",
     "aliases": [
-      "平松 禎史"
+      "Tadashi Hiramatsu (平松禎史, 平松禎士)"
     ],
     "roles": [
       "Key Animator",
@@ -471,7 +496,7 @@
   "mitsurou-kubo": {
     "name": "Mitsurou Kubo",
     "aliases": [
-      "久保 ミツロウ"
+      "Mitsurou Kubo (久保ミツロウ, 久保美津子)"
     ],
     "roles": [
       "Designer",
@@ -483,7 +508,7 @@
   "hiroshi-nagahama": {
     "name": "Hiroshi Nagahama",
     "aliases": [
-      "長濱 博史"
+      "Hiroshi Nagahama (長濱博史, 長濵博史, 長濱博幸, 長浜博史)"
     ],
     "roles": [
       "Director",
@@ -499,7 +524,7 @@
   "kyouko-kotani": {
     "name": "Kyouko Kotani",
     "aliases": [
-      "小谷 杏子"
+      "Kyouko Kotani (小谷杏子)"
     ],
     "roles": [
       "Key Animator",
@@ -512,7 +537,7 @@
   "gen-urobuchi": {
     "name": "Gen Urobuchi",
     "aliases": [
-      "虚淵 玄"
+      "Gen Urobuchi (虚淵玄)"
     ],
     "roles": [
       "Scriptwriter",
@@ -523,7 +548,7 @@
   "miku-kadowaki": {
     "name": "Miku Kadowaki",
     "aliases": [
-      "門脇 未来"
+      "Miku Kadowaki (門脇未来)"
     ],
     "roles": [
       "Animation Director",
@@ -537,7 +562,7 @@
   "nobuaki-maruki": {
     "name": "Nobuaki Maruki",
     "aliases": [
-      "丸木 宣明"
+      "Nobuaki Maruki (丸木宣明)"
     ],
     "roles": [
       "Animation Director",
@@ -550,7 +575,7 @@
   "yuuko-myouken": {
     "name": "Yuuko Myouken",
     "aliases": [
-      "明見 裕子"
+      "Yuuko Myouken (明見裕子)"
     ],
     "roles": [
       "Animation Director",
@@ -562,7 +587,7 @@
   "chiyoko-ueno": {
     "name": "Chiyoko Ueno",
     "aliases": [
-      "植野 千世子"
+      "Chiyoko Ueno (植野千世子, 植野千代子)"
     ],
     "roles": [
       "Key Animator",
@@ -576,7 +601,7 @@
   "yuki-tsunoda": {
     "name": "Yuki Tsunoda",
     "aliases": [
-      "角田 有希"
+      "Yuki Tsunoda (角田有希)"
     ],
     "roles": [
       "Key Animator",
@@ -589,7 +614,8 @@
   "kouhei-okamura": {
     "name": "Kouhei Okamura",
     "aliases": [
-      "岡村 公平"
+      "Kouhei Okamura (岡村公平)",
+      "Kouhei Nakahara (中原公平)"
     ],
     "roles": [
       "Designer",
@@ -604,7 +630,7 @@
   "naoko-fujita": {
     "name": "Naoko Fujita",
     "aliases": [
-      "藤田 奈緒子"
+      "Naoko Fujita (藤田奈緒子)"
     ],
     "roles": [
       "In-Betweener",
@@ -615,7 +641,7 @@
   "kana-miyata": {
     "name": "Kana Miyata",
     "aliases": [
-      "宮田 佳奈"
+      "Kana Miyata (宮田佳奈)"
     ],
     "roles": [
       "Colorist"
@@ -625,7 +651,7 @@
   "rina-miura": {
     "name": "Rina Miura",
     "aliases": [
-      "三浦 理奈"
+      "Rina Miura (三浦理奈)"
     ],
     "roles": [
       "Colorist",
@@ -636,7 +662,7 @@
   "jouji-unoguchi": {
     "name": "Jouji Unoguchi",
     "aliases": [
-      "鵜ノ口 穣二"
+      "Jouji Unoguchi (鵜ノ口穣二, 鵜口穣二)"
     ],
     "roles": [
       "Background Artist",
@@ -651,7 +677,7 @@
   "norihiro-tomiita": {
     "name": "Norihiro Tomiita",
     "aliases": [
-      "冨板 紀宏"
+      "Norihiro Tomiita (冨板紀宏)"
     ],
     "roles": [
       "3DCG Artist",
@@ -664,7 +690,7 @@
   "futoshi-nishiya": {
     "name": "Futoshi Nishiya",
     "aliases": [
-      "西屋 太志"
+      "Futoshi Nishiya (西屋太志)"
     ],
     "roles": [
       "Animation Director",
@@ -677,7 +703,7 @@
   "masayuki-yoshihara": {
     "name": "Masayuki Yoshihara",
     "aliases": [
-      "吉原 正行"
+      "Masayuki Yoshihara (吉原正行)"
     ],
     "roles": [
       "Key Animator",
@@ -692,7 +718,8 @@
   "hayao-miyazaki": {
     "name": "Hayao Miyazaki",
     "aliases": [
-      "宮崎 駿"
+      "Hayao Miyazaki (宮崎駿, 宮﨑駿)",
+      "Tsutomu Teruki (照樹務)"
     ],
     "roles": [
       "Storyboarder",
@@ -710,7 +737,7 @@
   "kazuki-akane": {
     "name": "Kazuki Akane",
     "aliases": [
-      "赤根 和樹"
+      "Kazuki Akane (赤根和樹, 忍海信一)"
     ],
     "roles": [
       "Storyboarder",
@@ -723,7 +750,7 @@
   "mari-okada": {
     "name": "Mari Okada",
     "aliases": [
-      "岡田 麿里"
+      "Mari Okada (岡田麿里, 岡田磨里)"
     ],
     "roles": [
       "Scriptwriter",
@@ -736,7 +763,7 @@
   "tatsuyuki-nagai": {
     "name": "Tatsuyuki Nagai",
     "aliases": [
-      "長井 龍雪"
+      "Tatsuyuki Nagai (長井龍雪, 長井龍幸, 長井たつゆき)"
     ],
     "roles": [
       "Director",
@@ -749,7 +776,7 @@
   "tatsuya-ishiguro": {
     "name": "Tatsuya Ishiguro",
     "aliases": [
-      "石黒 達也"
+      "Tatsuya Ishiguro (石黒達也)"
     ],
     "roles": [
       "Producer",
@@ -763,7 +790,7 @@
   "makoto-kohara": {
     "name": "Makoto Kohara",
     "aliases": [
-      "小原 充"
+      "Makoto Kohara (小原充, こはらまこと, 小原まこと)"
     ],
     "roles": [
       "Producer",
@@ -783,7 +810,8 @@
   "masaaki-yuasa": {
     "name": "Masaaki Yuasa",
     "aliases": [
-      "湯浅 政明"
+      "Masaaki Yuasa (湯浅政明, 温浅政明)",
+      "Masaki Yuasa"
     ],
     "roles": [
       "Designer",
@@ -801,7 +829,7 @@
   "george-wada": {
     "name": "George Wada",
     "aliases": [
-      "和田 丈嗣"
+      "Jouji Wada (和田丈嗣)"
     ],
     "roles": [
       "Producer",
@@ -813,7 +841,7 @@
   "norihiro-naganuma": {
     "name": "Norihiro Naganuma",
     "aliases": [
-      "長沼 範裕"
+      "Norihiro Naganuma (長沼範裕)"
     ],
     "roles": [
       "Director",
@@ -830,7 +858,7 @@
   "tsutomu-mizushima": {
     "name": "Tsutomu Mizushima",
     "aliases": [
-      "水島 努"
+      "Tsutomu Mizushima (水島努)"
     ],
     "roles": [
       "Director",
@@ -846,7 +874,7 @@
   "kana-ueda": {
     "name": "Kana Ueda",
     "aliases": [
-      "植田 佳奈"
+      "Kana Ueda (植田佳奈)"
     ],
     "roles": [
       "Singer",
@@ -858,7 +886,8 @@
   "muneki-ogasawara": {
     "name": "Muneki Ogasawara",
     "aliases": [
-      "小笠原 宗紀"
+      "Muneki Ogasawara (小笠原宗紀)",
+      "SOKI OGASAWARA"
     ],
     "roles": [
       "Producer",
@@ -870,7 +899,7 @@
   "hidetaka-tenjin": {
     "name": "Hidetaka Tenjin",
     "aliases": [
-      "天神 英貴"
+      "Hidetaka Tenjin (天神英貴)"
     ],
     "roles": [
       "Designer",
@@ -885,7 +914,10 @@
   "shouji-kawamori": {
     "name": "Shouji Kawamori",
     "aliases": [
-      "河森 正治"
+      "Shouji Kawamori (河森正治)",
+      "Eiji Kurokawa (黒河影次)",
+      "Takaji Kuromori (黒森鷹治)",
+      "Meiji Shirakawa (白河明次)"
     ],
     "roles": [
       "Designer",
@@ -900,7 +932,7 @@
   "rena-motomura": {
     "name": "Rena Motomura",
     "aliases": [
-      "本村 玲奈"
+      "Rena Motomura (本村玲奈)"
     ],
     "roles": [
       "Voice Actor",
@@ -911,7 +943,8 @@
   "ayumu-watanabe": {
     "name": "Ayumu Watanabe",
     "aliases": [
-      "渡辺 歩"
+      "Ayumu Watanabe (渡辺歩, 渡辺あゆむ)",
+      "Kakeru Watanabe (渡辺カケル)"
     ],
     "roles": [
       "Director",
@@ -928,7 +961,7 @@
   "ryouta-gotou": {
     "name": "Ryouta Gotou",
     "aliases": [
-      "後藤 亮太"
+      "Ryouta Gotou (後藤亮太)"
     ],
     "roles": [
       "Background Artist"
@@ -938,7 +971,7 @@
   "haruyoshi-nomura": {
     "name": "Haruyoshi Nomura",
     "aliases": [
-      "野村 治嘉"
+      "Haruyoshi Nomura (野村治嘉)"
     ],
     "roles": [
       "Animation Director",
@@ -951,7 +984,10 @@
 
   "william-lee": {
     "name": "William Lee",
-    "aliases": [],
+    "aliases": [
+      "William Lee (ウィリアム・リー, ウイリアム・リー, ウィリアムリー)",
+      "Upchurch William Lee (アプチャーチウィリアムリー, アップチャーチ・ウィリアム・リー)"
+    ],
     "roles": [
       "Key Animator",
       "Animation Director",
@@ -962,7 +998,9 @@
   "isao-nanba": {
     "name": "Isao Nanba",
     "aliases": [
-      "難波 功"
+      "Isao Nanba (難波功)",
+      "Atsushi Nanba",
+      "Masaaki Funane (船根雅明)"
     ],
     "roles": [
       "Animation Director",
@@ -976,7 +1014,7 @@
   "hayato-torii": {
     "name": "Hayato Torii",
     "aliases": [
-      "鳥井 隼人"
+      "Hayato Torii (鳥井隼人, 鳥居隼人)"
     ],
     "roles": [
       "Animation Director",
@@ -988,7 +1026,7 @@
   "shuuhei-tada": {
     "name": "Shuuhei Tada",
     "aliases": [
-      "多田 周平"
+      "Shuuhei Tada (多田周平)"
     ],
     "roles": [
       "Background Artist"
@@ -998,7 +1036,7 @@
   "mika-nakajima": {
     "name": "Mika Nakajima",
     "aliases": [
-      "中島 美佳"
+      "Mika Nakashima (中島美佳)"
     ],
     "roles": [
       "Designer",
@@ -1009,7 +1047,7 @@
   "yuka-kitamura": {
     "name": "Yuka Kitamura",
     "aliases": [
-      "北村 友香"
+      "Yuka Kitamura (北村友香)"
     ],
     "roles": [
       "Musician"
@@ -1019,7 +1057,7 @@
   "eve": {
     "name": "Eve",
     "aliases": [
-      "いぶ"
+      "Eve (いぶ)"
     ],
     "roles": [
       "Musician",
@@ -1033,7 +1071,7 @@
   "natsuki-hanae": {
     "name": "Natsuki Hanae",
     "aliases": [
-      "花江 夏樹"
+      "Natsuki Hanae (花江夏樹)"
     ],
     "roles": [
       "Singer"
@@ -1043,7 +1081,7 @@
   "yuuichi-nakamura": {
     "name": "Yuuichi Nakamura",
     "aliases": [
-      "中村悠一"
+      "Yuuichi Nakamura (中村悠一)"
     ],
     "roles": [
       "Singer",
@@ -1054,7 +1092,8 @@
   "kazuki-kawagoe": {
     "name": "Kazuki Kawagoe",
     "aliases": [
-      "川越 一生"
+      "Kazuki Kawagoe (川越一生)",
+      "Kazuki Mitsugoe (三越一生)"
     ],
     "roles": [
       "Director",
@@ -1068,7 +1107,9 @@
   "satoshi-nakano": {
     "name": "Satoshi Nakano",
     "aliases": [
-      "中野 悟史"
+      "Satoshi Nakano (中野悟史)",
+      "Washio (わしお)",
+      "Satoru Nakano (中野悟)"
     ],
     "roles": [
       "Director",
@@ -1083,7 +1124,8 @@
   "kairi-unabara": {
     "name": "Kairi Unabara",
     "aliases": [
-      "うなばら 海里"
+      "Kairi Unabara (うなばら海里)",
+      "Mai Yamaguchi (山口真依)"
     ],
     "roles": [
       "Designer",
@@ -1096,7 +1138,7 @@
   "hiroaki-karasu": {
     "name": "Hiroaki Karasu",
     "aliases": [
-      "烏 宏明"
+      "Hiroaki Karasu (烏宏明, 鳥宏明, 烏弘明)"
     ],
     "roles": [
       "Animation Director",
@@ -1109,7 +1151,7 @@
   "yoshihisa-satou": {
     "name": "Yoshihisa Satou",
     "aliases": [
-      "佐藤 義久"
+      "Yoshihisa Satou (佐藤義久)"
     ],
     "roles": [
       "Key Animator",
@@ -1122,7 +1164,7 @@
   "takushi-koide": {
     "name": "Takushi Koide",
     "aliases": [
-      "小出 卓史"
+      "Takushi Koide (小出卓史)"
     ],
     "roles": [
       "Director",
@@ -1138,7 +1180,7 @@
   "akinori-ooyama": {
     "name": "Akinori Ooyama",
     "aliases": [
-      "大山 晃典"
+      "Akinori Ooyama (大山晃典)"
     ],
     "roles": [
       "Production Manager"
@@ -1148,7 +1190,7 @@
   "shunsuke-sugimoto": {
     "name": "Shunsuke Sugimoto",
     "aliases": [
-      "杉本 俊輔"
+      "Shunsuke Sugimoto (杉本俊輔)"
     ],
     "roles": [
       "Producer",
@@ -1160,7 +1202,7 @@
   "kaoru-miyabara": {
     "name": "Kaoru Miyabara",
     "aliases": [
-      "宮原 郁"
+      "Kaoru Miyabara (宮原郁)"
     ],
     "roles": [
       "Production Manager"
@@ -1170,7 +1212,7 @@
   "tadahiro-shibata": {
     "name": "Tadahiro Shibata",
     "aliases": [
-      "柴田 匡寛"
+      "Tadahiro Shibata (柴田匡寛)"
     ],
     "roles": [
       "Production Manager"
@@ -1180,7 +1222,7 @@
   "atsushi-kaneko": {
     "name": "Atsushi Kaneko",
     "aliases": [
-      "金子 敦史"
+      "Atsushi Kaneko (金子敦史)"
     ],
     "roles": [
       "Producer",
@@ -1191,7 +1233,7 @@
   "sachio-fujita": {
     "name": "Sachio Fujita",
     "aliases": [
-      "藤田 祥雄"
+      "Sachio Fujita (藤田祥雄)"
     ],
     "roles": [
       "Producer",
@@ -1202,7 +1244,7 @@
   "akihisa-shibuya": {
     "name": "Akihisa Shibuya",
     "aliases": [
-      "渋谷 晃尚"
+      "Akihisa Shibuya (渋谷晃尚)"
     ],
     "roles": [
       "Production Manager",
@@ -1213,7 +1255,7 @@
   "toshitaka-morioka": {
     "name": "Toshitaka Morioka",
     "aliases": [
-      "森岡 俊宇"
+      "Toshitaka Morioka (森岡俊宇)"
     ],
     "roles": [
       "3DCG Artist"
@@ -1223,7 +1265,7 @@
   "akihito-suzuki": {
     "name": "Akihito Suzuki",
     "aliases": [
-      "鈴木 彬人"
+      "Akihito Suzuki (鈴木彬人)"
     ],
     "roles": [
       "Composite Artist"
@@ -1233,7 +1275,7 @@
   "akane-takeda": {
     "name": "Akane Takeda",
     "aliases": [
-      "竹田 茜"
+      "Akane Takeda (竹田茜)"
     ],
     "roles": [
       "Designer",
@@ -1247,7 +1289,7 @@
   "minori-ootsuka": {
     "name": "Minori Ootsuka",
     "aliases": [
-      "大塚 実梨"
+      "Minori Ootsuka (大塚実梨, 大塚美梨)"
     ],
     "roles": [
       "Colorist",
@@ -1258,7 +1300,7 @@
   "hiroshi-nakajima": {
     "name": "Hiroshi Nakajima",
     "aliases": [
-      "中島 宏"
+      "Hiroshi Nakajima (中島宏)"
     ],
     "roles": [
       "3DCG Artist",
@@ -1269,7 +1311,7 @@
   "chizuru-muramatsu": {
     "name": "Chizuru Muramatsu",
     "aliases": [
-      "村松 千鶴"
+      "Chizuru Muramatsu (村松千鶴, 松村千鶴)"
     ],
     "roles": [
       "In-Betweener"
@@ -1279,7 +1321,7 @@
   "nao-kudou": {
     "name": "Nao Kudou",
     "aliases": [
-      "工藤 菜央"
+      "Nao Kudou (工藤菜央)"
     ],
     "roles": [
       "Production Manager",
@@ -1291,7 +1333,7 @@
   "ayaka-murakami": {
     "name": "Ayaka Murakami",
     "aliases": [
-      "村上 彩夏"
+      "Ayaka Murakami (村上彩夏, 村上彩香)"
     ],
     "roles": [
       "Colorist"
@@ -1301,7 +1343,7 @@
   "yui-tomita": {
     "name": "Yui Tomita",
     "aliases": [
-      "冨田 結伊"
+      "Yui Tomita (冨田結伊, 富田結伊, 冨田結衣)"
     ],
     "roles": [
       "Composite Artist",
@@ -1312,7 +1354,7 @@
   "airi-ookubo": {
     "name": "Airi Ookubo",
     "aliases": [
-      "大久保 愛理"
+      "Airi Ookubo (大久保愛理)"
     ],
     "roles": [
       "Production Manager"
@@ -1322,7 +1364,7 @@
   "yuuki-kurokawa": {
     "name": "Yuuki Kurokawa",
     "aliases": [
-      "黒河 友貴"
+      "Yuuki Kurokawa (黒河友貴)"
     ],
     "roles": [
       "Production Manager"
@@ -1332,7 +1374,7 @@
   "takurou-mori": {
     "name": "Takurou Mori",
     "aliases": [
-      "森 拓郎"
+      "Takurou Mori (森拓郎)"
     ],
     "roles": [
       "Production Manager"
@@ -1342,7 +1384,7 @@
   "yuito-watanabe": {
     "name": "Yuito Watanabe",
     "aliases": [
-      "渡邉 唯人"
+      "Yuito Watanabe (渡邊唯人, 渡邉唯人)"
     ],
     "roles": [
       "Production Manager"
@@ -1352,7 +1394,7 @@
   "megumi-maeda": {
     "name": "Megumi Maeda",
     "aliases": [
-      "前田 芽美"
+      "Megumi Maeda (前田芽美)"
     ],
     "roles": [
       "Designer",
@@ -1365,7 +1407,7 @@
   "misaki-yamasawa": {
     "name": "Misaki Yamasawa",
     "aliases": [
-      "山澤 美紗紀"
+      "Misaki Yamasawa (山澤美紗紀)"
     ],
     "roles": [
       "Colorist",
@@ -1376,7 +1418,7 @@
   "ririka-furukawa": {
     "name": "Ririka Furukawa",
     "aliases": [
-      "古川 璃々花"
+      "Ririka Furukawa (古川璃々花)"
     ],
     "roles": [
       "3DCG Artist"
@@ -1386,7 +1428,7 @@
   "honoka-kagami": {
     "name": "Honoka Kagami",
     "aliases": [
-      "加賀美 帆"
+      "Honoka Kagami (加賀美帆)"
     ],
     "roles": [
       "Composite Artist"
@@ -1396,7 +1438,7 @@
   "tatsuya-hiragi": {
     "name": "Tatsuya Hiragi",
     "aliases": [
-      "平義樹弥"
+      "Tatsuya Hiragi (平義樹弥)"
     ],
     "roles": [
       "Background Artist"
@@ -1406,7 +1448,7 @@
   "jun-katou": {
     "name": "Jun Katou",
     "aliases": [
-      "加藤 淳"
+      "Jun Katou (加藤淳)"
     ],
     "roles": [
       "Producer",
@@ -1417,7 +1459,7 @@
   "tetsuya-kawakami": {
     "name": "Tetsuya Kawakami",
     "aliases": [
-      "川上哲也"
+      "Tetsuya Kawakami (川上哲也, 川上てつや, 川上哲哉)"
     ],
     "roles": [
       "Animation Director",
@@ -1430,7 +1472,7 @@
   "youhei-miyawaki": {
     "name": "Youhei Miyawaki",
     "aliases": [
-      "宮脇洋平"
+      "Youhei Miyawaki (宮脇洋平)"
     ],
     "roles": [
       "Composite Artist",
@@ -1441,7 +1483,7 @@
   "mizuho-kanda": {
     "name": "Mizuho Kanda",
     "aliases": [
-      "神田瑞帆"
+      "Mizuho Kanda (神田瑞帆)"
     ],
     "roles": [
       "3DCG Artist"
@@ -1451,7 +1493,7 @@
   "keitatsu-hayakawa": {
     "name": "Keitatsu Hayakawa",
     "aliases": [
-      "早川敬立"
+      "Keitatsu Hayakawa (早川敬立)"
     ],
     "roles": [
       "3DCG Artist"
@@ -1461,7 +1503,7 @@
   "shingo-sasaki": {
     "name": "Shingo Sasaki",
     "aliases": [
-      "佐々木進伍"
+      "Shingo Sasaki (佐々木進伍)"
     ],
     "roles": [
       "3DCG Artist"
@@ -1471,7 +1513,7 @@
   "haruki-asa": {
     "name": "Haruki Asa",
     "aliases": [
-      "朝春輝"
+      "Haruki Asa (朝春輝, 朝春樹)"
     ],
     "roles": [
       "3DCG Artist"
@@ -1481,7 +1523,7 @@
   "aoba-onobe": {
     "name": "Aoba Onobe",
     "aliases": [
-      "小野辺青葉"
+      "Aoba Onobe (小野辺青葉)"
     ],
     "roles": [
       "3DCG Artist"
@@ -1491,7 +1533,7 @@
   "kengo-oda": {
     "name": "Kengo Oda",
     "aliases": [
-      "織田健吾"
+      "Kengo Oda (織田健吾)"
     ],
     "roles": [
       "3DCG Artist"
@@ -1501,7 +1543,7 @@
   "ryouko-ishikura": {
     "name": "Ryouko Ishikura",
     "aliases": [
-      "石倉諒子"
+      "Ryouko Ishikura (石倉諒子)"
     ],
     "roles": [
       "Production Manager"
@@ -1511,7 +1553,7 @@
   "kanto-kikuchi": {
     "name": "Kanto Kikuchi",
     "aliases": [
-      "菊地観人"
+      "Kanto Kikuchi (菊地観人)"
     ],
     "roles": [
       "Production Manager"
@@ -1521,7 +1563,7 @@
   "rei-yamaguchi": {
     "name": "Rei Yamaguchi",
     "aliases": [
-      "山口黎"
+      "Rei Yamaguchi (山口黎)"
     ],
     "roles": [
       "Production Manager"
@@ -1531,7 +1573,7 @@
   "kazuki-maejima": {
     "name": "Kazuki Maejima",
     "aliases": [
-      "前島和記"
+      "Kazuki Maejima (前島和記)"
     ],
     "roles": [
       "Production Manager"
@@ -1541,7 +1583,7 @@
   "motonobu-hishinuma": {
     "name": "Motonobu Hishinuma",
     "aliases": [
-      "菱沼誉常"
+      "Motonobu Hishinuma (菱沼誉常)"
     ],
     "roles": [
       "3DCG Artist"
@@ -1551,7 +1593,7 @@
   "shuhei-kato": {
     "name": "Shuhei Kato",
     "aliases": [
-      "加藤柊平"
+      "Shuhei Kato (加藤柊平)"
     ],
     "roles": [
       "3DCG Artist"
@@ -1561,7 +1603,7 @@
   "ryousuke-baba": {
     "name": "Ryousuke Baba",
     "aliases": [
-      "馬塲亮輔"
+      "Ryousuke Baba (馬塲亮輔, 馬場亮輔)"
     ],
     "roles": [
       "Composite Artist"
@@ -1571,7 +1613,7 @@
   "yurika-seki": {
     "name": "Yurika Seki",
     "aliases": [
-      "關優梨花"
+      "Yurika Seki (關優梨花)"
     ],
     "roles": [
       "Composite Artist"
@@ -1581,7 +1623,7 @@
   "hana-yamashita": {
     "name": "Hana Yamashita",
     "aliases": [
-      "山下花菜"
+      "Hana Yamashita (山下花菜)"
     ],
     "roles": [
       "Composite Artist"
@@ -1591,7 +1633,7 @@
   "mayato-nozaki": {
     "name": "Mayato Nozaki",
     "aliases": [
-      "野﨑真哉斗"
+      "Mayato Nozaki (野﨑真哉斗, 野崎真哉斗)"
     ],
     "roles": [
       "Colorist"
@@ -1601,7 +1643,7 @@
   "reina-tachibana": {
     "name": "Reina Tachibana",
     "aliases": [
-      "橘玲奈"
+      "Reina Tachibana (橘玲奈)"
     ],
     "roles": [
       "Colorist",
@@ -1612,7 +1654,7 @@
   "kurumi-yoshida": {
     "name": "Kurumi Yoshida",
     "aliases": [
-      "\uD842\uDFB7田久留美"
+      "Kurumi Yoshida (\uD842\uDFB7田久留美, 吉田久留美, 吉田久留)"
     ],
     "roles": [
       "Colorist"
@@ -1622,7 +1664,7 @@
   "karin-kanbara": {
     "name": "Karin Kanbara",
     "aliases": [
-      "神原夏琳"
+      "Karin Kanbara (神原夏琳)"
     ],
     "roles": [
       "Background Artist"
@@ -1632,7 +1674,7 @@
   "chiharu-tomizawa": {
     "name": "Chiharu Tomizawa",
     "aliases": [
-      "冨澤千春"
+      "Chiharu Tomizawa (冨澤千春)"
     ],
     "roles": [
       "Background Artist"
@@ -1642,7 +1684,7 @@
   "chinatsu-saitou": {
     "name": "Chinatsu Saitou",
     "aliases": [
-      "齊藤千夏"
+      "Chinatsu Saitou (齊藤千夏)"
     ],
     "roles": [
       "In-Betweener"
@@ -1652,7 +1694,7 @@
   "yukina-iwata": {
     "name": "Yukina Iwata",
     "aliases": [
-      "岩田幸奈"
+      "Yukina Iwata (岩田幸奈)"
     ],
     "roles": [
       "In-Betweener"
@@ -1662,7 +1704,7 @@
   "haruka-koseki": {
     "name": "Haruka Koseki",
     "aliases": [
-      "小関遥"
+      "Haruka Koseki (小関遥)"
     ],
     "roles": [
       "In-Betweener"
@@ -1672,7 +1714,7 @@
   "shinsei-hidaka": {
     "name": "Shinsei Hidaka",
     "aliases": [
-      "日髙鎮世"
+      "Shinsei Hidaka (日髙鎮世, 日高鎮世)"
     ],
     "roles": [
       "Key Animator",
@@ -1683,7 +1725,7 @@
   "nachi-ban": {
     "name": "Nachi Ban",
     "aliases": [
-      "伴菜智"
+      "Nachi Ban (伴菜智)"
     ],
     "roles": [
       "Key Animator",
@@ -1694,7 +1736,7 @@
   "rikuto-shinada": {
     "name": "Rikuto Shinada",
     "aliases": [
-      "品田陸登"
+      "Rikuto Shinada (品田陸登)"
     ],
     "roles": [
       "In-Betweener",
@@ -1705,7 +1747,7 @@
   "ryouta-aikou": {
     "name": "Ryouta Aikou",
     "aliases": [
-      "愛甲亮汰"
+      "Ryouta Aikou (愛甲亮汰)"
     ],
     "roles": [
       "In-Betweener"
@@ -1715,7 +1757,7 @@
   "kana-asai": {
     "name": "Kana Asai",
     "aliases": [
-      "浅井花菜"
+      "Kana Asai (浅井花菜)"
     ],
     "roles": [
       "In-Betweener"
@@ -1725,7 +1767,7 @@
   "ayumu-ikegami": {
     "name": "Ayumu Ikegami",
     "aliases": [
-      "池上歩夢"
+      "Ayumu Ikegami (池上歩夢)"
     ],
     "roles": [
       "In-Betweener"
@@ -1735,7 +1777,7 @@
   "yousuke-shiokawa": {
     "name": "Yousuke Shiokawa",
     "aliases": [
-      "塩川洋介"
+      "Yousuke Shiokawa (塩川洋介)"
     ],
     "roles": []
   },
@@ -1743,7 +1785,7 @@
   "atsuhiro-iwakami": {
     "name": "Atsuhiro Iwakami",
     "aliases": [
-      "岩上敦宏"
+      "Atsuhiro Iwakami (岩上敦宏)"
     ],
     "roles": [
       "Producer",
@@ -1754,8 +1796,7 @@
   "takahiro-oomori": {
     "name": "Takahiro Oomori",
     "aliases": [
-      "大森貴弘",
-      "小森貴弘"
+      "Takahiro Oomori (大森貴弘, 小森貴弘)"
     ],
     "roles": [
       "Director",
@@ -1773,12 +1814,7 @@
   "takahiro-chiba": {
     "name": "Takahiro Chiba",
     "aliases": [
-      "千葉崇洋",
-      "千葉孝浩",
-      "千葉たかひろ",
-      "千葉宗洋",
-      "千葉洋",
-      "千葉崇行"
+      "Takahiro Chiba (千葉崇洋, 千葉孝浩, 千葉たかひろ, 千葉宗洋, 千葉洋, 千葉崇行)"
     ],
     "roles": [
       "Key Animator",
@@ -1791,7 +1827,7 @@
   "yoshimi-itazu": {
     "name": "Yoshimi Itazu",
     "aliases": [
-      "板津匡覧"
+      "Yoshimi Itazu (板津匡覧)"
     ],
     "roles": [
       "Director",
@@ -1806,7 +1842,7 @@
   "tetsuya-kinoshita": {
     "name": "Tetsuya Kinoshita",
     "aliases": [
-      "木下哲哉"
+      "Tetsuya Kinoshita (木下哲哉)"
     ],
     "roles": [
       "Producer",
@@ -1818,7 +1854,7 @@
   "shimba-tsuchiya": {
     "name": "Shimba Tsuchiya",
     "aliases": [
-      "土屋神葉"
+      "Shimba Tsuchiya (土屋神葉)"
     ],
     "roles": [
       "Voice Actor"
@@ -1828,7 +1864,7 @@
   "hiroyuki-yamaga": {
     "name": "Hiroyuki Yamaga",
     "aliases": [
-      "山賀博之"
+      "Hiroyuki Yamaga (山賀博之)"
     ],
     "roles": [
       "Producer",
@@ -1841,7 +1877,7 @@
   "taichi-ishidate": {
     "name": "Taichi Ishidate",
     "aliases": [
-      "石立太一"
+      "Taichi Ishidate (石立太一)"
     ],
     "roles": [
       "Director",
@@ -1855,9 +1891,8 @@
   "yuuzou-aoki": {
     "name": "Yuuzou Aoki",
     "aliases": [
-      "青木悠三",
-      "青木雄三",
-      "畑中由宇"
+      "Yuuzou Aoki (青木悠三, 青木雄三)",
+      "Yuu Hatanaka (畑中由宇)"
     ],
     "roles": [
       "Storyboarder",
@@ -1871,7 +1906,7 @@
   "shouji-gatou": {
     "name": "Shouji Gatou",
     "aliases": [
-      "賀東招二"
+      "Shouji Gatou (賀東招二)"
     ],
     "roles": [
       "Scriptwriter"
@@ -1881,7 +1916,7 @@
   "douji-shiki": {
     "name": "Douji Shiki",
     "aliases": [
-      "四季童子"
+      "Douji Shiki (四季童子)"
     ],
     "roles": [
       "Designer"
@@ -1891,7 +1926,7 @@
   "yasuhiro-takemoto": {
     "name": "Yasuhiro Takemoto",
     "aliases": [
-      "武本康弘"
+      "Yasuhiro Takemoto (武本康弘)"
     ],
     "roles": [
       "Director",
@@ -1908,8 +1943,8 @@
   "chengxi-huang": {
     "name": "Chengxi Huang",
     "aliases": [
-      "黄成希",
-      "黃成希"
+      "Chengxi Huang (黄成希, 黃成希)",
+      "Ceki"
     ],
     "roles": [
       "Key Animator",
@@ -1924,7 +1959,7 @@
   "kenichi-suemitsu": {
     "name": "Kenichi Suemitsu",
     "aliases": [
-      "末満健一"
+      "Kenichi Suemitsu (末満健一)"
     ],
     "roles": [
       "Manga Artist",
@@ -1935,7 +1970,8 @@
   "yoshihiko-umakoshi": {
     "name": "Yoshihiko Umakoshi",
     "aliases": [
-      "馬越嘉彦"
+      "Yoshihiko Umakoshi (馬越嘉彦)",
+      "Umakoshi Yoshihiko"
     ],
     "roles": [
       "Designer",
@@ -1957,8 +1993,7 @@
   "monkey-punch": {
     "name": "Monkey Punch",
     "aliases": [
-      "モンキー・パンチ",
-      "モンキーパンチ"
+      "Monkey Punch (モンキー・パンチ, モンキーパンチ)"
     ],
     "roles": [
       "Manga Artist",
@@ -1971,8 +2006,8 @@
   "tensai-okamura": {
     "name": "Tensai Okamura",
     "aliases": [
-      "岡村天斎",
-      "岡村天斉"
+      "Tensai Okamura (岡村天斎, 岡村天斉)",
+      "Yutaka Okamura (岡村豊)"
     ],
     "roles": [
       "Storyboarder",
@@ -1988,8 +2023,7 @@
   "ei-aoki": {
     "name": "Ei Aoki",
     "aliases": [
-      "あおきえい",
-      "青木英"
+      "Ei Aoki (あおきえい, 青木英)"
     ],
     "roles": [
       "Director",
@@ -2003,7 +2037,7 @@
   "anna-kawahara": {
     "name": "Anna Kawahara",
     "aliases": [
-      "川原杏奈"
+      "Anna Kawahara (川原杏奈)"
     ],
     "roles": [
       "Scriptwriter"
@@ -2013,7 +2047,7 @@
   "shiori-tani": {
     "name": "Shiori Tani",
     "aliases": [
-      "谷紫織"
+      "Shiori Tani (谷紫織)"
     ],
     "roles": [
       "Designer",

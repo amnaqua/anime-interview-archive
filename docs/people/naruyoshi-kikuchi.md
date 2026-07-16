@@ -5,7 +5,7 @@ title: "Naruyoshi Kikuchi"
 # Naruyoshi Kikuchi
 
 <div class="entity-meta">
-菊地 成孔<br>
+Naruyoshi Kikuchi (菊地成孔)<br>
 Jobs: Musician, Lyricist, Sound Artist, Singer<br>
 </div>
 

@@ -5,7 +5,7 @@ title: "Douji Shiki"
 # Douji Shiki
 
 <div class="entity-meta">
-四季童子<br>
+Douji Shiki (四季童子)<br>
 Jobs: Designer<br>
 </div>
 

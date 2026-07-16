@@ -5,7 +5,7 @@ title: "Yurika Seki"
 # Yurika Seki
 
 <div class="entity-meta">
-關優梨花<br>
+Yurika Seki (關優梨花)<br>
 Jobs: Composite Artist<br>
 </div>
 

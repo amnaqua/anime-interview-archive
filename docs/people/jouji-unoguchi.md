@@ -5,7 +5,7 @@ title: "Jouji Unoguchi"
 # Jouji Unoguchi
 
 <div class="entity-meta">
-鵜ノ口 穣二<br>
+Jouji Unoguchi (鵜ノ口穣二, 鵜口穣二)<br>
 Jobs: Background Artist, 3DCG Artist, Production Manager, Composite Artist, Colorist, In-Betweener<br>
 </div>
 

@@ -5,7 +5,7 @@ title: "Yuuko Myouken"
 # Yuuko Myouken
 
 <div class="entity-meta">
-明見 裕子<br>
+Yuuko Myouken (明見裕子)<br>
 Jobs: Animation Director, Key Animator, Producer<br>
 </div>
 

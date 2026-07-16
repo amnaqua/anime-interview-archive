@@ -5,6 +5,7 @@ title: "Abel Góngora"
 # Abel Góngora
 
 <div class="entity-meta">
+Abel Góngora (アベル・ゴンゴラ, アベル ゴンゴラ)<br>
 Jobs: Director, Storyboarder, Key Animator, Background Artist, Composite Artist, Editor, Animation Director<br>
 </div>
 

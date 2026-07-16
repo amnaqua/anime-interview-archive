@@ -5,7 +5,7 @@ title: "Taichi Ishidate"
 # Taichi Ishidate
 
 <div class="entity-meta">
-石立太一<br>
+Taichi Ishidate (石立太一)<br>
 Jobs: Director, Storyboarder, Scriptwriter, Key Animator, Producer<br>
 </div>
 

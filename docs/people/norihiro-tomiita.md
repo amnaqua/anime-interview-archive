@@ -5,7 +5,7 @@ title: "Norihiro Tomiita"
 # Norihiro Tomiita
 
 <div class="entity-meta">
-冨板 紀宏<br>
+Norihiro Tomiita (冨板紀宏)<br>
 Jobs: 3DCG Artist, Producer, Production Manager, Composite Artist<br>
 </div>
 

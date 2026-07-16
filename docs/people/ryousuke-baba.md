@@ -5,7 +5,7 @@ title: "Ryousuke Baba"
 # Ryousuke Baba
 
 <div class="entity-meta">
-馬塲亮輔<br>
+Ryousuke Baba (馬塲亮輔, 馬場亮輔)<br>
 Jobs: Composite Artist<br>
 </div>
 

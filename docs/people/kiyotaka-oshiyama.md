@@ -5,7 +5,7 @@ title: "Kiyotaka Oshiyama"
 # Kiyotaka Oshiyama
 
 <div class="entity-meta">
-押山 清高<br>
+Kiyotaka Oshiyama (押山清高, 押山清隆) • Mayashio Katayoshi (型良真弥塩)<br>
 Jobs: Designer, Key Animator, Director, Lyricist, Storyboarder, Animation Director, In-Betweener, Scriptwriter<br>
 </div>
 

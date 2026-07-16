@@ -5,7 +5,7 @@ title: "Kazuto Arai"
 # Kazuto Arai
 
 <div class="entity-meta">
-荒井 和人<br>
+Kazuto Arai (荒井和人) • Barikios (バリキオス)<br>
 Jobs: Key Animator, In-Betweener, Colorist, Animation Director, Storyboarder, Director, Scriptwriter<br>
 </div>
 

@@ -5,7 +5,7 @@ title: "Nobuaki Maruki"
 # Nobuaki Maruki
 
 <div class="entity-meta">
-丸木 宣明<br>
+Nobuaki Maruki (丸木宣明)<br>
 Jobs: Animation Director, Key Animator, Producer, Designer<br>
 </div>
 

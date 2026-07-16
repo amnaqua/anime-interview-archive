@@ -5,7 +5,7 @@ title: "Motonobu Hishinuma"
 # Motonobu Hishinuma
 
 <div class="entity-meta">
-菱沼誉常<br>
+Motonobu Hishinuma (菱沼誉常)<br>
 Jobs: 3DCG Artist<br>
 </div>
 

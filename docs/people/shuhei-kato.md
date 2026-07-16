@@ -5,7 +5,7 @@ title: "Shuhei Kato"
 # Shuhei Kato
 
 <div class="entity-meta">
-加藤柊平<br>
+Shuhei Kato (加藤柊平)<br>
 Jobs: 3DCG Artist<br>
 </div>
 

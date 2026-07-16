@@ -5,6 +5,7 @@ title: "Vincent Chansard"
 # Vincent Chansard
 
 <div class="entity-meta">
+Cheb Vincent • Le mec de Versailles<br>
 Jobs: Key Animator, Storyboarder<br>
 </div>
 

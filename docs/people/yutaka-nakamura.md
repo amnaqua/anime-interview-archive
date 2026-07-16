@@ -5,7 +5,7 @@ title: "Yutaka Nakamura"
 # Yutaka Nakamura
 
 <div class="entity-meta">
-中村 豊<br>
+Yutaka Nakamura (中村豊, なかむらゆたか) • Kohaku (こはく) • Yutaka Takahashi (高橋豊) • Yatarou Takahashi (高橋矢太郎)<br>
 Jobs: Animation Director, Key Animator, Storyboarder, Designer, Director, In-Betweener<br>
 </div>
 

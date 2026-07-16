@@ -5,7 +5,7 @@ title: "Ryouta Aikou"
 # Ryouta Aikou
 
 <div class="entity-meta">
-愛甲亮汰<br>
+Ryouta Aikou (愛甲亮汰)<br>
 Jobs: In-Betweener<br>
 </div>
 

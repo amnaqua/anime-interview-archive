@@ -5,7 +5,7 @@ title: "Hiroshi Nakajima"
 # Hiroshi Nakajima
 
 <div class="entity-meta">
-中島 宏<br>
+Hiroshi Nakajima (中島宏)<br>
 Jobs: 3DCG Artist, Director<br>
 </div>
 

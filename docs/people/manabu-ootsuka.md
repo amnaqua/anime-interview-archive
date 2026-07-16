@@ -5,7 +5,7 @@ title: "Manabu Ootsuka"
 # Manabu Ootsuka
 
 <div class="entity-meta">
-大塚学<br>
+Manabu Ootsuka (大塚学)<br>
 Jobs: Producer, Production Manager<br>
 </div>
 

@@ -5,7 +5,7 @@ title: "Chengxi Huang"
 # Chengxi Huang
 
 <div class="entity-meta">
-黄成希 • 黃成希<br>
+Chengxi Huang (黄成希, 黃成希) • Ceki<br>
 Jobs: Key Animator, Director, Storyboarder, Animation Director, Designer, In-Betweener<br>
 </div>
 

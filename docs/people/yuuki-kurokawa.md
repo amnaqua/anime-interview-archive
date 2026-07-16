@@ -5,7 +5,7 @@ title: "Yuuki Kurokawa"
 # Yuuki Kurokawa
 
 <div class="entity-meta">
-黒河 友貴<br>
+Yuuki Kurokawa (黒河友貴)<br>
 Jobs: Production Manager<br>
 </div>
 

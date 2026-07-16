@@ -5,7 +5,7 @@ title: "Tsutomu Mizushima"
 # Tsutomu Mizushima
 
 <div class="entity-meta">
-水島 努<br>
+Tsutomu Mizushima (水島努)<br>
 Jobs: Director, Storyboarder, Sound Artist, Lyricist, Musician, Scriptwriter, Production Manager<br>
 </div>
 

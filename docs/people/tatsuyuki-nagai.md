@@ -5,7 +5,7 @@ title: "Tatsuyuki Nagai"
 # Tatsuyuki Nagai
 
 <div class="entity-meta">
-長井 龍雪<br>
+Tatsuyuki Nagai (長井龍雪, 長井龍幸, 長井たつゆき)<br>
 Jobs: Director, Storyboarder, Key Animator, Production Manager<br>
 </div>
 

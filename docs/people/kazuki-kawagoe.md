@@ -5,7 +5,7 @@ title: "Kazuki Kawagoe"
 # Kazuki Kawagoe
 
 <div class="entity-meta">
-川越 一生<br>
+Kazuki Kawagoe (川越一生) • Kazuki Mitsugoe (三越一生)<br>
 Jobs: Director, Storyboarder, Sound Artist, Key Animator, Production Manager<br>
 </div>
 

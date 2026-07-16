@@ -5,7 +5,7 @@ title: "Mitsuhisa Ishikawa"
 # Mitsuhisa Ishikawa
 
 <div class="entity-meta">
-石川 光久<br>
+Mitsuhisa Ishikawa (石川光久)<br>
 Jobs: Producer, Production Manage<br>
 </div>
 

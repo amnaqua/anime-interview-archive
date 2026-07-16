@@ -5,7 +5,7 @@ title: "Toshitaka Morioka"
 # Toshitaka Morioka
 
 <div class="entity-meta">
-森岡 俊宇<br>
+Toshitaka Morioka (森岡俊宇)<br>
 Jobs: 3DCG Artist<br>
 </div>
 

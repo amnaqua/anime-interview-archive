@@ -5,7 +5,7 @@ title: "Sachio Fujita"
 # Sachio Fujita
 
 <div class="entity-meta">
-藤田 祥雄<br>
+Sachio Fujita (藤田祥雄)<br>
 Jobs: Producer, Production Manager<br>
 </div>
 

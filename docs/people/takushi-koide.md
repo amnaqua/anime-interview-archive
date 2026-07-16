@@ -5,7 +5,7 @@ title: "Takushi Koide"
 # Takushi Koide
 
 <div class="entity-meta">
-小出 卓史<br>
+Takushi Koide (小出卓史)<br>
 Jobs: Director, Storyboarder, Key Animator, Designer, Animation Director, In-Betweener, Musician<br>
 </div>
 

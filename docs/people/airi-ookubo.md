@@ -5,7 +5,7 @@ title: "Airi Ookubo"
 # Airi Ookubo
 
 <div class="entity-meta">
-大久保 愛理<br>
+Airi Ookubo (大久保愛理)<br>
 Jobs: Production Manager<br>
 </div>
 

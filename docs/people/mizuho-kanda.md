@@ -5,7 +5,7 @@ title: "Mizuho Kanda"
 # Mizuho Kanda
 
 <div class="entity-meta">
-神田瑞帆<br>
+Mizuho Kanda (神田瑞帆)<br>
 Jobs: 3DCG Artist<br>
 </div>
 

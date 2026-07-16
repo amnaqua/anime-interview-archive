@@ -5,7 +5,7 @@ title: "Yoshitoshi Abe"
 # Yoshitoshi Abe
 
 <div class="entity-meta">
-安倍 吉俊<br>
+Yoshitoshi Abe (安倍𠮷俊, 安倍吉俊)<br>
 Jobs: Designer, Scriptwriter, Key Animator, Manga Artist<br>
 </div>
 

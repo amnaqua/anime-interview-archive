@@ -5,7 +5,7 @@ title: "Yuuta Hiraoka"
 # Yuuta Hiraoka
 
 <div class="entity-meta">
-平岡 雄大<br>
+Yuuta Hiraoka (平岡雄大)<br>
 Jobs: Producer<br>
 </div>
 

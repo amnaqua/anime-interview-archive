@@ -5,7 +5,7 @@ title: "Yoshihiko Umakoshi"
 # Yoshihiko Umakoshi
 
 <div class="entity-meta">
-馬越嘉彦<br>
+Yoshihiko Umakoshi (馬越嘉彦) • Umakoshi Yoshihiko<br>
 Jobs: Designer, Animation Director, Key Animator, Director, In-Betweener<br>
 </div>
 

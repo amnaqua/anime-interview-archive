@@ -5,7 +5,7 @@ title: "Nao Kudou"
 # Nao Kudou
 
 <div class="entity-meta">
-工藤 菜央<br>
+Nao Kudou (工藤菜央)<br>
 Jobs: Production Manager, 3DCG Artist, Composite Artist<br>
 </div>
 

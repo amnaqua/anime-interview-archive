@@ -5,7 +5,7 @@ title: "Akane Takeda"
 # Akane Takeda
 
 <div class="entity-meta">
-竹田 茜<br>
+Akane Takeda (竹田茜)<br>
 Jobs: Designer, Key Animator, Director, Animation Director, In-Betweener<br>
 </div>
 

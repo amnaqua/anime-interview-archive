@@ -5,7 +5,7 @@ title: "Shuuhei Handa"
 # Shuuhei Handa
 
 <div class="entity-meta">
-半田 修平<br>
+Shuuhei Handa (半田修平)<br>
 Jobs: Designer, Animation Director, Storyboarder, Key Animator, In-Betweener<br>
 </div>
 

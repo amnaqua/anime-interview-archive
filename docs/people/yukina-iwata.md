@@ -5,7 +5,7 @@ title: "Yukina Iwata"
 # Yukina Iwata
 
 <div class="entity-meta">
-岩田幸奈<br>
+Yukina Iwata (岩田幸奈)<br>
 Jobs: In-Betweener<br>
 </div>
 

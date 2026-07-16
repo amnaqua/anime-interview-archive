@@ -5,7 +5,7 @@ title: "Shunsuke Sugimoto"
 # Shunsuke Sugimoto
 
 <div class="entity-meta">
-杉本 俊輔<br>
+Shunsuke Sugimoto (杉本俊輔)<br>
 Jobs: Producer, Production Manager, Scriptwriter<br>
 </div>
 

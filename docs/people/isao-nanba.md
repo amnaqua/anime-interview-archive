@@ -5,7 +5,7 @@ title: "Isao Nanba"
 # Isao Nanba
 
 <div class="entity-meta">
-難波 功<br>
+Isao Nanba (難波功) • Atsushi Nanba • Masaaki Funane (船根雅明)<br>
 Jobs: Animation Director, Key Animator, Director, Designer, In-Betweener<br>
 </div>
 

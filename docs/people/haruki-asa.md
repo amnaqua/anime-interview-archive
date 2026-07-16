@@ -5,7 +5,7 @@ title: "Haruki Asa"
 # Haruki Asa
 
 <div class="entity-meta">
-朝春輝<br>
+Haruki Asa (朝春輝, 朝春樹)<br>
 Jobs: 3DCG Artist<br>
 </div>
 

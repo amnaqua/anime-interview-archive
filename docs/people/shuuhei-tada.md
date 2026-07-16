@@ -5,7 +5,7 @@ title: "Shuuhei Tada"
 # Shuuhei Tada
 
 <div class="entity-meta">
-多田 周平<br>
+Shuuhei Tada (多田周平)<br>
 Jobs: Background Artist<br>
 </div>
 

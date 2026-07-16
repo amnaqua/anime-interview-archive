@@ -5,7 +5,7 @@ title: "Satoshi Nakano"
 # Satoshi Nakano
 
 <div class="entity-meta">
-中野 悟史<br>
+Satoshi Nakano (中野悟史) • Washio (わしお) • Satoru Nakano (中野悟)<br>
 Jobs: Director, Animation Director, Key Animator, Storyboarder, Designer, In-Betweener<br>
 </div>
 

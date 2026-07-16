@@ -5,7 +5,7 @@ title: "Kazuki Maejima"
 # Kazuki Maejima
 
 <div class="entity-meta">
-前島和記<br>
+Kazuki Maejima (前島和記)<br>
 Jobs: Production Manager<br>
 </div>
 

@@ -5,7 +5,7 @@ title: "Jun Katou"
 # Jun Katou
 
 <div class="entity-meta">
-加藤 淳<br>
+Jun Katou (加藤淳)<br>
 Jobs: Producer, Production Manager<br>
 </div>
 

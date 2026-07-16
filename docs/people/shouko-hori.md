@@ -5,7 +5,7 @@ title: "Shouko Hori"
 # Shouko Hori
 
 <div class="entity-meta">
-堀 祥子<br>
+Shouko Hori (堀祥子)<br>
 Jobs: Producer, Business<br>
 </div>
 

@@ -5,7 +5,7 @@ title: "Tetsuya Kinoshita"
 # Tetsuya Kinoshita
 
 <div class="entity-meta">
-木下哲哉<br>
+Tetsuya Kinoshita (木下哲哉)<br>
 Jobs: Producer, Production Manager, Business<br>
 </div>
 

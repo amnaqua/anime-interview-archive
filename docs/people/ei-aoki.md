@@ -5,7 +5,7 @@ title: "Ei Aoki"
 # Ei Aoki
 
 <div class="entity-meta">
-あおきえい • 青木英<br>
+Ei Aoki (あおきえい, 青木英)<br>
 Jobs: Director, Storyboarder, Scriptwriter, Key Animator, Composite Artist<br>
 </div>
 

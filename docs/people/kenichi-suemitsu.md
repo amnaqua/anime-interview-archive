@@ -5,7 +5,7 @@ title: "Kenichi Suemitsu"
 # Kenichi Suemitsu
 
 <div class="entity-meta">
-末満健一<br>
+Kenichi Suemitsu (末満健一)<br>
 Jobs: Manga Artist, Scriptwriter<br>
 </div>
 

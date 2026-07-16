@@ -5,7 +5,7 @@ title: "Takahiro Chiba"
 # Takahiro Chiba
 
 <div class="entity-meta">
-千葉崇洋 • 千葉孝浩 • 千葉たかひろ • 千葉宗洋 • 千葉洋 • 千葉崇行<br>
+Takahiro Chiba (千葉崇洋, 千葉孝浩, 千葉たかひろ, 千葉宗洋, 千葉洋, 千葉崇行)<br>
 Jobs: Key Animator, Designer, Animation Director, In-Betweener<br>
 </div>
 

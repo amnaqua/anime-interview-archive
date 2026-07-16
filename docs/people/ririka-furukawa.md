@@ -5,7 +5,7 @@ title: "Ririka Furukawa"
 # Ririka Furukawa
 
 <div class="entity-meta">
-古川 璃々花<br>
+Ririka Furukawa (古川璃々花)<br>
 Jobs: 3DCG Artist<br>
 </div>
 

@@ -5,7 +5,7 @@ title: "Hayato Torii"
 # Hayato Torii
 
 <div class="entity-meta">
-鳥井 隼人<br>
+Hayato Torii (鳥井隼人, 鳥居隼人)<br>
 Jobs: Animation Director, Key Animator, In-Betweener<br>
 </div>
 

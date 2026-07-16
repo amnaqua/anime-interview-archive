@@ -5,7 +5,7 @@ title: "Tadashi Hiramatsu"
 # Tadashi Hiramatsu
 
 <div class="entity-meta">
-平松 禎史<br>
+Tadashi Hiramatsu (平松禎史, 平松禎士)<br>
 Jobs: Key Animator, Director, Designer, Animation Director, Storyboarder, Sound Artist, In-Betweener<br>
 </div>
 

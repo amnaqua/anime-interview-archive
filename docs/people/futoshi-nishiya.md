@@ -5,7 +5,7 @@ title: "Futoshi Nishiya"
 # Futoshi Nishiya
 
 <div class="entity-meta">
-西屋 太志<br>
+Futoshi Nishiya (西屋太志)<br>
 Jobs: Animation Director, Designer, Key Animator, Producer<br>
 </div>
 

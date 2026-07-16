@@ -5,7 +5,7 @@ title: "Yuuzou Aoki"
 # Yuuzou Aoki
 
 <div class="entity-meta">
-青木悠三 • 青木雄三 • 畑中由宇<br>
+Yuuzou Aoki (青木悠三, 青木雄三) • Yuu Hatanaka (畑中由宇)<br>
 Jobs: Storyboarder, Key Animator, Designer, Animation Director, Director<br>
 </div>
 

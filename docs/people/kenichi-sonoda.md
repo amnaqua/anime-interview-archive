@@ -5,7 +5,7 @@ title: "Kenichi Sonoda"
 # Kenichi Sonoda
 
 <div class="entity-meta">
-園田 健一<br>
+Kenichi Sonoda (園田健一)<br>
 Jobs: Designer, Key Animator, Storyboarder, Manga Artist<br>
 </div>
 

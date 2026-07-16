@@ -5,7 +5,7 @@ title: "Ryouko Ishikura"
 # Ryouko Ishikura
 
 <div class="entity-meta">
-石倉諒子<br>
+Ryouko Ishikura (石倉諒子)<br>
 Jobs: Production Manager<br>
 </div>
 

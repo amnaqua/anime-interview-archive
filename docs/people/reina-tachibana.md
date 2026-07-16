@@ -5,7 +5,7 @@ title: "Reina Tachibana"
 # Reina Tachibana
 
 <div class="entity-meta">
-橘玲奈<br>
+Reina Tachibana (橘玲奈)<br>
 Jobs: Colorist, Designer<br>
 </div>
 

@@ -5,7 +5,7 @@ title: "Chiyoko Ueno"
 # Chiyoko Ueno
 
 <div class="entity-meta">
-植野 千世子<br>
+Chiyoko Ueno (植野千世子, 植野千代子)<br>
 Jobs: Key Animator, Animation Director, Designer, Producer, In-Betweener<br>
 </div>
 

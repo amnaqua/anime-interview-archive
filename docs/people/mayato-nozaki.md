@@ -5,7 +5,7 @@ title: "Mayato Nozaki"
 # Mayato Nozaki
 
 <div class="entity-meta">
-野﨑真哉斗<br>
+Mayato Nozaki (野﨑真哉斗, 野崎真哉斗)<br>
 Jobs: Colorist<br>
 </div>
 

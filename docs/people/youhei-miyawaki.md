@@ -5,7 +5,7 @@ title: "Youhei Miyawaki"
 # Youhei Miyawaki
 
 <div class="entity-meta">
-宮脇洋平<br>
+Youhei Miyawaki (宮脇洋平)<br>
 Jobs: Composite Artist, Colorist<br>
 </div>
 

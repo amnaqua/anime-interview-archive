@@ -5,6 +5,7 @@ title: "Bahi JD"
 # Bahi JD
 
 <div class="entity-meta">
+Bahi JD (バヒJD, バヒ・JD)<br>
 Jobs: Key Animator, Storyboarder, Designer, In-Betweener, Animation Director<br>
 </div>
 

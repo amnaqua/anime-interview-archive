@@ -5,7 +5,7 @@ title: "Hiroyuki Yamaga"
 # Hiroyuki Yamaga
 
 <div class="entity-meta">
-山賀博之<br>
+Hiroyuki Yamaga (山賀博之)<br>
 Jobs: Producer, Director, Scriptwriter, Storyboarder<br>
 </div>
 

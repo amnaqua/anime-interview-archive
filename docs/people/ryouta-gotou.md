@@ -5,7 +5,7 @@ title: "Ryouta Gotou"
 # Ryouta Gotou
 
 <div class="entity-meta">
-後藤 亮太<br>
+Ryouta Gotou (後藤亮太)<br>
 Jobs: Background Artist<br>
 </div>
 

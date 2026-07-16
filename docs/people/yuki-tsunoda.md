@@ -5,7 +5,7 @@ title: "Yuki Tsunoda"
 # Yuki Tsunoda
 
 <div class="entity-meta">
-角田 有希<br>
+Yuki Tsunoda (角田有希)<br>
 Jobs: Key Animator, Animation Director, Producer, In-Betweener<br>
 </div>
 

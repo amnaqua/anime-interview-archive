@@ -5,7 +5,7 @@ title: "Shouji Kawamori"
 # Shouji Kawamori
 
 <div class="entity-meta">
-河森 正治<br>
+Shouji Kawamori (河森正治) • Eiji Kurokawa (黒河影次) • Takaji Kuromori (黒森鷹治) • Meiji Shirakawa (白河明次)<br>
 Jobs: Designer, Storyboarder, Director, Musician, Scriptwriter, Key Animator<br>
 </div>
 

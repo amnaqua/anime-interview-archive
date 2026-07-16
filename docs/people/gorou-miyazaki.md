@@ -5,7 +5,7 @@ title: "Gorou Miyazaki"
 # Gorou Miyazaki
 
 <div class="entity-meta">
-宮崎 吾朗<br>
+Gorou Miyazaki (宮崎吾朗)<br>
 Jobs: Director, Lyricist, Storyboarder, Musician, Scriptwriter<br>
 </div>
 

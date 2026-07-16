@@ -5,7 +5,7 @@ title: "Masahiko Minami"
 # Masahiko Minami
 
 <div class="entity-meta">
-南 雅彦<br>
+Masahiko Minami (南雅彦)<br>
 Jobs: Producer, Production Manager<br>
 </div>
 

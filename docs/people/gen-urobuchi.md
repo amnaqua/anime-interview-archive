@@ -5,7 +5,7 @@ title: "Gen Urobuchi"
 # Gen Urobuchi
 
 <div class="entity-meta">
-虚淵 玄<br>
+Gen Urobuchi (虚淵玄)<br>
 Jobs: Scriptwriter, Designer<br>
 </div>
 

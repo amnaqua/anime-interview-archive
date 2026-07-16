@@ -5,7 +5,7 @@ title: "Kyouko Kotani"
 # Kyouko Kotani
 
 <div class="entity-meta">
-小谷 杏子<br>
+Kyouko Kotani (小谷杏子)<br>
 Jobs: Key Animator, Animation Director, Designer, In-Betweener<br>
 </div>
 

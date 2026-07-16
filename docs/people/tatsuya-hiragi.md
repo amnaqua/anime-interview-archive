@@ -5,7 +5,7 @@ title: "Tatsuya Hiragi"
 # Tatsuya Hiragi
 
 <div class="entity-meta">
-平義樹弥<br>
+Tatsuya Hiragi (平義樹弥)<br>
 Jobs: Background Artist<br>
 </div>
 

@@ -5,7 +5,7 @@ title: "Muneki Ogasawara"
 # Muneki Ogasawara
 
 <div class="entity-meta">
-小笠原 宗紀<br>
+Muneki Ogasawara (小笠原宗紀) • SOKI OGASAWARA<br>
 Jobs: Producer, Director, Production Manager<br>
 </div>
 

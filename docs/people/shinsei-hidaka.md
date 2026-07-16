@@ -5,7 +5,7 @@ title: "Shinsei Hidaka"
 # Shinsei Hidaka
 
 <div class="entity-meta">
-日髙鎮世<br>
+Shinsei Hidaka (日髙鎮世, 日高鎮世)<br>
 Jobs: Key Animator, In-Betweener<br>
 </div>
 

@@ -5,7 +5,7 @@ title: "Sunao Katabuchi"
 # Sunao Katabuchi
 
 <div class="entity-meta">
-片渕 須直<br>
+Sunao Katabuchi (片渕須直)<br>
 Jobs: Director, Sound Artist, Lyricist, Storyboarder, Scriptwriter, Designer<br>
 </div>
 

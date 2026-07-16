@@ -5,7 +5,7 @@ title: "Chizuru Muramatsu"
 # Chizuru Muramatsu
 
 <div class="entity-meta">
-村松 千鶴<br>
+Chizuru Muramatsu (村松千鶴, 松村千鶴)<br>
 Jobs: In-Betweener<br>
 </div>
 

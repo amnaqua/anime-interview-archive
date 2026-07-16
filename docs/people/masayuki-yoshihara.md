@@ -5,7 +5,7 @@ title: "Masayuki Yoshihara"
 # Masayuki Yoshihara
 
 <div class="entity-meta">
-吉原 正行<br>
+Masayuki Yoshihara (吉原正行)<br>
 Jobs: Key Animator, Storyboarder, Director, Designer, Animation Director, In-Betweener<br>
 </div>
 

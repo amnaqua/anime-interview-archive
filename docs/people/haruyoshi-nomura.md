@@ -5,7 +5,7 @@ title: "Haruyoshi Nomura"
 # Haruyoshi Nomura
 
 <div class="entity-meta">
-野村 治嘉<br>
+Haruyoshi Nomura (野村治嘉)<br>
 Jobs: Animation Director, Key Animator, Designer, Storyboarder, In-Betweener<br>
 </div>
 

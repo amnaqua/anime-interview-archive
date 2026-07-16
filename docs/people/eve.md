@@ -5,7 +5,7 @@ title: "Eve"
 # Eve
 
 <div class="entity-meta">
-いぶ<br>
+Eve (いぶ)<br>
 Jobs: Musician, Singer, Lyricist, Sound Artist, Producer<br>
 </div>
 

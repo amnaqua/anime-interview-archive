@@ -5,7 +5,7 @@ title: "Keitatsu Hayakawa"
 # Keitatsu Hayakawa
 
 <div class="entity-meta">
-早川敬立<br>
+Keitatsu Hayakawa (早川敬立)<br>
 Jobs: 3DCG Artist<br>
 </div>
 

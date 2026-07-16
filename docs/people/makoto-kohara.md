@@ -5,7 +5,7 @@ title: "Makoto Kohara"
 # Makoto Kohara
 
 <div class="entity-meta">
-小原 充<br>
+Makoto Kohara (小原充, こはらまこと, 小原まこと)<br>
 Jobs: Producer, Key Animator, Animation Director, Designer, In-Betweener<br>
 </div>
 

@@ -5,7 +5,7 @@ title: "Mika Nakajima"
 # Mika Nakajima
 
 <div class="entity-meta">
-中島 美佳<br>
+Mika Nakashima (中島美佳)<br>
 Jobs: Designer, Background Artist<br>
 </div>
 

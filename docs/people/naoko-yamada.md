@@ -5,7 +5,7 @@ title: "Naoko Yamada"
 # Naoko Yamada
 
 <div class="entity-meta">
-山田尚子<br>
+Naoko Yamada (山田尚子) • Hinako Hana (花ひなこ, 花ひな子) • Ryuu Andou (安堂隆)<br>
 Jobs: Director, Storyboarder, Colorist, Lyricist, Key Animator, Producer, In-Betweener<br>
 </div>
 

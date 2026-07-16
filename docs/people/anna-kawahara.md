@@ -5,7 +5,7 @@ title: "Anna Kawahara"
 # Anna Kawahara
 
 <div class="entity-meta">
-川原杏奈<br>
+Anna Kawahara (川原杏奈)<br>
 Jobs: Scriptwriter<br>
 </div>
 

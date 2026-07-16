@@ -5,7 +5,7 @@ title: "Sayo Yamamoto"
 # Sayo Yamamoto
 
 <div class="entity-meta">
-山本 沙代<br>
+Sayo Yamamoto (山本沙代)<br>
 Jobs: Storyboarder, Scriptwriter, Director, Production Manager<br>
 </div>
 

@@ -5,7 +5,7 @@ title: "Yoshihisa Satou"
 # Yoshihisa Satou
 
 <div class="entity-meta">
-佐藤 義久<br>
+Yoshihisa Satou (佐藤義久)<br>
 Jobs: Key Animator, Animation Director, Designer, In-Betweener<br>
 </div>
 

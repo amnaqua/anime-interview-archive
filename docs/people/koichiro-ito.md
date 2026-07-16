@@ -5,7 +5,7 @@ title: "Koichiro Ito"
 # Koichiro Ito
 
 <div class="entity-meta">
-伊藤 耕一郎<br>
+Kouichirou Itou (伊藤耕一郎)<br>
 Jobs: Producer, Scriptwriter<br>
 </div>
 

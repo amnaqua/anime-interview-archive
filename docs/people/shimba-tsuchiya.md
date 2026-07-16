@@ -5,7 +5,7 @@ title: "Shimba Tsuchiya"
 # Shimba Tsuchiya
 
 <div class="entity-meta">
-土屋神葉<br>
+Shimba Tsuchiya (土屋神葉)<br>
 Jobs: Voice Actor<br>
 </div>
 

@@ -5,7 +5,7 @@ title: "Shiori Tani"
 # Shiori Tani
 
 <div class="entity-meta">
-谷紫織<br>
+Shiori Tani (谷紫織)<br>
 Jobs: Designer, Animation Director, Key Animator, In-Betweener<br>
 </div>
 

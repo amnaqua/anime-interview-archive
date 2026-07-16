@@ -5,7 +5,7 @@ title: "Kana Miyata"
 # Kana Miyata
 
 <div class="entity-meta">
-宮田 佳奈<br>
+Kana Miyata (宮田佳奈)<br>
 Jobs: Colorist<br>
 </div>
 

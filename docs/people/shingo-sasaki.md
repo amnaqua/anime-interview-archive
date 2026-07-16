@@ -5,7 +5,7 @@ title: "Shingo Sasaki"
 # Shingo Sasaki
 
 <div class="entity-meta">
-佐々木進伍<br>
+Shingo Sasaki (佐々木進伍)<br>
 Jobs: 3DCG Artist<br>
 </div>
 

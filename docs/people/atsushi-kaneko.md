@@ -5,7 +5,7 @@ title: "Atsushi Kaneko"
 # Atsushi Kaneko
 
 <div class="entity-meta">
-金子 敦史<br>
+Atsushi Kaneko (金子敦史)<br>
 Jobs: Producer, Production Manager<br>
 </div>
 

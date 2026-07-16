@@ -5,7 +5,7 @@ title: "Kouhei Okamura"
 # Kouhei Okamura
 
 <div class="entity-meta">
-岡村 公平<br>
+Kouhei Okamura (岡村公平) • Kouhei Nakahara (中原公平)<br>
 Jobs: Designer, Animation Director, Director, Key Animator, Storyboarder, Producer<br>
 </div>
 

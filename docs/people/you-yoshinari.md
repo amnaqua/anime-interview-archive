@@ -5,7 +5,7 @@ title: "You Yoshinari"
 # You Yoshinari
 
 <div class="entity-meta">
-吉成 曜<br>
+You Yoshinari (吉成曜) • Yoh Yoshinari<br>
 Jobs: Key Animator, Designer, Storyboarder, Animation Director, Director, In-Betweener<br>
 </div>
 

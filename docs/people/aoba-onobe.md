@@ -5,7 +5,7 @@ title: "Aoba Onobe"
 # Aoba Onobe
 
 <div class="entity-meta">
-小野辺青葉<br>
+Aoba Onobe (小野辺青葉)<br>
 Jobs: 3DCG Artist<br>
 </div>
 

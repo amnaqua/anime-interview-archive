@@ -5,7 +5,7 @@ title: "Chinatsu Saitou"
 # Chinatsu Saitou
 
 <div class="entity-meta">
-齊藤千夏<br>
+Chinatsu Saitou (齊藤千夏)<br>
 Jobs: In-Betweener<br>
 </div>
 

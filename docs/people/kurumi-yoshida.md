@@ -5,7 +5,7 @@ title: "Kurumi Yoshida"
 # Kurumi Yoshida
 
 <div class="entity-meta">
-𠮷田久留美<br>
+Kurumi Yoshida (𠮷田久留美, 吉田久留美, 吉田久留)<br>
 Jobs: Colorist<br>
 </div>
 

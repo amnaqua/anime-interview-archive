@@ -5,7 +5,7 @@ title: "Yasuyuki Ueda"
 # Yasuyuki Ueda
 
 <div class="entity-meta">
-上田 耕行<br>
+Yasuyuki Ueda (上田耕行)<br>
 Jobs: Producer, Production Manager<br>
 </div>
 

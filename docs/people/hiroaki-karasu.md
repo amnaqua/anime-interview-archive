@@ -5,7 +5,7 @@ title: "Hiroaki Karasu"
 # Hiroaki Karasu
 
 <div class="entity-meta">
-烏 宏明<br>
+Hiroaki Karasu (烏宏明, 鳥宏明, 烏弘明)<br>
 Jobs: Animation Director, Key Animator, Designer, In-Betweener<br>
 </div>
 

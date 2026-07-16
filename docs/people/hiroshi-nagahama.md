@@ -5,7 +5,7 @@ title: "Hiroshi Nagahama"
 # Hiroshi Nagahama
 
 <div class="entity-meta">
-長濱 博史<br>
+Hiroshi Nagahama (長濱博史, 長濵博史, 長濱博幸, 長浜博史)<br>
 Jobs: Director, Storyboarder, Key Animator, Designer, Scriptwriter, Animation Director, In-Betweener<br>
 </div>
 

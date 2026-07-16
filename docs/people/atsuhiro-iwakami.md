@@ -5,7 +5,7 @@ title: "Atsuhiro Iwakami"
 # Atsuhiro Iwakami
 
 <div class="entity-meta">
-岩上敦宏<br>
+Atsuhiro Iwakami (岩上敦宏)<br>
 Jobs: Producer, Scriptwriter<br>
 </div>
 

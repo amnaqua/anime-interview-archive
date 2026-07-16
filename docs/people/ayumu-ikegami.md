@@ -5,7 +5,7 @@ title: "Ayumu Ikegami"
 # Ayumu Ikegami
 
 <div class="entity-meta">
-池上歩夢<br>
+Ayumu Ikegami (池上歩夢)<br>
 Jobs: In-Betweener<br>
 </div>
 

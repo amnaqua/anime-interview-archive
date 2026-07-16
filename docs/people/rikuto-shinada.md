@@ -5,7 +5,7 @@ title: "Rikuto Shinada"
 # Rikuto Shinada
 
 <div class="entity-meta">
-品田陸登<br>
+Rikuto Shinada (品田陸登)<br>
 Jobs: In-Betweener, Key Animator<br>
 </div>
 

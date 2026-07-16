@@ -5,7 +5,7 @@ title: "Masaaki Yuasa"
 # Masaaki Yuasa
 
 <div class="entity-meta">
-湯浅 政明<br>
+Masaaki Yuasa (湯浅政明, 温浅政明) • Masaki Yuasa<br>
 Jobs: Designer, Storyboarder, Director, Lyricist, Producer, Key Animator, Scriptwriter, Animation Director, In-Betweener<br>
 </div>
 

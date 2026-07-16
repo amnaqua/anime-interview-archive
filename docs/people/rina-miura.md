@@ -5,7 +5,7 @@ title: "Rina Miura"
 # Rina Miura
 
 <div class="entity-meta">
-三浦 理奈<br>
+Rina Miura (三浦理奈)<br>
 Jobs: Colorist, Composite Artist<br>
 </div>
 

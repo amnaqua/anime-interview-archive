@@ -2288,5 +2288,18 @@
       "Producer",
       "Production Manager"
     ]
+  },
+
+  "kazufumi-nomura": {
+    "name": "Kazufumi Nomura",
+    "aliases": [
+      "Kazufumi Nomura (野村和史)"
+    ],
+    "roles": [
+      "Producer",
+      "Production Manager",
+      "Storyboarder",
+      "Director"
+    ]
   }
 }

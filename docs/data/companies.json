@@ -157,5 +157,13 @@
 
   "bind": {
     "name": "Studio Bind"
+  },
+
+  "appp": {
+    "name": "A.P.P.P"
+  },
+
+  "super-techno-arts": {
+    "name": "Super Techno Arts"
   }
 }

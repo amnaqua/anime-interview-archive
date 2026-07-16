@@ -4,7 +4,7 @@ title: Chikyuu Shoujo Arjuna
 date: 2002-07-18
 
 people:
-  - marc-handler
+  - shouji-kawamori
   
 media_type: anime
 

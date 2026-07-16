@@ -201,5 +201,9 @@
 
   "cg-world": {
     "name": "CGWORLD"
+  },
+
+  "cypic": {
+    "name": "Cypic"
   }
 }

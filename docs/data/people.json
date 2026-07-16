@@ -2314,5 +2314,54 @@
       "Production Manager",
       "Sound Artist"
     ]
+  },
+
+  "toshimasa-kuroyanagi": {
+    "name": "Toshimasa Kuroyanagi",
+    "aliases": [
+      "Toshimasa Kuroyanagi (黒柳トシマサ, 黒柳利允, 黒柳としまさ, 黒柳利充, 黒柳敏允, 黒柳俊允)"
+    ],
+    "roles": [
+      "Director",
+      "Storyboarder",
+      "Key Animator",
+      "Scriptwriter",
+      "Animation Director",
+      "In-Betweener"
+    ]
+  },
+
+  "kan-mizoguchi": {
+    "name": "Kan Mizoguchi",
+    "aliases": [
+      "Kan Mizoguchi (溝口侃)"
+    ],
+    "roles": [
+      "Producer",
+      "Production Manager"
+    ]
+  },
+
+  "sawako-kawamitsu": {
+    "name": "Sawako Kawamitsu",
+    "aliases": [
+      "Sawako Kawamitsu (川滿佐和子)"
+    ],
+    "roles": [
+      "Scriptwriter"
+    ]
+  },
+
+  "naru-hosoma": {
+    "name": "Naru Hosoma",
+    "aliases": [
+      "Naru Hosoma (細間菜瑠, 細間菜留)"
+    ],
+    "roles": [
+      "Director",
+      "Key Animator",
+      "Animation Director",
+      "In-Betweener"
+    ]
   }
 }

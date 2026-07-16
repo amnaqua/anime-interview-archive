@@ -19,6 +19,8 @@ import { buildMarkdown } from "./markdown.js";
 import { generateSidebar } from "./sidebar.js";
 import { generateIndex } from "./index.js";
 import { generateHome } from "./home.js";
+import { generateSitemap } from "./sitemap.js";
+import { generateRobots } from "./robots.js";
 
 const ROOT = "docs";
 const INTERVIEW_DIR = "interviews";
@@ -265,7 +267,21 @@ async function main() {
 
     });
 
-    console.log("Archive generated.");
+    await generateSitemap({
+        people: peopleData,
+        works: worksData,
+        companies: companiesData,
+        publishers: publishersData,
+
+        peopleMap: people,
+        worksMap: works,
+        companiesMap: companies,
+        publishersMap: publishers,
+
+        interviews
+    });
+
+    await generateRobots();
 }
 
 main();

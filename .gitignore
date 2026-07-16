@@ -11,3 +11,7 @@ docs/publishers/
 
 # Generated VitePress files
 docs/.vitepress/sidebar.ts
+
+# Indexind
+docs/public/robots.txt
+docs/public/sitemap.xml

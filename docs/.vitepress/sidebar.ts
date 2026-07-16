@@ -474,6 +474,10 @@ export default {
                 "link": "/people/ryoutarou-nagayama"
             },
             {
+                "text": "Ryuya Suzuki",
+                "link": "/people/ryuya-suzuki"
+            },
+            {
                 "text": "Sachio Fujita",
                 "link": "/people/sachio-fujita"
             },
@@ -824,6 +828,10 @@ export default {
             {
                 "text": "Mobile Suit Gundam: Iron-Blooded Orphans",
                 "link": "/works/gundam-iron-blooded-orphans"
+            },
+            {
+                "text": "Mumei no Jinsei",
+                "link": "/works/mumei-no-jinsei"
             },
             {
                 "text": "Naruto",

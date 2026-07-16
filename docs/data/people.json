@@ -2200,5 +2200,19 @@
       "Production Manager",
       "Producer"
     ]
+  },
+
+  "ryuya-suzuki": {
+    "name": "Ryuya Suzuki",
+    "aliases": [
+      "Ryuya Suzuki (鈴木竜也)"
+    ],
+    "roles": [
+      "Director",
+      "Designer",
+      "Colorist",
+      "Editor",
+      "Composite Artist"
+    ]
   }
 }

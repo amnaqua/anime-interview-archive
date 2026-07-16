@@ -2227,5 +2227,19 @@
       "In-Betweener",
       "Background Artist"
     ]
+  },
+
+  "shingo-tamagawa": {
+    "name": "Shingo Tamagawa",
+    "aliases": [
+      "Shingo Tamagawa (玉川真吾, 玉川慎吾)",
+      "Makoto Tamagawa (玉川真琴)"
+    ],
+    "roles": [
+      "Animation Director",
+      "Key Animator",
+      "Designer",
+      "In-Betweener"
+    ]
   }
 }

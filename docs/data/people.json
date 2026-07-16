@@ -2301,5 +2301,18 @@
       "Storyboarder",
       "Director"
     ]
+  },
+
+  "makiko-terashima": {
+    "name": "Makiko Terashima",
+    "aliases": [
+      "Makiko Terashima (寺島真樹子)",
+      "Maki Terashima-Furuta"
+    ],
+    "roles": [
+      "Producer",
+      "Production Manager",
+      "Sound Artist"
+    ]
   }
 }

@@ -1,3 +1,9 @@
 node_modules/*
 /.idea
 /docs/.vitepress/cache
+
+docs/index.md
+docs/people/
+docs/works/
+docs/companies/
+docs/publishers/

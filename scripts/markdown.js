@@ -31,23 +31,34 @@ title: "${title}"
         meta.push(parts.join(" • "));
     }
 
+    md += `<div class="entity-meta">\n`;
+
+    if (entity.type || entity.year) {
+        const parts = [];
+
+        if (entity.type) {
+            parts.push(
+                entity.type.charAt(0).toUpperCase() +
+                entity.type.slice(1)
+            );
+        }
+
+        if (entity.year) {
+            parts.push(entity.year);
+        }
+
+        md += `<div>${parts.join(" • ")}</div>\n`;
+    }
+
     if (entity.aliases?.length) {
-        meta.push(entity.aliases.join(" • "));
+        md += `<div class="entity-aliases">${entity.aliases.join(" • ")}</div>\n`;
     }
 
     if (entity.roles?.length) {
-        meta.push(`Jobs: ${entity.roles.join(", ")}`);
+        md += `<div class="entity-roles">Jobs: ${entity.roles.join(", ")}</div>\n`;
     }
 
-    if (meta.length) {
-        md += `<div class="entity-meta">\n`;
-
-        for (const line of meta) {
-            md += `${line}<br>\n`;
-        }
-
-        md += `</div>\n\n`;
-    }
+    md += `</div>\n\n`;
 
     md += `## Interviews\n\n`;
 

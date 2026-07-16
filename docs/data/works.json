@@ -285,5 +285,11 @@
     "name": "Puparia",
     "type": "anime",
     "year": 2020
+  },
+
+  "cyberpunk-edgerunners": {
+    "name": "Cyberpunk: Edgerunners",
+    "type": "anime",
+    "year": 2022
   }
 }

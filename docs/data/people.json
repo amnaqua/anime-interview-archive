@@ -2565,5 +2565,17 @@
     "roles": [
       "Voice Actor"
     ]
+  },
+
+  "tomoo": {
+    "name": "TOMOO",
+    "aliases": [
+      "Tomoo (ともお)"
+    ],
+    "roles": [
+      "Musician",
+      "Singer",
+      "Lyricist"
+    ]
   }
 }

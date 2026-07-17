@@ -21,6 +21,7 @@ links:
     url: FinemaCon 2017
     
   - type: translation
+    language: en
     url: https://anigamers.com/interviews/hiroyuki-yamaga-reflects-on-gainax-past-anime-future-fanimecon-2017/
 
 archived_at: 2026-07-11 19:09

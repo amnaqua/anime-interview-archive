@@ -33,7 +33,8 @@ export default defineConfig({
                     { text: "People", link: "/people/" },
                     { text: "Works", link: "/works/" },
                     { text: "Companies", link: "/companies/" },
-                    { text: "Publishers", link: "/publishers/" }
+                    { text: "Publishers", link: "/publishers/" },
+                    { text: "Years", link: "/years/" }
                 ]
             }
         ],

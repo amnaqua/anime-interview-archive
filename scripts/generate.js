@@ -29,6 +29,7 @@ const PEOPLE_DIR = `${ROOT}/people`;
 const WORKS_DIR = `${ROOT}/works`;
 const COMPANIES_DIR = `${ROOT}/companies`;
 const PUBLISHERS_DIR = `${ROOT}/publishers`;
+const YEARS_DIR = `${ROOT}/years`;
 
 const SIDEBAR_FILE = `${ROOT}/.vitepress/sidebar.ts`;
 
@@ -81,6 +82,7 @@ async function main() {
     const works = new Map();
     const companies = new Map();
     const publishers = new Map();
+    const years = new Map();
 
     const files = await fg(`${INTERVIEW_DIR}/**/*.md`);
 
@@ -167,6 +169,11 @@ async function main() {
             mediaType: lookup(mediaTypesData, data.media_type)
         };
 
+        const year =
+            interview.date === "Unknown"
+                ? "unknown"
+                : interview.date.slice(0, 4);
+
         interviews.push(interview);
 
         for (const slug of interview.people)
@@ -181,9 +188,19 @@ async function main() {
         for (const slug of data.publisher ?? [])
             addToMap(publishers, slug, interview);
 
+        addToMap(years, year, interview);
+
         indexEntries(data.entries, people, "people", interview);
         indexEntries(data.entries, works, "work", interview);
         indexEntries(data.entries, publishers, "publisher", interview);
+    }
+
+    const yearsDictionary = {};
+
+    for (const year of years.keys()) {
+        yearsDictionary[year] = {
+            name: year === "unknown" ? "Unknown" : year
+        };
     }
 
     await generateSection(
@@ -214,6 +231,13 @@ async function main() {
         "Publishers"
     );
 
+    await generateSection(
+        YEARS_DIR,
+        years,
+        yearsDictionary,
+        "Years"
+    );
+
     await generateSidebar(
         SIDEBAR_FILE,
         [
@@ -236,6 +260,11 @@ async function main() {
                 title: "Publishers",
                 base: "publishers",
                 dictionary: publishersData
+            },
+            {
+                title: "Years",
+                base: "years",
+                dictionary: yearsDictionary
             }
         ]
     );
@@ -268,11 +297,13 @@ async function main() {
         works: worksData,
         companies: companiesData,
         publishers: publishersData,
+        years: yearsDictionary,
 
         peopleMap: people,
         worksMap: works,
         companiesMap: companies,
         publishersMap: publishers,
+        yearsMap: years,
 
         interviews
     });

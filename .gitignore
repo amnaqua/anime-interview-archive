@@ -8,6 +8,7 @@ docs/people/
 docs/works/
 docs/companies/
 docs/publishers/
+docs/years/
 
 # Generated VitePress files
 docs/.vitepress/sidebar.ts

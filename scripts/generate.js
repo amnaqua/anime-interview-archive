@@ -92,6 +92,7 @@ async function main() {
         const { data } = matter(raw);
 
         const entryDates = (data.entries ?? [])
+            .filter(entry => entry.date)
             .map(entry =>
                 entry.date instanceof Date
                     ? entry.date.toISOString().slice(0, 10)
@@ -105,7 +106,7 @@ async function main() {
             date:
                 data.date instanceof Date
                     ? data.date.toISOString().slice(0, 10)
-                    : data.date ?? entryDates[0],
+                    : (data.date ?? entryDates[0]),
 
             archived_at:
                 data.archived_at instanceof Date
@@ -163,13 +164,6 @@ async function main() {
 
             mediaType: lookup(mediaTypesData, data.media_type)
         };
-
-        if (!interview.date && interview.entries.length) {
-            interview.date = interview.entries
-                .map(e => e.date)
-                .sort()
-                .at(-1);
-        }
 
         interviews.push(interview);
 

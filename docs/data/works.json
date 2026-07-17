@@ -339,5 +339,11 @@
     "name": "Gachiakuta",
     "type": "anime",
     "year": 2025
+  },
+
+  "hyakuemu": {
+    "name": "Hyakuemu.",
+    "type": "anime",
+    "year": 2025
   }
 }

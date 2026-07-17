@@ -2519,5 +2519,17 @@
     "roles": [
       "Voice Actor"
     ]
+  },
+
+  "kenji-iwaisawa": {
+    "name": "Kenji Iwaisawa",
+    "aliases": [
+      "Kenji Iwaisawa (岩井澤健治)"
+    ],
+    "roles": [
+      "Producer",
+      "Director",
+      "Storyboarder"
+    ]
   }
 }

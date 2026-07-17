@@ -2599,5 +2599,31 @@
       "Singer",
       "Voice Actor"
     ]
+  },
+
+  "kanako-ayano": {
+    "name": "Kanako Ayano",
+    "aliases": [
+      "Kanako Ayano (綾野佳菜子)"
+    ],
+    "roles": [
+      "Producer"
+    ]
+  },
+
+  "hiroaki-sakurai": {
+    "name": "Hiroaki Sakurai",
+    "aliases": [
+      "Hiroaki Sakurai (桜井弘明, 一垣内海堂)"
+    ],
+    "roles": [
+      "Director",
+      "Storyboarder",
+      "Scriptwriter",
+      "Lyricist",
+      "Musician",
+      "Key Animator",
+      "Production Manager"
+    ]
   }
 }

@@ -98,10 +98,10 @@ title: "${title}"
             md += `- **Language:** ${interview.language}\n`;
 
         if (interview.companies.length)
-            md += `- **Company:** ${interview.companies.join(", ")}\n`;
+            md += `- **Companies:** ${interview.companies.join(", ")}\n`;
 
         if (interview.peopleNames.length)
-            md += `- **People:** ${interview.peopleNames.join(", ")}\n`
+            md += `- **Peoples:** ${interview.peopleNames.join(", ")}\n`
 
         const sourceLinks = interview.links.filter(
             link => link.type === "source"

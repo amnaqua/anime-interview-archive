@@ -2544,5 +2544,26 @@
       "Storyboarder",
       "Production Manager"
     ]
+  },
+
+  "aoi-yuuki": {
+    "name": "Aoi Yuuki",
+    "aliases": [
+      "Aoi Yuuki (悠木碧)"
+    ],
+    "roles": [
+      "Singer",
+      "Voice Actor"
+    ]
+  },
+
+  "takeo-ootsuka": {
+    "name": "Takeo Ootsuka",
+    "aliases": [
+      "Takeo Ootsuka (大塚剛央)"
+    ],
+    "roles": [
+      "Voice Actor"
+    ]
   }
 }

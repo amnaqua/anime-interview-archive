@@ -2495,5 +2495,29 @@
       "Voice Actor",
       "Singer"
     ]
+  },
+
+  "fumihiko-suganuma": {
+    "name": "Fumihiko Suganuma",
+    "aliases": [
+      "Fumihiko Suganuma (菅沼芙実彦, 菅沼芙美彦)"
+    ],
+    "roles": [
+      "Director",
+      "Storyboarder",
+      "Key Animator",
+      "Designer",
+      "In-Betweener"
+    ]
+  },
+
+  "aoi-ichikawa": {
+    "name": "Aoi Ichikawa",
+    "aliases": [
+      "Aoi Ichikawa (市川蒼)"
+    ],
+    "roles": [
+      "Voice Actor"
+    ]
   }
 }

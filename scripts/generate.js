@@ -106,7 +106,7 @@ async function main() {
             date:
                 data.date instanceof Date
                     ? data.date.toISOString().slice(0, 10)
-                    : (data.date ?? entryDates[0]),
+                    : (data.date ?? entryDates[0] ?? "Unknown"),
 
             archived_at:
                 data.archived_at instanceof Date
@@ -132,7 +132,9 @@ async function main() {
 
             anchor: slugger.slug(data.title),
 
-            work: data.work ?? [],
+            work: (data.work ?? []).map(
+                slug => lookup(worksData, slug)
+            ),
 
             companies: (data.companies ?? []).map(
                 slug => lookup(companiesData, slug)

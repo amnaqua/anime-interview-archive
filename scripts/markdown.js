@@ -2,7 +2,13 @@ export function buildMarkdown({ entity, interviews }) {
 
     const title = entity.name;
 
-    interviews.sort((a, b) => b.date.localeCompare(a.date));
+    interviews.sort((a, b) => {
+        if (a.date === "Unknown" && b.date === "Unknown") return 0;
+        if (a.date === "Unknown") return 1;
+        if (b.date === "Unknown") return -1;
+
+        return b.date.localeCompare(a.date);
+    });
 
     let md = `---
 title: "${title}"
@@ -73,6 +79,12 @@ title: "${title}"
 
         if (interview.date) {
             md += `- **Date:** ${interview.date}\n`;
+        } else {
+            md += `- **Date:** Unknown\n`;
+        }
+
+        if (interview.work.length) {
+            md += `- **Works:** ${interview.work.join(", ")}\n`;
         }
 
         if (interview.mediaType) {

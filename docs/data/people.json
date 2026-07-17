@@ -2469,5 +2469,31 @@
       "Director",
       "Key Animator"
     ]
+  },
+
+  "ayataka-tanemura": {
+    "name": "Ayataka Tanemura",
+    "aliases": [
+      "Ayataka Tanemura (種村綾隆, 種村綾鷹, 種村アヤタカ)"
+    ],
+    "roles": [
+      "Director",
+      "Storyboarder",
+      "Key Animator",
+      "In-Betweener",
+      "Animation Director",
+      "Production Manager"
+    ]
+  },
+
+  "gakuto-kajiwara": {
+    "name": "Gakuto Kajiwara",
+    "aliases": [
+      "Gakuto Kajiwara (梶原岳人)"
+    ],
+    "roles": [
+      "Voice Actor",
+      "Singer"
+    ]
   }
 }

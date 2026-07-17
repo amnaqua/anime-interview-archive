@@ -357,5 +357,11 @@
     "name": "Ikoku Nikki",
     "type": "anime",
     "year": 2026
+  },
+
+  "tougen-anki": {
+    "name": "Tougen Anki",
+    "type": "anime",
+    "year": 2025
   }
 }

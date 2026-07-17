@@ -2577,5 +2577,27 @@
       "Singer",
       "Lyricist"
     ]
+  },
+
+  "hiroshi-kamiya": {
+    "name": "Hiroshi Kamiya",
+    "aliases": [
+      "Hiroshi Kamiya (神谷浩史)"
+    ],
+    "roles": [
+      "Singer",
+      "Voice Actor"
+    ]
+  },
+
+  "koutarou-nishiyama": {
+    "name": "Koutarou Nishiyama",
+    "aliases": [
+      "Koutarou Nishiyama (西山宏太朗)"
+    ],
+    "roles": [
+      "Singer",
+      "Voice Actor"
+    ]
   }
 }

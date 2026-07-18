@@ -17,26 +17,6 @@ title: "${title}"
 # ${title}
 
 `;
-    const meta = [];
-
-    if (entity.type || entity.year) {
-
-        const parts = [];
-
-        if (entity.type) {
-            parts.push(
-                entity.type.charAt(0).toUpperCase() +
-                entity.type.slice(1)
-            );
-        }
-
-        if (entity.year) {
-            parts.push(entity.year);
-        }
-
-        meta.push(parts.join(" • "));
-    }
-
     md += `<div class="entity-meta">\n`;
 
     if (entity.type || entity.year) {
@@ -83,24 +63,24 @@ title: "${title}"
             md += `- **Date:** Unknown\n`;
         }
 
-        if (interview.work.length) {
-            md += `- **Works:** ${interview.work.join(", ")}\n`;
+        if (interview.workNames?.length) {
+            md += `- **Works:** ${interview.workNames.join(', ')}\n`;
         }
 
         if (interview.mediaType) {
             md += `- **Media Type:** ${interview.mediaType}\n`
         }
 
-        if (interview.publisher.length)
+        if (interview.publisher?.length)
             md += `- **Publisher:** ${interview.publisher.join(", ")}\n`;
 
         if (interview.language)
             md += `- **Language:** ${interview.language}\n`;
 
-        if (interview.companies.length)
+        if (interview.companies?.length)
             md += `- **Companies:** ${interview.companies.join(", ")}\n`;
 
-        if (interview.peopleNames.length)
+        if (interview.peopleNames?.length)
             md += `- **Peoples:** ${interview.peopleNames.join(", ")}\n`
 
         const sourceLinks = interview.links.filter(

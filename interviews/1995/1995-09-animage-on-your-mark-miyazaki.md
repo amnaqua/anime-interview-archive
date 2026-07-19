@@ -11,6 +11,9 @@ media_type: anime
 publisher:
   - animage
 
+work:
+  - on-your-mark
+
 companies:
   - ghibli
 

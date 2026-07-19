@@ -4,7 +4,7 @@ title: Production I.G
 date: 2000-08-01
 
 people:
-  - kazufumi-nomura
+  - makiko-terashima
   - mitsuhisa-ishikawa
 
 media_type: anime

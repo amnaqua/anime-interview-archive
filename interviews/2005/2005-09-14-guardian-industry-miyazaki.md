@@ -9,7 +9,7 @@ people:
 media_type: anime
 
 publisher:
-  - animage
+  - guardian
 
 companies:
   - ghibli

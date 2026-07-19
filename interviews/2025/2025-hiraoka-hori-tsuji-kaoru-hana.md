@@ -17,6 +17,9 @@ companies:
 
 publisher:
   - kaoru-hana
+  
+work:
+  - kaoru-hana
 
 language: ja
 

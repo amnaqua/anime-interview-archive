@@ -11,6 +11,9 @@ media_type: anime
 work:
   - utena-movie
   
+publisher:
+  - ann
+
 companies:
   - jc-staff
 

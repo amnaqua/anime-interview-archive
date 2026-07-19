@@ -2672,5 +2672,28 @@
     "roles": [
       "Voice Actor"
     ]
+  },
+
+  "akitarou-daichi": {
+    "name": "Akitarou Daichi",
+    "aliases": [
+      "Akitarou Daichi (大地丙太郎)",
+      "Karitarou Daichi (大地仮太郎)",
+      "Senro Nakano (中野線路)",
+      "Akira Koike (小池彰)"
+    ],
+    "roles": [
+      "Storyboarder",
+      "Director",
+      "Scriptwriter",
+      "Musician",
+      "Lyricist",
+      "Key Animator",
+      "Sound Artist",
+      "Choreographer",
+      "Production Manager",
+      "Composite Artist",
+      "Producer"
+    ]
   }
 }

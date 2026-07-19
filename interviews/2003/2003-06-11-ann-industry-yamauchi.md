@@ -6,6 +6,9 @@ date: 2003-06-11
 people:
   - cindy-yamauchi
   
+publisher:
+  - ann
+
 media_type: anime
 
 language: en

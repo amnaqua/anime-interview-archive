@@ -8,6 +8,9 @@ people:
   - kenji-kamiyama
   - yoshiki-sakurai
   
+publisher:
+  - ann
+
 media_type: anime
 
 work:

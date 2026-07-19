@@ -6,6 +6,9 @@ date: 2003-07-02
 people:
   - justin-leach
   
+publisher:
+  - ann
+
 companies:
   - production-ig
 

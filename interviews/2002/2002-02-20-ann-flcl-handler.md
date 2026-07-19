@@ -6,6 +6,9 @@ date: 2002-02-20
 people:
   - marc-handler
   
+publisher:
+  - ann
+
 media_type: anime
 
 work:

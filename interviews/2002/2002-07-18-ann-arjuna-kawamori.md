@@ -5,6 +5,9 @@ date: 2002-07-18
 
 people:
   - shouji-kawamori
+
+publisher:
+  - ann
   
 media_type: anime
 

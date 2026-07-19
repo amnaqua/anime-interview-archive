@@ -17,6 +17,7 @@ import {parseInterview} from "./parser.js";
 import {indexInterview} from "./indexer.js";
 import {generateSection} from "./sections.js";
 import {createSections} from "./sections-config.js";
+import { validateInterview } from "./validator.js";
 
 const ROOT = "docs";
 const INTERVIEW_DIR = "interviews";
@@ -73,6 +74,11 @@ async function main() {
         );
 
         const {data} = matter(raw);
+
+        validateInterview(
+            data,
+            file
+        );
 
         const interview =
             parseInterview(data);

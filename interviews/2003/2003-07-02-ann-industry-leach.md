@@ -20,5 +20,5 @@ links:
   - type: source
     url: https://www.animenewsnetwork.com/feature/2003-07-02
 
-archived_at: 2026-07-20 02:1
+archived_at: 2026-07-20 02:11
 ---

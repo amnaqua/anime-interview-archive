@@ -2662,5 +2662,15 @@
     "roles": [
       "Producer"
     ]
+  },
+
+  "run-sasaki": {
+    "name": "Run Sasaki",
+    "aliases": [
+      "Run Sasaki (佐々木るん)"
+    ],
+    "roles": [
+      "Voice Actor"
+    ]
   }
 }

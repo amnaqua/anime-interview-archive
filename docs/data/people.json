@@ -2651,5 +2651,15 @@
     "roles": [
       "Business"
     ]
+  },
+
+  "justin-leach": {
+    "name": "Justin Leach",
+    "aliases": [
+      "Justin Leach (ジャスティン・リーチ)"
+    ],
+    "roles": [
+      "Producer"
+    ]
   }
 }

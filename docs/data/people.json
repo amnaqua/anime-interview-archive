@@ -2695,5 +2695,15 @@
       "Composite Artist",
       "Producer"
     ]
+  },
+
+  "range-murata": {
+    "name": "Range Murata",
+    "aliases": [
+      "Range Murata (村田蓮爾)"
+    ],
+    "roles": [
+      "Designer"
+    ]
   }
 }

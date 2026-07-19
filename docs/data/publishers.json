@@ -221,5 +221,9 @@
 
   "mbs": {
     "name": "MBS"
+  },
+
+  "nhk": {
+    "name": "NHK"
   }
 }

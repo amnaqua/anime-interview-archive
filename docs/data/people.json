@@ -2625,5 +2625,21 @@
       "Key Animator",
       "Production Manager"
     ]
+  },
+
+  "satoshi-kon": {
+    "name": "Satoshi Kon",
+    "aliases": [
+      "Satoshi Kon (今敏)",
+      "Yoshihiro Wanibuchi (鰐淵良宏)"
+    ],
+    "roles": [
+      "Director",
+      "Scriptwriter",
+      "Storyboarder",
+      "Designer",
+      "Key Animator",
+      "Manga Artist"
+    ]
   }
 }

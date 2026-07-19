@@ -2641,5 +2641,15 @@
       "Key Animator",
       "Manga Artist"
     ]
+  },
+
+  "ena-hamabe": {
+    "name": "Ena Hamabe",
+    "aliases": [
+      "Ena Hamabe (浜辺恵那)"
+    ],
+    "roles": [
+      "Business"
+    ]
   }
 }

@@ -15,7 +15,9 @@ export default defineConfig({
             {
                 rel: "icon",
                 href: "/anime-interview-archive/favicon.svg"
-            },
+            }
+        ],
+        [
             "script",
             {
                 src: "//gc.zgo.at/count.js",

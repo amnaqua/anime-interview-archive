@@ -7,12 +7,14 @@
   },
   "scripts": {
     "generate": "node scripts/generate.js",
+    "stats": "node scripts/stats.js",
     "docs:dev": "npm run generate && vitepress dev docs",
     "docs:build": "npm run generate && vitepress build docs",
     "docs:preview": "vitepress preview docs",
     "docs:clean": "rimraf docs/.vitepress/dist"
   },
   "dependencies": {
+    "dotenv": "^17.4.2",
     "fast-glob": "^3.3.3",
     "github-slugger": "^2.0.0",
     "gray-matter": "^4.0.3"

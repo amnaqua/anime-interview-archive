@@ -2890,5 +2890,36 @@
       "Director",
       "Storyboarder"
     ]
+  },
+
+  "youko-yonaiyama": {
+    "name": "Youko Yonaiyama",
+    "aliases": [
+      "Youko Yonaiyama (米内山陽子)"
+    ],
+    "roles": [
+      "Scriptwriter",
+      "Lyricist"
+    ]
+  },
+
+  "hideaki-shirasaka": {
+    "name": "Hideaki Shirasaka",
+    "aliases": [
+      "Hideaki Shirasaka (白坂英晃)"
+    ],
+    "roles": [
+      "Scriptwriter"
+    ]
+  },
+
+  "tomoko-shinozuka": {
+    "name": "Tomoko Shinozuka",
+    "aliases": [
+      "Tomoko Shinozuka (篠塚智子)"
+    ],
+    "roles": [
+      "Scriptwriter"
+    ]
   }
 }

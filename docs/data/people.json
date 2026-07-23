@@ -3236,5 +3236,45 @@
       "Producer",
       "Production Manager"
     ]
+  },
+
+  "hideaki-anno": {
+    "name": "Hideaki Anno",
+    "aliases": [
+      "Hideaki Anno (庵野秀明, あんのひであき, アンノヒデアキ)",
+      "Sosososo Kuubo (空母そ・そ・そ・そ)"
+    ],
+    "roles": [
+      "Producer",
+      "Scriptwriter",
+      "Designer",
+      "Storyboarder",
+      "Key Animator",
+      "Director",
+      "Business",
+      "Sound Artist",
+      "Singer",
+      "Animation Director",
+      "In-Betweener"
+    ]
+  },
+
+  "yoshiyuki-tomino": {
+    "name": "Yoshiyuki Tomino",
+    "aliases": [
+      "Yoshiyuki Tomino (富野由悠季, 富野喜幸, とみの喜幸)",
+      "Rin Iogi (井荻麟)",
+      "Minoru Yokitani (斧谷稔)",
+      "Minami Asa (阿佐みなみ)",
+      "Shuusuke Arata (新田修介)"
+    ],
+    "roles": [
+      "Lyricist",
+      "Director",
+      "Storyboarder",
+      "Scriptwriter",
+      "Musician",
+      "Production Manager"
+    ]
   }
 }

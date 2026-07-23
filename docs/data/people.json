@@ -2753,5 +2753,28 @@
       "Key Animator",
       "In-Betweener"
     ]
+  },
+
+  "minoru-toyoda": {
+    "name": "Minoru Toyoda",
+    "aliases": [
+      "Minoru Toyoda (とよ田みのる)"
+    ],
+    "roles": [
+      "Manga Artist"
+    ]
+  },
+
+  "hiroaki-akagi": {
+    "name": "Hiroaki Akagi",
+    "aliases": [
+      "Hiroaki Akagi (赤城博昭)"
+    ],
+    "roles": [
+      "Director",
+      "Storyboarder",
+      "Key Animator",
+      "In-Betweener"
+    ]
   }
 }

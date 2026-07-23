@@ -3174,5 +3174,19 @@
       "Sound Artist",
       "Lyricist"
     ]
+  },
+
+  "toshiharu-murata": {
+    "name": "Toshiharu Murata",
+    "aliases": [
+      "Toshiharu Murata (村田峻治, 村田俊治)"
+    ],
+    "roles": [
+      "Designer",
+      "Key Animator",
+      "Storyboarder",
+      "Animation Director",
+      "In-Betweener"
+    ]
   }
 }

@@ -3020,5 +3020,19 @@
       "Voice Actor",
       "Singer"
     ]
+  },
+
+  "kenji-nagasaki": {
+    "name": "Kenji Nagasaki",
+    "aliases": [
+      "Kenji Nagasaki (長崎健司)",
+      "Minami Nagao (長尾ミナミ)",
+      "Touji Kisaragi (如月トウジ)"
+    ],
+    "roles": [
+      "Director",
+      "Storyboarder",
+      "Production Manager"
+    ]
   }
 }

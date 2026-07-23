@@ -12,6 +12,9 @@ media_type: anime
 companies:
   - sunrise
 
+work:
+  - gundam-gh-xarx-zero
+
 publisher:
   - gundam-channel
 

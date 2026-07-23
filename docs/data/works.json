@@ -465,5 +465,11 @@
     "name": "Kidou Senshi Gundam: RG XARX-ZERO",
     "type": "anime",
     "year": 2027
+  },
+
+  "kiki-delivery-service": {
+    "name": "Kiki's Delivery Service",
+    "type": "anime",
+    "year": 1989
   }
 }

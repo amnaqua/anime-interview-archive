@@ -3328,5 +3328,17 @@
       "Scriptwriter",
       "Lyricist"
     ]
+  },
+
+  "kunihisa-sugishima": {
+    "name": "Kunihisa Sugishima",
+    "aliases": [
+      "Kunihisa Sugishima (杉島邦久)"
+    ],
+    "roles": [
+      "Storyboarder",
+      "Director",
+      "Production Manager"
+    ]
   }
 }

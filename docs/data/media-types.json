@@ -5,5 +5,9 @@
 
   "manga": {
     "name": "Manga"
+  },
+
+  "manhwa": {
+    "name": "Manhwa"
   }
 }

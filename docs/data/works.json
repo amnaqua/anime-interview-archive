@@ -447,5 +447,11 @@
     "name": "Haibane Renmei",
     "type": "anime",
     "year": 2002
+  },
+
+  "ragnarok": {
+    "name": "Ragnarok",
+    "type": "manhwa",
+    "year": 1995
   }
 }

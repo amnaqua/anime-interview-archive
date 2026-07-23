@@ -3200,5 +3200,15 @@
       "Lyricist",
       "Sound Artist"
     ]
+  },
+
+  "myung-jin-lee": {
+    "name": "Myung-Jin Lee",
+    "aliases": [
+      "Myung-Jin Lee (이명진)"
+    ],
+    "roles": [
+      "Manhwa Artist"
+    ]
   }
 }

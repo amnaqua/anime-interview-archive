@@ -429,5 +429,11 @@
     "name": "Shingeki no Kyojin Movie: Kanketsu-hen - The Last Attack",
     "type": "anime",
     "year": 2024
+  },
+
+  "attack-on-titan-the-final-season": {
+    "name": "Shingeki no Kyojin: The Final Season",
+    "type": "anime",
+    "year": 2020
   }
 }

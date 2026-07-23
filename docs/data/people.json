@@ -3138,5 +3138,41 @@
       "Animation Director",
       "In-Betweener"
     ]
+  },
+
+  "yuusuke-tannawa": {
+    "name": "Yuusuke Tannawa",
+    "aliases": [
+      "Yuusuke Tannawa (淡輪雄介)"
+    ],
+    "roles": [
+      "Producer",
+      "3DCG Artist",
+      "Composite Artist",
+      "Designer"
+    ]
+  },
+
+  "shintarou-kawakubo": {
+    "name": "Shintarou Kawakubo",
+    "aliases": [
+      "Shintarou Kawakubo (川窪慎太郎)"
+    ],
+    "roles": [
+      "Producer",
+      "Production Manager"
+    ]
+  },
+
+  "kouta-yamamoto": {
+    "name": "Kouta Yamamoto",
+    "aliases": [
+      "Kouta Yamamoto (山本康太)"
+    ],
+    "roles": [
+      "Musician",
+      "Sound Artist",
+      "Lyricist"
+    ]
   }
 }

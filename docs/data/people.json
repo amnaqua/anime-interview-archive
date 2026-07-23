@@ -2832,5 +2832,36 @@
       "Producer",
       "Production Manager"
     ]
+  },
+
+  "miyachi": {
+    "name": "Miyachi",
+    "aliases": [
+      "Miyachi (みやち)",
+      "Yuki Miyazawa (宮澤友希)"
+    ],
+    "roles": [
+      "Designer",
+      "Animation Director",
+      "Key Animator",
+      "In-Betweener"
+    ]
+  },
+
+  "gin-san": {
+    "name": "Gin-san",
+    "aliases": [
+      "Gin-san (銀さん)",
+      "Gin (銀)",
+      "Giorgi Charkviani (ジョルジ・シャルクヴィアーニ)"
+    ],
+    "roles": [
+      "Designer",
+      "Storyboarder",
+      "Animation Director",
+      "Key Animator",
+      "In-Betweener",
+      "Colorist"
+    ]
   }
 }

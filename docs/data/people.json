@@ -3067,5 +3067,25 @@
       "Producer",
       "Production Manager"
     ]
+  },
+
+  "hiroyuki-imaishi": {
+    "name": "Hiroyuki Imaishi",
+    "aliases": [
+      "Hiroyuki Imaishi (今石洋之, 今石洋介)"
+    ],
+    "roles": [
+      "Director",
+      "Storyboarder",
+      "Key Animator",
+      "Scriptwriter",
+      "Designer",
+      "Musician",
+      "Choreographer",
+      "Sound Artist",
+      "Animation Director",
+      "Colorist",
+      "In-Betweener"
+    ]
   }
 }

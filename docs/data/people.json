@@ -2942,5 +2942,16 @@
       "Sound Artist",
       "Singer"
     ]
+  },
+
+  "hey": {
+    "name": "Hey",
+    "aliases": [
+      "Hey (塀)"
+    ],
+    "roles": [
+      "Manga Artist",
+      "Key Animator"
+    ]
   }
 }

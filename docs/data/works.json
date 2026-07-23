@@ -459,5 +459,11 @@
     "name": "Di Gi Charat",
     "type": "manga",
     "year": 1998
+  },
+
+  "gundam-gh-xarx-zero": {
+    "name": "Kidou Senshi Gundam: RG XARX-ZERO",
+    "type": "anime",
+    "year": 2027
   }
 }

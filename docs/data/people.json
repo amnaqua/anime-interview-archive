@@ -2953,5 +2953,72 @@
       "Manga Artist",
       "Key Animator"
     ]
+  },
+
+  "sayumi-suzushiro": {
+    "name": "Sayumi Suzushiro",
+    "aliases": [
+      "Sayumi Suzushiro (鈴代紗弓)"
+    ],
+    "roles": [
+      "Voice Actor",
+      "Singer"
+    ]
+  },
+
+  "yoshino-aoyama": {
+    "name": "Yoshino Aoyama",
+    "aliases": [
+      "Yoshino Aoyama (青山吉能)"
+    ],
+    "roles": [
+      "Voice Actor",
+      "Singer",
+      "Sound Artist"
+    ]
+  },
+
+  "minako-kotobuki": {
+    "name": "Minako Kotobuki",
+    "aliases": [
+      "Minako Kotobuki (寿美菜子)"
+    ],
+    "roles": [
+      "Voice Actor",
+      "Singer"
+    ]
+  },
+
+  "yurina-amami": {
+    "name": "Yurina Amami",
+    "aliases": [
+      "Yurina Amami (天海由梨奈)"
+    ],
+    "roles": [
+      "Voice Actor",
+      "Singer"
+    ]
+  },
+
+  "miyu-tomita": {
+    "name": "Miyu Tomita",
+    "aliases": [
+      "Miyu Tomita (富田美憂)"
+    ],
+    "roles": [
+      "Voice Actor",
+      "Singer"
+    ]
+  },
+
+  "maki-kawase": {
+    "name": "Maki Kawase",
+    "aliases": [
+      "Maki Kawase (河瀬茉希)"
+    ],
+    "roles": [
+      "Voice Actor",
+      "Singer"
+    ]
   }
 }

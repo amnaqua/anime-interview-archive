@@ -225,5 +225,9 @@
 
   "nhk": {
     "name": "NHK"
+  },
+
+  "febri": {
+    "name": "Febri"
   }
 }

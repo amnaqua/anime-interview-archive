@@ -3210,5 +3210,17 @@
     "roles": [
       "Manhwa Artist"
     ]
+  },
+
+  "koge-donbo": {
+    "name": "Koge-Donbo*",
+    "aliases": [
+      "Koge-Donbo* (こげどんぼ*)",
+      "Koge-Donbo (コゲどんぼ)"
+    ],
+    "roles": [
+      "Manga Artist",
+      "Designer"
+    ]
   }
 }

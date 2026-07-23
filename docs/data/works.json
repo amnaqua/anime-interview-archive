@@ -453,5 +453,11 @@
     "name": "Ragnarok",
     "type": "manhwa",
     "year": 1995
+  },
+
+  "di-gi-charat": {
+    "name": "Di Gi Charat",
+    "type": "manga",
+    "year": 1998
   }
 }

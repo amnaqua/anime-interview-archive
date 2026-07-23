@@ -81,7 +81,7 @@ title: "${title}"
             md += `- **Companies:** ${interview.companies.join(", ")}\n`;
 
         if (interview.peopleNames?.length)
-            md += `- **Peoples:** ${interview.peopleNames.join(", ")}\n`
+            md += `- **People:** ${interview.peopleNames.join(", ")}\n`
 
         const sourceLinks = interview.links.filter(
             link => link.type === "source"

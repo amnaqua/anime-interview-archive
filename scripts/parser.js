@@ -50,7 +50,6 @@ export function parseInterview(data) {
             : null,
 
         people: data.people ?? [],
-
         peopleNames: (data.people ?? []).map(
             slug => lookup(peopleData, slug)
         ),
@@ -58,16 +57,17 @@ export function parseInterview(data) {
         anchor: slugger.slug(data.title),
 
         work: data.work ?? [],
-
         workNames: (data.work ?? []).map(
             slug => lookup(worksData, slug)
         ),
 
-        companies: (data.companies ?? []).map(
+        companies: data.companies ?? [],
+        companyNames: (data.companies ?? []).map(
             slug => lookup(companiesData, slug)
         ),
 
-        publisher: (data.publisher ?? []).map(
+        publishers: data.publisher ?? [],
+        publisherNames: (data.publisher ?? []).map(
             slug => lookup(publishersData, slug)
         ),
 

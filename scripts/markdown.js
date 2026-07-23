@@ -1,3 +1,10 @@
+import {
+    peopleLinks,
+    workLinks,
+    companyLinks,
+    publisherLinks
+} from "./links.js";
+
 export function buildMarkdown({ entity, interviews }) {
 
     const title = entity.name;
@@ -63,25 +70,24 @@ title: "${title}"
             md += `- **Date:** Unknown\n`;
         }
 
-        if (interview.workNames?.length) {
-            md += `- **Works:** ${interview.workNames.join(', ')}\n`;
-        }
+        if (interview.work?.length)
+            md += `- **Works:** ${workLinks(interview).join(", ")}\n`;
 
         if (interview.mediaType) {
             md += `- **Media Type:** ${interview.mediaType}\n`
         }
 
-        if (interview.publisher?.length)
-            md += `- **Publisher:** ${interview.publisher.join(", ")}\n`;
+        if (interview.publishers?.length)
+            md += `- **Publisher:** ${publisherLinks(interview).join(", ")}\n`;
 
         if (interview.language)
             md += `- **Language:** ${interview.language}\n`;
 
         if (interview.companies?.length)
-            md += `- **Companies:** ${interview.companies.join(", ")}\n`;
+            md += `- **Companies:** ${companyLinks(interview).join(", ")}\n`;
 
-        if (interview.peopleNames?.length)
-            md += `- **People:** ${interview.peopleNames.join(", ")}\n`
+        if (interview.people?.length)
+            md += `- **People:** ${peopleLinks(interview).join(", ")}\n`;
 
         const sourceLinks = interview.links.filter(
             link => link.type === "source"

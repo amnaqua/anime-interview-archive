@@ -2738,5 +2738,20 @@
     "roles": [
       "3DCG Artist"
     ]
+  },
+
+  "yuuki-matsuguma": {
+    "name": "Yuuki Matsuguma",
+    "aliases": [
+      "Yuuki Matsuguma (松隈勇樹, 松熊勇樹)",
+      "Kumata (くまた)"
+    ],
+    "roles": [
+      "Designer",
+      "Animation Director",
+      "Storyboarder",
+      "Key Animator",
+      "In-Betweener"
+    ]
   }
 }

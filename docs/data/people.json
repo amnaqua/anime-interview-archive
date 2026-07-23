@@ -2921,5 +2921,14 @@
     "roles": [
       "Scriptwriter"
     ]
+  },
+
+  "yonige": {
+    "name": "yonige",
+    "aliases": [],
+    "roles": [
+      "Musician",
+      "Singer"
+    ]
   }
 }

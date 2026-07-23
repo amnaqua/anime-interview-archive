@@ -17,5 +17,9 @@
 
   "ar": {
     "name": "Arabic"
+  },
+
+  "ko": {
+    "name": "Korean"
   }
 }

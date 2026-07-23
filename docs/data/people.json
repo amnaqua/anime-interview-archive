@@ -2705,5 +2705,38 @@
     "roles": [
       "Designer"
     ]
+  },
+
+  "yoshinori-nakano": {
+    "name": "Yoshinori Nakano",
+    "aliases": [
+      "Yoshinori Nakano (中野祥典)"
+    ],
+    "roles": [
+      "Director",
+      "3DCG Artist",
+      "Storyboarder"
+    ]
+  },
+
+  "nobuyuki-kamiya": {
+    "name": "Nobuyuki Kamiya",
+    "aliases": [
+      "Nobuyuki Kamiya (神谷宣幸)"
+    ],
+    "roles": [
+      "3DCG Artist",
+      "Storyboarder"
+    ]
+  },
+
+  "risa-adachi": {
+    "name": "Risa Adachi",
+    "aliases": [
+      "Risa Adachi (阿達里紗)"
+    ],
+    "roles": [
+      "3DCG Artist"
+    ]
   }
 }

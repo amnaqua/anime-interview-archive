@@ -2786,5 +2786,18 @@
     "roles": [
       "Scriptwriter"
     ]
+  },
+
+  "takahiro-hasui": {
+    "name": "Takahiro Hasui",
+    "aliases": [
+      "Takahiro Hasui (蓮井隆弘)"
+    ],
+    "roles": [
+      "Director",
+      "Storyboarder",
+      "Production Manager",
+      "Key Animator"
+    ]
   }
 }

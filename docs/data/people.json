@@ -2879,5 +2879,16 @@
       "In-Betweener",
       "Animation Director"
     ]
+  },
+
+  "shuntarou-tozawa": {
+    "name": "Shuntarou Tozawa",
+    "aliases": [
+      "Shuntarou Tozawa (戸澤俊太郎)"
+    ],
+    "roles": [
+      "Director",
+      "Storyboarder"
+    ]
   }
 }

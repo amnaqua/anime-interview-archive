@@ -2930,5 +2930,17 @@
       "Musician",
       "Singer"
     ]
+  },
+
+  "kana-hashiguchi": {
+    "name": "Kana Hashiguchi",
+    "aliases": [
+      "Kana Hashiguchi (橋口佳奈)"
+    ],
+    "roles": [
+      "Musician",
+      "Sound Artist",
+      "Singer"
+    ]
   }
 }

@@ -2799,5 +2799,15 @@
       "Production Manager",
       "Key Animator"
     ]
+  },
+
+  "noboru-takagi": {
+    "name": "Noboru Takagi",
+    "aliases": [
+      "Noboru Takagi (高木登)"
+    ],
+    "roles": [
+      "Scriptwriter"
+    ]
   }
 }

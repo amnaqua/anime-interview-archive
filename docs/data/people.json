@@ -3353,5 +3353,14 @@
       "Key Animator",
       "Manga Artist"
     ]
+  },
+
+  "peach-pit": {
+    "name": "PEACH‐PIT",
+    "aliases": [],
+    "roles": [
+      "Manga Artist",
+      "Designer"
+    ]
   }
 }

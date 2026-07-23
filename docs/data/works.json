@@ -435,5 +435,11 @@
     "name": "Shingeki no Kyojin: The Final Season",
     "type": "anime",
     "year": 2020
+  },
+
+  "perfect-blue": {
+    "name": "Perfect Blue",
+    "type": "anime",
+    "year": 1998
   }
 }

@@ -3340,5 +3340,18 @@
       "Director",
       "Production Manager"
     ]
+  },
+
+  "nobuteru-yuuki": {
+    "name": "Nobuteru Yuuki",
+    "aliases": [
+      "Nobuteru Yuuki (結城信輝, 結城信博)"
+    ],
+    "roles": [
+      "Animation Director",
+      "Designer",
+      "Key Animator",
+      "Manga Artist"
+    ]
   }
 }

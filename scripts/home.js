@@ -9,7 +9,7 @@ export async function generateHome(stats) {
 layout: home
 
 hero:
-  name: Animanga Interview Archive
+  name: Anime Interview Archive
   text: Archive of anime and manga staff interviews.
   tagline: ${stats.interviews} interviews indexed
 

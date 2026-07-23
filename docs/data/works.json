@@ -423,5 +423,11 @@
     "name": "No.6",
     "type": "anime",
     "year": 2026
+  },
+
+  "attack-on-titan-the-last-attack": {
+    "name": "Shingeki no Kyojin Movie: Kanketsu-hen - The Last Attack",
+    "type": "anime",
+    "year": 2024
   }
 }

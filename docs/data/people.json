@@ -3087,5 +3087,56 @@
       "Colorist",
       "In-Betweener"
     ]
+  },
+
+  "yuuki-kaji": {
+    "name": "Yuuki Kaji",
+    "aliases": [
+      "Yuuki Kaji (梶裕貴)",
+      "Citron (シトロン)"
+    ],
+    "roles": [
+      "Musician",
+      "Voice Actor",
+      "Singer"
+    ]
+  },
+
+  "yui-ishikawa": {
+    "name": "Yui Ishikawa",
+    "aliases": [
+      "Yui Ishikawa (石川由依)"
+    ],
+    "roles": [
+      "Singer",
+      "Voice Actor",
+      "Musician"
+    ]
+  },
+
+  "marina-inoue": {
+    "name": "Marina Inoue",
+    "aliases": [
+      "Marina Inoue (井上麻里奈)"
+    ],
+    "roles": [
+      "Singer",
+      "Voice Actor"
+    ]
+  },
+
+  "yuuichirou-hayashi": {
+    "name": "Yuuichirou Hayashi",
+    "aliases": [
+      "Yuuichirou Hayashi (林祐一郎, 林裕一郎)"
+    ],
+    "roles": [
+      "Director",
+      "Storyboarder",
+      "Key Animator",
+      "Designer",
+      "Animation Director",
+      "In-Betweener"
+    ]
   }
 }

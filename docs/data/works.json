@@ -471,5 +471,17 @@
     "name": "Kiki's Delivery Service",
     "type": "anime",
     "year": 1989
+  },
+
+  "rod-ova": {
+    "name": "R.O.D: Read or Die",
+    "type": "anime",
+    "year": 2001
+  },
+
+  "rod-tv": {
+    "name": "R.O.D: The TV",
+    "type": "anime",
+    "year": 2003
   }
 }

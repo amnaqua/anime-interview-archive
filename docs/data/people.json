@@ -3276,5 +3276,57 @@
       "Musician",
       "Production Manager"
     ]
+  },
+
+  "masashi-ishihama": {
+    "name": "Masashi Ishihama",
+    "aliases": [
+      "Masashi Ishihama (石浜真史, 右湊具央, 石浜真司, 石浜まさし)"
+    ],
+    "roles": [
+      "Director",
+      "Storyboarder",
+      "Key Animator",
+      "Animation Director",
+      "Designer",
+      "Colorist",
+      "In-Betweener"
+    ]
+  },
+
+  "kouji-masunari": {
+    "name": "Kouji Masunari",
+    "aliases": [
+      "Kouji Masunari (舛成孝二, ますなりこうじ, 舛成考二)"
+    ],
+    "roles": [
+      "Storyboarder",
+      "Director",
+      "In-Betweener"
+    ]
+  },
+
+  "yuuji-matsukura": {
+    "name": "Yuuji Matsukura",
+    "aliases": [
+      "Yuuji Matsukura (松倉友二)"
+    ],
+    "roles": [
+      "Producer",
+      "Production Manager",
+      "Scriptwriter"
+    ]
+  },
+
+  "hideyuki-kurata": {
+    "name": "Hideyuki Kurata",
+    "aliases": [
+      "Hideyuki Kurata (倉田英之, くらたひでゆき)"
+    ],
+    "roles": [
+      "Manga Artist",
+      "Scriptwriter",
+      "Lyricist"
+    ]
   }
 }

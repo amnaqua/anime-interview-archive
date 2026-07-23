@@ -2809,5 +2809,28 @@
     "roles": [
       "Scriptwriter"
     ]
+  },
+
+  "hikaru-murakami": {
+    "name": "Hikaru Murakami",
+    "aliases": [
+      "Hikaru Murakami (村上光)",
+      "Udon Murakami (村上うどん)"
+    ],
+    "roles": [
+      "Producer",
+      "Production Manager"
+    ]
+  },
+
+  "norimasa-fujita": {
+    "name": "Norimasa Fujita",
+    "aliases": [
+      "Norimasa Fujita (藤田規聖)"
+    ],
+    "roles": [
+      "Producer",
+      "Production Manager"
+    ]
   }
 }

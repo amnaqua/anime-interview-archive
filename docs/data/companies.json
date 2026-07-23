@@ -209,5 +209,9 @@
 
   "soigne": {
     "name": "Soigne"
+  },
+
+  "radix": {
+    "name": "Radix"
   }
 }

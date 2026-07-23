@@ -441,5 +441,11 @@
     "name": "Perfect Blue",
     "type": "anime",
     "year": 1998
+  },
+
+  "haibane-renmei": {
+    "name": "Haibane Renmei",
+    "type": "anime",
+    "year": 2002
   }
 }

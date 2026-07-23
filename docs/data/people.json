@@ -3188,5 +3188,17 @@
       "Animation Director",
       "In-Betweener"
     ]
+  },
+
+  "yuki-kajiura": {
+    "name": "Yuki Kajiura",
+    "aliases": [
+      "Yuki Kajiura (梶浦由記)"
+    ],
+    "roles": [
+      "Musician",
+      "Lyricist",
+      "Sound Artist"
+    ]
   }
 }

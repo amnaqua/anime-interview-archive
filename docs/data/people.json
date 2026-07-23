@@ -3034,5 +3034,38 @@
       "Storyboarder",
       "Production Manager"
     ]
+  },
+
+  "hiroaki-kojima": {
+    "name": "Hiroaki Kojima",
+    "aliases": [
+      "Hiroaki Kojima (児島宏明)"
+    ],
+    "roles": [
+      "Producer",
+      "Production Manager",
+      "Colorist"
+    ]
+  },
+
+  "masae-yamato": {
+    "name": "Masae Yamato",
+    "aliases": [
+      "Masae Yamato (大和雅恵)"
+    ],
+    "roles": [
+      "Producer"
+    ]
+  },
+
+  "hirotsugu-oogo": {
+    "name": "Hirotsugu Oogo",
+    "aliases": [
+      "Hirotsugu Oogo (大胡寛二)"
+    ],
+    "roles": [
+      "Producer",
+      "Production Manager"
+    ]
   }
 }

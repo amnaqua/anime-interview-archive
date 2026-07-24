@@ -507,5 +507,11 @@
     "name": "Double Call",
     "type": "manga",
     "year": 1996
+  },
+
+  "zatch-bell-101-devil": {
+    "name": "Zatch Bell! 101st Devil",
+    "type": "anime",
+    "year": 2004
   }
 }

@@ -3434,5 +3434,16 @@
     "roles": [
       "Manga Artist"
     ]
+  },
+
+  "makoto-raiku": {
+    "name": "Makoto Raiku",
+    "aliases": [
+      "Makoto Raiku (雷句誠)"
+    ],
+    "roles": [
+      "Manga Artist",
+      "Lyricist"
+    ]
   }
 }

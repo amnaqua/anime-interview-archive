@@ -3456,5 +3456,15 @@
       "Manga Artist",
       "Lyricist"
     ]
+  },
+
+  "kaoru-mori": {
+    "name": "Kaoru Mori",
+    "aliases": [
+      "Kaoru Mori (森薫)"
+    ],
+    "roles": [
+      "Manga Artist"
+    ]
   }
 }

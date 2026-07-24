@@ -3466,5 +3466,18 @@
     "roles": [
       "Manga Artist"
     ]
+  },
+
+  "rica-matsumoto": {
+    "name": "Rica Matsumoto",
+    "aliases": [
+      "Rica Matsumoto (松本梨香)",
+      "Satoshi (サトシ)"
+    ],
+    "roles": [
+      "Musician",
+      "Singer",
+      "Voice Actor"
+    ]
   }
 }

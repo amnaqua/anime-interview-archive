@@ -525,5 +525,11 @@
     "name": "Psychometrer Eiji",
     "type": "manga",
     "year": 1996
+  },
+
+  "pokemon": {
+    "name": "Pokemon",
+    "type": "anime",
+    "year": 1997
   }
 }

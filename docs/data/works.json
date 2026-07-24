@@ -513,5 +513,17 @@
     "name": "Zatch Bell! 101st Devil",
     "type": "anime",
     "year": 2004
+  },
+
+  "kunimitsu-no-matsuri": {
+    "name": "Kunimitsi no Matsuri",
+    "type": "manga",
+    "year": 2000
+  },
+
+  "psychometrer-eiji": {
+    "name": "Psychometrer Eiji",
+    "type": "manga",
+    "year": 1996
   }
 }

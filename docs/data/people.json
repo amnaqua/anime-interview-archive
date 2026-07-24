@@ -3445,5 +3445,16 @@
       "Manga Artist",
       "Lyricist"
     ]
+  },
+
+  "masashi-asaki": {
+    "name": "Masashi Asaki",
+    "aliases": [
+      "Masashi Asaki (朝基まさし)"
+    ],
+    "roles": [
+      "Manga Artist",
+      "Lyricist"
+    ]
   }
 }

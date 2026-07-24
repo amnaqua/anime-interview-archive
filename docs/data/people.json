@@ -3362,5 +3362,29 @@
       "Manga Artist",
       "Designer"
     ]
+  },
+
+  "yuugo-kanno": {
+    "name": "Yuugo Kanno",
+    "aliases": [
+      "Yuugo Kanno (菅野祐悟)"
+    ],
+    "roles": [
+      "Musician",
+      "Producer",
+      "Sound Artist"
+    ]
+  },
+
+  "noriko-dohi": {
+    "name": "Noriko Dohi",
+    "aliases": [
+      "Noriko Dohi (土肥範子, 土肥紀子)"
+    ],
+    "roles": [
+      "Producer",
+      "Production Manager",
+      "Colorist"
+    ]
   }
 }

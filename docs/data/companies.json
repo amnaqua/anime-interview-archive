@@ -217,5 +217,9 @@
 
   "david": {
     "name": "David Production"
+  },
+
+  "tatsunoko": {
+    "name": "Tatsunoko Production"
   }
 }

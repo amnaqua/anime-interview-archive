@@ -489,5 +489,11 @@
     "name": "Steel Ball Run: JoJo's Bizarre Adventure",
     "type": "anime",
     "year": 2026
+  },
+
+  "macross": {
+    "name": "Macross",
+    "type": "anime",
+    "year": 1982
   }
 }

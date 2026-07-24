@@ -495,5 +495,11 @@
     "name": "Macross",
     "type": "anime",
     "year": 1982
+  },
+
+  "nousatsu-junkie": {
+    "name": "Nousatsu Jankie",
+    "type": "manga",
+    "year": 2003
   }
 }

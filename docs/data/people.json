@@ -3414,5 +3414,15 @@
       "Musician",
       "Lyricist"
     ]
+  },
+
+  "ryoco-fukuyama": {
+    "name": "Ryoco Fukuyama",
+    "aliases": [
+      "Ryoco Fukuyama (福山リョウコ)"
+    ],
+    "roles": [
+      "Manga Artist"
+    ]
   }
 }

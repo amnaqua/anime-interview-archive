@@ -501,5 +501,11 @@
     "name": "Nousatsu Jankie",
     "type": "manga",
     "year": 2003
+  },
+
+  "double-call": {
+    "name": "Double Call",
+    "type": "manga",
+    "year": 1996
   }
 }

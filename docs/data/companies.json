@@ -225,5 +225,9 @@
 
   "hana-to-yume": {
     "name": "Hana to Yume"
+  },
+
+  "gush": {
+    "name": "GUSH"
   }
 }

@@ -1,5 +1,5 @@
 ---
-title: Macross
+title: Nousatsu Junkie
 
 date: 2006-09-01
 

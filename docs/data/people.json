@@ -3386,5 +3386,21 @@
       "Production Manager",
       "Colorist"
     ]
+  },
+
+  "toshihiro-kawamoto": {
+    "name": "Toshihiro Kawamoto",
+    "aliases": [
+      "Toshihiro Kawamoto (川元利浩)",
+      "Yoshiki Toki (土岐義芸)"
+    ],
+    "roles": [
+      "Designer",
+      "Animation Director",
+      "Key Animator",
+      "Producer",
+      "Storyboarder",
+      "In-Betweener"
+    ]
   }
 }

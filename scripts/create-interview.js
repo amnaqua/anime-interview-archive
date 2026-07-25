@@ -10,6 +10,21 @@ if (!slug) {
     process.exit(1);
 }
 
+function now() {
+    const date = new Date();
+
+    const pad = value =>
+        String(value).padStart(2, "0");
+
+    return (
+        `${date.getFullYear()}-` +
+        `${pad(date.getMonth() + 1)}-` +
+        `${pad(date.getDate())} ` +
+        `${pad(date.getHours())}:` +
+        `${pad(date.getMinutes())}`
+    );
+}
+
 const match = slug.match(/^(\d{4})-(\d{2})-(\d{2})/);
 
 if (!match) {
@@ -52,7 +67,7 @@ const template = `---
 title: ""
 
 date: ${match[0]}
-archived_at:
+archived_at: ${now()}
 
 language: ja
 media_type:

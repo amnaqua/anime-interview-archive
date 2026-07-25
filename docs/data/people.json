@@ -3677,5 +3677,28 @@
       "Singer",
       "Lyricist"
     ]
+  },
+
+  "kazunori-itou": {
+    "name": "Kazunori Itou",
+    "aliases": [
+      "Kazunori Itou (伊藤和典)"
+    ],
+    "roles": [
+      "Scriptwriter",
+      "Production Manager"
+    ]
+  },
+
+  "yoshinori-sayama": {
+    "name": "Yoshinori Sayama",
+    "aliases": [
+      "Yoshinori Sayama (佐山善則, 佐山喜則)"
+    ],
+    "roles": [
+      "Designer",
+      "Animation Director",
+      "Key Animator"
+    ]
   }
 }

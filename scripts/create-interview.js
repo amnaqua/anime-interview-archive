@@ -67,14 +67,19 @@ const template = `---
 title: ""
 
 date: ${match[0]}
+
 archived_at: ${now()}
 
 language: ja
+
 media_type:
 
 people: []
+
 work: []
+
 companies: []
+
 publisher: []
 
 links:

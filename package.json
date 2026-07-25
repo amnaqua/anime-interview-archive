@@ -7,6 +7,7 @@
   },
   "scripts": {
     "generate": "node scripts/generate.js",
+    "create": "node scripts/create-interview.js",
     "stats": "node scripts/stats.js",
     "docs:dev": "npm run generate && vitepress dev docs",
     "docs:build": "npm run generate && vitepress build docs",

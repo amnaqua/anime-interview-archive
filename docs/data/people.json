@@ -3479,5 +3479,43 @@
       "Singer",
       "Voice Actor"
     ]
+  },
+
+  "yoshiki-nakakouji": {
+    "name": "Yoshiki Nakakouji",
+    "aliases": [
+      "Yoshiki Nakakouji (中小路佳毅, 中小路佳穀)"
+    ],
+    "roles": [
+      "Key Animator",
+      "Designer",
+      "Animation Director",
+      "Director",
+      "In-Betweener"
+    ]
+  },
+
+  "takeru-noda": {
+    "name": "Takeru Noda",
+    "aliases": [
+      "Takeru Noda (野田猛)"
+    ],
+    "roles": [
+      "Designer",
+      "Animation Director",
+      "Key Animator",
+      "In-Betweener"
+    ]
+  },
+
+  "yasutaka-kimura": {
+    "name": "Yasutaka Kimura",
+    "aliases": [
+      "Yasutaka Kimura (木村和貴)"
+    ],
+    "roles": [
+      "Animation Director",
+      "Key Animator"
+    ]
   }
 }

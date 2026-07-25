@@ -3585,5 +3585,18 @@
     "roles": [
       "Production Manager"
     ]
+  },
+
+  "shinichi-watanabe": {
+    "name": "Shinichi Watanabe",
+    "aliases": [
+      "Shinichi Watanabe (ワタナベシンイチ, 渡邉慎一, 渡邊慎一, 渡辺慎一)"
+    ],
+    "roles": [
+      "Storyboarder",
+      "Director",
+      "Producer",
+      "Lyricist"
+    ]
   }
 }

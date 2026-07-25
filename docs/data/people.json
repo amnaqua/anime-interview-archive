@@ -3563,5 +3563,27 @@
       "Manga Artist",
       "Novelist"
     ]
+  },
+
+  "hiroaki-noguchi": {
+    "name": "Hiroaki Noguchi",
+    "aliases": [
+      "Hiroaki Noguchi (野口寛明)"
+    ],
+    "roles": [
+      "Animation Director",
+      "Key Animator",
+      "In-Betweener"
+    ]
+  },
+
+  "hirokatsu-kihara": {
+    "name": "Hirokatsu Kihara",
+    "aliases": [
+      "Hirokatsu Kihara (木原浩勝, 木原浩和)"
+    ],
+    "roles": [
+      "Production Manager"
+    ]
   }
 }

@@ -257,5 +257,9 @@
 
   "newtype": {
     "name": "Newtype"
+  },
+
+  "animec": {
+    "name": "ANIMEC"
   }
 }

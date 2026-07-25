@@ -549,5 +549,11 @@
     "name": "The Twelve Kingdoms",
     "type": "ranobe",
     "year": 1992
+  },
+
+  "lupin-iii-fuuma": {
+    "name": "Lupin III: The Fuma Conspiracy",
+    "type": "anime",
+    "year": 1987
   }
 }

@@ -9,5 +9,9 @@
 
   "manhwa": {
     "name": "Manhwa"
+  },
+
+  "ranobe": {
+    "name": "Light Novel"
   }
 }

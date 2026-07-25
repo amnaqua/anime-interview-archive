@@ -3552,5 +3552,16 @@
       "Singer",
       "Voice Actor"
     ]
+  },
+
+  "fuyumi-ono": {
+    "name": "Fuyumi Ono",
+    "aliases": [
+      "Fuyumi Ono (小野不由美)"
+    ],
+    "roles": [
+      "Manga Artist",
+      "Novelist"
+    ]
   }
 }

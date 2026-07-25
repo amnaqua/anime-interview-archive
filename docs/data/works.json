@@ -543,5 +543,11 @@
     "name": "Nadia: The Secret of Blue Water",
     "type": "anime",
     "year": 1990
+  },
+
+  "twelve-kingdoms": {
+    "name": "The Twelve Kingdoms",
+    "type": "ranobe",
+    "year": 1992
   }
 }

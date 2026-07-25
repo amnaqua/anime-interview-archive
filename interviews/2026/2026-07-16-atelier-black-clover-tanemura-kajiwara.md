@@ -1,5 +1,5 @@
 ---
-title: Black Clover 2nd Season
+title: Black Clover
 
 date: 2026-07-16
 

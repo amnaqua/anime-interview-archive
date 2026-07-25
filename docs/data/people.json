@@ -3641,5 +3641,28 @@
       "Manga Artist",
       "Designer"
     ]
+  },
+
+  "riichiro-inagaki": {
+    "name": "Riichiro Inagaki",
+    "aliases": [
+      "Riichirou Inagaki (稲垣理一郎)"
+    ],
+    "roles": [
+      "Manga Artist"
+    ]
+  },
+
+  "yusuke-murata": {
+    "name": "Yusuke Murata",
+    "aliases": [
+      "Yuusuke Murata (村田雄介)"
+    ],
+    "roles": [
+      "Manga Artist",
+      "Director",
+      "Designer",
+      "Key Animator"
+    ]
   }
 }

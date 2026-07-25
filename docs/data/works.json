@@ -615,5 +615,11 @@
     "name": "Tokyo Godfathers",
     "type": "anime",
     "year": 2003
+  },
+
+  "eyeshield-21": {
+    "name": "Eyeshield 21",
+    "type": "manga",
+    "year": 2002
   }
 }

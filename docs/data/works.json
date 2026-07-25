@@ -573,5 +573,11 @@
     "name": "Vagabond",
     "type": "manga",
     "year": 1998
+  },
+
+  "ttgl": {
+    "name": "Tengen Toppa Gurren Lagann",
+    "type": "anime",
+    "year": 2007
   }
 }

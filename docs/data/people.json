@@ -3620,5 +3620,15 @@
       "Manga Artist",
       "Designer"
     ]
+  },
+
+  "yasuhiro-takeda": {
+    "name": "Yasuhiro Takeda",
+    "aliases": [
+      "Yasuhiro Takeda (武田康廣)"
+    ],
+    "roles": [
+      "Producer"
+    ]
   }
 }

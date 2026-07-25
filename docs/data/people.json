@@ -3598,5 +3598,16 @@
       "Producer",
       "Lyricist"
     ]
+  },
+
+  "arina-tanemura": {
+    "name": "Arina Tanemura",
+    "aliases": [
+      "Arina Tanemura (種村有菜)"
+    ],
+    "roles": [
+      "Manga Artist",
+      "Designer"
+    ]
   }
 }

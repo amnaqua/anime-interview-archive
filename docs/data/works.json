@@ -591,5 +591,29 @@
     "name": "Fairy Tail",
     "type": "manga",
     "year": 2006
+  },
+
+  "roujin-z": {
+    "name": "Roujin Z",
+    "type": "anime",
+    "year": 1991
+  },
+
+  "memories": {
+    "name": "Memories",
+    "type": "anime",
+    "year": 1995
+  },
+
+  "millennium-actress": {
+    "name": "Millennium Actress",
+    "type": "anime",
+    "year": 2002
+  },
+
+  "tokyo-godfathers": {
+    "name": "Tokyo Godfathers",
+    "type": "anime",
+    "year": 2003
   }
 }

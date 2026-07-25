@@ -237,5 +237,13 @@
 
   "kai": {
     "name": "Studio Kai"
+  },
+
+  "group-tac": {
+    "name": "Group TAC"
+  },
+
+  "dongwoo-a-e": {
+    "name": "Dongwoo A&E"
   }
 }

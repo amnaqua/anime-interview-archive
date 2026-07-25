@@ -3530,5 +3530,27 @@
       "Designer",
       "Storyboarder"
     ]
+  },
+
+  "noriko-hidaka": {
+    "name": "Noriko Hidaka",
+    "aliases": [
+      "Noriko Hidaka (日高のり子)"
+    ],
+    "roles": [
+      "Singer",
+      "Voice Actor"
+    ]
+  },
+
+  "yoshino-takamori": {
+    "name": "Yoshino Takamori",
+    "aliases": [
+      "Yoshino Takamori (鷹森淑乃)"
+    ],
+    "roles": [
+      "Singer",
+      "Voice Actor"
+    ]
   }
 }

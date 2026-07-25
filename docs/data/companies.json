@@ -245,5 +245,13 @@
 
   "dongwoo-a-e": {
     "name": "Dongwoo A&E"
+  },
+
+  "morning": {
+    "name": "Morning"
+  },
+
+  "shonen-jump-weekly": {
+    "name": "Shounen Jump (Weekly)"
   }
 }

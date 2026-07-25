@@ -555,5 +555,23 @@
     "name": "Lupin III: The Fuma Conspiracy",
     "type": "anime",
     "year": 1987
+  },
+
+  "slam-dunk": {
+    "name": "Slam Dunk",
+    "type": "manga",
+    "year": 1990
+  },
+
+  "buzzer-beater": {
+    "name": "Buzzer Beater",
+    "type": "manga",
+    "year": 1996
+  },
+
+  "vagabond": {
+    "name": "Vagabond",
+    "type": "manga",
+    "year": 1998
   }
 }

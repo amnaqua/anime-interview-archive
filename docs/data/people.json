@@ -3609,5 +3609,16 @@
       "Manga Artist",
       "Designer"
     ]
+  },
+
+  "takehiko-inoue": {
+    "name": "Takehiko Inoue",
+    "aliases": [
+      "Takehiko Inoue (井上雄彦)"
+    ],
+    "roles": [
+      "Manga Artist",
+      "Designer"
+    ]
   }
 }

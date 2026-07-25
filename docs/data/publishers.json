@@ -261,5 +261,9 @@
 
   "animec": {
     "name": "ANIMEC"
+  },
+
+  "cut": {
+    "name": "CUT"
   }
 }

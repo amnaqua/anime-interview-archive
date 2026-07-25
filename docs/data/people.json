@@ -3700,5 +3700,16 @@
       "Animation Director",
       "Key Animator"
     ]
+  },
+
+  "toshio-suzuki": {
+    "name": "Toshio Suzuki",
+    "aliases": [
+      "Toshio Suzuki (鈴木敏夫, すずきとしお)"
+    ],
+    "roles": [
+      "Producer",
+      "Designer"
+    ]
   }
 }

@@ -3517,5 +3517,18 @@
       "Animation Director",
       "Key Animator"
     ]
+  },
+
+  "yoshinori-kanada": {
+    "name": "Yoshinori Kanada",
+    "aliases": [
+      "Yoshinori Kanada (金田伊功)",
+      "Isuke Kanada (金田伊助)"
+    ],
+    "roles": [
+      "Key Animator",
+      "Designer",
+      "Storyboarder"
+    ]
   }
 }

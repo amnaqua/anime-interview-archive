@@ -579,5 +579,17 @@
     "name": "Tengen Toppa Gurren Lagann",
     "type": "anime",
     "year": 2007
+  },
+
+  "rave": {
+    "name": "Rave Master",
+    "type": "manga",
+    "year": 1999
+  },
+
+  "fairy-tail": {
+    "name": "Fairy Tail",
+    "type": "manga",
+    "year": 2006
   }
 }

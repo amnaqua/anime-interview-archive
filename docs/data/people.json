@@ -3630,5 +3630,16 @@
     "roles": [
       "Producer"
     ]
+  },
+
+  "hiro-mashima": {
+    "name": "Hiro Mashima",
+    "aliases": [
+      "Hiro Mashima (真島ヒロ)"
+    ],
+    "roles": [
+      "Manga Artist",
+      "Designer"
+    ]
   }
 }

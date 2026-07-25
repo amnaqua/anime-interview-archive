@@ -621,5 +621,11 @@
     "name": "Eyeshield 21",
     "type": "manga",
     "year": 2002
+  },
+
+  "d-gray-man": {
+    "name": "D.Gray-man",
+    "type": "anime",
+    "year": 2006
   }
 }

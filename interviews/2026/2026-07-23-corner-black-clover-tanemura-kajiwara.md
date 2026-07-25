@@ -22,7 +22,7 @@ language: en
 
 links:
   - type: source
-    url: https://youtu.be/lqL_WsijCnM
+    url: https://www.youtube.com/watch?v=lqL_WsijCnM
 
 archived_at: 2026-07-25 13:35
 ---

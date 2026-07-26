@@ -3736,5 +3736,36 @@
     "roles": [
       "Manga Artist"
     ]
+  },
+
+  "hirotoshi-sano": {
+    "name": "Hirotoshi Sano",
+    "aliases": [
+      "Hirotoshi Sano (佐野浩敏)",
+      "Hiroshi Tagawa (田川浩)"
+    ],
+    "roles": [
+      "Key Animator",
+      "Animation Director",
+      "Storyboarder",
+      "Director",
+      "In-Betweener",
+      "Designer"
+    ]
+  },
+
+  "yoshikazu-yasuhiko": {
+    "name": "Yoshikazu Yasuhiko",
+    "aliases": [
+      "Yoshikazu Yasuhiko (安彦良和)"
+    ],
+    "roles": [
+      "Designer",
+      "Director",
+      "Storyboarder",
+      "Key Animator",
+      "Scriptwriter",
+      "Animation Director"
+    ]
   }
 }

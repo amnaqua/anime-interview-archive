@@ -3847,5 +3847,21 @@
       "Producer",
       "Business"
     ]
+  },
+
+  "tetsurou-araki": {
+    "name": "Tetsurou Araki",
+    "aliases": [
+      "Tetsurou Araki (荒木哲郎)",
+      "Saburou Mochizuki (望月三郎)"
+    ],
+    "roles": [
+      "Storyboarder",
+      "Key Animator",
+      "Director",
+      "Scriptwriter",
+      "Designer",
+      "Production Manager"
+    ]
   }
 }

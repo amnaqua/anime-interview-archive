@@ -3813,5 +3813,17 @@
       "Animation Director",
       "Storyboarder"
     ]
+  },
+
+  "akira-inagami": {
+    "name": "Akira Inagami",
+    "aliases": [
+      "Akira Inagami (稲上晃)"
+    ],
+    "roles": [
+      "Key Animator",
+      "Animation Director",
+      "Designer"
+    ]
   }
 }

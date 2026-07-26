@@ -3825,5 +3825,16 @@
       "Animation Director",
       "Designer"
     ]
+  },
+
+  "takashi-sakurai": {
+    "name": "Takashi Sakurai",
+    "aliases": [
+      "Takashi Sakurai (櫻井崇)"
+    ],
+    "roles": [
+      "Producer",
+      "Editor"
+    ]
   }
 }

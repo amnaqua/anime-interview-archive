@@ -285,5 +285,9 @@
 
   "toei-animation": {
     "name": "Toei Animation"
+  },
+
+  "gunma-prefecture-channel": {
+    "name": "Gunma Prefecture Official Channel"
   }
 }

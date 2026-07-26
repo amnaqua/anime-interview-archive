@@ -3767,5 +3767,39 @@
       "Scriptwriter",
       "Animation Director"
     ]
+  },
+
+  "katsuhiro-ootomo": {
+    "name": "Katsuhiro Ootomo",
+    "aliases": [
+      "Katsuhiro Ootomo (大友克洋)"
+    ],
+    "roles": [
+      "Designer",
+      "Director",
+      "Producer",
+      "Scriptwriter",
+      "Key Animator"
+    ]
+  },
+
+  "junichi-satou": {
+    "name": "Junichi Satou",
+    "aliases": [
+      "Junichi Satou (佐藤順一)",
+      "Ichi Satou (佐藤イチ)",
+      "Kiichi Hadame (甚目喜一)",
+      "Sakura Hikawa (ひかわさくら)",
+      "Hajime Misoto (ミソトハジメ)"
+    ],
+    "roles": [
+      "Storyboarder",
+      "Sound Artist",
+      "Director",
+      "Scriptwriter",
+      "Key Animator",
+      "Lyricist",
+      "Production Manager"
+    ]
   }
 }

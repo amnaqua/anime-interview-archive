@@ -257,5 +257,9 @@
 
   "4c": {
     "name": "4°C"
+  },
+
+  "morning-two": {
+    "name": "Morning Two"
   }
 }

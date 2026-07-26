@@ -273,5 +273,9 @@
 
   "gundam-site": {
     "name": "Gundam Official Site"
+  },
+
+  "kodansha": {
+    "name": "Kodansha"
   }
 }

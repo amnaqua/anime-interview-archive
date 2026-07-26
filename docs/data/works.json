@@ -150,7 +150,7 @@
   },
 
   "tongari-boushi-no-atelier": {
-    "name": "Tongari Boushi no Atelier",
+    "name": "Witch Hat Atelier",
     "type": "anime",
     "year": 2026
   },
@@ -633,5 +633,11 @@
     "name": "Project A-Ko",
     "type": "anime",
     "year": 1986
+  },
+
+  "tongari-boushi-no-atelier-1": {
+    "name": "Witch Hat Atelier",
+    "type": "manga",
+    "year": 2016
   }
 }

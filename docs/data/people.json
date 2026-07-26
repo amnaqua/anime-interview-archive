@@ -3711,5 +3711,20 @@
       "Producer",
       "Designer"
     ]
+  },
+
+  "katsuhiko-nishijima": {
+    "name": "Katsuhiko Nishijima",
+    "aliases": [
+      "Katsuhiko Nishijima (西島克彦, 西嶋克彦)"
+    ],
+    "roles": [
+      "Storyboarder",
+      "Key Animator",
+      "Director",
+      "Animation Director",
+      "Designer",
+      "Scriptwriter"
+    ]
   }
 }

@@ -627,5 +627,11 @@
     "name": "D.Gray-man",
     "type": "anime",
     "year": 2006
+  },
+
+  "project-a-ko": {
+    "name": "Project A-Ko",
+    "type": "anime",
+    "year": 1986
   }
 }

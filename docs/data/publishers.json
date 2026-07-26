@@ -281,5 +281,9 @@
 
   "anime-no-genba": {
     "name": "Anime no Genba"
+  },
+
+  "toei-animation": {
+    "name": "Toei Animation"
   }
 }

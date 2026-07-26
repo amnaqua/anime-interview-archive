@@ -3726,5 +3726,15 @@
       "Designer",
       "Scriptwriter"
     ]
+  },
+
+  "tomato-soup": {
+    "name": "Tomato Soup",
+    "aliases": [
+      "Tomato Soup (トマトスープ)"
+    ],
+    "roles": [
+      "Manga Artist"
+    ]
   }
 }

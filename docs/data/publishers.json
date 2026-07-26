@@ -265,5 +265,9 @@
 
   "cut": {
     "name": "CUT"
+  },
+
+  "souffle-life": {
+    "name": "Souffle Life"
   }
 }

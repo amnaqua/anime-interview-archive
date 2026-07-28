@@ -18,3 +18,30 @@
 .entity-roles {
     margin-top: 0.45rem;
 }
+
+.entity-tabs {
+    display: flex;
+    gap: 8px;
+    margin: 24px 0;
+}
+
+.entity-tab {
+    cursor: pointer;
+    padding: 8px 16px;
+    border: 1px solid var(--vp-c-divider);
+    border-radius: 8px;
+    background: none;
+}
+
+.entity-tab.active {
+    background: var(--vp-c-brand-1);
+    color: white;
+}
+
+.entity-section {
+    display: none;
+}
+
+.entity-section.active {
+    display: block;
+}

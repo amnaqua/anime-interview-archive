@@ -53,12 +53,31 @@ title: "${title}"
 
     md += `</div>\n\n`;
 
-    md += `## Interviews\n\n`;
-
     if (interviews.length === 0) {
         md += "No interviews available yet.\n";
         return md;
     }
+
+    md += `
+<div class="entity-tabs">
+
+<button class="entity-tab active" data-tab="interviews">
+Interviews (${interviews.length})
+</button>
+
+<button class="entity-tab" data-tab="articles">
+Articles (0)
+</button>
+
+<button class="entity-tab" data-tab="materials">
+Production Materials (0)
+</button>
+
+</div>
+
+<div id="interviews" class="entity-section active">
+
+`;
 
     for (const interview of interviews) {
 
@@ -140,6 +159,26 @@ title: "${title}"
 
         md += "\n---\n\n";
     }
+
+    md += `
+</div>
+
+<div id="articles" class="entity-section">
+
+## Articles
+
+No articles yet.
+
+</div>
+
+<div id="materials" class="entity-section">
+
+## Production Materials
+
+No production materials yet.
+
+</div>
+`;
 
     return md;
 }

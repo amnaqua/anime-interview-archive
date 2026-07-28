@@ -24,4 +24,5 @@ links:
     url: https://www.animenewsnetwork.com/feature/2006-09-01/3
 
 archived_at: 2026-07-24 14:04
+type: interview
 ---

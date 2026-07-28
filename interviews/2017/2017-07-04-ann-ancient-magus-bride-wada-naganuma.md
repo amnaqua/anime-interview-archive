@@ -25,4 +25,5 @@ links:
     url: https://www.animenewsnetwork.com/convention/2017/anime-expo/world-premiere-of-ancient-magus-bride-tv/.118040
 
 archived_at: 2026-07-09 19:30
+type: interview
 ---

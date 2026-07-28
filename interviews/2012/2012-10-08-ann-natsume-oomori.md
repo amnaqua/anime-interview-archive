@@ -24,4 +24,5 @@ links:
     url: https://www.animenewsnetwork.com/interview/2012-10-08/interview-takahiro-omori
 
 archived_at: 2026-07-11 18:50
+type: interview
 ---

@@ -25,4 +25,5 @@ links:
     url: https://www.anime-atelier.com/interview-furyu-pictures-ayano-kanako-hiroaki-sakurai/
 
 archived_at: 2026-07-18 01:59
+type: interview
 ---

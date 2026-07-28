@@ -21,4 +21,5 @@ links:
     url: https://www.animenewsnetwork.com/interview/2005-04-03/myung-jin-lee
 
 archived_at: 2026-07-23 22:45
+type: interview
 ---

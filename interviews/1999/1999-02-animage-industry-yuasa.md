@@ -22,4 +22,5 @@ links:
     url: https://wavemotioncannon.com/2017/06/30/an-interview-with-masaaki-yuasa-animage-february-1999/
 
 archived_at: 2026-07-09 19:21
+type: interview
 ---

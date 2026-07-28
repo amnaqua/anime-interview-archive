@@ -8,11 +8,7 @@ const ROOT = "docs";
 
 
 export function createSections({
-                                   people,
-                                   works,
-                                   companies,
-                                   publishers,
-                                   years,
+                                   maps,
                                    yearsDictionary
                                }) {
 
@@ -22,7 +18,10 @@ export function createSections({
             base: "people",
             directory: `${ROOT}/people`,
             dictionary: peopleData,
-            map: people
+
+            interviews: maps.interviews.people,
+            articles: maps.articles.people,
+            productionMaterials: maps.productionMaterials.people
         },
 
         {
@@ -30,7 +29,10 @@ export function createSections({
             base: "works",
             directory: `${ROOT}/works`,
             dictionary: worksData,
-            map: works
+
+            interviews: maps.interviews.works,
+            articles: maps.articles.works,
+            productionMaterials: maps.productionMaterials.works
         },
 
         {
@@ -38,7 +40,10 @@ export function createSections({
             base: "companies",
             directory: `${ROOT}/companies`,
             dictionary: companiesData,
-            map: companies
+
+            interviews: maps.interviews.works,
+            articles: maps.articles.works,
+            productionMaterials: maps.productionMaterials.works
         },
 
         {
@@ -46,7 +51,10 @@ export function createSections({
             base: "publishers",
             directory: `${ROOT}/publishers`,
             dictionary: publishersData,
-            map: publishers
+
+            interviews: maps.interviews.publishers,
+            articles: maps.articles.publishers,
+            productionMaterials: maps.productionMaterials.publishers
         },
 
         {
@@ -54,7 +62,10 @@ export function createSections({
             base: "years",
             directory: `${ROOT}/years`,
             dictionary: yearsDictionary,
-            map: years
+
+            interviews: maps.interviews.years,
+            articles: maps.articles.years,
+            productionMaterials: maps.productionMaterials.years
         }
     ];
 }

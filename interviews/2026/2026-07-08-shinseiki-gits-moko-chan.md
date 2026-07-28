@@ -24,4 +24,5 @@ links:
     url: https://shinseiki.blog/2026/07/08/moko-chan-gits2026/
 
 archived_at: 2026-07-07 13:38
+type: interview
 ---

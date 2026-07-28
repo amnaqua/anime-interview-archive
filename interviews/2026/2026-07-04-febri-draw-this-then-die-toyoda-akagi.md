@@ -30,4 +30,5 @@ links:
     url: https://febri.jp/topics/korekaite_interview_2/
 
 archived_at: 2026-07-23 13:57
+type: interview
 ---

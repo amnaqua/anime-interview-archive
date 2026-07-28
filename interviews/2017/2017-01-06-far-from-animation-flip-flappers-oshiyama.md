@@ -28,4 +28,5 @@ links:
     url: https://web.archive.org/web/20220707173317/https://farfromanimation.com/2017/01/06/flip-flappers-an-interview-with-director-kiyotaka-oshiyama/
 
 archived_at: 2026-07-09 00:58
+type: interview
 ---

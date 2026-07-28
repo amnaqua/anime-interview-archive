@@ -29,4 +29,5 @@ links:
     url: https://www.animenewsnetwork.com/interview/2005-04-17/r.o.d-staff
 
 archived_at: 2026-07-24 02:46
+type: interview
 ---

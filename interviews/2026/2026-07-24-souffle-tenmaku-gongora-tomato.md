@@ -25,4 +25,5 @@ links:
     url: https://souffle.life/topics/souffle-special/tenmaku-jaadugar-tomato-soup-abel-gongora-taidan/
 
 archived_at: 2026-07-27 00:09
+type: interview
 ---

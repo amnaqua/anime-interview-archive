@@ -25,4 +25,5 @@ links:
     url: https://chilly-territory.tumblr.com/post/153594368290/kiznaiver-interview-with-okada-mari-bd5
 
 archived_at: 2026-07-09 18:16
+type: interview
 ---

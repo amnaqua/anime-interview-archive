@@ -24,4 +24,5 @@ links:
     url: https://www.anime-atelier.com/interview-100-meters-director-kenji-iwaisawa/
 
 archived_at: 2026-07-18 01:02
+type: interview
 ---

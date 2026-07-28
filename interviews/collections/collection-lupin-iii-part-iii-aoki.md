@@ -90,4 +90,5 @@ links:
     url: https://wavemotioncannon.com/2017/09/02/the-forgotten-lupin-iii-interviews-yuzo-aoki/
 
 archived_at: 2026-07-11 20:25
+type: interview
 ---

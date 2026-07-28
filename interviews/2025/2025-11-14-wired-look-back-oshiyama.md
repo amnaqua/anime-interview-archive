@@ -24,4 +24,5 @@ links:
     url: https://wired.jp/article/wired-innovation-award-2025-kiyotaka-oshiyama/
 
 archived_at: 2026-07-13 01:23
+type: interview
 ---

@@ -21,4 +21,5 @@ links:
     url: https://www.animenewsnetwork.com/feature/2016-08-31/interview-kyoto-animation-taichi-ishidate/.102999
 
 archived_at: 2026-07-11 19:12
+type: interview
 ---

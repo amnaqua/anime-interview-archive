@@ -25,4 +25,5 @@ links:
     url: https://www.anime-atelier.com/gachiakuta-interview-director-fumihiko-suganuma-and-aoi-ichikawa-rudo/
 
 archived_at: 2026-07-18 00:47
+type: interview
 ---

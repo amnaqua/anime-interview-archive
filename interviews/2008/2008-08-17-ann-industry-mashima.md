@@ -25,4 +25,5 @@ links:
     url: https://www.animenewsnetwork.com/interview/2008-08-17/hiro-mashima
 
 archived_at: 2026-07-26 00:05
+type: interview
 ---

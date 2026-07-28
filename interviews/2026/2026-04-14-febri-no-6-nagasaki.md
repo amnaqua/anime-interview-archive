@@ -29,4 +29,5 @@ links:
     url: https://febri.jp/topics/no-6-anime2/
 
 archived_at: 2026-07-23 15:18
+type: interview
 ---

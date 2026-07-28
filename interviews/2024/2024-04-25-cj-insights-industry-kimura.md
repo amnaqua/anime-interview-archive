@@ -18,4 +18,5 @@ links:
     url: https://www.cjinsights.cj-fund.co.jp/trends/812/
 
 archived_at: 2026-07-07 17:49
+type: interview
 ---

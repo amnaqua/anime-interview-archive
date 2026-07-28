@@ -18,4 +18,5 @@ links:
     url: https://www.animenewsnetwork.com/interview/2005-04-24/nobuteru-yuuki
 
 archived_at: 2026-07-24 02:55
+type: interview
 ---

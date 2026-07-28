@@ -34,4 +34,5 @@ links:
     url: https://febri.jp/topics/kamiina_botan_12/
 
 archived_at: 2026-07-23 15:10
+type: interview
 ---

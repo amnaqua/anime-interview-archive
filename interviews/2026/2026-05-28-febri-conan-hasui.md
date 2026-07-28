@@ -29,4 +29,5 @@ links:
     url: https://febri.jp/topics/conan-movie-2026-04/
 
 archived_at: 2026-07-23 14:10
+type: interview
 ---

@@ -18,4 +18,5 @@ links:
     url: https://www.animenewsnetwork.com/interview/2005-04-24/kunihisa-sugishima
 
 archived_at: 2026-07-24 02:52
+type: interview
 ---

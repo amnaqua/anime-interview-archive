@@ -5,17 +5,14 @@ import {
     publisherLinks
 } from "./links.js";
 
-export function buildMarkdown({ entity, interviews }) {
+export function buildMarkdown({
+                                  entity,
+                                  interviews = [],
+                                  articles = [],
+                                  productionMaterials = []
+                              }) {
 
     const title = entity.name;
-
-    interviews.sort((a, b) => {
-        if (a.date === "Unknown" && b.date === "Unknown") return 0;
-        if (a.date === "Unknown") return 1;
-        if (b.date === "Unknown") return -1;
-
-        return b.date.localeCompare(a.date);
-    });
 
     let md = `---
 title: "${title}"
@@ -24,9 +21,11 @@ title: "${title}"
 # ${title}
 
 `;
+
     md += `<div class="entity-meta">\n`;
 
     if (entity.type || entity.year) {
+
         const parts = [];
 
         if (entity.type) {
@@ -53,11 +52,6 @@ title: "${title}"
 
     md += `</div>\n\n`;
 
-    if (interviews.length === 0) {
-        md += "No interviews available yet.\n";
-        return md;
-    }
-
     md += `
 <div class="entity-tabs">
 
@@ -66,35 +60,85 @@ Interviews (${interviews.length})
 </button>
 
 <button class="entity-tab" data-tab="articles">
-Articles (0)
+Articles (${articles.length})
 </button>
 
 <button class="entity-tab" data-tab="materials">
-Production Materials (0)
+Production Materials (${productionMaterials.length})
 </button>
 
 </div>
 
 <div id="interviews" class="entity-section active">
-
 `;
 
-    for (const interview of interviews) {
+    md += renderItems(interviews, "Interviews");
+
+    md += `
+</div>
+
+<div id="articles" class="entity-section">
+`;
+
+    md += renderItems(articles, "Articles");
+
+    md += `
+</div>
+
+<div id="materials" class="entity-section">
+`;
+
+    md += renderItems(
+        productionMaterials,
+        "Production Materials"
+    );
+
+    md += `
+</div>
+`;
+
+    return md;
+}
+
+function renderItems(items, title) {
+
+    items.sort((a, b) => {
+
+        if (a.date === "Unknown" && b.date === "Unknown")
+            return 0;
+
+        if (a.date === "Unknown")
+            return 1;
+
+        if (b.date === "Unknown")
+            return -1;
+
+        return b.date.localeCompare(a.date);
+
+    });
+
+    let md = "";
+
+    if (!items.length) {
+
+        md += `No ${title.toLowerCase()} available yet.\n\n`;
+
+        return md;
+    }
+
+    md += `\n\n`;
+
+    for (const interview of items) {
 
         md += `### ${interview.title}\n\n`;
 
-        if (interview.date) {
-            md += `- **Date:** ${interview.date}\n`;
-        } else {
-            md += `- **Date:** Unknown\n`;
-        }
+        md += `- **Date:** ${interview.date ?? "Unknown"}\n`;
 
         if (interview.work?.length)
             md += `- **Works:** ${workLinks(interview).join(", ")}\n`;
 
-        if (interview.mediaType) {
-            md += `- **Media Type:** ${interview.mediaType}\n`
-        }
+        if (interview.mediaType)
+            md += `- **Media Type:** ${interview.mediaType}\n`;
 
         if (interview.publishers?.length)
             md += `- **Publisher:** ${publisherLinks(interview).join(", ")}\n`;
@@ -113,21 +157,29 @@ Production Materials (0)
         );
 
         if (sourceLinks.length) {
+
             md += "- **Source:**";
 
             let i = 0;
+
             for (const link of sourceLinks) {
+
                 if (link.label) {
-                    if (i === 0) {
-                        md += '\n'
-                    }
+
+                    if (i === 0)
+                        md += "\n";
 
                     md += `  - ${link.label}: ${link.url}\n`;
-                }
-                else
+
+                } else {
+
                     md += `  ${link.url}\n`;
-                ++i;
+
+                }
+
+                i++;
             }
+
         }
 
         const translations = interview.links.filter(
@@ -135,11 +187,13 @@ Production Materials (0)
         );
 
         if (translations.length) {
+
             md += "- **Translations:**\n";
 
             for (const link of translations) {
                 md += `  - ${link.language}: ${link.url}\n`;
             }
+
         }
 
         if (interview.entries?.length) {
@@ -155,30 +209,11 @@ Production Materials (0)
             }
 
             md += `\n</details>\n\n`;
+
         }
 
         md += "\n---\n\n";
     }
-
-    md += `
-</div>
-
-<div id="articles" class="entity-section">
-
-## Articles
-
-No articles yet.
-
-</div>
-
-<div id="materials" class="entity-section">
-
-## Production Materials
-
-No production materials yet.
-
-</div>
-`;
 
     return md;
 }

@@ -30,4 +30,5 @@ links:
     url: https://m.blog.naver.com/jsjs113901/224354098531
 
 archived_at: 2026-07-23 09:32
+type: interview
 ---

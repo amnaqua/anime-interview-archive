@@ -14,7 +14,7 @@ import {generateSitemap} from "./sitemap.js";
 import {generateRobots} from "./robots.js";
 
 import {parseInterview} from "./parser.js";
-import {indexInterview} from "./indexer.js";
+import {indexRecord} from "./indexer.js";
 import {generateSection} from "./sections.js";
 import {createSections} from "./sections-config.js";
 import { validateInterview } from "./validator.js";
@@ -24,14 +24,13 @@ const INTERVIEW_DIR = "interviews";
 
 const SIDEBAR_FILE = `${ROOT}/.vitepress/sidebar.ts`;
 
-function getLatestInterviews(interviews) {
-    return interviews
-        .filter(i => i.archived_at)
+function getLatestRecords(records) {
+    return records
+        .filter(record => record.archived_at)
         .sort(
             (a, b) =>
-                b.archived_at.localeCompare(
-                    a.archived_at
-                )
+                new Date(b.archived_at) -
+                new Date(a.archived_at)
         )
         .slice(0, 10);
 }
@@ -55,17 +54,41 @@ function getStats(sections) {
 }
 
 async function main() {
-    const people = new Map();
-    const works = new Map();
-    const companies = new Map();
-    const publishers = new Map();
-    const years = new Map();
+    const maps = {
+        interviews: {
+            people: new Map(),
+            works: new Map(),
+            companies: new Map(),
+            publishers: new Map(),
+            years: new Map()
+        },
+
+        articles: {
+            people: new Map(),
+            works: new Map(),
+            companies: new Map(),
+            publishers: new Map(),
+            years: new Map()
+        },
+
+        productionMaterials: {
+            people: new Map(),
+            works: new Map(),
+            companies: new Map(),
+            publishers: new Map(),
+            years: new Map()
+        }
+    };
 
     const files = await fg(
         `${INTERVIEW_DIR}/**/*.md`
     );
 
-    const interviews = [];
+    const records = {
+        interview: [],
+        article: [],
+        production_material: []
+    };
 
     for (const file of files) {
         const raw = await fs.readFile(
@@ -83,22 +106,29 @@ async function main() {
         const interview =
             parseInterview(data);
 
-        interviews.push(interview);
+        if (!records[interview.type]) {
+            records[interview.type] = [];
+        }
 
-        indexInterview({
+        records[interview.type].push(interview);
+
+        const target =
+            interview.type === "article"
+                ? maps.articles
+                : interview.type === "production_material"
+                    ? maps.productionMaterials
+                    : maps.interviews;
+
+        indexRecord({
             interview,
             data,
-            people,
-            works,
-            companies,
-            publishers,
-            years
+            ...target
         });
     }
 
     const yearsDictionary =
         Object.fromEntries(
-            [...years.keys()]
+            [...maps.interviews.years.keys()]
                 .map(year => [
                     year,
                     {
@@ -111,11 +141,7 @@ async function main() {
         );
 
     const sections = createSections({
-        people,
-        works,
-        companies,
-        publishers,
-        years,
+        maps,
         yearsDictionary
     });
 
@@ -140,17 +166,21 @@ async function main() {
         )
     );
 
+    const latestRecords = [
+        ...records.interview,
+        ...records.article,
+        ...records.production_material
+    ];
+
     await generateHome({
-        interviews: interviews.length,
+        interviews: records.interview.length,
+        articles: records.article.length,
+        productionMaterials: records.production_material.length,
 
-        latestInterviews:
-            getLatestInterviews(
-                interviews
-            ),
+        latestRecords:
+            getLatestRecords(latestRecords),
 
-        ...getStats(
-            sections
-        )
+        ...getStats(sections)
     });
 
     await generateSitemap({
@@ -160,13 +190,13 @@ async function main() {
         publishers: publishersData,
         years: yearsDictionary,
 
-        peopleMap: people,
-        worksMap: works,
-        companiesMap: companies,
-        publishersMap: publishers,
-        yearsMap: years,
+        peopleMap: maps.interviews.people,
+        worksMap: maps.interviews.works,
+        companiesMap: maps.interviews.companies,
+        publishersMap: maps.interviews.publishers,
+        yearsMap: maps.interviews.years,
 
-        interviews
+        interviews: records.interview
     });
 
     await generateRobots();

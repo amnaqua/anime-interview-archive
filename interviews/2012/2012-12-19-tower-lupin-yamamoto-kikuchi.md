@@ -28,4 +28,5 @@ links:
     url: https://wavemotioncannon.com/2017/08/01/lupin-iii-the-woman-called-fujiko-mine/
 
 archived_at: 2026-07-09 13:20
+type: interview
 ---

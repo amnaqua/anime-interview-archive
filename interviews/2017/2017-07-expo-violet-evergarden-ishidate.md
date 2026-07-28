@@ -25,4 +25,5 @@ links:
     url: https://blog.sakugabooru.com/2017/07/31/violet-evergarden-interview-director-taichi-ishidate-at-anime-expo/
 
 archived_at: 2026-07-11 19:17
+type: interview
 ---

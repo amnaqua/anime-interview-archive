@@ -23,4 +23,5 @@ links:
     url: https://anigamers.com/interviews/fate-grand-order-devs-similar-experience-japanese-american-yosuke-shiokawa-atsuhiro-iwakami/
 
 archived_at: 2026-07-11 18:44
+type: interview
 ---

@@ -18,4 +18,5 @@ links:
     url: https://wakameparadise.wordpress.com/2017/08/20/nasu-ikuhara/
 
 archived_at: 2026-07-09 00:34
+type: interview
 ---

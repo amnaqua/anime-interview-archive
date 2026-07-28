@@ -3,7 +3,54 @@ import path from "path";
 
 const ROOT = "docs";
 
+function recordUrl(record) {
+
+    if (record.people?.length) {
+        return `/people/${record.people[0]}#${record.anchor}`;
+    }
+
+    if (record.work?.length) {
+        return `/works/${record.work[0]}#${record.anchor}`;
+    }
+
+    if (record.companies?.length) {
+        return `/companies/${record.companies[0]}#${record.anchor}`;
+    }
+
+    if (record.publishers?.length) {
+        return `/publishers/${record.publishers[0]}#${record.anchor}`;
+    }
+
+    return "#";
+}
+
+function recordLabel(record) {
+
+    if (record.peopleNames?.length) {
+        return record.peopleNames.join(", ");
+    }
+
+    if (record.companyNames?.length) {
+        return record.companyNames.join(", ");
+    }
+
+    if (record.publisherNames?.length) {
+        return record.publisherNames.join(", ");
+    }
+
+    if (record.workNames?.length) {
+        return record.workNames.join(", ");
+    }
+
+    return null;
+}
+
 export async function generateHome(stats) {
+
+    const totalRecords =
+        stats.interviews +
+        (stats.articles ?? 0) +
+        (stats.productionMaterials ?? 0);
 
     let md = `---
 layout: home
@@ -11,9 +58,18 @@ layout: home
 hero:
   name: Anime Interview Archive
   text: Archive of anime and manga staff interviews.
-  tagline: ${stats.interviews} interviews indexed
+  tagline: ${totalRecords} records indexed
 
 features:
+  - title: 🎤 Interviews
+    details: ${stats.interviews} interviews
+
+  - title: 📰 Articles
+    details: ${stats.articles ?? 0} articles
+
+  - title: 📄 Production Materials
+    details: ${stats.productionMaterials ?? 0} materials
+
   - title: 👥 People
     details: ${stats.people} people
     link: /people/
@@ -37,12 +93,17 @@ features:
 
 `;
 
-    for (const interview of stats.latestInterviews) {
-        if (!interview.peopleNames.length) continue;
+    for (const record of stats.latestRecords) {
+        const icon =
+            record.type === "article"
+                ? "📰"
+                : record.type === "production_material"
+                    ? "📄"
+                    : "🎤";
 
-        const people = interview.peopleNames.join(", ");
+        const label = recordLabel(record);
 
-        md += `- **${interview.archived_at}** — **${people}** — [${interview.title}](/people/${interview.people[0]}#${interview.anchor})\n`;
+        md += `- **${record.archived_at}** ${icon}${label ? ` ${label}` : ""} — [${record.title}](${recordUrl(record)})\n`;
     }
 
     await fs.writeFile(

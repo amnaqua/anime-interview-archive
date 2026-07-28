@@ -21,4 +21,5 @@ links:
     url: https://wired.jp/article/science-saru-interview-1-kohei-sakita/
 
 archived_at: 2026-07-07 13:38
+type: interview
 ---

@@ -18,4 +18,5 @@ links:
     url: https://www.animenewsnetwork.com/interview/2005-08-14/peach-pit
 
 archived_at: 2026-07-24 02:59
+type: interview
 ---

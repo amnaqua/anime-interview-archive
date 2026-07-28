@@ -24,4 +24,5 @@ links:
     url: https://wired.jp/article/masaaki-yuasa-inuoh-interview/
 
 archived_at: 2026-07-13 01:59
+type: interview
 ---

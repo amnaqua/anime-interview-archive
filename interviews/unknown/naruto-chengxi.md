@@ -23,4 +23,5 @@ links:
     url: https://wavemotioncannon.com/2017/08/08/interview-with-naruto-animator-chengxi-huang-part-22/
 
 archived_at: 2026-07-12 01:58
+type: interview
 ---

@@ -31,4 +31,5 @@ links:
     url: https://criesinnewtype.wordpress.com/2017/05/15/a-female-animators-take-on-the-current-anime-industry-pt-2/
 
 archived_at: 2026-07-09 14:30
+type: interview
 ---

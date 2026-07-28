@@ -24,4 +24,5 @@ links:
     url: https://x.com/mantengorilla/status/2080343353879896562
 
 archived_at: 2026-07-24 02:19
+type: interview
 ---

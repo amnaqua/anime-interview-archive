@@ -27,4 +27,5 @@ links:
     url: https://www.nausicaa.net/miyazaki/oym/interview_oym.txt
 
 archived_at: 2026-07-09 16:10
+type: interview
 ---

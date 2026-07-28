@@ -29,4 +29,5 @@ links:
     url: https://blog.sakugabooru.com/2017/11/23/hyouka-roundtable-final-yasuhiro-takemoto-x-shouji-gatou-impressions/
 
 archived_at: 2026-07-12 01:43
+type: interview
 ---

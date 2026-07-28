@@ -25,4 +25,5 @@ links:
     url: https://anigamers.com/interviews/hiroyuki-yamaga-reflects-on-gainax-past-anime-future-fanimecon-2017/
 
 archived_at: 2026-07-11 19:09
+type: interview
 ---

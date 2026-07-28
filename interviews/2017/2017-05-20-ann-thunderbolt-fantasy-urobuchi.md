@@ -25,4 +25,5 @@ links:
     url: https://www.animenewsnetwork.com/feature/2017-05-20/thunderbolt-fantasy-panels-and-interviews/.116254
 
 archived_at: 2026-07-09 14:39
+type: interview
 ---

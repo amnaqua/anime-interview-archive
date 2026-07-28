@@ -19,4 +19,5 @@ links:
     url: https://www.nausicaa.net/miyazaki/interviews/oshii_on_mt.html
 
 archived_at: 2026-07-09 00:30
+type: interview
 ---

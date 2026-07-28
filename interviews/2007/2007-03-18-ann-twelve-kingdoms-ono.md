@@ -21,4 +21,5 @@ links:
     url: https://www.animenewsnetwork.com/interview/2007-03-18/fuyumi-ono-author-of-the-twelve-kingdoms
 
 archived_at: 2026-07-25 22:54
+type: interview
 ---

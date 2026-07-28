@@ -18,4 +18,5 @@ links:
     url: https://www.animenewsnetwork.com/interview/2007-08-05/arina-tanemura
 
 archived_at: 2026-07-25 23:27
+type: interview
 ---

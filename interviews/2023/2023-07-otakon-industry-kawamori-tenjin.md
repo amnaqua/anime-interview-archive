@@ -20,4 +20,5 @@ links:
     url: https://anigamers.com/interviews/shoji-kawamori-hidetaka-tenjin-macross-us-ai/
 
 archived_at: 2026-07-09 22:16
+type: interview
 ---

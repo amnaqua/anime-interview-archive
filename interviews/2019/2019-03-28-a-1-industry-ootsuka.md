@@ -21,4 +21,5 @@ links:
     url: https://a1p.jp/interview/otsukaminori/
 
 archived_at: 2026-07-11 08:56
+type: interview
 ---

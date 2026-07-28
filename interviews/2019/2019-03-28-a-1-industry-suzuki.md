@@ -21,4 +21,5 @@ links:
     url: https://a1p.jp/interview/suzukiakihito/
 
 archived_at: 2026-07-11 08:51
+type: interview
 ---

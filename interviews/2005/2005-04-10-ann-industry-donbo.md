@@ -21,4 +21,5 @@ links:
     url: https://www.animenewsnetwork.com/interview/2005-04-10/koge-donbo
 
 archived_at: 2026-07-23 22:57
+type: interview
 ---

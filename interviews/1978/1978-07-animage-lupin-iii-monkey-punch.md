@@ -28,4 +28,5 @@ links:
     url: https://wavemotioncannon.com/2017/08/08/lupin-iii-a-short-interview-with-monkey-punch-animage-071978/
 
 archived_at: 2026-07-12 02:20
+type: interview
 ---

@@ -24,4 +24,5 @@ links:
     url: https://www.animenewsnetwork.com/interview/2015-01-06/masayuki-yoshihara-director-of-the-eccentric-family/.82902
 
 archived_at: 2026-07-09 16:05
+type: interview
 ---

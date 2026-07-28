@@ -25,4 +25,5 @@ links:
     url: https://www.animenewsnetwork.com/interview/2009-08-20/interview-riichiro-inagaki-and-yusuke-murata-creators-of-eyeshield-21
 
 archived_at: 2026-07-26 00:52
+type: interview
 ---

@@ -18,5 +18,6 @@ publisher:
 links:
   - type: source
     url: https://www.animenewsnetwork.com/interview/2009-10-23/yoshiyuki-tomino
+type: interview
 ---
 

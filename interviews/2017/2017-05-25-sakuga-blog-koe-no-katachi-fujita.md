@@ -24,4 +24,5 @@ links:
     url: https://blog.sakugabooru.com/2017/05/25/koe-no-katachi-in-between-checker-interview/
 
 archived_at: 2026-07-09 15:48
+type: interview
 ---

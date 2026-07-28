@@ -29,4 +29,5 @@ links:
     url: https://www.animenewsnetwork.com/feature/2017-08-07/interview-my-hero-academia-yoshihiko-umakoshi-and-chris-sabat/.119811
 
 archived_at: 2026-07-12 02:12
+type: interview
 ---

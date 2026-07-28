@@ -26,4 +26,5 @@ links:
     url: https://blog.sakugabooru.com/2017/05/24/koe-no-katachi-key-animation-directors-roundtable/
 
 archived_at: 2026-07-09 15:46
+type: interview
 ---

@@ -22,4 +22,5 @@ links:
     url: https://anigamers.com/interviews/under-the-dog-muneki-ogasawara-kinema-citrus-kickstarter-budgets-otakon-2016/
 
 archived_at: 2026-07-09 22:08
+type: interview
 ---

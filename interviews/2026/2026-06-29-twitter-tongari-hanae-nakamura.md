@@ -25,4 +25,5 @@ links:
     url: https://x.com/tongari_anime/status/2071473873938534811
 
 archived_at: 2026-07-09 23:03
+type: interview
 ---

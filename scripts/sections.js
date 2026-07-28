@@ -22,7 +22,15 @@ export async function generateSection(section) {
                 const markdown = buildMarkdown({
                     slug,
                     entity,
-                    interviews: section.map.get(slug) ?? []
+
+                    interviews:
+                        section.interviews.get(slug) ?? [],
+
+                    articles:
+                        section.articles.get(slug) ?? [],
+
+                    productionMaterials:
+                        section.productionMaterials.get(slug) ?? []
                 });
 
                 await fs.writeFile(

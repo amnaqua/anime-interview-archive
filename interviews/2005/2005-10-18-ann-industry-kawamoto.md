@@ -18,4 +18,5 @@ links:
     url: https://www.animenewsnetwork.com/interview/2005-10-18/interview-toshihiro-kawamoto
 
 archived_at: 2026-07-24 13:52
+type: interview
 ---

@@ -24,4 +24,5 @@ links:
     url: https://mantan-web.jp/article/20260709dog00m200056000a.html
 
 archived_at: 2026-07-11 08:14
+type: interview
 ---

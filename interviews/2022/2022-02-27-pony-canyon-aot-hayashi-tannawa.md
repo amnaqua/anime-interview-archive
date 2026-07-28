@@ -25,4 +25,5 @@ links:
     url: https://www.youtube.com/watch?v=xClVSqTVAeg
 
 archived_at: 2026-07-27 01:39
+type: interview
 ---

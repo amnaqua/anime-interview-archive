@@ -18,5 +18,6 @@ publisher:
 links:
   - type: source
     url: https://www.animenewsnetwork.com/interview/2009-09-14/yoshiyuki-tomino-press-conference
+type: interview
 ---
 

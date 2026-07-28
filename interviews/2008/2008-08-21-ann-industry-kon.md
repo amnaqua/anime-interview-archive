@@ -30,4 +30,5 @@ links:
     url: https://www.animenewsnetwork.com/interview/2008-08-21/satoshi-kon
 
 archived_at: 2026-07-26 00:23
+type: interview
 ---

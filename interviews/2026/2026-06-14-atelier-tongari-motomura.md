@@ -24,4 +24,5 @@ links:
     url: https://www.anime-atelier.com/interview-rena-motomura-coco-witch-hat-atelier/
 
 archived_at: 2026-07-18 01:18
+type: interview
 ---

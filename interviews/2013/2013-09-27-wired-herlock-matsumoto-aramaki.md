@@ -26,4 +26,5 @@ links:
     url: https://wired.jp/2013/09/27/captain-harlock/
 
 archived_at: 2026-07-13 16:40
+type: interview
 ---

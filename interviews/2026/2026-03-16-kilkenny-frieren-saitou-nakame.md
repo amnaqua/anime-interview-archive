@@ -25,4 +25,5 @@ links:
     url: https://www.kilkennypeople.ie/whats-on/there-are-opportunities-to-create-something-together-artists-behind-hit-anime-reflect-on-kilkenny-stay-6603584
 
 archived_at: 2026-07-16 01:04
+type: interview
 ---

@@ -25,4 +25,5 @@ links:
     url: https://www.animenewsnetwork.com/interview/2017-08-03/full-metal-panic-shoji-gatou-and-shiki-douji/.119685
 
 archived_at: 2026-07-11 21:28
+type: interview
 ---

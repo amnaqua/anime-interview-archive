@@ -21,4 +21,5 @@ links:
     url: https://x.com/KODANSHA_EN/status/2080261659243753561
 
 archived_at: 2026-07-27 00:32
+type: interview
 ---

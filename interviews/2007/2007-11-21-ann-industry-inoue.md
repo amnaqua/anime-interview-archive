@@ -27,4 +27,5 @@ links:
     url: https://www.animenewsnetwork.com/interview/2007-11-21/takehiko-inoue-at-kinokuniya-nyc
 
 archived_at: 2026-07-25 23:40
+type: interview
 ---

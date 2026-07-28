@@ -21,4 +21,5 @@ links:
     url: https://a1p.jp/interview/muramatsuchizuru/
 
 archived_at: 2026-07-11 09:01
+type: interview
 ---

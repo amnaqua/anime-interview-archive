@@ -25,4 +25,5 @@ links:
     url: https://www.animenewsnetwork.com/convention/2017/otakon-news-roundup-days-1-and-2/otakon-ei-aoki-re-creators-panel/.120201
 
 archived_at: 2026-07-12 02:30
+type: interview
 ---

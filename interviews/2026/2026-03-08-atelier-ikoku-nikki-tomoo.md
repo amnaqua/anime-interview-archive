@@ -24,4 +24,5 @@ links:
     url: https://www.anime-atelier.com/interview-tomoo-on-journal-with-witch-opening-new-album-and-more/
 
 archived_at: 2026-07-18 01:23
+type: interview
 ---

@@ -29,4 +29,5 @@ links:
     url: https://karice.wordpress.com/2016/05/22/p508/
 
 archived_at: 2026-07-09 18:41
+type: interview
 ---

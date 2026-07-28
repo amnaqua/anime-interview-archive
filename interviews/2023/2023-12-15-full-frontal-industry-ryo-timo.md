@@ -18,4 +18,5 @@ links:
     url: https://fullfrontal.moe/webgen-ryo-timo/
 
 archived_at: 2026-07-07 18:06
+type: interview
 ---

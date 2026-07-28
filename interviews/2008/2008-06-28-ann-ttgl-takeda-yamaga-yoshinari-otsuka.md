@@ -27,4 +27,5 @@ links:
     url: https://www.animenewsnetwork.com/interview/2008-07-28/gainax-on-gurren-lagann
 
 archived_at: 2026-07-25 23:58
+type: interview
 ---

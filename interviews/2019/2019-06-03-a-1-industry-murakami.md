@@ -21,4 +21,5 @@ links:
     url: https://a1p.jp/interview/murakamiayaka/
 
 archived_at: 2026-07-11 09:05
+type: interview
 ---

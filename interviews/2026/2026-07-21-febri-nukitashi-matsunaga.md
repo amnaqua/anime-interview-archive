@@ -29,4 +29,5 @@ links:
     url: https://febri.jp/topics/nukitashi2/
 
 archived_at: 2026-07-23 13:24
+type: interview
 ---

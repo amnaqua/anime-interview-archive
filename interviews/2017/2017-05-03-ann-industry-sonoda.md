@@ -18,4 +18,5 @@ links:
     url: https://www.animenewsnetwork.com/interview/2017-05-03/q-a-legendary-mangaka-kenichi-sonoda/.115304
 
 archived_at: 2026-07-09 00:02
+type: interview
 ---

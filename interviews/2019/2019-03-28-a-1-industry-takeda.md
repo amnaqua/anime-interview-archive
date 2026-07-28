@@ -21,4 +21,5 @@ links:
     url: https://a1p.jp/interview/takedaakene/
 
 archived_at: 2026-07-11 08:54
+type: interview
 ---

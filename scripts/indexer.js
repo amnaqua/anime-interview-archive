@@ -18,7 +18,7 @@ function indexEntries(entries, map, field, interview) {
     }
 }
 
-export function indexInterview({
+export function indexRecord({
                                    interview,
                                    data,
                                    people,

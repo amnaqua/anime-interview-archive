@@ -26,6 +26,8 @@ export function parseInterview(data) {
 
         title: data.title,
 
+        type: data.type,
+
         date:
             data.date instanceof Date
                 ? data.date.toISOString().slice(0, 10)

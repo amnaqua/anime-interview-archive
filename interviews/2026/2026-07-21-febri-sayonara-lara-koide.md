@@ -29,4 +29,5 @@ links:
     url: https://febri.jp/topics/sayonara_lala_interview_2/
 
 archived_at: 2026-07-23 09:44
+type: interview
 ---

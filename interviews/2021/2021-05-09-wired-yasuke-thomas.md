@@ -24,4 +24,5 @@ links:
     url: https://wired.jp/2021/05/09/yasuke-review/
 
 archived_at: 2026-07-13 02:08
+type: interview
 ---

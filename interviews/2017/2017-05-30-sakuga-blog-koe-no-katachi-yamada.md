@@ -24,4 +24,5 @@ links:
     url: https://blog.sakugabooru.com/2017/05/30/koe-no-katachi-director-naoko-yamada-interview/
 
 archived_at: 2026-07-09 15:58
+type: interview
 ---

@@ -21,4 +21,5 @@ links:
     url: https://www.theguardian.com/film/2005/sep/14/japan.awardsandprizes
 
 archived_at: 2026-07-09 16:13
+type: interview
 ---

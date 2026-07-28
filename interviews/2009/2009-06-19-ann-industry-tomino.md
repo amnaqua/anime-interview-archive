@@ -18,4 +18,5 @@ links:
     url: https://www.animenewsnetwork.com/interview/2009-06-19/yoshiyuki-tomino
 
 archived_at: 2026-07-26 00:45
+type: interview
 ---

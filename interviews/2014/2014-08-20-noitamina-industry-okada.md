@@ -22,4 +22,5 @@ links:
     url: https://otakuusamagazine.com/noitamina-interviews-anohanas-mari-okada/
 
 archived_at: 2026-07-09 18:28
+type: interview
 ---

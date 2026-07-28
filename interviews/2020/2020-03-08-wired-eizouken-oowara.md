@@ -24,4 +24,5 @@ links:
     url: https://wired.jp/2020/03/08/eizouken-sumito-owara-interview/
 
 archived_at: 2026-07-13 16:12
+type: interview
 ---

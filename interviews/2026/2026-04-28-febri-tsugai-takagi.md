@@ -24,4 +24,5 @@ links:
     url: https://febri.jp/topics/yominotsugai_int/
 
 archived_at: 2026-07-23 14:13
+type: interview
 ---

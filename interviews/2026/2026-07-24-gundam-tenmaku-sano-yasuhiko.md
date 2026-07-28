@@ -19,4 +19,5 @@ links:
     url: https://gundam-official.com/news/x80hhdc64nbehrx5hyi1tcz4
 
 archived_at: 2026-07-27 00:15
+type: interview
 ---

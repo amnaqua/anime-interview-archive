@@ -21,4 +21,5 @@ links:
     url: https://a1p.jp/interview/kanekoatsushi/
 
 archived_at: 2026-07-11 08:41
+type: interview
 ---

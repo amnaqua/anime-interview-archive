@@ -25,4 +25,5 @@ links:
     url: https://www.anime-atelier.com/the-apothecary-diaries-interview-aoi-yuki-takeo-otsuka-maomao-jinshi-frog-scene/
 
 archived_at: 2026-07-18 01:12
+type: interview
 ---

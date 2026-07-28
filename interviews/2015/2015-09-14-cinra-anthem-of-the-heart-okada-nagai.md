@@ -25,4 +25,5 @@ links:
     url: https://www.cinra.net/article/interview-201509-kokosake
 
 archived_at: 2026-07-09 18:00
+type: interview
 ---

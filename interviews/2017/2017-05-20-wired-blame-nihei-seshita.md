@@ -38,4 +38,5 @@ links:
     url: https://wired.jp/2017/05/20/blame-movie-gallery-3/
 
 archived_at: 2026-07-13 16:20
+type: interview
 ---

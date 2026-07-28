@@ -24,4 +24,5 @@ links:
     url: https://web.archive.org/web/20170710115011/http://www.finland.or.jp/public/default.aspx?contentid=364065&nodeid=41206&culture=en-US
 
 archived_at: 2026-07-09 20:23
+type: interview
 ---

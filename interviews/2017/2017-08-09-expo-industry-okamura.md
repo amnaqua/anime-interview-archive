@@ -19,4 +19,5 @@ links:
     url: https://www.animenewsnetwork.com/feature/2017-08-09/interview-tensai-okamura/.119921
 
 archived_at: 2026-07-12 02:23
+type: interview
 ---

@@ -23,4 +23,5 @@ links:
     url: http://cdn.halcyonrealms.com/animation/bahi-jd-artist-interview-part-ii/
 
 archived_at: 2026-07-08 23:43
+type: interview
 ---

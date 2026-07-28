@@ -27,4 +27,5 @@ links:
     url: https://www.animenewsnetwork.com/interview/2005-04-03/yoshitoshi-abe-yasuyuki-ueda
 
 archived_at: 2026-07-23 22:40
+type: interview
 ---

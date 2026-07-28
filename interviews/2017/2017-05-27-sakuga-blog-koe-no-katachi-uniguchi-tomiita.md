@@ -25,4 +25,5 @@ links:
     url: https://blog.sakugabooru.com/2017/05/27/koe-no-katachi-3dcg-roundtable/
 
 archived_at: 2026-07-09 15:56
+type: interview
 ---

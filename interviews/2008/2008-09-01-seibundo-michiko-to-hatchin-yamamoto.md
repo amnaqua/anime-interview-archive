@@ -28,4 +28,5 @@ links:
     url: https://wavemotioncannon.com/2017/05/09/rawness-of-women-an-interview-with-sayo-yamamoto/
 
 archived_at: 2026-07-09 12:07
+type: interview
 ---

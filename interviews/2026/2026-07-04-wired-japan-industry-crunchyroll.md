@@ -21,4 +21,5 @@ links:
     url: https://wired.jp/article/crunchyroll-anime-industry/
 
 archived_at: 2026-07-12 01:26
+type: interview
 ---

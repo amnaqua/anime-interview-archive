@@ -18,4 +18,5 @@ links:
     url: https://www.animenewsnetwork.com/interview/2005-10-09/interview-range-murata
 
 archived_at: 2026-07-24 13:47
+type: interview
 ---

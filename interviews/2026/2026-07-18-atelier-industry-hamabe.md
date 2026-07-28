@@ -18,4 +18,5 @@ links:
     url: https://www.anime-atelier.com/interview-producer-ena-hamabe-adapting-yuri-works-to-anime/
 
 archived_at: 2026-07-20 02:05
+type: interview
 ---

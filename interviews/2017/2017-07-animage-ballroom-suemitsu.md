@@ -28,4 +28,5 @@ links:
     url: https://wavemotioncannon.com/2017/08/06/from-page-to-the-screen-how-kenichi-suemitsu-adapts-welcome-to-the-ballroom-for-television-animage-july-2017/
 
 archived_at: 2026-07-12 02:05
+type: interview
 ---

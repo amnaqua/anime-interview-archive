@@ -21,4 +21,5 @@ links:
     url: https://tonarinoyj.jp/article/entry/2026/07/23/000000
 
 archived_at: 2026-07-23 20:02
+type: interview
 ---

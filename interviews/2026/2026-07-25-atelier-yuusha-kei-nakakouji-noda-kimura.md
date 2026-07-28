@@ -26,4 +26,5 @@ links:
     url: https://www.anime-atelier.com/sentenced-to-be-a-hero-interview-yoshiki-nakakouji-takeru-noda-yasutaka-kimura/
 
 archived_at: 2026-07-25 12:58
+type: interview
 ---

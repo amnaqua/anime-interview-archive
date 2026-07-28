@@ -24,4 +24,5 @@ links:
     url: https://www.anime-atelier.com/interview-abel-gongora-dan-da-dan/
 
 archived_at: 2026-07-18 02:05
+type: interview
 ---

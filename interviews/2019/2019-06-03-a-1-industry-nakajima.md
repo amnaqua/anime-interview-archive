@@ -21,4 +21,5 @@ links:
     url: https://a1p.jp/interview/nakajimahiroshi/
 
 archived_at: 2026-07-11 08:59
+type: interview
 ---

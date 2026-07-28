@@ -18,4 +18,5 @@ links:
     url: https://wired.jp/article/mamoru-oshii-interview/
 
 archived_at: 2026-07-13 01:56
+type: interview
 ---

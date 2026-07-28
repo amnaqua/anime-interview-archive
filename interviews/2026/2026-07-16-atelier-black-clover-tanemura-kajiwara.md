@@ -25,4 +25,5 @@ links:
     url: https://www.anime-atelier.com/black-clover-season-2-interview-ayataka-tanemura-gakuto-kajiwara/
 
 archived_at: 2026-07-18 00:35
+type: interview
 ---

@@ -24,4 +24,5 @@ links:
     url: https://www.pen-online.jp/article/021960.html
 
 archived_at: 2026-07-12 01:19
+type: interview
 ---

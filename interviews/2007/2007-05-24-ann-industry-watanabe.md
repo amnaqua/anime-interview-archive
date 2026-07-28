@@ -18,4 +18,5 @@ links:
     url: https://www.animenewsnetwork.com/interview/2007-05-24/shinichiro-nabeshin-wantanabe
 
 archived_at: 2026-07-25 23:20
+type: interview
 ---

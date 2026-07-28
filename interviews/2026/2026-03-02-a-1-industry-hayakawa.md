@@ -21,4 +21,5 @@ links:
     url: https://a1p.jp/interview/250302-05/
 
 archived_at: 2026-07-11 15:52
+type: interview
 ---

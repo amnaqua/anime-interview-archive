@@ -18,4 +18,5 @@ links:
     url: https://www.animenewsnetwork.com/feature/2006-09-01/6
 
 archived_at: 2026-07-24 16:10
+type: interview
 ---

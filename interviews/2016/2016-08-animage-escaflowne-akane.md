@@ -25,4 +25,5 @@ links:
     url: https://criesinnewtype.wordpress.com/2017/06/20/animage-aug-2016-escaflownes-director-akane-kazuki/?preview_id=753&preview_nonce=9ae5befbac
 
 archived_at: 2026-07-09 16:17
+type: interview
 ---

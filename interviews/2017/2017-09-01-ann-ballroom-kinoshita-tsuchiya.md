@@ -25,4 +25,5 @@ links:
     url: https://www.animenewsnetwork.com/interview/2017-09-01/welcome-to-the-ballroom-tetsuya-kinoshita-and-shimba-tsuchiya/.120830
 
 archived_at: 2026-07-11 19:02
+type: interview
 ---

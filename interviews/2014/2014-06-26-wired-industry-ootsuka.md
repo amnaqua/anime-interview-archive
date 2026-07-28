@@ -21,4 +21,5 @@ links:
     url: https://wired.jp/2014/06/26/trigger/
 
 archived_at: 2026-07-13 16:31
+type: interview
 ---

@@ -24,4 +24,5 @@ links:
     url: https://www.animenewsnetwork.com/interview/2014-04-16/the-space-dandy/part-ii-bahi-jd
 
 archived_at: 2026-07-08 23:53
+type: interview
 ---

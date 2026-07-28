@@ -25,4 +25,5 @@ links:
     url: https://www.anime-atelier.com/hiroshi-kamiya-and-koutaro-nishiyama-tougen-anki-otakon-2025/#tougen-anki-at-otakon-2025-press-questions
 
 archived_at: 2026-07-18 01:45
+type: interview
 ---

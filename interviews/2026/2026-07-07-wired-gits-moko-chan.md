@@ -24,4 +24,5 @@ links:
     url: https://wired.jp/article/science-saru-interview-3-the-ghost-in-the-shell-mokochan/
 
 archived_at: 2026-07-07 13:38
+type: interview
 ---

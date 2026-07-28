@@ -1,7 +1,7 @@
 ---
 title: On Your Mark
 
-date: 1995-06
+date: 1995-09
 
 people:
   - hayao-miyazaki
@@ -20,6 +20,8 @@ companies:
 language: ja
 
 links:
+  - type: source
+    url: https://x.com/mantengorilla/status/2082033978060791897
   - type: translation
     language: en
     url: https://www.nausicaa.net/miyazaki/oym/interview_oym.txt

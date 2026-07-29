@@ -3906,5 +3906,34 @@
       "Key Animator",
       "Lyricist"
     ]
+  },
+
+  "masaaki-endou": {
+    "name": "Masaaki Endou",
+    "aliases": [
+      "Masaaki Endou (遠藤正明)"
+    ],
+    "roles": [
+      "Key Animator",
+      "Animation Director",
+      "Storyboarder",
+      "Designer",
+      "In-Betweener"
+    ]
+  },
+
+  "katsuya-kondou": {
+    "name": "Katsuya Kondou",
+    "aliases": [
+      "Katsuya Kondou (近藤勝也)"
+    ],
+    "roles": [
+      "Designer",
+      "Key Animator",
+      "Director",
+      "Animation Director",
+      "Lyricist",
+      "In-Betweener"
+    ]
   }
 }

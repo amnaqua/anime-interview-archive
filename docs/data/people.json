@@ -3935,5 +3935,19 @@
       "Lyricist",
       "In-Betweener"
     ]
+  },
+
+  "yoshiyuki-sadamoto": {
+    "name": "Yoshiyuki Sadamoto",
+    "aliases": [
+      "Yoshiyuki Sadamoto (貞本義行)"
+    ],
+    "roles": [
+      "Designer",
+      "Animation Director",
+      "Key Animator",
+      "Director",
+      "In-Betweener"
+    ]
   }
 }

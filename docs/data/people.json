@@ -3863,5 +3863,22 @@
       "Designer",
       "Production Manager"
     ]
+  },
+
+  "rintarou": {
+    "name": "Rintarou",
+    "aliases": [
+      "Rintarou (りんたろう, りん・たろう)",
+      "Shigeyuki Hayashi (林重行)"
+    ],
+    "roles": [
+      "Director",
+      "Storyboarder",
+      "Producer",
+      "Scriptwriter",
+      "Lyricist",
+      "Key Animator",
+      "In-Betweener"
+    ]
   }
 }

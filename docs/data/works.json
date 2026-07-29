@@ -669,5 +669,11 @@
     "name": "Mobile Suit Gundam",
     "type": "anime",
     "year": 1979
+  },
+
+  "galaxy-express-999-movie": {
+    "name": "Galaxy Express 999 (Movie)",
+    "type": "anime",
+    "year": 1979
   }
 }

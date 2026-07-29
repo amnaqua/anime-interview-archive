@@ -687,5 +687,11 @@
     "name": "Castle in the Sky",
     "type": "anime",
     "year": 1986
+  },
+
+  "patlabor-movie-2": {
+    "name": "Patlabor 2: The Movie",
+    "type": "anime",
+    "year": 1993
   }
 }

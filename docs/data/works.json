@@ -693,5 +693,11 @@
     "name": "Patlabor 2: The Movie",
     "type": "anime",
     "year": 1993
+  },
+
+  "porco-rosso": {
+    "name": "Porco Rosso",
+    "type": "anime",
+    "year": 1992
   }
 }

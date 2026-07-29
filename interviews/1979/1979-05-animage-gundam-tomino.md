@@ -4,7 +4,7 @@ title: Comment after the premiere of Mobile Suit Gundam
 date: 1979-05
 
 people:
-  - yoshikazu-yasuhiko
+  - yoshiyuki-tomino
 
 media_type: anime
 
@@ -21,9 +21,9 @@ language: ja
 
 links:
   - type: source
-    url: https://x.com/mantengorilla/status/2082352238484406489
+    url: https://x.com/mantengorilla/status/2082351929410359801
 
-archived_at: 2026-07-29 10:55
+archived_at: 2026-07-29 11:00
 
 type: article
 ---

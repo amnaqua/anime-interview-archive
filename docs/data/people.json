@@ -3959,5 +3959,19 @@
     "roles": [
       "Manga Artist"
     ]
+  },
+
+  "yasuo-ootsuka": {
+    "name": "Yasuo Ootsuka",
+    "aliases": [
+      "Yasuo Ootsuka (大塚康生)"
+    ],
+    "roles": [
+      "Designer",
+      "Key Animator",
+      "Storyboarder",
+      "Animation Director",
+      "In-Betweener"
+    ]
   }
 }

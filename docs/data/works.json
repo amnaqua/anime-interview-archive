@@ -699,5 +699,11 @@
     "name": "Porco Rosso",
     "type": "anime",
     "year": 1992
+  },
+
+  "lupin-iii-cagliostro": {
+    "name": "Lupin III: The Castle of Cagliostro",
+    "type": "anime",
+    "year": 1979
   }
 }

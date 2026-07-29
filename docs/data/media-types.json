@@ -13,5 +13,9 @@
 
   "ranobe": {
     "name": "Light Novel"
+  },
+
+  "live-action": {
+    "name": "Live Action"
   }
 }

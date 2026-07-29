@@ -675,5 +675,11 @@
     "name": "Galaxy Express 999 (Movie)",
     "type": "anime",
     "year": 1979
+  },
+
+  "patlabor-ova": {
+    "name": "Patlabor: The Mobile Police",
+    "type": "anime",
+    "year": 1988
   }
 }

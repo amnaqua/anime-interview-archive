@@ -3894,5 +3894,17 @@
       "Scriptwriter",
       "Producer"
     ]
+  },
+
+  "masami-yuuki": {
+    "name": "Masami Yuuki",
+    "aliases": [
+      "Masami Yuuki (ゆうきまさみ)"
+    ],
+    "roles": [
+      "Designer",
+      "Key Animator",
+      "Lyricist"
+    ]
   }
 }

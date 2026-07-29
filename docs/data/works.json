@@ -663,5 +663,11 @@
     "name": "Attack on Titan: Final Season Part 2",
     "type": "anime",
     "year": 2022
+  },
+
+  "mobile-suit-gundam": {
+    "name": "Mobile Suit Gundam",
+    "type": "anime",
+    "year": 1979
   }
 }

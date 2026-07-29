@@ -41,9 +41,9 @@ export function createSections({
             directory: `${ROOT}/companies`,
             dictionary: companiesData,
 
-            interviews: maps.interviews.works,
-            articles: maps.articles.works,
-            productionMaterials: maps.productionMaterials.works
+            interviews: maps.interviews.companies,
+            articles: maps.articles.companies,
+            productionMaterials: maps.productionMaterials.companies
         },
 
         {

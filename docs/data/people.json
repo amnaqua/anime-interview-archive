@@ -3880,5 +3880,19 @@
       "Key Animator",
       "In-Betweener"
     ]
+  },
+
+  "yutaka-izubuchi": {
+    "name": "Yutaka Izubuchi",
+    "aliases": [
+      "Yutaka Izubuchi (出渕裕, いづぶちゆたか, 出淵裕)"
+    ],
+    "roles": [
+      "Director",
+      "Designer",
+      "Storyboarder",
+      "Scriptwriter",
+      "Producer"
+    ]
   }
 }

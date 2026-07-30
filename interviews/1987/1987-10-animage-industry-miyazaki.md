@@ -24,5 +24,5 @@ links:
 
 archived_at: 2026-07-29 11:24
 
-type: production_material
+type: arworks
 ---

@@ -50,7 +50,8 @@ export async function generateHome(stats) {
     const totalRecords =
         stats.interviews +
         (stats.articles ?? 0) +
-        (stats.productionMaterials ?? 0);
+        (stats.productionMaterials ?? 0) +
+        (stats.artworks ?? 0)
 
     let md = `---
 layout: home
@@ -69,6 +70,9 @@ features:
 
   - title: 📄 Production Materials
     details: ${stats.productionMaterials ?? 0} materials
+    
+  - title: 🎨 Artworks
+    details: ${stats.artworks ?? 0} artworks
 
   - title: 👥 People
     details: ${stats.people} people
@@ -99,7 +103,9 @@ features:
                 ? "📰"
                 : record.type === "production_material"
                     ? "📄"
-                    : "🎤";
+                    : record.type === "artworks"
+                        ? "🎨"
+                        : "🎤";
 
         const label = recordLabel(record);
 

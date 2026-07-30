@@ -77,6 +77,14 @@ async function main() {
             companies: new Map(),
             publishers: new Map(),
             years: new Map()
+        },
+
+        artworks: {
+            people: new Map(),
+            works: new Map(),
+            companies: new Map(),
+            publishers: new Map(),
+            years: new Map()
         }
     };
 
@@ -87,7 +95,8 @@ async function main() {
     const records = {
         interview: [],
         article: [],
-        production_material: []
+        production_material: [],
+        artworks: []
     };
 
     for (const file of files) {
@@ -117,7 +126,9 @@ async function main() {
                 ? maps.articles
                 : interview.type === "production_material"
                     ? maps.productionMaterials
-                    : maps.interviews;
+                    : maps.type === "artworks"
+                        ? maps.artworks
+                        : maps.interviews
 
         indexRecord({
             interview,
@@ -176,6 +187,7 @@ async function main() {
         interviews: records.interview.length,
         articles: records.article.length,
         productionMaterials: records.production_material.length,
+        artworks: records.artworks.length,
 
         latestRecords:
             getLatestRecords(latestRecords),

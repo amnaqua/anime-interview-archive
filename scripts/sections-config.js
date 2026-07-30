@@ -21,7 +21,8 @@ export function createSections({
 
             interviews: maps.interviews.people,
             articles: maps.articles.people,
-            productionMaterials: maps.productionMaterials.people
+            productionMaterials: maps.productionMaterials.people,
+            artworks: maps.artworks.people
         },
 
         {
@@ -32,7 +33,8 @@ export function createSections({
 
             interviews: maps.interviews.works,
             articles: maps.articles.works,
-            productionMaterials: maps.productionMaterials.works
+            productionMaterials: maps.productionMaterials.works,
+            artworks: maps.artworks.works
         },
 
         {
@@ -43,7 +45,8 @@ export function createSections({
 
             interviews: maps.interviews.companies,
             articles: maps.articles.companies,
-            productionMaterials: maps.productionMaterials.companies
+            productionMaterials: maps.productionMaterials.companies,
+            artworks: maps.artworks.works
         },
 
         {
@@ -54,7 +57,8 @@ export function createSections({
 
             interviews: maps.interviews.publishers,
             articles: maps.articles.publishers,
-            productionMaterials: maps.productionMaterials.publishers
+            productionMaterials: maps.productionMaterials.publishers,
+            artworks: maps.artworks.works
         },
 
         {
@@ -65,7 +69,8 @@ export function createSections({
 
             interviews: maps.interviews.years,
             articles: maps.articles.years,
-            productionMaterials: maps.productionMaterials.years
+            productionMaterials: maps.productionMaterials.years,
+            artworks: maps.artworks.works
         }
     ];
 }

@@ -705,5 +705,17 @@
     "name": "Lupin III: The Castle of Cagliostro",
     "type": "anime",
     "year": 1979
+  },
+
+  "gunbuster": {
+    "name": "Gunbuster",
+    "type": "anime",
+    "year": 1988
+  },
+
+  "neon-genesis-evangelion": {
+    "name": "Neon Genesis Evangelion",
+    "type": "anime",
+    "year": 1995
   }
 }

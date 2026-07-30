@@ -3973,5 +3973,16 @@
       "Animation Director",
       "In-Betweener"
     ]
+  },
+
+  "toshio-okada": {
+    "name": "Toshio Okada",
+    "aliases": [
+      "Toshio Okada (岡田斗司夫)"
+    ],
+    "roles": [
+      "Scriptwriter",
+      "Producer"
+    ]
   }
 }

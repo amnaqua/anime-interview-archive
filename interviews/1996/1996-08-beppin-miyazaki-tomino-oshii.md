@@ -27,6 +27,7 @@ links:
     label: Full article
     url: https://x.com/mantengorilla/status/2082707410108694906
   - type: source
+    label: Part article
     url: https://x.com/mantengorilla/status/2082704562478256223
 
 archived_at: 2026-07-30 13:50

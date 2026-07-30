@@ -741,5 +741,11 @@
     "name": "Urusei Yatsura Movie 1: Only You",
     "type": "anime",
     "year": 1983
+  },
+
+  "gundam-f91": {
+    "name": "Mobile Suit Gundam F91",
+    "type": "anime",
+    "year": 1991
   }
 }

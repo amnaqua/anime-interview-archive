@@ -180,7 +180,8 @@ async function main() {
     const latestRecords = [
         ...records.interview,
         ...records.article,
-        ...records.production_material
+        ...records.production_material,
+        ...records.artworks
     ];
 
     await generateHome({

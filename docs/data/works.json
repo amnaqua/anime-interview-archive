@@ -729,5 +729,11 @@
     "name": "The Ideon: Be Invoked",
     "type": "anime",
     "year": 1982
+  },
+
+  "ideon": {
+    "name": "Space Runaway Ideon",
+    "type": "anime",
+    "year": 1980
   }
 }

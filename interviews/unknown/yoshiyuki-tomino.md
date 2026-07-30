@@ -5,7 +5,7 @@ people:
   - yoshiyuki-tomino
 
 publisher:
-  - pamphlet
+  - ideon-pamphlet
   
 companies:
   - sunrise

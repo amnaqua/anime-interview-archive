@@ -6,7 +6,7 @@ people:
   - mamoru-oshii
 
 publisher:
-  - pamphlet
+  - red-spectacles-pamphlet
 
 links:
   - type: source

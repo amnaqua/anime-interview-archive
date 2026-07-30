@@ -295,7 +295,7 @@
     "name": "ANIME MIND PROBE"
   },
 
-  "pamphlet": {
+  "red-spectacles-pamphlet": {
     "name": "The Red Spectacles Pamphlet"
   },
 
@@ -305,5 +305,13 @@
 
   "deluxe-beppin": {
     "name": "Deluxe Beppin"
+  },
+
+  "kogawa-tomonori-art-book": {
+    "name": "Kogawa Tonomori Art Book"
+  },
+
+  "ideon-pamphlet": {
+    "name": "Ideon Pamphlet"
   }
 }

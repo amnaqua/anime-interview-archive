@@ -747,5 +747,11 @@
     "name": "Mobile Suit Gundam F91",
     "type": "anime",
     "year": 1991
+  },
+
+  "mobile-suit-gundam-movie-1": {
+    "name": "Mobile Suit Gundam Movie 1",
+    "type": "anime",
+    "year": 1981
   }
 }

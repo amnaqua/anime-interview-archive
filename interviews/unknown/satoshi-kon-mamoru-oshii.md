@@ -17,5 +17,5 @@ links:
 
 archived_at: 2026-07-29 11:10
 
-type: production_materials
+type: production_material
 ---

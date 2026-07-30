@@ -30,7 +30,10 @@ export async function generateSection(section) {
                         section.articles.get(slug) ?? [],
 
                     productionMaterials:
-                        section.productionMaterials.get(slug) ?? []
+                        section.productionMaterials.get(slug) ?? [],
+
+                    artworks:
+                        section.artworks.get(slug) ?? []
                 });
 
                 await fs.writeFile(

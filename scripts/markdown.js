@@ -9,7 +9,8 @@ export function buildMarkdown({
                                   entity,
                                   interviews = [],
                                   articles = [],
-                                  productionMaterials = []
+                                  productionMaterials = [],
+                                  artworks = []
                               }) {
 
     const title = entity.name;
@@ -67,6 +68,10 @@ Articles (${articles.length})
 Production Materials (${productionMaterials.length})
 </button>
 
+<button class="entity-tab" data-tab="artworks">
+Artworks (${artworks.length})
+</button>
+
 </div>
 
 <div id="interviews" class="entity-section active">
@@ -91,6 +96,17 @@ Production Materials (${productionMaterials.length})
     md += renderItems(
         productionMaterials,
         "Production Materials"
+    );
+
+    md += `
+</div>
+
+<div id="artworks" class="entity-section">
+`;
+
+    md += renderItems(
+        artworks,
+        "Artworks"
     );
 
     md += `

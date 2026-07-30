@@ -321,5 +321,9 @@
 
   "gundam-f91-pamphlet": {
     "name": "Mobile Suit Gundam F91 Pamphlet"
+  },
+
+  "gundam-movie-2-pamphlet": {
+    "name": "Mobile Suit Gundam II: Soldiers of Sorrow Pamphlet"
   }
 }

@@ -750,7 +750,13 @@
   },
 
   "mobile-suit-gundam-movie-1": {
-    "name": "Mobile Suit Gundam Movie 1",
+    "name": "Mobile Suit Gundam I",
+    "type": "anime",
+    "year": 1981
+  },
+
+  "mobile-suit-gundam-movie-2": {
+    "name": "Mobile Suit Gundam II: Soldiers of Sorrow",
     "type": "anime",
     "year": 1981
   }

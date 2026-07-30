@@ -735,5 +735,11 @@
     "name": "Space Runaway Ideon",
     "type": "anime",
     "year": 1980
+  },
+
+  "urusei-yatsura-only-you": {
+    "name": "Urusei Yatsura Movie 1: Only You",
+    "type": "anime",
+    "year": 1983
   }
 }

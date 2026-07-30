@@ -717,5 +717,17 @@
     "name": "Neon Genesis Evangelion",
     "type": "anime",
     "year": 1995
+  },
+
+  "ideon-contact": {
+    "name": "The Ideon: A Contact",
+    "type": "anime",
+    "year": 1982
+  },
+
+  "ideon-invoked": {
+    "name": "The Ideon: Be Invoked",
+    "type": "anime",
+    "year": 1982
   }
 }

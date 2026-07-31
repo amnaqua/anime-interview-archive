@@ -765,5 +765,17 @@
     "name": "Mob Psycho 100 II",
     "type": "anime",
     "year": 2019
+  },
+
+  "chainsaw-man-reze": {
+    "name": "Chainsaw Man – The Movie: Reze Arc",
+    "type": "anime",
+    "year": 2025
+  },
+
+  "jujutsu-kaisen-0": {
+    "name": "Jujutsu Kaisen 0",
+    "type": "anime",
+    "year": 2021
   }
 }

@@ -4071,5 +4071,17 @@
       "Animation Director",
       "In-Betweener"
     ]
+  },
+
+  "shinsaku-kouzuma": {
+    "name": "Shinsaku Kouzuma",
+    "aliases": [
+      "Shinsaku Kouzuma (上妻晋作, 上妻普作)"
+    ],
+    "roles": [
+      "Key Animator",
+      "Storyboarder",
+      "In-Betweener"
+    ]
   }
 }

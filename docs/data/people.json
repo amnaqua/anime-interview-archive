@@ -4037,5 +4037,39 @@
       "Production Manager",
       "Key Animator"
     ]
+  },
+
+  "atsushi-wakabayashi": {
+    "name": "Atsushi Wakabayashi",
+    "aliases": [
+      "Atsushi Wakabayashi (若林厚史, 一白早馬, 若林あつし, 若林厚司)",
+      "Kei Tomonji (十文字景)"
+    ],
+    "roles": [
+      "Animation Director",
+      "Storyboarder",
+      "Key Animator",
+      "Designer",
+      "Director"
+    ]
+  },
+
+  "shingo-yamashita": {
+    "name": "Shingo Yamashita",
+    "aliases": [
+      "Shingo Yamashita (山下清悟, 山下清吾)",
+      "Lune Soupe"
+    ],
+    "roles": [
+      "Key Animator",
+      "Composite Artist",
+      "Storyboarder",
+      "Director",
+      "Scriptwriter",
+      "Editor",
+      "3DCG Artist",
+      "Animation Director",
+      "In-Betweener"
+    ]
   }
 }

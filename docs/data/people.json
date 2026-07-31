@@ -4022,5 +4022,20 @@
       "Designer",
       "Choreographer"
     ]
+  },
+
+  "yuzuru-tachikawa": {
+    "name": "Yuzuru Tachikawa",
+    "aliases": [
+      "Yuzuru Tachikawa (立川譲)"
+    ],
+    "roles": [
+      "Director",
+      "Storyboarder",
+      "Sound Artist",
+      "Scriptwriter",
+      "Production Manager",
+      "Key Animator"
+    ]
   }
 }

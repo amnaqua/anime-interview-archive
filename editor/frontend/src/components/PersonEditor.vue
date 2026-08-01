@@ -47,18 +47,24 @@ watch(
 
 function save() {
   form.value.aliases =
-      aliasesText.value
-          .split("\n")
-          .map(v => v.trim())
-          .filter(Boolean);
+      parseList(
+          aliasesText.value
+      );
+
 
   form.value.roles =
-      rolesText.value
-          .split("\n")
-          .map(v => v.trim())
-          .filter(Boolean);
+      parseList(
+          rolesText.value
+      );
 
   emit("saved", form.value);
+}
+
+function parseList(value) {
+  return value
+      .split(/[\n,]+/)
+      .map(v => v.trim())
+      .filter(Boolean);
 }
 
 </script>
@@ -121,7 +127,7 @@ function save() {
           rows="8"
       />
       <small>
-        One role per line
+        Separate values with commas or new lines
       </small>
     </section>
   </div>

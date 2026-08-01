@@ -9,6 +9,7 @@ import Works from "../pages/Works.vue";
 import Publishers from "../pages/Publishers.vue";
 import Languages from "../pages/Languages.vue"
 import MediaTypes from "../pages/MediaTypes.vue";
+import ContentGenerator from "../pages/ContentGenerator.vue";
 
 const router =
     createRouter({
@@ -42,6 +43,10 @@ const router =
             {
                 path: "/media-types",
                 component: MediaTypes
+            },
+            {
+                path: "/generator",
+                component: ContentGenerator
             }
         ]
     });

@@ -35,3 +35,15 @@ export function updateEntity(endpoint, slug, data) {
         )
         .then(r => r.data);
 }
+
+export function getReferenceData() {
+    return axios
+        .get(`${API}/reference`)
+        .then(r => r.data);
+}
+
+export function generateContent(data) {
+    return axios
+        .post(`${API}/content/generate`, data)
+        .then(r => r.data);
+}

@@ -23,6 +23,9 @@
       <router-link to="/media-types">
         Media Types
       </router-link>
+      <router-link to="/generator">
+        Generator
+      </router-link>
     </nav>
   </header>
 </template>

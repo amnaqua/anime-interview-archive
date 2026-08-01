@@ -3,9 +3,9 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "dev": "concurrently \"node server/server.js\" \"vite\"",
+    "dev": "concurrently \"node backend/server.js\" \"vite --config vite.config.js\"",
     "frontend": "vite",
-    "backend": "node server/server.js",
+    "backend": "node backend/server.js",
     "build": "vite build"
   },
   "dependencies": {

@@ -1,36 +1,31 @@
 import express from "express";
-import fs from "fs/promises";
-import path from "path";
+
+import {
+    readJson,
+    writeJson
+} from "../services/jsonStore.js";
 
 const router = express.Router();
 
-const FILE =
-    path.resolve(
-        "../docs/data/people.json"
-    );
-
-console.log(FILE);
+const FILE = "../docs/data/people.json";
 
 router.get("/", async (req, res) => {
-    const people = JSON.parse(
-        await fs.readFile(FILE, "utf8")
-    );
+    const people = await readJson(FILE);
 
-    const result = Object.entries(people).map(
-        ([slug, person]) => ({
-            slug,
-            ...person
-        })
-    );
+    const result =
+        Object.entries(people)
+            .map(
+                ([slug, person]) => ({
+                    slug,
+                    ...person
+                })
+            );
 
     res.json(result);
 });
 
 router.get("/:slug", async (req, res) => {
-    const people = JSON.parse(
-        await fs.readFile(FILE, "utf8")
-    );
-
+    const people = await readJson(FILE);
     const person = people[req.params.slug];
 
     if (!person) {
@@ -46,14 +41,7 @@ router.get("/:slug", async (req, res) => {
 });
 
 router.put("/:slug", async (req, res) => {
-    const people =
-        JSON.parse(
-            await fs.readFile(
-                FILE,
-                "utf8"
-            )
-        );
-
+    const people = await readJson(FILE);
     const slug = req.params.slug;
 
     if (!people[slug]) {
@@ -62,18 +50,17 @@ router.put("/:slug", async (req, res) => {
         });
     }
 
-    const { slug: _, ...personData } = req.body;
+    const {
+        slug: _,
+        ...personData
+    } = req.body;
 
     people[slug] = {
         ...people[slug],
         ...personData
     };
 
-    let json = JSON.stringify(people, null, 2);
-
-    json = json.replace(/},\n  "/g, "},\n\n  \"");
-
-    await fs.writeFile(FILE, json);
+    await writeJson(FILE, people);
 
     res.json({
         slug,

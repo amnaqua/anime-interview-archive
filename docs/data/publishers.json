@@ -325,5 +325,9 @@
 
   "gundam-movie-2-pamphlet": {
     "name": "Mobile Suit Gundam II: Soldiers of Sorrow Pamphlet"
+  },
+
+  "shueisha": {
+    "name": "Shueisha"
   }
 }

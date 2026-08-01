@@ -35,7 +35,7 @@
     "year": 2017
   },
 
-  "in-this-corner-of-the-world" : {
+  "in-this-corner-of-the-world": {
     "name": "In This Corner of the World",
     "type": "anime",
     "year": 2016
@@ -777,5 +777,11 @@
     "name": "Jujutsu Kaisen 0",
     "type": "anime",
     "year": 2021
+  },
+
+  "chainsaw-man": {
+    "name": "Chainsaw Man",
+    "type": "anime",
+    "year": 2022
   }
 }

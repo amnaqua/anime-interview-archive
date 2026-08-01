@@ -4083,5 +4083,32 @@
       "Storyboarder",
       "In-Betweener"
     ]
+  },
+
+  "ryuu-nakayama": {
+    "name": "Ryuu Nakayama",
+    "aliases": [
+      "Ryuu Nakayama (中山竜)"
+    ],
+    "roles": [
+      "Director",
+      "Key Animator",
+      "Storyboarder",
+      "Animation Director",
+      "Producer",
+      "In-Betweener",
+      "Designer"
+    ]
+  },
+
+  "keisuke-seshimo": {
+    "name": "Keisuke Seshimo",
+    "aliases": [
+      "Keisuke Seshimo (瀬下恵介)"
+    ],
+    "roles": [
+      "Producer",
+      "Production Manager"
+    ]
   }
 }

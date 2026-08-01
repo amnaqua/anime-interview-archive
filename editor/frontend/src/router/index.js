@@ -7,6 +7,7 @@ import People from "../pages/People.vue";
 import Companies from "../pages/Companies.vue";
 import Works from "../pages/Works.vue";
 import Publishers from "../pages/Publishers.vue";
+import Languages from "../pages/Languages.vue"
 
 const router =
     createRouter({
@@ -32,6 +33,10 @@ const router =
             {
                 path: "/publishers",
                 component: Publishers
+            },
+            {
+                path: "/languages",
+                component: Languages
             }
         ]
     });

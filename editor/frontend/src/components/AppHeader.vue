@@ -17,6 +17,9 @@
       <router-link to="/publishers">
         Publishers
       </router-link>
+      <router-link to="/languages">
+        Languages
+      </router-link>
     </nav>
   </header>
 </template>
@@ -60,3 +63,5 @@ a:hover {
 }
 
 </style>
+<script setup lang="ts">
+</script>

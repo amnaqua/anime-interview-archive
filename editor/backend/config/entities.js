@@ -13,5 +13,9 @@ export default {
 
     works: {
         file: "docs/data/works.json"
+    },
+
+    languages: {
+        file: "docs/data/languages.json"
     }
 };

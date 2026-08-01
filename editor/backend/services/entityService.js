@@ -69,6 +69,7 @@ export async function create(entity, item){
 
     const slug =
         item.slug ||
+        item[config.slugField] ||
         item.name
             .toLowerCase()
             .replace(
@@ -89,6 +90,10 @@ export async function create(entity, item){
     data[slug] = {
         ...item
     };
+
+    if (config.slugField) {
+        delete data[slug][config.slugField];
+    }
 
     delete data[slug].slug;
     delete data[slug].isNew;

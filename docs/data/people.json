@@ -4121,5 +4121,51 @@
       "Scriptwriter",
       "Production Manager"
     ]
+  },
+
+  "masato-nakazono": {
+    "name": "Masato Nakazono",
+    "aliases": [
+      "Masato Nakazono (中園真登)"
+    ],
+    "roles": [
+      "Director",
+      "Storyboarder",
+      "Key Animator",
+      "Production Manager"
+    ]
+  },
+
+  "kensuke-ushio": {
+    "name": "Kensuke Ushio",
+    "aliases": [
+      "Kensuke Ushio (牛尾憲輔)",
+      "agraph"
+    ],
+    "roles": [
+      "Musician",
+      "Sound Artist",
+      "Singer"
+    ]
+  },
+
+  "tatsuya-yoshihara": {
+    "name": "Tatsuya Yoshihara",
+    "aliases": [
+      "Tatsuya Yoshihara (𠮷原達矢, 吉原達矢, 吉原達也)",
+      "Yumi Kajiki (加治木ゆみ)",
+      "Yoshio Quality Limited Company Ltd. (有限会社よしおクォリティ)",
+      "Momoko Touyoko (東横桃子)",
+      "Yoshio (よしお)"
+    ],
+    "roles": [
+      "Director",
+      "Storyboarder",
+      "Key Animator",
+      "Animation Director",
+      "Scriptwriter",
+      "In-Betweener",
+      "Designer"
+    ]
   }
 }

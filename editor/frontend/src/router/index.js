@@ -8,6 +8,7 @@ import Companies from "../pages/Companies.vue";
 import Works from "../pages/Works.vue";
 import Publishers from "../pages/Publishers.vue";
 import Languages from "../pages/Languages.vue"
+import MediaTypes from "../pages/MediaTypes.vue";
 
 const router =
     createRouter({
@@ -37,6 +38,10 @@ const router =
             {
                 path: "/languages",
                 component: Languages
+            },
+            {
+                path: "/media-types",
+                component: MediaTypes
             }
         ]
     });

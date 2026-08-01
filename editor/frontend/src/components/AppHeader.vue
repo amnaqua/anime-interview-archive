@@ -20,6 +20,9 @@
       <router-link to="/languages">
         Languages
       </router-link>
+      <router-link to="/media-types">
+        Media Types
+      </router-link>
     </nav>
   </header>
 </template>

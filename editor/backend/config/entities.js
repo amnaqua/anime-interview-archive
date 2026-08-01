@@ -17,5 +17,9 @@ export default {
 
     languages: {
         file: "docs/data/languages.json"
+    },
+
+    "media-types": {
+        file: "docs/data/media-types.json"
     }
 };

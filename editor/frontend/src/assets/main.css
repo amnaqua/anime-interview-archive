@@ -1,0 +1,45 @@
+:root {
+    --bg: #111827;
+    --surface: #1f2937;
+    --surface-hover: #374151;
+
+    --border: #374151;
+
+    --text: #f9fafb;
+    --text-muted: #9ca3af;
+
+    --primary: #3b82f6;
+    --primary-hover: #2563eb;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin:0;
+    background:var(--bg);
+    color:var(--text);
+    font-family:
+            Inter,
+            system-ui,
+            sans-serif;
+}
+
+button {
+    font-family:inherit;
+}
+
+html,
+body,
+#app {
+    height:100%;
+    margin:0;
+    overflow:hidden;
+}
+
+body {
+    background:#151515;
+    color:#ddd;
+    font-family:sans-serif;
+}

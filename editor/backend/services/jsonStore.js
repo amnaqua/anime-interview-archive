@@ -1,7 +1,7 @@
 import fs from "fs/promises";
 import path from "path";
 
-export async function readJson(file){
+export async function readJson(file) {
     const data =
         await fs.readFile(
             path.resolve(file),
@@ -11,7 +11,7 @@ export async function readJson(file){
     return JSON.parse(data);
 }
 
-export async function writeJson(file, data){
+export async function writeJson(file, data) {
     let json =
         JSON.stringify(
             data,
@@ -19,7 +19,7 @@ export async function writeJson(file, data){
             2
         );
 
-    json = json.replace(/},\n  "/g, "},\n\n  \"");
+    json = json.replace(/(^  },\n)(  ")/gm, "$1\n$2");
 
     await fs.writeFile(
         path.resolve(file),

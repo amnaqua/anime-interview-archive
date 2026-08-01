@@ -1,9 +1,13 @@
 <script setup>
 
-defineProps({
+const props = defineProps({
   items: {
     type: Array,
     required: true
+  },
+  selected: {
+    type: Object,
+    default: null
   }
 });
 
@@ -12,25 +16,24 @@ const emit = defineEmits([
 ]);
 
 function select(item) {
-
-  console.log("EntityList click", item);
-
   emit(
       "select",
       item
   );
-
 }
 
 </script>
 
 <template>
-  <div>
+  <div class="list">
     <div
         v-for="item in items"
         :key="item.slug"
         class="entity-item"
-        @mousedown="select(item)"
+        :class="{
+        active:selected?.slug === item.slug
+      }"
+        @click="select(item)"
     >
       {{ item.name }}
     </div>
@@ -39,23 +42,41 @@ function select(item) {
 
 <style scoped>
 
+.list {
+  height: calc(100vh - 140px);
+  overflow-y: auto;
+}
+
 .entity-item {
-  padding: 10px;
-  border-bottom: 1px solid #ddd;
+  padding: 12px 15px;
+  border-bottom: 1px solid var(--border);
   cursor: pointer;
+  color: var(--text);
 }
 
 .entity-item:hover {
-  background: #f5f5f5;
+  background: var(--hover);
 }
 
-.entity-item {
-  padding:10px;
-  border-bottom:1px solid #ddd;
-  cursor:pointer;
+.entity-item.active {
+  background: var(--active);
+}
 
-  pointer-events:auto;
-  user-select:none;
+.list::-webkit-scrollbar {
+  width: 8px;
+}
+
+.list::-webkit-scrollbar-track {
+  background: #181818;
+}
+
+.list::-webkit-scrollbar-thumb {
+  background: #4a4a4a;
+  border-radius: 5px;
+}
+
+.list::-webkit-scrollbar-thumb:hover {
+  background: #666;
 }
 
 </style>

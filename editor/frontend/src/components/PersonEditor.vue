@@ -143,65 +143,67 @@ async function save() {
 <style scoped>
 
 .editor {
-  background:white;
-  border:1px solid #ddd;
-  border-radius:12px;
-  padding:25px;
-  min-height:700px;
+  background: var(--bg-panel);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 25px;
+  min-height: 700px;
 }
 
-
 .header {
-  display:flex;
-  justify-content:space-between;
-  align-items:center;
-  margin-bottom:30px;
-  border-bottom:1px solid #eee;
-  padding-bottom:15px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 30px;
+  border-bottom: 1px solid #eee;
+  padding-bottom: 15px;
 }
 
 h2 {
-  margin:0;
+  margin: 0;
 }
 
 small {
-  color:#777;
+  color: #777;
 }
 
 section {
-  margin-bottom:30px;
+  margin-bottom: 30px;
 }
 
 h3 {
-  margin-bottom:10px;
+  margin-bottom: 10px;
 }
 
 input,
 textarea {
-  width:100%;
-  box-sizing:border-box;
-  font-size:15px;
-  padding:12px;
-  border:1px solid #ccc;
-  border-radius:8px;
+  width: 100%;
+  box-sizing: border-box;
+  font-size: 15px;
+  padding: 12px;
+  background: var(--bg-input);
+  color: var(--text);
+  border: 1px solid var(--border);
+  border-radius: 6px;
 }
 
 textarea {
-  resize:vertical;
-  min-height:160px;
-  line-height:1.5;
+  resize: vertical;
+  min-height: 160px;
+  line-height: 1.5;
 }
 
 button {
-  padding:12px 25px;
-  border-radius:8px;
-  border:none;
-  cursor:pointer;
-  font-size:15px;
+  background: #383838;
+  color: var(--text);
+  border: 1px solid var(--border);
+  padding: 12px 25px;
+  border-radius: 6px;
+  cursor: pointer;
 }
 
 button:hover {
-  opacity:.8;
+  background: #4a4a4a;
 }
 
 </style>

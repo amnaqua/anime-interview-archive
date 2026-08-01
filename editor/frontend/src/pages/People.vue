@@ -7,15 +7,14 @@ import {
 
 import {
   getPeople,
-  getPerson,
-  updatePerson
+  getPerson
 } from "../api";
 
 import EntityList from "../components/EntityList.vue";
+import PersonEditor from "../components/PersonEditor.vue";
 
 const people = ref([]);
 const selected = ref(null);
-const saving = ref(false);
 
 onMounted(async () => {
   people.value =
@@ -24,19 +23,27 @@ onMounted(async () => {
 
 async function selectPerson(person) {
   selected.value =
-      await getPerson(person.slug);
+      await getPerson(
+          person.slug
+      );
 }
 
-async function save() {
-  saving.value = true;
-
+function savedPerson(person) {
   selected.value =
-      await updatePerson(
-          selected.value.slug,
-          selected.value
+      person;
+
+  const index =
+      people.value.findIndex(
+          item =>
+              item.slug === person.slug
       );
 
-  saving.value = false;
+  if (index !== -1) {
+    people.value[index] = {
+      ...people.value[index],
+      name: person.name
+    };
+  }
 }
 
 </script>
@@ -49,6 +56,7 @@ async function save() {
       </h1>
       <EntityList
           :items="people"
+          :selected="selected"
           @select="selectPerson"
       />
     </aside>
@@ -56,43 +64,10 @@ async function save() {
         v-if="selected"
         class="editor"
     >
-      <div class="header">
-        <h1>
-          {{ selected.name }}
-        </h1>
-        <button
-            @click="save"
-            :disabled="saving"
-        >
-          {{ saving ? "Saving..." : "Save" }}
-        </button>
-      </div>
-      <section>
-        <label>
-          Name
-        </label>
-        <input
-            v-model="selected.name"
-        />
-      </section>
-      <section>
-        <label>
-          Aliases
-        </label>
-        <textarea
-            v-model="selected.aliases"
-            rows="6"
-        />
-      </section>
-      <section>
-        <label>
-          Roles
-        </label>
-        <textarea
-            v-model="selected.roles"
-            rows="8"
-        />
-      </section>
+      <PersonEditor
+          :person="selected"
+          @saved="savedPerson"
+      />
     </main>
     <main
         v-else
@@ -101,7 +76,6 @@ async function save() {
       Select person
     </main>
   </div>
-
 </template>
 
 <style scoped>
@@ -109,71 +83,28 @@ async function save() {
 .page {
   display: grid;
   grid-template-columns:320px 1fr;
-  height: calc(100vh - 80px);
-  gap: 30px;
+  height: calc(100vh - 64px);
+  overflow: hidden;
 }
 
 .sidebar {
-  overflow: auto;
-  border-right: 1px solid #ddd;
+  overflow: hidden;
+  border-right: 1px solid var(--border);
   padding-right: 20px;
+  height: 100%;
 }
 
 .editor {
-  max-width: 900px;
-}
-
-.header {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  margin-bottom: 30px;
-}
-
-section {
-  margin-bottom: 25px;
-}
-
-
-label {
-  display: block;
-  font-weight: bold;
-  margin-bottom: 8px;
-}
-
-input,
-textarea {
-  width: 100%;
-  box-sizing: border-box;
-  padding: 12px;
-  font-size: 16px;
-  border: 1px solid #ccc;
-  border-radius: 6px;
-}
-
-textarea {
-  resize: vertical;
-  min-height: 120px;
-}
-
-button {
-  padding: 10px 20px;
-  font-size: 16px;
-  cursor: pointer;
+  padding: 25px;
+  overflow-y: auto;
 }
 
 .empty {
   display: flex;
   align-items: center;
   justify-content: center;
-  color: #888;
-}
-
-.layout {
-  display: grid;
-  grid-template-columns:320px minmax(900px, 1fr);
-  gap: 40px;
-  align-items: start;
+  color: var(--text-muted);
+  font-size: 18px;
 }
 
 </style>

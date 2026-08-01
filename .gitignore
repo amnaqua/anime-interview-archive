@@ -17,3 +17,5 @@ docs/.vitepress/sidebar.ts
 # Indexind
 docs/public/robots.txt
 docs/public/sitemap.xml
+
+editor/node_modules/*

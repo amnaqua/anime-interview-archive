@@ -228,7 +228,7 @@
     ]
   },
 
-  "sunao-katabuchi" : {
+  "sunao-katabuchi": {
     "name": "Sunao Katabuchi",
     "aliases": [
       "Sunao Katabuchi (片渕須直)"
@@ -352,7 +352,7 @@
   "yoshitoshi-abe": {
     "name": "Yoshitoshi Abe",
     "aliases": [
-      "Yoshitoshi Abe (安倍\uD842\uDFB7俊, 安倍吉俊)"
+      "Yoshitoshi Abe (安倍𠮷俊, 安倍吉俊)"
     ],
     "roles": [
       "Designer",
@@ -1654,7 +1654,7 @@
   "kurumi-yoshida": {
     "name": "Kurumi Yoshida",
     "aliases": [
-      "Kurumi Yoshida (\uD842\uDFB7田久留美, 吉田久留美, 吉田久留)"
+      "Kurumi Yoshida (𠮷田久留美, 吉田久留美, 吉田久留)"
     ],
     "roles": [
       "Colorist"

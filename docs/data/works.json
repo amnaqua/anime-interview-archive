@@ -783,5 +783,11 @@
     "name": "Chainsaw Man",
     "type": "anime",
     "year": 2022
+  },
+
+  "nausicaa-of-the-valley-of-the-wind": {
+    "name": "Nausicaa of the Valley of the Wind",
+    "type": "manga",
+    "year": 1982
   }
 }

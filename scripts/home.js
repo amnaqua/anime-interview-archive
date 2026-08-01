@@ -103,7 +103,7 @@ features:
                 ? "📰"
                 : record.type === "production_material"
                     ? "📄"
-                    : record.type === "artworks"
+                    : record.type === "artwork"
                         ? "🎨"
                         : "🎤";
 

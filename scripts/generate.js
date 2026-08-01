@@ -96,7 +96,7 @@ async function main() {
         interview: [],
         article: [],
         production_material: [],
-        artworks: []
+        artwork: []
     };
 
     for (const file of files) {
@@ -126,9 +126,9 @@ async function main() {
                 ? maps.articles
                 : interview.type === "production_material"
                     ? maps.productionMaterials
-                    : maps.type === "artworks"
+                    : interview.type === "artwork"
                         ? maps.artworks
-                        : maps.interviews
+                        : maps.interviews;
 
         indexRecord({
             interview,
@@ -181,14 +181,14 @@ async function main() {
         ...records.interview,
         ...records.article,
         ...records.production_material,
-        ...records.artworks
+        ...records.artwork
     ];
 
     await generateHome({
         interviews: records.interview.length,
         articles: records.article.length,
         productionMaterials: records.production_material.length,
-        artworks: records.artworks.length,
+        artworks: records.artwork.length,
 
         latestRecords:
             getLatestRecords(latestRecords),

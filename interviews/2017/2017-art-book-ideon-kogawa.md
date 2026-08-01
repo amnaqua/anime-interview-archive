@@ -29,5 +29,5 @@ links:
 
 archived_at: 2026-07-30 23:32
 
-type: artworks
+type: artwork
 ---

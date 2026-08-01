@@ -1,40 +1,27 @@
 import express from "express";
 
-import {
-    generateInterview
-} from "../services/contentGenerator.js";
+import { generateContent } from "../services/contentGenerator.js";
 
-
-const router =
-    express.Router();
-
+const router = express.Router();
 
 router.post(
     "/generate",
     async(req,res)=>{
 
         try {
-
             const result =
-                await generateInterview(
+                await generateContent(
                     req.body
                 );
 
-
             res.json(result);
-
-
         } catch(e){
-
             res.status(500)
                 .json({
                     error:e.message
                 });
-
         }
-
     }
 );
-
 
 export default router;

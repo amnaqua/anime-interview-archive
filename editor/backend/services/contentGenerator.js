@@ -8,7 +8,6 @@ const __filename =
 const __dirname =
     path.dirname(__filename);
 
-
 const ROOT =
     path.resolve(
         __dirname,
@@ -22,22 +21,49 @@ function slugify(value) {
         .replace(/^-|-$/g, "");
 }
 
-export async function generateInterview(data) {
-    const year = new Date(data.date).getFullYear();
+const configs = {
+    interview: {
+        folder: "interviews",
+        type: "interview"
+    },
 
-    const slug = `${data.date}-${slugify(data.title)}`;
+    artwork: {
+        folder: "artworks",
+        type: "artwork"
+    },
+
+    article: {
+        folder: "articles",
+        type: "article"
+    },
+
+    production_material: {
+        folder: "production-materials",
+        type: "production_material"
+    }
+};
+
+const INTERVIEW_FOLDER = "interviews";
+
+export async function generateContent(data) {
+    const year =
+        new Date(data.date)
+            .getFullYear();
+
+    const slug =
+        `${data.date}-${slugify(data.title)}`;
 
     const dir =
         path.resolve(
             ROOT,
-            "interviews",
+            INTERVIEW_FOLDER,
             String(year)
         );
 
     await fs.mkdir(
         dir,
         {
-            recursive:true
+            recursive: true
         }
     );
 
@@ -74,7 +100,7 @@ ${data.links.map(link => `  - type: ${link.type} url: ${link.url}`).join("\n")}
 
 archived_at: ${data.archived_at}
 
-type: interview
+type: ${data.type}
 ---
 `;
 
@@ -85,7 +111,7 @@ type: interview
     );
 
     return {
-        filename:`${slug}.md`,
-        path:`interviews/${year}/${slug}.md`
+        filename: `${slug}.md`,
+        path: `interviews/${year}/${slug}.md`
     };
 }

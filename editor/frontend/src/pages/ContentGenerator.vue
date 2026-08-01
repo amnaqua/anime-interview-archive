@@ -86,7 +86,7 @@ async function generate() {
             <option value="artwork">
               Artwork
             </option>
-            <option value="production">
+            <option value="production_material">
               Production Material
             </option>
           </select>

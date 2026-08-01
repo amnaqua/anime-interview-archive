@@ -6,10 +6,6 @@ import {
   toRaw
 } from "vue";
 
-import {
-  updatePerson
-} from "../api";
-
 const props = defineProps({
   person: {
     type: Object,
@@ -49,7 +45,7 @@ watch(
     }
 );
 
-async function save() {
+function save() {
   form.value.aliases =
       aliasesText.value
           .split("\n")
@@ -62,16 +58,7 @@ async function save() {
           .map(v => v.trim())
           .filter(Boolean);
 
-  const updated =
-      await updatePerson(
-          form.value.slug,
-          form.value
-      );
-
-  emit(
-      "saved",
-      updated
-  );
+  emit("saved", form.value);
 }
 
 </script>
@@ -87,7 +74,7 @@ async function save() {
           {{ form.name }}
         </h2>
         <small>
-          {{ form.slug }}
+          {{ form.slug ?? 'New person' }}
         </small>
       </div>
       <button

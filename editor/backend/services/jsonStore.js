@@ -1,10 +1,29 @@
 import fs from "fs/promises";
 import path from "path";
+import { fileURLToPath } from "url";
+
+const __filename =
+    fileURLToPath(import.meta.url);
+
+const __dirname =
+    path.dirname(__filename);
+
+const ROOT =
+    path.resolve(
+        __dirname,
+        "../../../"
+    );
 
 export async function readJson(file) {
+    const filename =
+        path.resolve(
+            ROOT,
+            file
+        );
+
     const data =
         await fs.readFile(
-            path.resolve(file),
+            filename,
             "utf8"
         );
 
@@ -12,6 +31,12 @@ export async function readJson(file) {
 }
 
 export async function writeJson(file, data) {
+    const filename =
+        path.resolve(
+            ROOT,
+            file
+        );
+
     let json =
         JSON.stringify(
             data,
@@ -19,10 +44,14 @@ export async function writeJson(file, data) {
             2
         );
 
-    json = json.replace(/(^  },\n)(  ")/gm, "$1\n$2");
+    json =
+        json.replace(
+            /},\n  "/g,
+            "},\n\n  \""
+        );
 
     await fs.writeFile(
-        path.resolve(file),
+        filename,
         json,
         "utf8"
     );

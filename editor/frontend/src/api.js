@@ -1,13 +1,11 @@
 import axios from "axios";
 
-const API =
-    "http://localhost:3001/api";
+const API = "http://localhost:3001/api";
 
 export function getPeople(){
     return axios
         .get(`${API}/people`)
         .then(r => r.data);
-
 }
 
 export async function getPerson(slug) {
@@ -19,15 +17,14 @@ export async function getPerson(slug) {
     return response.data;
 }
 
-export function updatePerson(
-    slug,
-    data
-){
-
+export function updatePerson(slug, data){
     return axios
-        .put(
-            `${API}/people/${slug}`,
-            data
-        )
+        .put(`${API}/people/${slug}`, data)
+        .then(r => r.data);
+}
+
+export function createPerson(data){
+    return axios
+        .post(`${API}/people`, data)
         .then(r => r.data);
 }

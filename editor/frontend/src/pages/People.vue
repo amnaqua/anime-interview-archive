@@ -1,13 +1,12 @@
 <script setup>
 
-import {
-  ref,
-  onMounted
-} from "vue";
+import { ref, onMounted } from "vue";
 
 import {
   getPeople,
-  getPerson
+  getPerson,
+  createPerson,
+  updatePerson
 } from "../api";
 
 import EntityList from "../components/EntityList.vue";
@@ -28,22 +27,48 @@ async function selectPerson(person) {
       );
 }
 
-function savedPerson(person) {
-  selected.value =
-      person;
+async function savePerson(person) {
+  let saved;
+
+  if (person.isNew) {
+    saved =
+        await createPerson({
+          name: person.name,
+          aliases: person.aliases,
+          roles: person.roles
+        });
+  } else {
+    saved = await updatePerson(
+        person.slug,
+        person
+    );
+  }
+
+  selected.value = saved;
 
   const index =
       people.value.findIndex(
-          item =>
-              item.slug === person.slug
+          item => item.slug === saved.slug
       );
 
-  if (index !== -1) {
-    people.value[index] = {
-      ...people.value[index],
-      name: person.name
-    };
+  if (index === -1) {
+    people.value.push({
+      slug: saved.slug,
+      name: saved.name
+    });
+  } else {
+    people.value[index].name = saved.name;
   }
+}
+
+function newPerson() {
+  selected.value = {
+    slug: null,
+    name: "",
+    aliases: [],
+    roles: [],
+    isNew: true
+  };
 }
 
 </script>
@@ -51,9 +76,17 @@ function savedPerson(person) {
 <template>
   <div class="page">
     <aside class="sidebar">
-      <h1>
-        People
-      </h1>
+      <div class="sidebar-header">
+        <h1>
+          People
+        </h1>
+        <button
+            class="new-button"
+            @click="newPerson"
+        >
+          + New
+        </button>
+      </div>
       <EntityList
           :items="people"
           :selected="selected"
@@ -66,7 +99,7 @@ function savedPerson(person) {
     >
       <PersonEditor
           :person="selected"
-          @saved="savedPerson"
+          @saved="savePerson"
       />
     </main>
     <main
@@ -105,6 +138,30 @@ function savedPerson(person) {
   justify-content: center;
   color: var(--text-muted);
   font-size: 18px;
+}
+
+.sidebar-header {
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  margin-bottom:15px;
+}
+
+.sidebar-header h1 {
+  margin:0;
+}
+
+.new-button {
+  background:#303030;
+  color:var(--text);
+  border:1px solid var(--border);
+  padding:8px 14px;
+  border-radius:6px;
+  cursor:pointer;
+}
+
+.new-button:hover {
+  background:#404040;
 }
 
 </style>

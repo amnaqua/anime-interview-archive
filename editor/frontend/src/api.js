@@ -2,29 +2,36 @@ import axios from "axios";
 
 const API = "http://localhost:3001/api";
 
-export function getPeople(){
+export function getEntities(endpoint) {
     return axios
-        .get(`${API}/people`)
+        .get(
+            `${API}/${endpoint}`
+        )
         .then(r => r.data);
 }
 
-export async function getPerson(slug) {
-    const response =
-        await axios.get(
-            `${API}/people/${slug}`
-        );
-
-    return response.data;
-}
-
-export function updatePerson(slug, data){
+export function getEntity(endpoint, slug) {
     return axios
-        .put(`${API}/people/${slug}`, data)
+        .get(
+            `${API}/${endpoint}/${slug}`
+        )
         .then(r => r.data);
 }
 
-export function createPerson(data){
+export function createEntity(endpoint, data) {
     return axios
-        .post(`${API}/people`, data)
+        .post(
+            `${API}/${endpoint}`,
+            data
+        )
+        .then(r => r.data);
+}
+
+export function updateEntity(endpoint, slug, data) {
+    return axios
+        .put(
+            `${API}/${endpoint}/${slug}`,
+            data
+        )
         .then(r => r.data);
 }

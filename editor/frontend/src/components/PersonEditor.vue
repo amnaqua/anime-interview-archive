@@ -51,7 +51,6 @@ function save() {
           aliasesText.value
       );
 
-
   form.value.roles =
       parseList(
           rolesText.value

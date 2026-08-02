@@ -349,5 +349,9 @@
 
   "tokyo-anime-award-festival": {
     "name": "Tokyo Anime Award Festival"
+  },
+
+  "note": {
+    "name": "note"
   }
 }

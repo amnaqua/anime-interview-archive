@@ -119,8 +119,8 @@
     "year": 1996
   },
 
-  "kokoro-ga-sakebitagatterunda": {
-    "name": "Kokoro ga Sakebitagatterunda.",
+  "the-anthem-of-the-heart": {
+    "name": "The Anthem of the Heart",
     "type": "anime",
     "year": 2015
   },
@@ -901,6 +901,12 @@
 
   "monogatari-series-off-monster-season": {
     "name": "Monogatari Series: Off & Monster Season",
+    "type": "anime",
+    "year": 2024
+  },
+
+  "fureru": {
+    "name": "Fureru.",
     "type": "anime",
     "year": 2024
   }

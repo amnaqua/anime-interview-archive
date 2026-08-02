@@ -4590,5 +4590,27 @@
       "Producer",
       "Production Manager"
     ]
+  },
+
+  "tomonori-ochikoshi": {
+    "name": "Tomonori Ochikoshi",
+    "aliases": [
+      "Tomonori Ochikoshi (落越友則)"
+    ],
+    "roles": [
+      "Producer",
+      "Business"
+    ]
+  },
+
+  "akira-shimizu": {
+    "name": "Akira Shimizu",
+    "aliases": [
+      "Akira Shimizu (清水暁)"
+    ],
+    "roles": [
+      "Producer",
+      "Production Manager"
+    ]
   }
 }

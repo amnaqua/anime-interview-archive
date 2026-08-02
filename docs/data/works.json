@@ -807,5 +807,11 @@
     "name": "Mobile Suit Gundam III: Encounters in Space",
     "type": "anime",
     "year": 1982
+  },
+
+  "harmagedon": {
+    "name": "Harmagedon",
+    "type": "anime",
+    "year": 1983
   }
 }

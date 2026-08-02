@@ -819,5 +819,17 @@
     "name": "Seraphim: 266613336 Wings",
     "type": "manga",
     "year": 1994
+  },
+
+  "naruto-manga": {
+    "name": "Naruto",
+    "type": "manga",
+    "year": 1999
+  },
+
+  "hunter-x-hunter-manga": {
+    "name": "Hunter x Hunter",
+    "type": "manga",
+    "year": 1998
   }
 }

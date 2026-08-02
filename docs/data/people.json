@@ -4445,5 +4445,15 @@
       "Production Manager",
       "In-Betweener"
     ]
+  },
+
+  "miaki-katou": {
+    "name": "Miaki Katou",
+    "aliases": [
+      "Miaki Katou (加藤美秋)"
+    ],
+    "roles": [
+      "Producer"
+    ]
   }
 }

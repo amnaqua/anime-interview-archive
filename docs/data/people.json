@@ -4322,5 +4322,29 @@
       "Production Manager",
       "Business"
     ]
+  },
+
+  "noriyasu-agematsu": {
+    "name": "Noriyasu Agematsu",
+    "aliases": [
+      "Noriyasu Agematsu (上松範康)",
+      "Hibiki"
+    ],
+    "roles": [
+      "Musician",
+      "Lyricist",
+      "Producer",
+      "Sound Artist"
+    ]
+  },
+
+  "shuko-yokoyama": {
+    "name": "Shuko Yokoyama",
+    "aliases": [
+      "Shuko Yokoyama (横山朱子)"
+    ],
+    "roles": [
+      "Producer"
+    ]
   }
 }

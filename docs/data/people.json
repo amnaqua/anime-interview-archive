@@ -4413,5 +4413,25 @@
       "Production Manager",
       "Producer"
     ]
+  },
+
+  "yoshihiro-takayama": {
+    "name": "Yoshihiro Takayama",
+    "aliases": [
+      "Yoshihiro Takayama (高山幹弘)"
+    ],
+    "roles": [
+      "Producer"
+    ]
+  },
+
+  "kazato-amako": {
+    "name": "Kazato Amako",
+    "aliases": [
+      "Kazato Amako (尼子風斗)"
+    ],
+    "roles": [
+      "Business"
+    ]
   }
 }

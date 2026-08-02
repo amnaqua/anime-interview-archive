@@ -885,5 +885,11 @@
     "name": "Sword Art Online",
     "type": "anime",
     "year": 2012
+  },
+
+  "bocchi-the-rock": {
+    "name": "Bocchi the Rock!",
+    "type": "anime",
+    "year": 2022
   }
 }

@@ -879,5 +879,11 @@
     "name": "All Saints Street",
     "type": "anime",
     "year": 2020
+  },
+
+  "sword-art-online": {
+    "name": "Sword Art Online",
+    "type": "anime",
+    "year": 2012
   }
 }

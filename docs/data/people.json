@@ -4379,5 +4379,39 @@
       "Business",
       "Production Manager"
     ]
+  },
+
+  "masami-niwa": {
+    "name": "Masami Niwa",
+    "aliases": [
+      "Masami Niwa (丹羽将己)"
+    ],
+    "roles": [
+      "Producer",
+      "Production Manager"
+    ]
+  },
+
+  "hiroaki-kakiyama": {
+    "name": "Hiroaki Kakiyama",
+    "aliases": [
+      "Hiroaki Kakiyama (柿山大秋)"
+    ],
+    "roles": [
+      "Business",
+      "Producer"
+    ]
+  },
+
+  "yoshito-tochigi": {
+    "name": "Yoshito Tochigi",
+    "aliases": [
+      "Yoshito Tochigi (栃木淑人)"
+    ],
+    "roles": [
+      "Business",
+      "Production Manager",
+      "Producer"
+    ]
   }
 }

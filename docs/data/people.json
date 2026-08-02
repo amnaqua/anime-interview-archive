@@ -4455,5 +4455,36 @@
     "roles": [
       "Producer"
     ]
+  },
+
+  "kikunosuke-toya": {
+    "name": "Kikunosuke Toya",
+    "aliases": [
+      "Kikunosuke Toya (戸谷菊之介)"
+    ],
+    "roles": [
+      "Voice Actor"
+    ]
+  },
+
+  "magura-sukegawa": {
+    "name": "Magura Sukegawa",
+    "aliases": [
+      "Magura Sukegawa (助川真蔵)"
+    ],
+    "roles": [
+      "Voice Actor"
+    ]
+  },
+
+  "masa": {
+    "name": "masa",
+    "aliases": [
+      "masa (マサ)"
+    ],
+    "roles": [
+      "Musician",
+      "Voice Actor"
+    ]
   }
 }

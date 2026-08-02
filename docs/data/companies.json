@@ -301,5 +301,9 @@
 
   "fenz": {
     "name": "Fenz"
+  },
+
+  "shaft": {
+    "name": "Shaft"
   }
 }

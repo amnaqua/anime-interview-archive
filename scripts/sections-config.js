@@ -46,7 +46,7 @@ export function createSections({
             interviews: maps.interviews.companies,
             articles: maps.articles.companies,
             productionMaterials: maps.productionMaterials.companies,
-            artworks: maps.artworks.works
+            artworks: maps.artworks.companies
         },
 
         {
@@ -58,7 +58,7 @@ export function createSections({
             interviews: maps.interviews.publishers,
             articles: maps.articles.publishers,
             productionMaterials: maps.productionMaterials.publishers,
-            artworks: maps.artworks.works
+            artworks: maps.artworks.publishers
         },
 
         {
@@ -70,7 +70,7 @@ export function createSections({
             interviews: maps.interviews.years,
             articles: maps.articles.years,
             productionMaterials: maps.productionMaterials.years,
-            artworks: maps.artworks.works
+            artworks: maps.artworks.years
         }
     ];
 }

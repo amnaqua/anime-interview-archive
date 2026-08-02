@@ -22,7 +22,9 @@ work:
 language: ja
 
 links:
-
+  - type: source
+    label: Part 1
+    url: https://cocotame.jp/series/107932/
 
 archived_at: 2026-08-03 01:08
 

@@ -4289,5 +4289,26 @@
     "roles": [
       "Producer"
     ]
+  },
+
+  "shizuka-kurosaki": {
+    "name": "Shizuka Kurosaki",
+    "aliases": [
+      "Shizuka Kurosaki (黒﨑静佳, 黒崎静佳)"
+    ],
+    "roles": [
+      "Producer",
+      "Business"
+    ]
+  },
+
+  "yukizumi-yukimai": {
+    "name": "Yukizumi Yukimai",
+    "aliases": [
+      "Yukizumi Yukimai (時墨悠希舞)"
+    ],
+    "roles": [
+      "Producer"
+    ]
   }
 }

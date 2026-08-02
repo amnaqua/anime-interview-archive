@@ -795,5 +795,11 @@
     "name": "Jin-Rou",
     "type": "anime",
     "year": 2000
+  },
+
+  "arco": {
+    "name": "Arco",
+    "type": "anime",
+    "year": 2025
   }
 }

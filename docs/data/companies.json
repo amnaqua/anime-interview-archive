@@ -273,5 +273,9 @@
 
   "topcraft": {
     "name": "Topcraft"
+  },
+
+  "remembers": {
+    "name": "Remembers"
   }
 }

@@ -4178,5 +4178,31 @@
       "Producer",
       "Production Manager"
     ]
+  },
+
+  "ugo-bienvenu": {
+    "name": "Ugo Bienvenu",
+    "aliases": [],
+    "roles": [
+      "Director",
+      "Producer",
+      "Scriptwriter"
+    ]
+  },
+
+  "masashi-andou": {
+    "name": "Masashi Andou",
+    "aliases": [
+      "Masashi Andou (安藤雅司)"
+    ],
+    "roles": [
+      "Animation Director",
+      "Storyboarder",
+      "Key Animator",
+      "Designer",
+      "Director",
+      "Scriptwriter",
+      "In-Betweener"
+    ]
   }
 }

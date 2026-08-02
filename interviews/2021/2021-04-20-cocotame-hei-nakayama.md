@@ -27,7 +27,7 @@ links:
     label: Part 2
     url: https://cocotame.jp/series/019080/
 
-archived_at: 2026-08-02T23:47
+archived_at: 2026-08-02 23:47
 
 type: interview
 ---

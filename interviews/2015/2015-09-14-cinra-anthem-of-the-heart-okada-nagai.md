@@ -1,5 +1,5 @@
 ---
-title: Kokoro ga Sakebitagatterunda.
+title: The Anthem of the Heart
 
 date: 2015-09-14
 
@@ -13,7 +13,7 @@ publisher:
   - cinra
   
 work:
-  - kokoro-ga-sakebitagatterunda
+  - the-anthem-of-the-heart
   
 companies:
   - a-1

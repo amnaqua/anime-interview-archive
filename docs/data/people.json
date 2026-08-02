@@ -4564,5 +4564,16 @@
     "roles": [
       "Producer"
     ]
+  },
+
+  "makoto-takashina": {
+    "name": "Makoto Takashina",
+    "aliases": [
+      "Makoto Takashina (高階誠)"
+    ],
+    "roles": [
+      "Producer",
+      "Business"
+    ]
   }
 }

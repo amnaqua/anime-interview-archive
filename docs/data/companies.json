@@ -305,5 +305,21 @@
 
   "shaft": {
     "name": "Shaft"
+  },
+
+  "pb": {
+    "name": "Pb"
+  },
+
+  "lan": {
+    "name": "LAN"
+  },
+
+  "paper-plane-animation": {
+    "name": "Paper Plane Animation"
+  },
+
+  "b-cool": {
+    "name": "B.COOL"
   }
 }

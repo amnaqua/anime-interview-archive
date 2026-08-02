@@ -4433,5 +4433,17 @@
     "roles": [
       "Business"
     ]
+  },
+
+  "miho-matsumoto": {
+    "name": "Miho Matsumoto",
+    "aliases": [
+      "Miho Matsumoto (松本美穂)"
+    ],
+    "roles": [
+      "Producer",
+      "Production Manager",
+      "In-Betweener"
+    ]
   }
 }

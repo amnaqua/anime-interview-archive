@@ -4367,5 +4367,17 @@
     "roles": [
       "Business"
     ]
+  },
+
+  "songzhen-sun": {
+    "name": "Songzhen Sun",
+    "aliases": [
+      "Songzhen Sun (孫宗楨)"
+    ],
+    "roles": [
+      "Producer",
+      "Business",
+      "Production Manager"
+    ]
   }
 }

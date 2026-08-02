@@ -1,5 +1,5 @@
 ---
-title: Kaoru Hana wa Rin to Saku
+title: The Fragrant Flower Blooms with Dignity
 
 date: "2025"
 

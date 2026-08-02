@@ -277,5 +277,9 @@
 
   "remembers": {
     "name": "Remembers"
+  },
+
+  "animage": {
+    "name": "Animage"
   }
 }

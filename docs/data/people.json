@@ -4543,5 +4543,26 @@
       "Musician",
       "Producer"
     ]
+  },
+
+  "souta-furuhashi": {
+    "name": "Souta Furuhashi",
+    "aliases": [
+      "Souta Furuhashi (古橋宗太)"
+    ],
+    "roles": [
+      "Producer",
+      "Business"
+    ]
+  },
+
+  "kanako-takahashi": {
+    "name": "Kanako Takahashi",
+    "aliases": [
+      "Kanako Takahashi (髙橋佳那子, 高橋佳那子)"
+    ],
+    "roles": [
+      "Producer"
+    ]
   }
 }

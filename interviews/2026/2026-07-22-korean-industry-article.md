@@ -14,7 +14,7 @@ links:
   - type: source
     url: https://x.com/yohanjs05/status/2079856772198899996
 
-archived_at: 2026-08-02T11:34
+archived_at: 2026-08-02 11:34
 
 type: article
 ---

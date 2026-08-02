@@ -281,5 +281,9 @@
 
   "animage": {
     "name": "Animage"
+  },
+
+  "hmch": {
+    "name": "HMCH"
   }
 }

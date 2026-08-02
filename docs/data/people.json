@@ -4346,5 +4346,26 @@
     "roles": [
       "Producer"
     ]
+  },
+
+  "yuki-kataoka": {
+    "name": "Yuki Kataoka",
+    "aliases": [
+      "Yuki Kataoka (片岡裕貴)"
+    ],
+    "roles": [
+      "Producer",
+      "Business"
+    ]
+  },
+
+  "sae-chiba": {
+    "name": "Sae Chiba",
+    "aliases": [
+      "Sae Chiba (千葉彩恵)"
+    ],
+    "roles": [
+      "Business"
+    ]
   }
 }

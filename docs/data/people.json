@@ -4623,5 +4623,25 @@
       "Producer",
       "Production Manager"
     ]
+  },
+
+  "kanichi-ooto": {
+    "name": "Kanichi Ooto",
+    "aliases": [
+      "Kanichi Ooto (大登幹一)"
+    ],
+    "roles": [
+      "Producer"
+    ]
+  },
+
+  "yoshito-ishida": {
+    "name": "Yoshito Ishida",
+    "aliases": [
+      "Yoshito Ishida (石田義人)"
+    ],
+    "roles": [
+      "Business"
+    ]
   }
 }

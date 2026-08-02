@@ -4215,5 +4215,16 @@
       "Manga Editor",
       "Producer"
     ]
+  },
+
+  "akira-tanaka": {
+    "name": "Akira Tanaka",
+    "aliases": [
+      "Akira Tanaka (田中瑛, 田中暎)"
+    ],
+    "roles": [
+      "Producer",
+      "Business"
+    ]
   }
 }

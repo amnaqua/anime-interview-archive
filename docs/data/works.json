@@ -831,5 +831,11 @@
     "name": "Hunter x Hunter",
     "type": "manga",
     "year": 1998
+  },
+
+  "mono": {
+    "name": "Mono",
+    "type": "anime",
+    "year": 2025
   }
 }

@@ -4247,5 +4247,47 @@
       "Producer",
       "Production Manager"
     ]
+  },
+
+  "narumi-odagiri": {
+    "name": "Narumi Odagiri",
+    "aliases": [
+      "Narumi Odagiri (小田桐成美)"
+    ],
+    "roles": [
+      "Producer",
+      "Production Manager",
+      "Designer"
+    ]
+  },
+
+  "yukiko-matsunaga": {
+    "name": "Yukiko Matsunaga",
+    "aliases": [
+      "Yukiko Matsunaga (松永友喜子)"
+    ],
+    "roles": [
+      "Producer"
+    ]
+  },
+
+  "egawa-masahiro": {
+    "name": "Egawa Masahiro",
+    "aliases": [
+      "Egawa Masahiro (江川昌宏)"
+    ],
+    "roles": [
+      "Producer"
+    ]
+  },
+
+  "samura-daisuke": {
+    "name": "Samura Daisuke",
+    "aliases": [
+      "Samura Daisuke (佐村大侑)"
+    ],
+    "roles": [
+      "Producer"
+    ]
   }
 }

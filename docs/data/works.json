@@ -843,5 +843,11 @@
     "name": "The Legend of Hei",
     "type": "anime",
     "year": 2019
+  },
+
+  "dinosaur-biyori": {
+    "name": "Dinosaur Biyori",
+    "type": "anime",
+    "year": 2021
   }
 }

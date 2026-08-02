@@ -4486,5 +4486,62 @@
       "Musician",
       "Voice Actor"
     ]
+  },
+
+  "masaharu-yamanouchi": {
+    "name": "Masaharu Yamanouchi",
+    "aliases": [
+      "Masaharu Yamanouchi (山内真治)"
+    ],
+    "roles": [
+      "Producer",
+      "Musician"
+    ]
+  },
+
+  "kouki-adaniya": {
+    "name": "Kouki Adaniya",
+    "aliases": [
+      "Kouki Adaniya (安谷屋光生)"
+    ],
+    "roles": [
+      "Musician",
+      "Producer"
+    ]
+  },
+
+  "keiki-nishida": {
+    "name": "Keiki Nishida",
+    "aliases": [
+      "Keiki Nishida (西田圭稀)"
+    ],
+    "roles": [
+      "Musician",
+      "Lyricist",
+      "Producer",
+      "Sound Artist"
+    ]
+  },
+
+  "gen-okamura": {
+    "name": "Gen Okamura",
+    "aliases": [
+      "Gen Okamura (岡村弦)"
+    ],
+    "roles": [
+      "Musician",
+      "Producer"
+    ]
+  },
+
+  "anna-yoshihara": {
+    "name": "Anna Yoshihara",
+    "aliases": [
+      "Anna Yoshihara (吉原杏菜)"
+    ],
+    "roles": [
+      "Musician",
+      "Producer"
+    ]
   }
 }

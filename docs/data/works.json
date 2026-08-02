@@ -801,5 +801,11 @@
     "name": "Arco",
     "type": "anime",
     "year": 2025
+  },
+
+  "mobile-suit-gundam-iii-encounters-in-space": {
+    "name": "Mobile Suit Gundam III: Encounters in Space",
+    "type": "anime",
+    "year": 1982
   }
 }

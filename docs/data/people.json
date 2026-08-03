@@ -4643,5 +4643,23 @@
     "roles": [
       "Business"
     ]
+  },
+
+  "kenta-tasaka": {
+    "name": "Kenta Tasaka",
+    "aliases": [
+      "Kenta Tasaka (田坂健太)"
+    ],
+    "roles": [
+      "Producer"
+    ]
+  },
+
+  "yoshiaki-fukuda": {
+    "name": "Yoshiaki Fukuda",
+    "aliases": [
+      "Yoshiaki Fukuda (福田良昭)"
+    ],
+    "roles": []
   }
 }

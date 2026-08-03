@@ -4695,5 +4695,16 @@
       "Production Manager",
       "Business"
     ]
+  },
+
+  "shouta-fujii": {
+    "name": "Shouta Fujii",
+    "aliases": [
+      "Shouta Fujii (藤井翔太)"
+    ],
+    "roles": [
+      "Producer",
+      "Production Manager"
+    ]
   }
 }

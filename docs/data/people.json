@@ -4661,5 +4661,39 @@
       "Yoshiaki Fukuda (福田良昭)"
     ],
     "roles": []
+  },
+
+  "misaki-umase": {
+    "name": "Misaki Umase",
+    "aliases": [
+      "Misaki Umase (馬瀬みさき)"
+    ],
+    "roles": [
+      "Musician",
+      "Lyricist"
+    ]
+  },
+
+  "kazunari-okada": {
+    "name": "Kazunari Okada",
+    "aliases": [
+      "Kazunari Okada (岡田一成)"
+    ],
+    "roles": [
+      "Musician",
+      "Lyricist"
+    ]
+  },
+
+  "kyouko-uryuu": {
+    "name": "Kyouko Uryuu",
+    "aliases": [
+      "Kyouko Uryuu (瓜生恭子)"
+    ],
+    "roles": [
+      "Producer",
+      "Production Manager",
+      "Business"
+    ]
   }
 }

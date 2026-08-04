@@ -4706,5 +4706,52 @@
       "Producer",
       "Production Manager"
     ]
+  },
+
+  "yuuji-moriyama": {
+    "name": "Yuuji Moriyama",
+    "aliases": [
+      "Yuuji Moriyama (森山雄治, もりやまゆうじ, 森山ゆうじ, 森山雄二, 森山裕二)",
+      "Norihiro Sunagawa (砂川則博)",
+      "Nagarekawa Kappa (流川河童)",
+      "Tooya Shibamata (柴又十哉)",
+      "Wataya Shibakano (芝跨野渡也)",
+      "Nachiko Nekobe (猫部那智子)",
+      "Kotarou Kazama (風間小太郎)",
+      "Natsumi Rokudou (六道那柘美)",
+      "Joudo Saihou (西宝壌土)",
+      "Yuuji Motoyama (もとやまゆうじ)"
+    ],
+    "roles": [
+      "Key Animator",
+      "Animation Director",
+      "Director",
+      "Designer",
+      "Storyboarder",
+      "In-Betweener",
+      "Scriptwriter"
+    ]
+  },
+
+  "shouichi-masuo": {
+    "name": "Shouichi Masuo",
+    "aliases": [
+      "Shouichi Masuo (増尾昭一",
+      "ますおしょういち",
+      "増尾正一",
+      "増尾昭)",
+      "Masuo-san (マスオさん)",
+      "Nuruchihiruko (ぬるちひるこ)"
+    ],
+    "roles": [
+      "Storyboarder",
+      "Director",
+      "Key Animator",
+      "Designer",
+      "3DCG Artist",
+      "Animation Director",
+      "Colorist",
+      "Scriptwriter"
+    ]
   }
 }

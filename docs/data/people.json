@@ -4810,5 +4810,14 @@
       "Producer",
       "Production Manager"
     ]
+  },
+
+  "koji-tsukamoto": {
+    "name": "Koji Tsukamoto",
+    "aliases": [],
+    "roles": [
+      "3DCG Artist",
+      "Designer"
+    ]
   }
 }

@@ -4799,5 +4799,16 @@
       "Scriptwriter",
       "Background Artist"
     ]
+  },
+
+  "manami-ishida": {
+    "name": "Manami Ishida",
+    "aliases": [
+      "Manami Ishida (石田麻菜美)"
+    ],
+    "roles": [
+      "Producer",
+      "Production Manager"
+    ]
   }
 }

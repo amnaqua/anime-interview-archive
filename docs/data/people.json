@@ -4750,5 +4750,31 @@
       "Colorist",
       "Scriptwriter"
     ]
+  },
+
+  "minoru-oota": {
+    "name": "Minoru Oota",
+    "aliases": [
+      "Minoru Oota (太田稔)"
+    ],
+    "roles": [
+      "Director",
+      "Storyboarder",
+      "Animation Director",
+      "Key Animator",
+      "Designer",
+      "In-Betweener"
+    ]
+  },
+
+  "mao-takayama": {
+    "name": "Mao Takayama",
+    "aliases": [
+      "Mao Takayama (高山真緒)"
+    ],
+    "roles": [
+      "Background Artist",
+      "Production Manager"
+    ]
   }
 }

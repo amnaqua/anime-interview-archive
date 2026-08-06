@@ -4776,5 +4776,16 @@
       "Background Artist",
       "Production Manager"
     ]
+  },
+
+  "kentarou-hayashi": {
+    "name": "Kentarou Hayashi",
+    "aliases": [
+      "Kentarou Hayashi (林健太郎)"
+    ],
+    "roles": [
+      "Business",
+      "Designer"
+    ]
   }
 }

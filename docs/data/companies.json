@@ -329,5 +329,9 @@
 
   "drive": {
     "name": "Drive"
+  },
+
+  "nothing-new": {
+    "name": "Nothing New"
   }
 }

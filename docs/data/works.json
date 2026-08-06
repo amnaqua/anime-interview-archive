@@ -999,5 +999,35 @@
     "name": "Cherry and Virgin",
     "type": "anime",
     "year": 2026
+  },
+
+  "my-neighbor-totoro": {
+    "name": "My Neighbor Totoro",
+    "type": "anime",
+    "year": 1988
+  },
+
+  "grave-of-the-fireflies": {
+    "name": "Grave of the Fireflies",
+    "type": "anime",
+    "year": 1988
+  },
+
+  "princess-mononoke": {
+    "name": "Princess Mononoke",
+    "type": "anime",
+    "year": 1997
+  },
+
+  "future-boy-conan": {
+    "name": "Future Boy Conan",
+    "type": "anime",
+    "year": 1978
+  },
+
+  "anne-of-green-gables": {
+    "name": "Anne of Green Gables",
+    "type": "anime",
+    "year": 1979
   }
 }

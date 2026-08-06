@@ -4819,5 +4819,15 @@
       "3DCG Artist",
       "Designer"
     ]
+  },
+
+  "michiyo-yasuda": {
+    "name": "Michiyo Yasuda",
+    "aliases": [
+      "Michiyo Yasuda (保田道世)"
+    ],
+    "roles": [
+      "Colorist"
+    ]
   }
 }

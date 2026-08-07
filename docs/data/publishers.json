@@ -409,5 +409,9 @@
 
   "fanystudio": {
     "name": "FANYStudio"
+  },
+
+  "aniplex": {
+    "name": "Aniplex"
   }
 }

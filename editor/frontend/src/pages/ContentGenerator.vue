@@ -11,8 +11,13 @@ import {
 } from "../api";
 
 import MultiSelect from "../components/MultiSelect.vue";
+import { useToast } from "../composable/useToast";
 
 const reference = ref(null);
+
+const {
+  show
+} = useToast();
 
 const form = ref({
   type: "interview",
@@ -35,12 +40,27 @@ onMounted(async () => {
 });
 
 async function generate() {
-  const result =
-      await generateContent(
-          form.value
-      );
+  try {
+    const result =
+        await generateContent(
+            form.value
+        );
 
-  console.log(result);
+    show(
+        `Created: ${result.filename}`,
+        "success"
+    );
+
+    console.log(result);
+
+  } catch (error) {
+    show(
+        error.response?.data?.error ?? "Unknown error",
+        "error"
+    );
+
+    console.error(error);
+  }
 }
 
 </script>
@@ -162,6 +182,7 @@ async function generate() {
         <MultiSelect
             v-model="form.work"
             :items="reference.works"
+            :show-type="true"
         />
       </section>
       <section>

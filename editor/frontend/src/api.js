@@ -1,19 +1,15 @@
-import axios from "axios";
-
-const API = "http://localhost:3001/api";
+import axios from "./plugins/axios";
 
 export function getEntities(endpoint) {
     return axios
-        .get(
-            `${API}/${endpoint}`
-        )
+        .get(`/${endpoint}`)
         .then(r => r.data);
 }
 
 export function getEntity(endpoint, slug) {
     return axios
         .get(
-            `${API}/${endpoint}/${slug}`
+            `/${endpoint}/${slug}`
         )
         .then(r => r.data);
 }
@@ -21,7 +17,7 @@ export function getEntity(endpoint, slug) {
 export function createEntity(endpoint, data) {
     return axios
         .post(
-            `${API}/${endpoint}`,
+            `/${endpoint}`,
             data
         )
         .then(r => r.data);
@@ -30,7 +26,7 @@ export function createEntity(endpoint, data) {
 export function updateEntity(endpoint, slug, data) {
     return axios
         .put(
-            `${API}/${endpoint}/${slug}`,
+            `/${endpoint}/${slug}`,
             data
         )
         .then(r => r.data);
@@ -38,12 +34,15 @@ export function updateEntity(endpoint, slug, data) {
 
 export function getReferenceData() {
     return axios
-        .get(`${API}/reference`)
+        .get("/reference")
         .then(r => r.data);
 }
 
 export function generateContent(data) {
     return axios
-        .post(`${API}/content/generate`, data)
+        .post(
+            "/content/generate",
+            data
+        )
         .then(r => r.data);
 }

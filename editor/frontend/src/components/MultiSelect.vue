@@ -14,6 +14,11 @@ const props = defineProps({
   modelValue: {
     type: Array,
     default: () => []
+  },
+
+  showType: {
+    type: Boolean,
+    default: false
   }
 });
 
@@ -100,14 +105,20 @@ function remove(slug) {
           :key="item.slug"
           class="tag"
       >
-        {{ item.name }}
+          {{ item.name }}
 
-        <button
-            @click="remove(item.slug)"
-        >
-          ×
-        </button>
+          <span
+              v-if="showType && item.type"
+              class="item-type"
+          >
+            ({{ item.type }})
+          </span>
 
+          <button
+              @click="remove(item.slug)"
+          >
+            ×
+          </button>
       </span>
 
 
@@ -133,7 +144,6 @@ function remove(slug) {
           v-for="item in filteredItems"
           :key="item.slug"
       >
-
         <input
             type="checkbox"
             :checked="modelValue.includes(item.slug)"
@@ -142,6 +152,13 @@ function remove(slug) {
 
         {{ item.name }}
 
+        <span
+            v-if="showType && item.type"
+            class="item-type"
+        >
+
+        ({{ item.type }})
+        </span>
       </label>
 
     </div>

@@ -421,5 +421,9 @@
 
   "monthlyout": {
     "name": "MonthlyOUT"
+  },
+
+  "nar-tv": {
+    "name": "Narō TV"
   }
 }

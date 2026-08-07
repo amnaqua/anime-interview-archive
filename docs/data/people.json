@@ -4842,5 +4842,17 @@
       "Director",
       "Key Animator"
     ]
+  },
+
+  "atsushi-tamura": {
+    "name": "Atsushi Tamura",
+    "aliases": [
+      "Atsushi Tamura (田村淳)"
+    ],
+    "roles": [
+      "Composite Artist",
+      "Designer",
+      "Colorist"
+    ]
   }
 }

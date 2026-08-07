@@ -1035,5 +1035,11 @@
     "name": "Angel's Egg",
     "type": "anime",
     "year": 1985
+  },
+
+  "dropout-idol-fruit-tart": {
+    "name": "Dropout Idol Fruit Tart",
+    "type": "anime",
+    "year": 2020
   }
 }

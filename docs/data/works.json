@@ -1029,5 +1029,11 @@
     "name": "Anne of Green Gables",
     "type": "anime",
     "year": 1979
+  },
+
+  "angel-s-egg": {
+    "name": "Angel's Egg",
+    "type": "anime",
+    "year": 1985
   }
 }

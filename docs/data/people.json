@@ -4864,5 +4864,17 @@
     "roles": [
       "Singer"
     ]
+  },
+
+  "reiji-miyajima": {
+    "name": "Reiji Miyajima",
+    "aliases": [
+      "Reiji Miyajima (宮島礼吏)"
+    ],
+    "roles": [
+      "Manga Artist",
+      "Designer",
+      "Scriptwriter"
+    ]
   }
 }

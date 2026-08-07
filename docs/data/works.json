@@ -1047,5 +1047,11 @@
     "name": "The Elusive Samurai Season 2",
     "type": "anime",
     "year": 2026
+  },
+
+  "rent-a-girlfriend": {
+    "name": "Rent-a-Girlfriend",
+    "type": "manga",
+    "year": 2017
   }
 }

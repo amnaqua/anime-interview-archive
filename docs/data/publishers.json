@@ -413,5 +413,9 @@
 
   "aniplex": {
     "name": "Aniplex"
+  },
+
+  "kakicomi": {
+    "name": "Kakicomi"
   }
 }

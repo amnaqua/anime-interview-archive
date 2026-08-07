@@ -433,5 +433,9 @@
 
   "pr-times": {
     "name": "PR Times"
+  },
+
+  "sbs": {
+    "name": "SBS"
   }
 }

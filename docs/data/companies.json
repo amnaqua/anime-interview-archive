@@ -341,5 +341,13 @@
 
   "feel": {
     "name": "feel."
+  },
+
+  "studio-colorido": {
+    "name": "Studio Colorido"
+  },
+
+  "studio-chromato": {
+    "name": "Studio Chromato"
   }
 }

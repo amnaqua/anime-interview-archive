@@ -1053,5 +1053,11 @@
     "name": "Rent-a-Girlfriend",
     "type": "manga",
     "year": 2017
+  },
+
+  "whisper-of-the-heart": {
+    "name": "Whisper of the Heart",
+    "type": "anime",
+    "year": 1995
   }
 }

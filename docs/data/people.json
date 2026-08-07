@@ -4829,5 +4829,18 @@
     "roles": [
       "Colorist"
     ]
+  },
+
+  "yasuhiro-imagawa": {
+    "name": "Yasuhiro Imagawa",
+    "aliases": [
+      "Yasuhiro Imagawa (今川泰宏, 今川康宏)"
+    ],
+    "roles": [
+      "Scriptwriter",
+      "Storyboarder",
+      "Director",
+      "Key Animator"
+    ]
   }
 }

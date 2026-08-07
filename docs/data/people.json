@@ -4890,5 +4890,17 @@
       "Director",
       "Storyboarder"
     ]
+  },
+
+  "kouji-hoshino": {
+    "name": "Kouji Hoshino",
+    "aliases": [
+      "Kouji Hoshino (星野康二)"
+    ],
+    "roles": [
+      "Animation Production",
+      "Producer",
+      "Production Manager"
+    ]
   }
 }

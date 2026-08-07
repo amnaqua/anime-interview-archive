@@ -429,5 +429,9 @@
 
   "nikkei": {
     "name": "Nikkei"
+  },
+
+  "pr-times": {
+    "name": "PR Times"
   }
 }

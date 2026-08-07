@@ -425,5 +425,9 @@
 
   "nar-tv": {
     "name": "Narō TV"
+  },
+
+  "nikkei": {
+    "name": "Nikkei"
   }
 }

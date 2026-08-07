@@ -437,5 +437,9 @@
 
   "sbs": {
     "name": "SBS"
+  },
+
+  "vector": {
+    "name": "Vector"
   }
 }

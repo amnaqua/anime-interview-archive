@@ -21,7 +21,7 @@ language: ja
 
 links:
   - type: source
-    url: https://x.com/mantengorilla/status/2082351929410359801
+    url: https://x.com/mantengorilla/status/2082350705642533291
 
 archived_at: 2026-07-29 11:15
 

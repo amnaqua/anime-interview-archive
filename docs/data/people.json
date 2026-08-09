@@ -4984,5 +4984,20 @@
     "roles": [
       "Voice Actor"
     ]
+  },
+
+  "ichirou-itano": {
+    "name": "Ichirou Itano",
+    "aliases": [
+      "Ichirou Itano (板野一郎)"
+    ],
+    "roles": [
+      "Storyboarder",
+      "Designer",
+      "Key Animator",
+      "Director",
+      "Animation Director",
+      "In-Betweener"
+    ]
   }
 }

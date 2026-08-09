@@ -441,5 +441,9 @@
 
   "vector": {
     "name": "Vector"
+  },
+
+  "copic": {
+    "name": "COPIC"
   }
 }

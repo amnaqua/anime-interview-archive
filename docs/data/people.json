@@ -4931,5 +4931,19 @@
       "Animation Director",
       "In-Betweener"
     ]
+  },
+
+  "takeshi-obata": {
+    "name": "Takeshi Obata",
+    "aliases": [
+      "Takeshi Obata (小畑健)",
+      "Misa Mizuya (水屋美沙)",
+      "Hiroka Mizuya (水屋洋花)"
+    ],
+    "roles": [
+      "Manga Artist",
+      "Designer",
+      "Author"
+    ]
   }
 }

@@ -349,5 +349,9 @@
 
   "studio-chromato": {
     "name": "Studio Chromato"
+  },
+
+  "outline": {
+    "name": "Outline"
   }
 }

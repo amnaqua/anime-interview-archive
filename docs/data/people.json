@@ -4902,5 +4902,21 @@
       "Producer",
       "Production Manager"
     ]
+  },
+
+  "yuuki-igarashi": {
+    "name": "Yuuki Igarashi",
+    "aliases": [
+      "Yuuki Igarashi (五十嵐祐貴)"
+    ],
+    "roles": [
+      "Director",
+      "Storyboarder",
+      "Key Animator",
+      "Designer",
+      "Animation Director",
+      "In-Betweener",
+      "Background Artist"
+    ]
   }
 }

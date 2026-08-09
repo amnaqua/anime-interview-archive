@@ -4918,5 +4918,18 @@
       "In-Betweener",
       "Background Artist"
     ]
+  },
+
+  "hidetsugu-itou": {
+    "name": "Hidetsugu Itou",
+    "aliases": [
+      "Hidetsugu Itou (伊藤秀次)"
+    ],
+    "roles": [
+      "Key Animator",
+      "Designer",
+      "Animation Director",
+      "In-Betweener"
+    ]
   }
 }

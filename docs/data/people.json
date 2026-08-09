@@ -4945,5 +4945,44 @@
       "Designer",
       "Author"
     ]
+  },
+
+  "shingo-natsume": {
+    "name": "Shingo Natsume",
+    "aliases": [
+      "Shingo Natsume (夏目真悟",
+      "夏目真吾",
+      "夏目慎吾)"
+    ],
+    "roles": [
+      "Director",
+      "Author",
+      "Storyboarder",
+      "Scriptwriter",
+      "Key Animator",
+      "Designer",
+      "Animation Director",
+      "In-Betweener"
+    ]
+  },
+
+  "mayu-hotta": {
+    "name": "Mayu Hotta",
+    "aliases": [
+      "Mayu Hotta (堀田真由)"
+    ],
+    "roles": [
+      "Voice Actor"
+    ]
+  },
+
+  "issei-takahashi": {
+    "name": "Issei Takahashi",
+    "aliases": [
+      "高橋一生"
+    ],
+    "roles": [
+      "Voice Actor"
+    ]
   }
 }

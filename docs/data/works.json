@@ -1071,5 +1071,11 @@
     "name": "The Ribbon Hero",
     "type": "anime",
     "year": 2026
+  },
+
+  "ghost": {
+    "name": "Ghost",
+    "type": "anime",
+    "year": 2027
   }
 }

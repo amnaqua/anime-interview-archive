@@ -445,5 +445,9 @@
 
   "copic": {
     "name": "COPIC"
+  },
+
+  "gem-standard": {
+    "name": "GEM Standard"
   }
 }

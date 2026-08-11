@@ -449,5 +449,9 @@
 
   "gem-standard": {
     "name": "GEM Standard"
+  },
+
+  "viz-media": {
+    "name": "VIZ Media"
   }
 }

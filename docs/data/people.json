@@ -4999,5 +4999,25 @@
       "Animation Director",
       "In-Betweener"
     ]
+  },
+
+  "rumiko-takahashi": {
+    "name": "Rumiko Takahashi",
+    "aliases": [
+      "Rumiko Takahashi (高橋留美子)"
+    ],
+    "roles": [
+      "Manga Artist"
+    ]
+  },
+
+  "junji-itou": {
+    "name": "Junji Itou",
+    "aliases": [
+      "Junji Itou (伊藤潤二)"
+    ],
+    "roles": [
+      "Manga Artist"
+    ]
   }
 }

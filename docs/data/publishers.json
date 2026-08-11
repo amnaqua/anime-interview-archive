@@ -453,5 +453,9 @@
 
   "viz-media": {
     "name": "VIZ Media"
+  },
+
+  "asashi": {
+    "name": "Asashi"
   }
 }

@@ -1077,5 +1077,11 @@
     "name": "Ghost",
     "type": "anime",
     "year": 2027
+  },
+
+  "cyborg-009-nemesis": {
+    "name": "Cyborg 009: Nemesis",
+    "type": "anime",
+    "year": 2026
   }
 }

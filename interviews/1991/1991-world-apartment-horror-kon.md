@@ -11,6 +11,9 @@ media_type: manga
 work:
   - world-apartment-horror
 
+companies:
+  - young-magazine-monthly
+
 language: ja
 
 links:

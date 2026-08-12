@@ -19,3 +19,5 @@ docs/public/robots.txt
 docs/public/sitemap.xml
 
 editor/node_modules/*
+
+twitter-backup/

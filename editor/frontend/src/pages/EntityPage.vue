@@ -14,6 +14,7 @@ import {
 
 import EntityList from "../components/EntityList.vue";
 import EntityEditor from "../components/EntityEditor.vue";
+import { useToast } from "../composable/useToast";
 
 const props =
     defineProps({
@@ -22,6 +23,10 @@ const props =
         required: true
       }
     });
+
+const {
+  show
+} = useToast();
 
 const items = ref([]);
 const selected = ref(null);
@@ -52,37 +57,47 @@ function create() {
 }
 
 async function save(entity) {
-  let result;
+  try {
+    const isNew = entity.isNew;
 
-  if (entity.isNew) {
-    result =
-        await createEntity(
+    const result = isNew
+        ? await createEntity(
             props.config.endpoint,
             entity
-        );
-  } else {
-    result =
-        await updateEntity(
+        )
+        : await updateEntity(
             props.config.endpoint,
             entity.slug,
             entity
         );
-  }
 
-  selected.value =
-      result;
-
-  const index =
-      items.value.findIndex(
-          i =>
-              i.slug === result.slug
-      );
-  if (index === -1) {
-    items.value.push(result);
-  } else {
-    items.value[index] =
+    selected.value =
         result;
 
+    const index =
+        items.value.findIndex(
+            i =>
+                i.slug === result.slug
+        );
+
+    if (index === -1) {
+      items.value.push(result);
+    } else {
+      items.value[index] =
+          result;
+    }
+
+    show(
+        `${isNew ? "Created" : "Updated"}: ${result.name}`,
+        "success"
+    );
+  } catch (error) {
+    show(
+        error.response?.data?.error ?? "Unknown error",
+        "error"
+    );
+
+    console.error(error);
   }
 }
 

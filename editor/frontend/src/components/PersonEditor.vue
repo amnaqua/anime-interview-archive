@@ -47,7 +47,7 @@ watch(
 
 function save() {
   form.value.aliases =
-      parseList(
+      parseLines(
           aliasesText.value
       );
 
@@ -57,6 +57,13 @@ function save() {
       );
 
   emit("saved", form.value);
+}
+
+function parseLines(value) {
+  return value
+      .split("\n")
+      .map(v => v.trim())
+      .filter(Boolean);
 }
 
 function parseList(value) {

@@ -61,10 +61,9 @@ watch(
 
 function parseList(value) {
   return value
-      .split(/[\n,]+/)
+      .split("\n")
       .map(v => v.trim())
       .filter(Boolean);
-
 }
 
 function save() {

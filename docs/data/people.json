@@ -5017,5 +5017,27 @@
     "roles": [
       "Manga Artist"
     ]
+  },
+
+  "haruki-kadokawa": {
+    "name": "Haruki Kadokawa",
+    "aliases": [
+      "Haruki Kadokawa (角川春樹)"
+    ],
+    "roles": [
+      "Producer"
+    ]
+  },
+
+  "tadao-nagahama": {
+    "name": "Tadao Nagahama",
+    "aliases": [
+      "Tadao Nagahama (長浜忠夫)"
+    ],
+    "roles": [
+      "Director",
+      "Sound Artist",
+      "Storyboarder"
+    ]
   }
 }

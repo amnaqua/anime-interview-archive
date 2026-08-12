@@ -1083,5 +1083,17 @@
     "name": "Cyborg 009: Nemesis",
     "type": "anime",
     "year": 2026
+  },
+
+  "world-apartment-horror": {
+    "name": "World Apartment Horror",
+    "type": "manga",
+    "year": 1991
+  },
+
+  "wanpaku-mukashi-kumukumu": {
+    "name": "Wanpaku Mukashi Kumu Kumu",
+    "type": "anime",
+    "year": 1975
   }
 }

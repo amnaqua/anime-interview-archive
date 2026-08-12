@@ -116,6 +116,22 @@ function save() {
           v-if="field.type === 'text'"
           v-model="form[field.name]"
       />
+      <div
+          v-else-if="field.type === 'select'"
+          class="select-wrapper"
+      >
+        <select
+            v-model="form[field.name]"
+        >
+          <option
+              v-for="option in field.options"
+              :key="option.value"
+              :value="option.value"
+          >
+            {{ option.label }}
+          </option>
+        </select>
+      </div>
       <textarea
           v-else-if="field.type === 'list'"
           v-model="lists[field.name]"
@@ -149,6 +165,7 @@ header {
 }
 
 input,
+select,
 textarea {
   width: 100%;
   box-sizing: border-box;
@@ -157,6 +174,29 @@ textarea {
   color: var(--text);
   border: 1px solid var(--border);
   border-radius: 6px;
+}
+
+.select-wrapper {
+  position: relative;
+}
+
+.select-wrapper::after {
+  content: "";
+  position: absolute;
+  right: 16px;
+  top: 50%;
+  width: 7px;
+  height: 7px;
+  border-right: 2px solid var(--text-muted);
+  border-bottom: 2px solid var(--text-muted);
+  transform: translateY(-65%) rotate(45deg);
+  pointer-events: none;
+}
+
+.select-wrapper select {
+  appearance: none;
+  -webkit-appearance: none;
+  padding-right: 40px;
 }
 
 label {

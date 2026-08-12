@@ -5,7 +5,7 @@ export default {
 
     newItem: {
         name: "",
-        type: "",
+        type: "anime",
         year: null
     },
 
@@ -18,7 +18,25 @@ export default {
         {
             name: "type",
             label: "Type",
-            type: "text"
+            type: "select",
+            options: [
+                {
+                    value: "anime",
+                    label: "Anime"
+                },
+                {
+                    value: "manga",
+                    label: "Manga"
+                },
+                {
+                    value: "manhwa",
+                    label: "Manhwa"
+                },
+                {
+                    value: "ranobe",
+                    label: "Ranobe"
+                }
+            ]
         },
         {
             name: "year",

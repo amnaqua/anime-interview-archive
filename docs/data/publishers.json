@@ -457,5 +457,9 @@
 
   "asashi": {
     "name": "Asashi"
+  },
+
+  "comic-book": {
+    "name": "Comic book"
   }
 }

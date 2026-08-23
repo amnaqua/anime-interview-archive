@@ -1,6 +1,5 @@
 node_modules/*
 /.idea
-/docs/.vitepress/cache
 .env
 
 # Generated pages
@@ -13,8 +12,10 @@ docs/years/
 
 # Generated VitePress files
 docs/.vitepress/sidebar.ts
+docs/.vitepress/dist/
+docs/.vitepress/cache
 
-# Indexind
+# Indexing
 docs/public/robots.txt
 docs/public/sitemap.xml
 

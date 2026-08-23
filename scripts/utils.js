@@ -39,6 +39,10 @@ export function getDisplayName(entity, duplicates) {
     return `${entity.name} (${details.join(", ")})`;
 }
 
+export function entryAnchorId(anchor) {
+    return `entry-${anchor}`;
+}
+
 export async function resetDirectory(dir) {
     await fs.rm(dir, {
         recursive: true,

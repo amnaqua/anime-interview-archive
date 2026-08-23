@@ -1,24 +1,26 @@
 import fs from "fs/promises";
 import path from "path";
+import { entryAnchorId } from "./utils.js";
 
 const ROOT = "docs";
 
 function recordUrl(record) {
+    const hash = entryAnchorId(record.anchor);
 
     if (record.people?.length) {
-        return `/people/${record.people[0]}#${record.anchor}`;
+        return `/people/${record.people[0]}#${hash}`;
     }
 
     if (record.work?.length) {
-        return `/works/${record.work[0]}#${record.anchor}`;
+        return `/works/${record.work[0]}#${hash}`;
     }
 
     if (record.companies?.length) {
-        return `/companies/${record.companies[0]}#${record.anchor}`;
+        return `/companies/${record.companies[0]}#${hash}`;
     }
 
     if (record.publishers?.length) {
-        return `/publishers/${record.publishers[0]}#${record.anchor}`;
+        return `/publishers/${record.publishers[0]}#${hash}`;
     }
 
     return "#";
@@ -47,11 +49,14 @@ function recordLabel(record) {
 
 export async function generateHome(stats) {
 
+    const articles = stats.articles ?? 0;
+    const productionMaterials = stats.productionMaterials ?? 0;
+    const artworks = stats.artworks ?? 0;
     const totalRecords =
         stats.interviews +
-        (stats.articles ?? 0) +
-        (stats.productionMaterials ?? 0) +
-        (stats.artworks ?? 0)
+        articles +
+        productionMaterials +
+        artworks;
 
     let md = `---
 layout: home
@@ -62,18 +67,6 @@ hero:
   tagline: ${totalRecords} records indexed
 
 features:
-  - title: 🎤 Interviews
-    details: ${stats.interviews} interviews
-
-  - title: 📰 Articles
-    details: ${stats.articles ?? 0} articles
-
-  - title: 📄 Production Materials
-    details: ${stats.productionMaterials ?? 0} materials
-    
-  - title: 🎨 Artworks
-    details: ${stats.artworks ?? 0} artworks
-
   - title: 👥 People
     details: ${stats.people} people
     link: /people/
@@ -91,7 +84,12 @@ features:
     link: /publishers/
 ---
 
-<div style="margin-top: 2rem;"></div>
+<p class="home-type-stats">
+  <span>${stats.interviews} interviews</span>
+  <span>${articles} articles</span>
+  <span>${productionMaterials} production materials</span>
+  <span>${artworks} artworks</span>
+</p>
 
 # Recently Added
 

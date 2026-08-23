@@ -4,6 +4,7 @@ import {
     companyLinks,
     publisherLinks
 } from "./links.js";
+import { entryAnchorId } from "./utils.js";
 
 export function buildMarkdown({
                                   entity,
@@ -146,7 +147,7 @@ function renderItems(items, title) {
 
     for (const interview of items) {
 
-        md += `### ${interview.title}\n\n`;
+        md += `### ${interview.title} {#${entryAnchorId(interview.anchor)}}\n\n`;
 
         md += `- **Date:** ${interview.date ?? "Unknown"}\n`;
 

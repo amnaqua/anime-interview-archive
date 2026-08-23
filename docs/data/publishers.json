@@ -461,5 +461,9 @@
 
   "comic-book": {
     "name": "Comic book"
+  },
+
+  "uomo": {
+    "name": "UOMO"
   }
 }

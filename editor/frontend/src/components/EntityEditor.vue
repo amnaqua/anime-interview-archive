@@ -60,10 +60,44 @@ watch(
 );
 
 function parseList(value) {
-  return value
-      .split("\n")
-      .map(v => v.trim())
-      .filter(Boolean);
+  const result = [];
+  let current = "";
+  let depth = 0;
+
+  for (const char of value) {
+    if (char === "(" || char === "（") {
+      depth++;
+      current += char;
+      continue;
+    }
+
+    if (char === ")" || char === "）") {
+      depth = Math.max(0, depth - 1);
+      current += char;
+      continue;
+    }
+
+    if ((char === "," || char === "\n") && depth === 0) {
+      const trimmed = current.trim();
+
+      if (trimmed) {
+        result.push(trimmed);
+      }
+
+      current = "";
+      continue;
+    }
+
+    current += char;
+  }
+
+  const trimmed = current.trim();
+
+  if (trimmed) {
+    result.push(trimmed);
+  }
+
+  return result;
 }
 
 function save() {

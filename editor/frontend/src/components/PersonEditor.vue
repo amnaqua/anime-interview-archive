@@ -47,7 +47,7 @@ watch(
 
 function save() {
   form.value.aliases =
-      parseLines(
+      parseList(
           aliasesText.value
       );
 
@@ -59,18 +59,45 @@ function save() {
   emit("saved", form.value);
 }
 
-function parseLines(value) {
-  return value
-      .split("\n")
-      .map(v => v.trim())
-      .filter(Boolean);
-}
-
 function parseList(value) {
-  return value
-      .split(/[\n,]+/)
-      .map(v => v.trim())
-      .filter(Boolean);
+  const result = [];
+  let current = "";
+  let depth = 0;
+
+  for (const char of value) {
+    if (char === "(" || char === "（") {
+      depth++;
+      current += char;
+      continue;
+    }
+
+    if (char === ")" || char === "）") {
+      depth = Math.max(0, depth - 1);
+      current += char;
+      continue;
+    }
+
+    if ((char === "," || char === "\n") && depth === 0) {
+      const trimmed = current.trim();
+
+      if (trimmed) {
+        result.push(trimmed);
+      }
+
+      current = "";
+      continue;
+    }
+
+    current += char;
+  }
+
+  const trimmed = current.trim();
+
+  if (trimmed) {
+    result.push(trimmed);
+  }
+
+  return result;
 }
 
 </script>
@@ -110,7 +137,7 @@ function parseList(value) {
       <h3>
         Aliases
         <span>
-          ({{ aliasesText.split("\n").filter(Boolean).length }})
+          ({{ parseList(aliasesText).length }})
         </span>
       </h3>
       <textarea
@@ -118,14 +145,14 @@ function parseList(value) {
           rows="8"
       />
       <small>
-        One alias per line
+        Separate values with commas or new lines. Commas inside parentheses are kept.
       </small>
     </section>
     <section>
       <h3>
         Roles
         <span>
-          ({{ rolesText.split("\n").filter(Boolean).length }})
+          ({{ parseList(rolesText).length }})
         </span>
       </h3>
       <textarea
@@ -133,7 +160,7 @@ function parseList(value) {
           rows="8"
       />
       <small>
-        Separate values with commas or new lines
+        Separate values with commas or new lines. Commas inside parentheses are kept.
       </small>
     </section>
   </div>

@@ -1,19 +1,12 @@
-.home-type-stats {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    gap: 0.35rem 1.25rem;
-    margin: 0.5rem 0 2rem;
-    padding: 0 1.5rem;
-
-    color: var(--vp-c-text-2);
-    font-size: 0.9rem;
-    line-height: 1.5;
-    text-align: center;
+.VPHome .vp-doc {
+    padding-top: 1.2rem;
 }
 
-.home-type-stats span {
-    white-space: nowrap;
+.home-type-stats {
+    margin: -0.4rem 0 1.5rem;
+    color: var(--vp-c-text-3);
+    font-size: 0.85rem;
+    line-height: 1.5;
 }
 
 .entity-meta {

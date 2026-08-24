@@ -84,14 +84,9 @@ features:
     link: /publishers/
 ---
 
-<p class="home-type-stats">
-  <span>${stats.interviews} interviews</span>
-  <span>${articles} articles</span>
-  <span>${productionMaterials} production materials</span>
-  <span>${artworks} artworks</span>
-</p>
-
 # Recently Added
+
+<p class="home-type-stats">🎤 ${stats.interviews} interviews · 📰 ${articles} articles · 📄 ${productionMaterials} production materials · 🎨 ${artworks} artworks</p>
 
 `;
 

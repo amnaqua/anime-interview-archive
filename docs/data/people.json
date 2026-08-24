@@ -5069,5 +5069,17 @@
       "Key Animator",
       "Director"
     ]
+  },
+
+  "nagano": {
+    "name": "Nagano",
+    "aliases": [
+      "Nagano (ナガノ)"
+    ],
+    "roles": [
+      "Manga Artist",
+      "Animation Director",
+      "Lyricist"
+    ]
   }
 }

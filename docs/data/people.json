@@ -5054,5 +5054,20 @@
       "Composite Artist",
       "In-Betweener"
     ]
+  },
+
+  "nick-mckergow": {
+    "name": "Nick McKergow",
+    "aliases": [
+      "Nick McKergow (マッケルゴニック, ニコラス・マカーゴ)",
+      "Nicholas McKergow",
+      "popyea"
+    ],
+    "roles": [
+      "Animation Director",
+      "Storyboarder",
+      "Key Animator",
+      "Director"
+    ]
   }
 }

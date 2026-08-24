@@ -1107,5 +1107,17 @@
     "name": "Chiikawa Movie: The Secret of the Mermaid Island",
     "type": "anime",
     "year": 2026
+  },
+
+  "twin-star-exorcists": {
+    "name": "Twin Star Exorcists",
+    "type": "anime",
+    "year": 2016
+  },
+
+  "from-the-new-world": {
+    "name": "From the New World",
+    "type": "anime",
+    "year": 2012
   }
 }

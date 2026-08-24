@@ -473,5 +473,9 @@
 
   "akiba-souken": {
     "name": "Akiba Souken"
+  },
+
+  "bloomberg": {
+    "name": "Bloomberg"
   }
 }

@@ -5039,5 +5039,20 @@
       "Sound Artist",
       "Storyboarder"
     ]
+  },
+
+  "chikashi-kubota": {
+    "name": "Chikashi Kubota",
+    "aliases": [
+      "Chikashi Kubota (久保田誓, くぼたちかし)"
+    ],
+    "roles": [
+      "Key Animator",
+      "Designer",
+      "Animation Director",
+      "Colorist",
+      "Composite Artist",
+      "In-Betweener"
+    ]
   }
 }

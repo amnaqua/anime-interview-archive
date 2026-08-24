@@ -1095,5 +1095,11 @@
     "name": "Wanpaku Mukashi Kumu Kumu",
     "type": "anime",
     "year": 1975
+  },
+
+  "one-punch-man": {
+    "name": "One Punch Man",
+    "type": "anime",
+    "year": 2015
   }
 }

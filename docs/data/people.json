@@ -5081,5 +5081,27 @@
       "Animation Director",
       "Lyricist"
     ]
+  },
+
+  "gege-akutami": {
+    "name": "Gege Akutami",
+    "aliases": [
+      "Gege Akutami (芥見下々)"
+    ],
+    "roles": [
+      "Manga Artist",
+      "Producer"
+    ]
+  },
+
+  "tite-kubo": {
+    "name": "Tite Kubo",
+    "aliases": [
+      "Tite Kubo (久保帯人)"
+    ],
+    "roles": [
+      "Manga Artist",
+      "Designer"
+    ]
   }
 }

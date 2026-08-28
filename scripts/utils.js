@@ -43,6 +43,13 @@ export function entryAnchorId(anchor) {
     return `entry-${anchor}`;
 }
 
+export function recordIdFromFile(file) {
+    return file
+        .replace(/^interviews[/\\]/, "")
+        .replace(/\.md$/, "")
+        .replace(/\\/g, "/");
+}
+
 export async function resetDirectory(dir) {
     await fs.rm(dir, {
         recursive: true,

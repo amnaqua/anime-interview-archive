@@ -147,6 +147,7 @@ function renderItems(items, title) {
 
     for (const interview of items) {
 
+        md += `<div class="record-entry" data-record-id="${interview.id}">\n\n`;
         md += `### ${interview.title} {#${entryAnchorId(interview.anchor)}}\n\n`;
 
         md += `- **Date:** ${interview.date ?? "Unknown"}\n`;
@@ -229,7 +230,7 @@ function renderItems(items, title) {
 
         }
 
-        md += "\n---\n\n";
+        md += `\n</div>\n\n---\n\n`;
     }
 
     return md;

@@ -20,6 +20,7 @@ import {indexRecord} from "./indexer.js";
 import {generateSection} from "./sections.js";
 import {createSections} from "./sections-config.js";
 import { validateInterview } from "./validator.js";
+import { recordIdFromFile } from "./utils.js";
 
 const ROOT = "docs";
 const INTERVIEW_DIR = "interviews";
@@ -107,8 +108,10 @@ async function main() {
             file
         );
 
-        const interview =
-            parseInterview(data);
+        const interview = {
+            ...parseInterview(data),
+            id: recordIdFromFile(file)
+        };
 
         if (!records[interview.type]) {
             records[interview.type] = [];

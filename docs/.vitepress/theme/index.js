@@ -1,6 +1,7 @@
 import DefaultTheme from "vitepress/theme";
 import "./custom.css";
 import { activateTabForHash } from "./tabs.js";
+import { initReadTracking } from "./read.js";
 
 export default {
     extends: DefaultTheme,
@@ -9,10 +10,13 @@ export default {
             return;
 
         const run = () => {
-            // Wait for the new page content to render.
-            requestAnimationFrame(activateTabForHash);
+            requestAnimationFrame(() => {
+                activateTabForHash();
+                initReadTracking();
+            });
         };
 
         router.onAfterRouteChanged = run;
+        run();
     }
 };

@@ -1,6 +1,6 @@
 import fs from "fs/promises";
 import path from "path";
-import { formatRecordLine } from "./record-list.js";
+import { formatRecordList } from "./record-list.js";
 
 const ROOT = "docs";
 
@@ -47,9 +47,7 @@ features:
 
 `;
 
-    for (const record of stats.latestRecords) {
-        md += formatRecordLine(record);
-    }
+    md += formatRecordList(stats.latestRecords);
 
     await fs.writeFile(
         path.join(ROOT, "index.md"),

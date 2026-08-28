@@ -1,6 +1,6 @@
 import fs from "fs/promises";
 import path from "path";
-import { formatRecordLine, sortByArchivedAt } from "./record-list.js";
+import { formatRecordList, sortByArchivedAt } from "./record-list.js";
 
 const ROOT = "docs";
 
@@ -17,9 +17,7 @@ title: Archive Feed
 
 `;
 
-    for (const record of sorted) {
-        md += formatRecordLine(record);
-    }
+    md += formatRecordList(sorted);
 
     await fs.mkdir(
         path.join(ROOT, "feed"),

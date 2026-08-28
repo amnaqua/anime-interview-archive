@@ -61,8 +61,21 @@ export function recordIcon(record) {
 export function formatRecordLine(record) {
     const icon = recordIcon(record);
     const label = recordLabel(record);
+    const url = recordUrl(record);
 
-    return `- **${record.archived_at}** ${icon}${label ? ` ${label}` : ""} — [${record.title}](${recordUrl(record)})\n`;
+    return `- <span class="record-feed-item" data-record-id="${record.id}"><strong>${record.archived_at}</strong> ${icon}${label ? ` ${label}` : ""} — [${record.title}](${url})</span>\n`;
+}
+
+export function formatRecordList(records) {
+    let md = `<div class="record-feed">\n\n`;
+
+    for (const record of records) {
+        md += formatRecordLine(record);
+    }
+
+    md += `\n</div>\n`;
+
+    return md;
 }
 
 export function sortByArchivedAt(records) {

@@ -90,3 +90,67 @@ hr.entry-flash {
         border-top-color: var(--vp-c-divider);
     }
 }
+
+.record-feed ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.record-feed li {
+    display: flex;
+    align-items: baseline;
+    gap: 8px;
+    margin-bottom: 0.35rem;
+}
+
+.record-feed-item {
+    flex: 1;
+    min-width: 0;
+}
+
+.record-entry-header {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: 12px;
+}
+
+.record-entry-header h3 {
+    margin-top: 0;
+    flex: 1;
+}
+
+.read-toggle {
+    flex-shrink: 0;
+    cursor: pointer;
+    padding: 4px 10px;
+    border: 1px solid var(--vp-c-divider);
+    border-radius: 6px;
+    background: none;
+    font-size: 0.8rem;
+    line-height: 1.4;
+    color: var(--vp-c-text-2);
+}
+
+.read-toggle:hover {
+    border-color: var(--vp-c-brand-1);
+    color: var(--vp-c-brand-1);
+}
+
+.read-toggle.is-read {
+    background: var(--vp-c-brand-soft);
+    border-color: var(--vp-c-brand-1);
+    color: var(--vp-c-brand-1);
+}
+
+.read-toggle--compact {
+    min-width: 28px;
+    padding: 0 6px;
+    font-size: 0.75rem;
+}
+
+.record-entry.is-read,
+.record-feed li.is-read {
+    opacity: 0.40;
+}

@@ -10,6 +10,8 @@ import publishersData from "../docs/data/publishers.json" with {type: "json"};
 
 import {generateSidebar} from "./sidebar.js";
 import {generateHome} from "./home.js";
+import {generateFeed} from "./feed.js";
+import {sortByArchivedAt} from "./record-list.js";
 import {generateSitemap} from "./sitemap.js";
 import {generateRobots} from "./robots.js";
 
@@ -25,14 +27,7 @@ const INTERVIEW_DIR = "interviews";
 const SIDEBAR_FILE = `${ROOT}/.vitepress/sidebar.ts`;
 
 function getLatestRecords(records) {
-    return records
-        .filter(record => record.archived_at)
-        .sort(
-            (a, b) =>
-                new Date(b.archived_at) -
-                new Date(a.archived_at)
-        )
-        .slice(0, 10);
+    return sortByArchivedAt(records).slice(0, 10);
 }
 
 function getStats(sections) {
@@ -194,6 +189,16 @@ async function main() {
             getLatestRecords(latestRecords),
 
         ...getStats(sections)
+    });
+
+    await generateFeed({
+        records: latestRecords,
+        counts: {
+            interviews: records.interview.length,
+            articles: records.article.length,
+            productionMaterials: records.production_material.length,
+            artworks: records.artwork.length
+        }
     });
 
     await generateSitemap({

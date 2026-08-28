@@ -41,6 +41,7 @@ export async function generateSitemap({
         { loc: "companies/", lastmod: archiveLastMod },
         { loc: "publishers/", lastmod: archiveLastMod },
         { loc: "years/", lastmod: archiveLastMod },
+        { loc: "feed/", lastmod: archiveLastMod },
     ];
 
     function addSection(base, dictionary, map) {

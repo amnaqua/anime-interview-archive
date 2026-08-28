@@ -36,6 +36,7 @@ export default defineConfig({
         },
 
         nav: [
+            { text: "Archive Feed", link: "/feed/" },
             {
                 text: "Browse",
                 items: [

@@ -5103,5 +5103,17 @@
       "Manga Artist",
       "Designer"
     ]
+  },
+
+  "eri-kitamura": {
+    "name": "Eri Kitamura",
+    "aliases": [
+      "Eri Kitamura (喜多村英梨)"
+    ],
+    "roles": [
+      "Singer",
+      "Voice Actor",
+      "Sound Artist"
+    ]
   }
 }

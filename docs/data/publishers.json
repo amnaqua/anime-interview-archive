@@ -493,5 +493,9 @@
 
   "tv-asashi": {
     "name": "TV Asashi"
+  },
+
+  "prime-video": {
+    "name": "Prime Video"
   }
 }

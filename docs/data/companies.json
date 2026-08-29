@@ -381,5 +381,9 @@
 
   "genda": {
     "name": "GENDA"
+  },
+
+  "clap": {
+    "name": "CLAP"
   }
 }

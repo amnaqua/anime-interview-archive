@@ -5130,5 +5130,18 @@
       "Storyboarder",
       "In-Betweener"
     ]
+  },
+
+  "baku-kinoshita": {
+    "name": "Baku Kinoshita",
+    "aliases": [
+      "Baku Kinoshita (木下麦)"
+    ],
+    "roles": [
+      "Storyboarder",
+      "Director",
+      "Key Animator",
+      "Designer"
+    ]
   }
 }

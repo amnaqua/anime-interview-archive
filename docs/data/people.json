@@ -5159,5 +5159,21 @@
       "Storyboarder",
       "In-Betweener"
     ]
+  },
+
+  "nozomu-abe": {
+    "name": "Nozomu Abe",
+    "aliases": [
+      "Nozomu Abe (阿部望, 阿部のぞむ, 安部望)",
+      "Noboru Abe (阿部晃)"
+    ],
+    "roles": [
+      "Key Animator",
+      "Designer",
+      "Storyboarder",
+      "Animation Director",
+      "Director",
+      "In-Betweener"
+    ]
   }
 }

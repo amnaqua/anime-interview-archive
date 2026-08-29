@@ -5143,5 +5143,21 @@
       "Key Animator",
       "Designer"
     ]
+  },
+
+  "kenichi-yoshida": {
+    "name": "Kenichi Yoshida",
+    "aliases": [
+      "Kenichi Yoshida (吉田健一)"
+    ],
+    "roles": [
+      "Designer",
+      "Animation Director",
+      "Key Animator",
+      "Illustrator",
+      "Director",
+      "Storyboarder",
+      "In-Betweener"
+    ]
   }
 }

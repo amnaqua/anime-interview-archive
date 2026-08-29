@@ -489,5 +489,9 @@
 
   "cyberagent": {
     "name": "CyberAgent"
+  },
+
+  "tv-asashi": {
+    "name": "TV Asashi"
   }
 }

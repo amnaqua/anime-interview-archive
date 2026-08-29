@@ -5115,5 +5115,20 @@
       "Voice Actor",
       "Sound Artist"
     ]
+  },
+
+  "tooru-yoshida": {
+    "name": "Tooru Yoshida",
+    "aliases": [
+      "Tooru Yoshida (吉田徹, 𠮷田徹, 吉田とおる)"
+    ],
+    "roles": [
+      "Director",
+      "Key Animator",
+      "Designer",
+      "Animation Director",
+      "Storyboarder",
+      "In-Betweener"
+    ]
   }
 }

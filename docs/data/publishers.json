@@ -485,5 +485,9 @@
 
   "chiikawa-official-site": {
     "name": "Chiikawa Official Site"
+  },
+
+  "cyberagent": {
+    "name": "CyberAgent"
   }
 }

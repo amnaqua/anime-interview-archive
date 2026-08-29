@@ -365,5 +365,21 @@
 
   "young-magazine-monthly": {
     "name": "Young Magazine (Monthly)"
+  },
+
+  "aic": {
+    "name": "AIC"
+  },
+
+  "animate-film": {
+    "name": "animate Film"
+  },
+
+  "cyberagent": {
+    "name": "CyberAgent"
+  },
+
+  "genda": {
+    "name": "GENDA"
   }
 }

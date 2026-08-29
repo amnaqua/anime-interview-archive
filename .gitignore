@@ -4,6 +4,7 @@ node_modules/*
 
 # Generated pages
 docs/index.md
+docs/feed/
 docs/people/
 docs/works/
 docs/companies/

@@ -385,5 +385,9 @@
 
   "clap": {
     "name": "CLAP"
+  },
+
+  "orange": {
+    "name": "Orange"
   }
 }

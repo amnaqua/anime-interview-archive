@@ -497,5 +497,13 @@
 
   "prime-video": {
     "name": "Prime Video"
+  },
+
+  "class-creatives": {
+    "name": "Class Creatives"
+  },
+
+  "hobbes-sakuga": {
+    "name": "Hobbes Sakuga"
   }
 }

@@ -11,6 +11,9 @@ docs/companies/
 docs/publishers/
 docs/years/
 
+# Generated docs stubs (scripts)
+scripts/docs/
+
 # Generated VitePress files
 docs/.vitepress/sidebar.ts
 docs/.vitepress/dist/

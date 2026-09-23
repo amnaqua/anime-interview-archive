@@ -5202,5 +5202,58 @@
       "Choreographer",
       "Musician"
     ]
+  },
+
+  "tatsuya-nagamine": {
+    "name": "Tatsuya Nagamine",
+    "aliases": [
+      "Tatsuya Nagamine (長峯達也)",
+      "Tatsuya Mine (峰達也)",
+      "Migana☆Yattane (やったね☆みがな)"
+    ],
+    "roles": [
+      "Director",
+      "Storyboarder"
+    ]
+  },
+
+  "ryouta-nakamura": {
+    "name": "Ryouta Nakamura",
+    "aliases": [
+      "Ryouta Nakamura (中村亮太)",
+      "Yashiro Ichinomiya (一之宮やしろ)"
+    ],
+    "roles": [
+      "Storyboarder",
+      "Director"
+    ]
+  },
+
+  "ryousuke-tanaka": {
+    "name": "Ryousuke Tanaka",
+    "aliases": [
+      "Ryousuke Tanaka (田中亮輔)"
+    ],
+    "roles": [
+      "Director",
+      "Key Animator",
+      "Storyboarder"
+    ]
+  },
+
+  "yongce-tu": {
+    "name": "Yongce Tu",
+    "aliases": [
+      "Yongce Tu (涂泳策, 塗泳策, トウヨウサク, 塗永策)",
+      "TUTU",
+      "Tu yong ce"
+    ],
+    "roles": [
+      "Key Animator",
+      "Animation Director",
+      "Designer",
+      "In-Betweener",
+      "Storyboarder"
+    ]
   }
 }

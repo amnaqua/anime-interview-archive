@@ -1155,5 +1155,17 @@
     "name": "One Piece Film: Red",
     "type": "anime",
     "year": 2022
+  },
+
+  "dragon-ball-super-broly": {
+    "name": "Dragon Ball Super: Broly",
+    "type": "anime",
+    "year": 2018
+  },
+
+  "dragon-ball-super": {
+    "name": "Dragon Ball Super",
+    "type": "anime",
+    "year": 2015
   }
 }

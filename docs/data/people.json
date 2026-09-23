@@ -5255,5 +5255,16 @@
       "In-Betweener",
       "Storyboarder"
     ]
+  },
+
+  "shinji-shimizu": {
+    "name": "Shinji Shimizu",
+    "aliases": [
+      "Shinji Shimizu (清水慎治)"
+    ],
+    "roles": [
+      "Producer",
+      "Editor"
+    ]
   }
 }

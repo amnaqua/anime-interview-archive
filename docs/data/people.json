@@ -5175,5 +5175,32 @@
       "Director",
       "In-Betweener"
     ]
+  },
+
+  "munehisa-sakai": {
+    "name": "Munehisa Sakai",
+    "aliases": [
+      "Munehisa Sakai (境宗久)",
+      "Kai Uganzaki (御神崎海)"
+    ],
+    "roles": [
+      "Director",
+      "Storyboarder",
+      "Sound Artist",
+      "Production Manager"
+    ]
+  },
+
+  "junjun": {
+    "name": "JUNJUN",
+    "aliases": [
+      "JUNJUN",
+      "JUNJUN_GEERIZE",
+      "JunJun"
+    ],
+    "roles": [
+      "Choreographer",
+      "Musician"
+    ]
   }
 }

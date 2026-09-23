@@ -521,5 +521,9 @@
 
   "db-z-com": {
     "name": "db-z.com"
+  },
+
+  "mynavi": {
+    "name": "Mynavi"
   }
 }
